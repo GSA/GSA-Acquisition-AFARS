@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_Appendix_EE_topic_38">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">4-1.</ph> Management Controls</title>
+   <conbody>
+      <p id="FjpiEf" outputclass="Normal">a. This section provides specific management controls required of GPC programs, guidelines for disciplining abusers, and other control information. Office of Management and Budget (OMB) Circular A-123, Appendix B, provides additional guidance on implementing strong internal controls. PCOLS is designed to both maintain the integrity of these controls and validate their effectiveness in safeguarding Government resources. Management officials are responsible for establishing a process of internal controls that is (1) designed to provide reasonable assurance that the GPC program is used efficiently, effectively, and legally to achieve the purpose for which the program was established and (2) is in compliance with applicable laws and regulations.</p>
+      <p id="KFvHaS" outputclass="Normal">b. Required Management Controls include:</p>
+      <p id="OWIAFN" outputclass="List2">(1) <b>Maintain Purchase Log:</b> All CHs are required to maintain either an electronic or a manual log (if not electronically enabled) for each transaction made using the card.</p>
+      <p id="qKEwdH" outputclass="List2">(2) <b>Maintain Positive System of Funds Control</b>
+         <b>:</b> Spending limits (such as monthly and office limits) are tied directly to the funding allocated for each card account (monthly, quarterly, and semiannually). Fund limits should be consistent with historical spending patterns to minimize Government exposure and ensure adequate funds availability. This provides an overall control to ensure funding is available prior to purchases being made with the card.</p>
+      <p id="huCfMV" outputclass="List2">(3) <b>Ensure Separation of Duties</b>
+         <b>:</b> For the GPC, a mandatory management control is the separation of duties. Key duties such as making purchases (CH), verifying purchases are proper (A/BO), authorizing payments (BO and FSO), certifying funding (Finance and Resource Managers), independent acceptance for accountable property, and reviewing and auditing functions (A/OPC and Property Book Officers) must be assigned to different individuals to the greatest extent possible to minimize the risk of loss to the Government.</p>
+      <p id="GcMVJW" outputclass="List2">(4) <b>Reconciliation/Approval by the CH</b>
+         <b>:</b> During each billing cycle, CHs are required to reconcile the CH statement they receive from the issuing bank against the purchase card log they are required to maintain for card purchases.</p>
+      <p id="PtSLZF" outputclass="List2">(5) <b>Reconciliation/Approval by the A/BO:</b> After the CH has approved his/her entire CH statement, he/she forwards the electronic or hard copy file to the cognizant A/BO. The A/BO is required to approve or reject each purchase made by the CHs under his/her hierarchy. When the A/BO has completed their review of each invoice submitted for his/her card accounts, the A/BO, acting in the role of Certifying Officer, can certify the entire invoice as legal, proper, and correct in accordance with his/her responsibilities.</p>
+      <p id="pjgjpQ" outputclass="List2">(6) <b>Exercise Dispute Authority</b>
+         <b>:</b> The CH has 60 days from the date of the billing statement to dispute the transaction.</p>
+      <p id="ZFfvmO" outputclass="List2">(7) <b>Exercise/Maintain Authorization Controls:</b> Appropriate spending limits and Merchant Category Code (MCC) access are tailored to each CH account. Spending limits and MCC access should reflect historical buying patterns/trends.</p>
+      <p id="MRrHSD" outputclass="List2">(8) <b>Systems Access Security:</b> Appropriate safeguards must be in place to control issuance and safeguarding of access credentials to the EAS.</p>
+      <p id="WJocDB" outputclass="List2">(9) <b>Available Funding Integrity:</b> Certified lines of accounting (LOAs) must be traceable through disbursement. All changes to LOAs must be documented and certified.</p>
+      <p id="ogBzBR" outputclass="List2">(10) <b>Invoice Integrity:</b> An electronic certification process ensures the original electronic invoice is traceable from the vendor through the certification and entitlement processes and retained in a Government record. Should the original invoice submitted by the contractor be in paper form, the Certifying Officer shall determine if the invoice is proper for payment and affix his/her signature in accordance with the governing provisions of the <xref format="pdf" href="http://comptroller.defense.gov/fmr/05/05_33.pdf" scope="external">
+            <u>DoDFMR</u>
+         </xref>. If appropriate, the Certifying Officer makes any required “pen and ink” changes on the original invoice to reallocate the payment to different funding lines from those reflected on the original invoice. The Certifying Officer determines whether these changes are proper and affix his/her signature with the standard certification language on the original paper invoice.</p>
+   </conbody>
+</concept>

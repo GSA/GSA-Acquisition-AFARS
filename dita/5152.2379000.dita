@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AFARS_topic_811">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5152.237-9000</ph> Adjustments to Contractor’s Coefficient for Option Years (Job Order Contracts).</title>
+   <conbody>
+      <p id="sAmKTH" outputclass="Normal">For job order contracts, insert the following clause in solicitations and contracts in accordance with 5117.9004-2(h).</p>
+      <p id="UvwPnV" outputclass="Normal">
+         <b>ADJUSTMENTS TO CONTRACTOR’S COEFFICIENT FOR OPTION YEARS (</b>
+         <b>JOB</b>
+         <b>ORDER CONTRACTS)</b>
+         <b>(FEB 2005)</b>
+      </p>
+      <p id="sVlAhu" outputclass="Text Body">Pricing of option periods, to include consideration of any adjustments shall be performed by an economic price adjustment for those periods, as follows:</p>
+      <p id="PLbhtV" outputclass="Normal">An economic adjustment will be applied to the contract coefficient(s) addressing changes in the cost of labor, equipment and material in the Unit Price Book (UPB) (this includes consideration of Davis Bacon issues). This allows for economic increase or decrease of the prices in the UPB and serves to adjust line item prices by the percentage increase or decrease of the economic trend in the construction market. The economic price adjustment will be based on the Building Cost Index (BCI) found in the Market Trend pages of the Engineering News Record (ENR). The economic adjustment is not applied to the cost items comprising the coefficient. No upward adjustment shall apply to task orders awarded prior to the effective date of the adjustment, regardless of the date of commencement of work hereunder.</p>
+      <p id="VqyLME" outputclass="Normal">The adjustment will be made in accordance with the following equation. The resulting revised coefficient(s) shall be applied throughout the option year.</p>
+      <p id="BVNDeO" outputclass="List2">N = C + I</p>
+      <p id="nnFcfm" outputclass="List2">Where:N = New Coefficient</p>
+      <p id="PkNVKf" outputclass="List4">C = Base Year Coefficient</p>
+      <p id="YsStIX" outputclass="List4">I = Change Factor (% increase or decrease from base to option year)</p>
+      <p id="LPzSvb" outputclass="List2">The Index Factor, I, shall be computed according to the following equation:</p>
+      <p id="XNBkOg" outputclass="List6">I = (BCIN/BCIC) - 1</p>
+      <p id="8zmcogs" outputclass="List6"></p>
+      <p id="UXsMFq" outputclass="Normal">Where:</p>
+      <p id="mo7dond" outputclass="Normal"></p>
+      <p id="izBqAU" outputclass="Normal">BCIN is the Building Cost Index, published in the most current issue of ENR at the time of award of the option period.</p>
+      <p id="gMHVJV" outputclass="Normal">BCIC is the Building Cost Index, as published in the ENR on the date of the award of the contract. The BCIC is ______, based on the award date of __________.</p>
+      <p id="GEHAWc" outputclass="Normal">If the BCI or the ENR ceases to be published, the parties shall agree on substitute indices.</p>
+      <p id="hCORKA" outputclass="Normal"></p>
+      <p id="g769cyma" outputclass="Normal">EXAMPLE: For the base year of a contract the coefficient is 1.10. The cost to the government for a line item whose cost is $100.00 is 1.10 x $100.00 = $110.00.</p>
+      <p id="MDznhZ" outputclass="Normal">OPTION YEAR 1. For the first option year the coefficient will be adjusted as follows:</p>
+      <p id="wJRUjb" outputclass="List4">I = (BCIN/BCIC) -1</p>
+      <p id="jpdSDb" outputclass="List4">I = (3111.86/3071.10) – 1</p>
+      <p id="WOluRX" outputclass="List4">I = 1.0133 – 1</p>
+      <p id="bUdlAX" outputclass="List4">I = 0.0133</p>
+      <p id="afdRSq" outputclass="Normal">The new coefficient would be calculated as follows:</p>
+      <p id="HshgQl" outputclass="List4">N = C + I</p>
+      <p id="EgdqeF" outputclass="List4">N = 1.10 + 0.0133</p>
+      <p id="gmXQqU" outputclass="List4">N = 1.1133</p>
+      <p id="SHeLrh">The above line item under the option period would be</p>
+      <p id="XErVEL">1.1133 x $100.00 = $111.33.</p>
+      <p id="nKfPIq">OPTION YEAR 2. For the second option year, if the BCI is 3062.99, the coefficient will be adjusted as follows:</p>
+      <p id="IKODxA" outputclass="List4">I = (BCIN/BCIC) – 1</p>
+      <p id="rQOrlC" outputclass="List4">I = (3062.99/3071.10) – 1</p>
+      <p id="ZesRmd" outputclass="List4">I = 0.9974 – 1</p>
+      <p id="BeMFAg" outputclass="List4">I = - 0.0026</p>
+      <p id="yFRaEc">The new coefficient will be calculated as follows:</p>
+      <p id="YhgDTb" outputclass="List4">N = C+I</p>
+      <p id="YQcLsx" outputclass="List4">N = 1.10 + (-0.0026)</p>
+      <p id="neINbl" outputclass="List4">N 1.0974</p>
+      <p id="OUuUov">The above line item under the second option period would be</p>
+      <p id="RnQrdk">1.0974 x $100.00 = $109.74.</p>
+      <p id="PGbekz">Note 1. Round calculations for the Change Factor (I) to the nearest ten thousandth.</p>
+      <p id="xaSzmZ" outputclass="Normal Ctr">
+         <i>[End of clause.]</i>
+      </p>
+   </conbody>
+</concept>

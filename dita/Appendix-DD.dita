@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_Appendix_DD_topic_1">
+      <title outputclass="1 heading Ctr" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS</ph> Appendix DD</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-DD-topic_2.dita#AFARS_Appendix_DD_topic_2">SUBCONTRACTING PLAN EVALUATION GUIDE</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-DD_Part_1.dita#AFARS_Appendix_DD_topic_3">Part 1 – Introduction</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-100.dita#AFARS_Appendix_DD_topic_4">DD-100 Purpose.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-101.dita#AFARS_Appendix_DD_topic_5">DD-101 Applicability.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-102.dita#AFARS_Appendix_DD_topic_6">DD-102 Goals.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-103.dita#AFARS_Appendix_DD_topic_7">DD-103 Evaluation Rating.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-104.dita#AFARS_Appendix_DD_topic_8">DD-104 Modification of Guide.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-105.dita#AFARS_Appendix_DD_topic_9">DD-105 Use of Preaward Surveys.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-DD_Part_2.dita#AFARS_Appendix_DD_topic_10">Part 2 – Rating System</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-201.dita#AFARS_Appendix_DD_topic_11">DD-201 Acceptable Plans.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-202.dita#AFARS_Appendix_DD_topic_12">DD-202 Unacceptable Plans.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-DD_Part_3.dita#AFARS_Appendix_DD_topic_13">Part 3 – Subcontracting Plan Requirements</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-DD-301.dita#AFARS_Appendix_DD_topic_14">DD-301 Requirements.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

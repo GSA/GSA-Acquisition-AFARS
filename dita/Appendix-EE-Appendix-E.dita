@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_Appendix_EE_topic_47" xml:lang="en-US">
+    <title outputclass="Heading 1"><ph props="autonumber">Appendix E</ph>: DD Form 577 for Appointing a Certifying Officer </title>
+    <conbody>
+        <p>The DD Form 577 and instructions for completing the form can be found on the official
+            website for Department of Defense forms at: </p>
+        <p><xref href="http://www.dtic.mil/whs/directives/infomgt/forms/eforms/dd0577.pdf" scope="external" format="pdf"><b><u>http://www.dtic.mil/whs/directives/infomgt/forms/eforms/dd0577.pdf</u></b></xref></p>
+        <p><b>NOTE: Use the language in Block 14 and 15 in all DD Form 577s</b></p>
+        <p><image href="Graphics/appendix_ee_image2.jpeg" width="152.40mm" height="165.22mm">
+            <alt>Graphics/appendix_ee_image2.jpeg</alt>
+            </image></p>
+    </conbody>
+</concept>

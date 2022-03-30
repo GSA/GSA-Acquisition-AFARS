@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_Appendix_EE_topic_32">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3-12.</ph> Confirm and Pay</title>
+   <conbody>
+      <p id="UgsKlH" outputclass="Normal">a. The Army certifies invoices for payment after all purchased items have been confirmed. This procedure has been called “Confirm and Pay”. Each BO must establish a system to flag and track all transactions certified for payment with proof of receipt and acceptance. This procedure ensures all transactions reconciled and approved for payment have receipt verified.</p>
+      <p id="WLBUWI" outputclass="Normal">b. Under the following condition, the Army has adopted the following process in order to allow the Servicing Bank to be paid for items that have been shipped by the merchant but not received by the organization to prevent withholding payment of the entire billing statement for a few transactions. Transactions that have been reconciled and approved for payment will have receipt verified no later than 45 days after the date of the original invoice. If receipt and acceptance cannot be verified, the CH shall protect the Government’s rights by disputing the transaction prior to the end of the dispute period.</p>
+   </conbody>
+</concept>

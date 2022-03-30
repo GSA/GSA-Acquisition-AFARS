@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_AFARS_topic_51">
+      <title outputclass="1 Heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5102</ph> Definitions of Words and Terms</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5102.1.dita#AFARS_AFARS_topic_52">Subpart 5102.1 – Definitions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5102.101.dita#AFARS_AFARS_topic_53">5102.101 Definitions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

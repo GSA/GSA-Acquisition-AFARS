@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_Appendix_EE_topic_16">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">2-4.</ph> Account Maintenance</title>
+   <conbody>
+      <p id="SjhcaZ" outputclass="Normal">The Level 4 A/OPC is required to maintain current account information.</p>
+   </conbody>
+</concept>

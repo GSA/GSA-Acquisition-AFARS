@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AppendexBB_topic_12">
+   <title outputclass="Heading 4">
+      <ph props="autonumber" class="- topic/ph ">BB-203</ph> Event Cycle 4: Contract Administration.</title>
+   <conbody>
+      <p id="fRKtyz">
+         <b>
+            <i>Step 1: Documentation.</i>
+         </b>
+      </p>
+      <p id="TViqkV" outputclass="List2">a. Is file documentation sufficient to constitute a complete history of the transaction (FAR 4.801)?</p>
+      <p id="pAhQOa" outputclass="List2">b. Is there adequate documentation to support modification changes (FAR 4.803(26)(ii) and (iii))?</p>
+      <p id="jPvjtp">
+         <b>
+            <i>Step</i>
+         </b>
+         <b>
+            <i>2: Functional</i>
+         </b>
+         <b>
+            <i>R</i>
+         </b>
+         <b>
+            <i>epresentatives’</i>
+         </b>
+         <b>
+            <i>R</i>
+         </b>
+         <b>
+            <i>esponsibilities and</i>
+         </b>
+         <b>
+            <i>L</i>
+         </b>
+         <b>
+            <i>imitations.</i>
+         </b>
+      </p>
+      <p id="uYmUJO" outputclass="List2">a. Are qualified individuals selected as CORs (DFARS 201.602-2)?</p>
+      <p id="QQfGkl" outputclass="List2">b. Do COR designations clearly indicate their authority and the limitations of that authority?</p>
+      <p id="oPOzrH" outputclass="List2">c. Is there evidence in the official contract files that the contracting officer reviews (at least annually) the COR official files (AFARS 5101.602-2-91)?</p>
+      <p id="ZPWETF" outputclass="List2">d. Is there evidence in the official contract file that the COR has summarized the contractor’s performance in the Contractor Performance Assessment Reporting System annually? (AFARS 5153.303-1.2.d)?</p>
+      <p id="uEIRCZ">
+         <b>
+            <i>Step 3:</i>
+         </b>
+         <b>
+            <i>Postaward</i>
+         </b>
+         <b>
+            <i>O</i>
+         </b>
+         <b>
+            <i>rientation</i>
+         </b>
+         <b>
+            <i>C</i>
+         </b>
+         <b>
+            <i>onferences.</i>
+         </b>
+      </p>
+      <p id="VjTqGv">Is consideration given to the need for postaward orientation conferences to foster a mutual understanding of the contractual agreement and the responsibilities assigned (FAR 42.502)?</p>
+      <p id="vvMFBQ">
+         <b>
+            <i>Step 4:</i>
+         </b>
+         <b>
+            <i>Contract</i>
+         </b>
+         <b>
+            <i>M</i>
+         </b>
+         <b>
+            <i>odifications.</i>
+         </b>
+      </p>
+      <p id="rrxKiq" outputclass="List2">a. Is legal counsel requested to make a legal sufficiency determination prior to issuing a supplemental or bilateral agreement, as applicable?</p>
+      <p id="jKKXVI" outputclass="List2">b. Is a deviation approval requested when a clause other than a standard clause is to be incorporated into a supplemental agreement?</p>
+      <p id="bqFZBy" outputclass="List2">c. Are modifications issued under the proper authority (FAR 43.102 and FAR 43.201)?</p>
+      <p id="oJamOy" outputclass="List2">d. Are change orders issued for work within the scope of the contract (FAR 43.2 and DFARS 243.2)?</p>
+      <p id="DxYalo">
+         <b>
+            <i>Step</i>
+         </b>
+         <b>
+            <i>5:</i>
+         </b>
+         <b>
+            <i>Government</i>
+         </b>
+         <b>
+            <i>P</i>
+         </b>
+         <b>
+            <i>roperty</i>
+         </b>
+         <b>
+            <i>A</i>
+         </b>
+         <b>
+            <i>dministration.</i>
+         </b>
+      </p>
+      <p id="GuIKNQ" outputclass="List2">a. Are contractors required to publish a property control system describing the procedures and techniques to be used in managing Government property (unless the Government property administrator determines it unnecessary)?</p>
+      <p id="qqZPzQ" outputclass="List2">b. Is regulatory guidance followed to determine contractor liability should Government properties become lost, damaged, destroyed or unreasonably consumed (FAR 45.104)?</p>
+      <p id="IAAunH" outputclass="List2">c. Has it been determined to be in the best interest of the Government to provide additional Government property beyond that required under contract?</p>
+      <p id="eCGezg" outputclass="List2">d. If Government property is being provided to the contractor, does the contract contain specific identification of all Government property to be furnished, and are property administration records being maintained in the official contract file (FAR 45.201 and AFARS 5145.390)?</p>
+      <p id="NriCwC" outputclass="List2">e. If Government property is being provided to the contractor, has all property on the contract been properly reported, reutilized, and/or disposed of during the life of the contract and contract completion (FAR 45.6)?</p>
+      <p id="GNTjIb">
+         <b>
+            <i>Step 6:</i>
+         </b>
+         <b>
+            <i>Options</i>
+         </b>
+         <b>
+            <i>.</i>
+         </b>
+      </p>
+      <p id="NXIsSr" outputclass="List2">a. Before exercising an option, do contracting officers execute a written determination that exercising the option is in the best interest of the Government (FAR 17.207 and DFARS 217.207)?</p>
+      <p id="QdgdcM" outputclass="List2">b. Is there evidence in the official contract files that the contracting officer provided written notice to the contractor within the time period specified in the contract of the intent to exercise the option (FAR 17.207 and FAR 17.208(g))?</p>
+      <p id="uyugkI">
+         <b>
+            <i>Step 7:</i>
+         </b>
+         <b>
+            <i>Funding.</i>
+         </b>
+      </p>
+      <p id="mRmleF" outputclass="List2">a. For incrementally funded cost type contracts, are contractors notifying the Government in writing when they expected the costs will exceed 75% of the estimated contract amount (FAR 32.703-1(b), FAR 32.706-2(b), and FAR 52.232-22)?</p>
+      <p id="vGaquc" outputclass="List2">b. If the contracting officer initiated a contract action in advance of funds was the correct clause used (FAR 32.703-2, FAR 32.706-1, and FAR 52.232-18)?</p>
+      <p id="oXTwzz" outputclass="List2">c. Are award fees being awarded commensurate with contractor performance over a range from satisfactory to excellent performance as identified in the award fee plan (FAR 16.401(e)(2) and (3))?</p>
+      <p id="LgLIhY">
+         <b>
+            <i>Step 8:</i>
+         </b>
+         <b>
+            <i>Quality</i>
+         </b>
+         <b>
+            <i>A</i>
+         </b>
+         <b>
+            <i>ssurance.</i>
+         </b>
+      </p>
+      <p id="mlpCSg" outputclass="List2">a. Are nonconforming supplies or services offered to the Government rejected, except as provided in applicable regulations (FAR 46.407)?</p>
+      <p id="pjckKd" outputclass="List2">b. Is contractor performance monitored according to established surveillance plans?</p>
+      <p id="CYryiJ">
+         <b>
+            <i>Step 9:</i>
+         </b>
+         <b>
+            <i>Delinquency Actions and Terminations.</i>
+         </b>
+      </p>
+      <p id="kbqkpo" outputclass="List2">a. Do contracting officers take timely action to alleviate or resolve delinquencies (FAR 49.607)?</p>
+      <p id="rccisQ" outputclass="List2">b. Do contracting officers obtain legal counsel and technical advice prior to taking action when a default termination is being considered (FAR 49.402-3)?</p>
+      <p id="cnaNKe" outputclass="List2">c. Are excess funds from terminated contracts deobligated by the responsible contracting officer (i.e., PCO, ACO or TCO) in a timely manner?</p>
+      <p id="wIrBAH" outputclass="List2">d. Are negotiation settlements promptly scheduled and audit reviews and negotiations tracked to ensure prompt settlement of termination actions (FAR 49.101(d))?</p>
+      <p id="huLWCk">
+         <b>
+            <i>Step 10:</i>
+         </b>
+         <b>
+            <i>Defense Contracting Audit Agency</i>
+         </b>
+         <b>
+            <i>A</i>
+         </b>
+         <b>
+            <i>udits on</i>
+         </b>
+         <b>
+            <i>C</i>
+         </b>
+         <b>
+            <i>ost</i>
+         </b>
+         <b>
+            <i>R</i>
+         </b>
+         <b>
+            <i>eimbursement</i>
+         </b>
+         <b>
+            <i>C</i>
+         </b>
+         <b>
+            <i>ontracts.</i>
+         </b>
+      </p>
+      <p id="KIneBC" outputclass="List2">a. Are determinations regarding the allowability of incurred costs on cost reimbursement contracts consistent with the factors to be considered in determining allowability (FAR 31 and DFARS 231)?</p>
+      <p id="qyyICd" outputclass="List2">b. Are final cost determinations that are inconsistent with the auditor’s advice supported by a memorandum in the contract file describing the pertinent events and factors considered in reaching the decision?</p>
+      <p id="PKUkDO" outputclass="List2">c. Are reimbursements due the Government after final audit promptly processed for collection?</p>
+      <p id="jcUhMO">
+         <b>
+            <i>Step 11:</i>
+         </b>
+         <b>
+            <i>Receiving</i>
+         </b>
+         <b>
+            <i>R</i>
+         </b>
+         <b>
+            <i>eports,</i>
+         </b>
+         <b>
+            <i>A</i>
+         </b>
+         <b>
+            <i>cceptance,</i>
+         </b>
+         <b>
+            <i>F</i>
+         </b>
+         <b>
+            <i>inal</i>
+         </b>
+         <b>
+            <i>P</i>
+         </b>
+         <b>
+            <i>ayment,</i>
+         </b>
+         <b>
+            <i>C</i>
+         </b>
+         <b>
+            <i>ontract</i>
+         </b>
+         <b>
+            <i>C</i>
+         </b>
+         <b>
+            <i>ompletion, and</i>
+         </b>
+         <b>
+            <i>C</i>
+         </b>
+         <b>
+            <i>ontractor</i>
+         </b>
+         <b>
+            <i>E</i>
+         </b>
+         <b>
+            <i>valuation.</i>
+         </b>
+      </p>
+      <p id="tYAHlF" outputclass="List2">a. Are decisions to accept or reject supplies, or services performed, documented and distributed in a timely manner?</p>
+      <p id="SClLyu" outputclass="List2">b. Are all contractual claims and obligations satisfied prior to contract closeout and do contracting officers follow proper procedures in determining and processing claim(s) (FAR 33.2)?</p>
+      <p id="YjDkua" outputclass="List2">c. Are contract administration offices initiating administrative closeout of the contract after receiving evidence of its physical completion (FAR 4.804-5)?</p>
+      <p id="rIpfYW" outputclass="List2">d. Is there evidence in the official contract file that the contracting officer prepared a contractor performance assessment report (FAR 42.1502, DFARS 242.1502, DoD Class Deviation <xref format="pdf" href="http://www.acq.osd.mil/dpap/policy/policyvault/USA005502-12-DPAP.pdf" scope="external">2012-O001</xref>7 and Deviation 2012-O0018, and AFARS 5142.1503)?</p>
+      <p id="ncywAG">
+         <b>
+            <i>Step 12:</i>
+         </b>
+         <b>
+            <i>Other Contracting Officer Administrative Responsibilities.</i>
+         </b>
+      </p>
+      <p id="IMUlZM" outputclass="List2">a. Is there evidence in the official contract file that contracting officers have enforced the remedies under FAR clause 52.222-50 or by reference in FAR 52.212-5?</p>
+      <p id="kNLzbH" outputclass="List2">b. Is there evidence in the official contract file that the contracting officer is ensuring that the contractor is performing in accordance with FAR 52.219-14? (FAR 19.811-3(e) and FAR 19.508(e))</p>
+   </conbody>
+</concept>

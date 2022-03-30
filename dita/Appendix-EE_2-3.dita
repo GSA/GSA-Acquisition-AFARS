@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_Appendix_EE_topic_15">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">2-3.</ph> Account Establishment</title>
+   <conbody>
+      <p id="lQilwP" outputclass="Normal">a. GPCs are issued only as mission requirements dictate. Only DOD civilian employees, military personnel, or members of the Armed Forces may be issued a GPC or be appointed a BO. GPCs may not be issued to contractor personnel, except as provided in Section 1-6. Junior Reserve Officer Training Corps (JROTC) instructors, OCONUS local national employees of the Army, and host Government direct hires for OCONUS agencies/organizations whose salaries are reimbursed by the Army, are not considered DOD contractors, and may be designated as CHs and BOs.</p>
+      <p id="wQekiy" outputclass="Normal">b. The spending limits and cycle limits can be changed as necessary to meet operational needs. The RM Office establishes the default and alternate lines of accounting for the proper designation of appropriation, and inputs the spending limits in Access Online (AXOL).</p>
+      <p id="jxZpzd" outputclass="Normal">c. Each GPC account has a single purchase transaction limit and monthly purchase limit. Generally the single purchase limit is the micro-purchase threshold. The cumulative spending total of all CHs’ monthly purchases make up the billing cycle limit for the BO. Total monthly purchases may not exceed the billing cycle limit that is established in the Servicing Bank’s transaction authorization system. The CH’s monthly spending limits are modified by the RM in AXOL when operational circumstances warrant. The Level 4 A/OPC is notified of the monthly spending limits change, approves the change, and forwards the change to the Servicing Bank.</p>
+   </conbody>
+</concept>

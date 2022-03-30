@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AFARS_topic_227">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5111.106</ph> (S–90)</title>
+   <conbody>
+      <p id="XygaQt" outputclass="List2">The Army Enterprise Cloud Management Office (ECMO) is the central point for all efforts and processes related to cloud adoption across the Army. The ECMO will establish a standardized cloud architecture intended for use by all Army mission areas.</p>
+   </conbody>
+</concept>

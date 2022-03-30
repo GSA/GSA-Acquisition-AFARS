@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AFARS_topic_838">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5153.303-5</ph> Format for a justification and approval for other than full and open competition.</title>
+   <conbody>
+      <p id="imPdWK" outputclass="Normal">
+         <b>This format is mandatory for all justifications and approvals (J&amp;As) in support of other than full and open competition. Contracting officer will tailor the J&amp;A’s format to accommodate other type justifications in accordance with the FAR approval thresholds and required content.</b>
+      </p>
+      <p id="SOMFpt" outputclass="Right Normal">
+         <b>Control No:</b>
+      </p>
+      <p id="IRZUZE">Justification and Approval for Other Than Full and</p>
+      <p id="wAVYTU">Open Competition</p>
+      <p id="ETBwMK" outputclass="List1">1. <b>Contracting Activity:</b> Specify the contracting activity responsible for this action.</p>
+      <p id="arnmfy" outputclass="List1">2. <b>Description of Action:</b> State whether the approval is for a new contract or a modification. Include the type of contract, type of funds to be used (Military Construction; Research, Development, Test and Evaluation; Other Procurement, Army; or Operation and Maintenance, Army) and, when applicable, the estimated share and ceiling arrangements, and fee or profit.</p>
+      <p id="ALWuoH" outputclass="List1">3. <b>Description of Supplies/Services:</b> Name and describe the required supplies/services. Include the estimated total value, including options, if any.</p>
+      <p id="TKLdGF" outputclass="List1">4. <b>Authority Cited:</b> Identify the statutory authority permitting other than full and open competition followed by the specific FAR citation and its title. For example: 10 United States Code 2304(c)(1) as implemented in Federal Acquisition Regulation 6.302-1(a)(2)(iii)(B), Only one responsible source and no other supplies or services will satisfy agency requirements.</p>
+      <p id="JUwdkQ" outputclass="List1">5. <b>Reason for Authority Cited:</b> Describe how this action requires the use of the authority cited. If applicable, identify the proposed or potential contractor(s) and include a discussion of the proposed contractor’s unique qualifications for fulfilling the contract requirements.</p>
+      <p id="usbSRF" outputclass="List1">(a) The rationale used for justifying the cited authority should be consistent throughout the document as appropriate.</p>
+      <p id="yJrlVL" outputclass="List1">(b) Justifications citing FAR 6.302-1(a)(2)(ii) or (iii) as the authority for less than full and open competition on a follow-on contract must reflect (1) substantial duplication of cost that is not expected to be recovered through competition and/or (2) unacceptable delays in filling agency requirements. If the authority cited is substantial duplication of costs, then paragraph 5 should compare the duplicate costs the government would incur to create competition and the estimated savings expected to be recovered through subsequent competition. In addition, the justification must include an explanation for how the requesting office derived their estimates and why they believe they are a substantial duplication. Justifications citing unacceptable delays must identify firm schedule limitations that do not result from a lack of planning. For example, firm schedule limitations could include an approved Army campaign plan or significant loss of life or property.</p>
+      <p id="NovNkQ" outputclass="List1">(c) Justifications citing FAR 6.302-2 must explain how failure to limit sources would seriously injure the Government, and include a discussion of the required delivery schedule and lead-time involved. If the delay associated with the requirement for first article testing is the principal reason for not awarding the contract on a full and open basis, clearly describe the reasons why first article testing is required and why other quality assurance techniques are inadequate. Contracting officers may submit J&amp;As citing this authority for approval after the contract has been awarded (see FAR 6.302-2(c)(1)).</p>
+      <p id="VjypSE" outputclass="List1">(d) Justifications citing FAR 6.302-2 or 6 must request offers from as many potential sources as practicable under the circumstances.</p>
+      <p id="XEboNE" outputclass="List1">(e) If applicable, explain why technical data packages, specifications, engineering descriptions, statements of work or purchase descriptions suitable for full and open competition were not developed or are not available.</p>
+      <p id="IQOEdu" outputclass="List1">6. <b>Efforts to Obtain Competition:</b> Describe the efforts to solicit offers from as many potential sources as is practicable.</p>
+      <p id="nZHRky" outputclass="List1">a. <i>Effective competition.</i> Describe the extent of effective competition anticipated for this acquisition. Also, state that the notices required by FAR 5.201 shall be or have been published, and that any bids or proposals received shall be considered. If a notice is not posted, state which exception in FAR 5.202 applies.</p>
+      <p id="YpBBCh" outputclass="List1">b. <i>Subcontracting competition</i>. In single source situations, address efforts by the Government to assure that the prime contractor obtains as much competition as possible in its subcontracting.</p>
+      <p id="dexFdH" outputclass="List1">7. <b>Actions to Increase Competition:</b> There may be instances when it is not possible to compete the current acquisition. In these cases, include a statement of the actions taken, or to be taken, to increase competition (e.g., procure needed technical data for full and open competition or breakout subsystems or components for full and open competition) before any subsequent acquisition of the supplies or services. If future competition will be based on the procurement of technical data, provide the approximate date the technical data package will be available.</p>
+      <p id="IDddig" outputclass="List1">8. <b>Market Research:</b> Describe the extent and the results of the market research (FAR Part 10) conducted to identify all qualified sources. Research must have been meaningful (demonstrated attempt to discover all relevant material) and conducted within the previous 12 months.</p>
+      <p id="vYtgzk" outputclass="List1">9. <b>Interested Sources:</b> Include a listing of the sources that have written to express interest in the acquisition. If applicable, clearly state “To date, no other sources have written to express an interest.” If 10 U.S.C. 2304(c)(1)/FAR 6.302-1 is the authority cited, explain why other sources were rejected.</p>
+      <p id="QzpwzB" outputclass="Normal">10. <b>Other Facts:</b> Discuss any other facts supporting the use of other than full and open competition, such as the following:</p>
+      <p id="tOyPTK" outputclass="List2">a. <i>Procurement history.</i> Reasonable efforts to retrieve the following items from computer records, contract files, competition advocate office files or other sources are expected:</p>
+      <p id="vVmftz" outputclass="List2">(1) Contract numbers and dates of the last several contracts for these same requirements.</p>
+      <p id="ZUWQeb" outputclass="List2">(2) The competitive status of these actions.</p>
+      <p id="WdZCdR" outputclass="List2">(3) Authority previously cited if less than full and open competition was used.</p>
+      <p id="YWqtbA" outputclass="List2">(4) If a justification was prepared to support the procurement made before this one, a summary of the contents of paragraph 7 of the justification for that procurement and an explanation of the results.</p>
+      <p id="LAHHGz" outputclass="List2">(5) If any prior contract for this requirement was accomplished using full and open competition, include a detailed explanation of the changed circumstances causing this action to now limit the sources.</p>
+      <p id="BbNfAq" outputclass="List2">(6) An explanation of any unusual patterns that may be revealed by the history, e.g., several consecutive, urgent buys.</p>
+      <p id="pqDkFu" outputclass="List2">(7) If a justification was prepared to support the procurement made before this one, briefly describe the circumstances justifying the procurement and whether there have been any significant changes.</p>
+      <p id="rtDPNb" outputclass="List2">b. <i>Other facts</i>. Provide any other facts necessary to justify limiting competition that were not previously stated.</p>
+      <p id="TtbvxX" outputclass="List2">(Certifications will normally be provided on a separate page at the end of the J&amp;A to allow minor, administrative changes to be made during the review process.)</p>
+      <p id="ffgpLC" outputclass="List1">11. <b>Technical Certification:</b> Include the following statement:</p>
+      <p id="JshUgQ" outputclass="List1"></p>
+      <p id="RaPWDA" outputclass="List1">I certify that the supporting data under my cognizance, which are included in the justification are accurate and complete to the best of my knowledge and belief.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" colwidth="50*" />
+            <colspec colname="2" colnum="2" colwidth="50*" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="KbaxtH">Typed Name:</p>
+                  </entry>
+                  <entry>
+                     <p id="iQnxUl">Date: __________________________</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p id="IZFfLa">Title:</p>
+                  </entry>
+                  <entry>
+                     <p id="cyRSPi">Signature: ______________________</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="GexvSi"></p>
+      <p id="GIThqM" outputclass="List1">12. <b>Requirements Certification:</b> Include the following statement:</p>
+      <p id="dOUDhx" outputclass="List1">I certify that the supporting data under my cognizance, which are included in the justification are accurate and complete to the best of my knowledge and belief.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" colwidth="50*" />
+            <colspec colname="2" colnum="2" colwidth="50*" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="PMSlsE">Typed Name:</p>
+                  </entry>
+                  <entry>
+                     <p id="JieCaw">Date: __________________________</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p id="UKvdQa">Title:</p>
+                  </entry>
+                  <entry>
+                     <p id="FrULpA">Signature: ______________________</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="wjt35iol" outputclass="Normal"></p>
+      <p id="jVhPdv" outputclass="Normal">Only the most senior persons within the organization responsible for acquiring the supplies or services described in the justification (e.g. program manager, depot commander, or senior program engineer) and with specific knowledge of the individual requirement (commodity, technology, and/or function) shall sign the technical and requirements certifications.</p>
+      <p id="dQPrER" outputclass="List1">13. <b>Fair and Reasonable Cost Determination:</b> Include the following determination:</p>
+      <p id="kCpGSF" outputclass="List1">I hereby determine that the anticipated cost to the Government for this contract action will be fair and reasonable.</p>
+      <p id="BpSsCF" outputclass="List1">Provide the basis for this determination (e.g., describe techniques to be used to determine fair and reasonable price, such as cost analysis, price analysis, audit, should cost, independent Government estimate, etc.). As part of the basis, indicate whether certified cost or pricing data will be required or if one of the exceptions in FAR 15.403 applies.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" colwidth="50*" />
+            <colspec colname="2" colnum="2" colwidth="50*" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="TCoQeP">Typed Name:</p>
+                  </entry>
+                  <entry>
+                     <p id="EtJNaB">Date: __________________________</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <p id="EBZjzK">Title:</p>
+                  </entry>
+                  <entry>
+                     <p id="aHrqls">Signature: ______________________</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="4q26btjf" outputclass="Normal"></p>
+      <p id="XXFfgY" outputclass="List1">14. <b>Contracting Officer Certification:</b> This certification shall be made by the contracting officer who will sign the contract resulting from this justification and approval. Include the following statement:</p>
+      <p id="asWsKy" outputclass="List1">I certify that this justification is accurate and complete to the best of my knowledge and belief.</p>
+      <table colsep="1" frame="all" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row>
+                  <entry>Typed Name:</entry>
+                  <entry>Date: __________________________</entry>
+               </row>
+               <row>
+                  <entry>Title:</entry>
+                  <entry>Signature: ______________________</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="ZQsFuV" outputclass="Normal"></p>
+      <p id="QKSgAB" outputclass="Normal">Note: It is recommended for the contracting officer to annotate at the bottom of each J&amp;A page the following marking, as appropriate, prior to posting on the internet: “Controlled Unclassified Information”.</p>
+      <p id="b7ms20le" outputclass="Normal"></p>
+      <p id="ggGxln" outputclass="Ctr">
+         <b>Approval</b>
+      </p>
+      <p id="JlPjzk" outputclass="Ctr">(The approval statement is drafted on a separate page from the certifications and tailored to the instant contract action)</p>
+      <p id="GGoYhH" outputclass="Normal">Based on the foregoing justification, I hereby approve the procurement of (state equipment/services being procured) on an other than full and open competition basis pursuant to the authority of 10 U.S.C. 2304(c) (insert authority and general title), subject to availability of funds, and provided that the services and property herein described have otherwise been authorized for acquisition.</p>
+      <table colsep="1" frame="all" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row>
+                  <entry>Date: ___________________</entry>
+                  <entry>Signature: ___________________</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="tSHTSP" outputclass="Normal"></p>
+   </conbody>
+</concept>

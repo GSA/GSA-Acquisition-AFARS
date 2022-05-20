@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFARS_Appendix_FF_topic_1">
+   <topic id="AFARS_Appendix-FF">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph "/>AFARS – APPENDIX FF</title>
       <body>
@@ -10,7 +10,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-FF-topic_2.dita#AFARS_Appendix_FF_topic_2">DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD CLAUSES</xref>
+                        href="Appendix-FF_DOTRPFCONC.dita#AFARS_Appendix-FF_DOTRPFCONC">DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD CLAUSES</xref>
                </p>
             </li>
          </ul>

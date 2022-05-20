@@ -2,77 +2,58 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFARS_AFARS_topic_778">
+   <topic id="AFARS__PART_5149">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFARS – PART 5149</ph> Termination of Contracts</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5149.1.dita#AFARS_AFARS_topic_779">Subpart 5149.1 – General Principles</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5149.1.dita#AFARS_Subpart_5149.1">Subpart 5149.1 – General Principles</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5149.101.dita#AFARS_AFARS_topic_780">5149.101 Authorities and responsibilities.</xref>
+                        <xref outputclass="fm:TOC" href="5149.101.dita#AFARS_5149.101">5149.101 Authorities and responsibilities.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5149.10190.dita#AFARS_AFARS_topic_781">5149.101-90 Contracts resulting from military interdepartmental purchase requests.</xref>
+                              <xref outputclass="fm:TOC" href="5149.10190.dita#AFARS_5149.10190">5149.101-90 Contracts resulting from military interdepartmental purchase requests.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5149.102.dita#AFARS_AFARS_topic_782">5149.102 Notice of termination.</xref>
+                        <xref outputclass="fm:TOC" href="5149.102.dita#AFARS_5149.102">5149.102 Notice of termination.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5149.107.dita#AFARS_AFARS_topic_783">5149.107 Audit of prime contract settlement proposals and subcontract settlements.</xref>
+                        <xref outputclass="fm:TOC" href="5149.107.dita#AFARS_5149.107">5149.107 Audit of prime contract settlement proposals and subcontract settlements.</xref>
                      </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5149.4.dita#AFARS_AFARS_topic_784">Subpart 5149.4 – Termination for Default</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5149.401.dita#AFARS_AFARS_topic_785">5149.401 General.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5149.402.dita#AFARS_AFARS_topic_786">5149.402 Termination of fixed–price contracts for default.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5149.4023.dita#AFARS_AFARS_topic_787">5149.402-3 Procedure for default.</xref>
-                           </p>
-                        </li>
-                     </ul>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5149.5.dita#AFARS_AFARS_topic_788">Subpart 5149.5 – Contract Termination Clauses</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5149.4.dita#AFARS_Subpart_5149.4">Subpart 5149.4 – Termination for Default</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5149.501.dita#AFARS_AFARS_topic_789">5149.501 General.</xref>
+                        <xref outputclass="fm:TOC" href="5149.401.dita#AFARS_5149.401">5149.401 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5149.402.dita#AFARS_5149.402">5149.402 Termination of fixed–price contracts for default.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5149.50170.dita#AFARS_AFARS_topic_790">5149.501-70 Special termination costs.</xref>
+                              <xref outputclass="fm:TOC" href="5149.4023.dita#AFARS_5149.4023">5149.402-3 Procedure for default.</xref>
                            </p>
                         </li>
                      </ul>
@@ -81,17 +62,36 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5149.70.dita#AFARS_AFARS_topic_791">Subpart 5149.70 – Special Termination Requirements</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5149.5.dita#AFARS_Subpart_5149.5">Subpart 5149.5 – Contract Termination Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5149.7001.dita#AFARS_AFARS_topic_792">5149.7001 Congressional notification on significant contract terminations.</xref>
+                        <xref outputclass="fm:TOC" href="5149.501.dita#AFARS_5149.501">5149.501 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5149.50170.dita#AFARS_5149.50170">5149.501-70 Special termination costs.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5149.70.dita#AFARS_Subpart_5149.70">Subpart 5149.70 – Special Termination Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5149.7001.dita#AFARS_5149.7001">5149.7001 Congressional notification on significant contract terminations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5149.7003.dita#AFARS_AFARS_topic_793">5149.7003 Notification of anticipated contract terminations or reductions.</xref>
+                        <xref outputclass="fm:TOC" href="5149.7003.dita#AFARS_5149.7003">5149.7003 Notification of anticipated contract terminations or reductions.</xref>
                      </p>
                   </li>
                </ul>

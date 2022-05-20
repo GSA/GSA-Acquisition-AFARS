@@ -2,29 +2,29 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFARS_AFARS_topic_770">
+   <topic id="AFARS__PART_5148">
       <title outputclass="1 Heading" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFARS – PART 5148</ph> Value Engineering</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5148.1.dita#AFARS_AFARS_topic_771">Subpart 5148.1 – Policies and Procedures</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5148.1.dita#AFARS_Subpart_5148.1">Subpart 5148.1 – Policies and Procedures</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5148.102.dita#AFARS_AFARS_topic_772">5148.102 Policies.</xref>
+                        <xref outputclass="fm:TOC" href="5148.102.dita#AFARS_5148.102">5148.102 Policies.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5148.104.dita#AFARS_AFARS_topic_773">5148.104 Sharing arrangements.</xref>
+                        <xref outputclass="fm:TOC" href="5148.104.dita#AFARS_5148.104">5148.104 Sharing arrangements.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5148.1043.dita#AFARS_AFARS_topic_774">5148.104-3 Sharing collateral savings.</xref>
+                              <xref outputclass="fm:TOC" href="5148.1043.dita#AFARS_5148.1043">5148.104-3 Sharing collateral savings.</xref>
                            </p>
                         </li>
                      </ul>
@@ -33,17 +33,17 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5148.2.dita#AFARS_AFARS_topic_775">Subpart 5148.2 – Contract Clauses</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5148.2.dita#AFARS_Subpart_5148.2">Subpart 5148.2 – Contract Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5148.201.dita#AFARS_AFARS_topic_776">5148.201 Clauses for supply or service contracts.</xref>
+                        <xref outputclass="fm:TOC" href="5148.201.dita#AFARS_5148.201">5148.201 Clauses for supply or service contracts.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5148.202.dita#AFARS_AFARS_topic_777">5148.202 Clause for construction contracts.</xref>
+                        <xref outputclass="fm:TOC" href="5148.202.dita#AFARS_5148.202">5148.202 Clause for construction contracts.</xref>
                      </p>
                   </li>
                </ul>

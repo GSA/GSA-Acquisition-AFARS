@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C">
+   <title outputclass="Ctr 2 heading">
+      <ph props="autonumber"> </ph>APPENDIX C</title>
+   <conbody>
+      <p id="LREUrX" outputclass="Ctr normal">
+         <b>Lowest Price</b>
+         <b>d</b>
+         <b>Technically Acceptable</b>
+      </p>
+      <p id="dDTiMY" outputclass="Ctr normal">
+         <b>Source Selection Process</b>
+      </p>
+      <p id="POyTVU" outputclass="Normal">
+         <b>
+            <i>C-1 Purpose</i>
+         </b>
+      </p>
+      <p id="lUWWQI" outputclass="Normal">The purpose of this Appendix is to assist acquisition professionals in making sound decisions for determining whether to use a Tradeoff or LPTA source selection process to obtain best value. LPTA is an available source selection approach. However, a lack of understanding of when it is an appropriate choice may result in misapplication of this process. This Appendix includes “side-by-side” comparisons of LPTA vs. Tradeoff characteristics, methodologies, common concerns associated with each, tips and best practices.</p>
+      <p id="p_references" outputclass="Normal"></p>
+      <p id="OwFoon" outputclass="Normal">
+         <b>
+            <i>C-2 References</i>
+         </b>
+      </p>
+      <p id="difyIa" outputclass="List2">1. Federal Acquisition Regulation Part 15 https://www.acquisition.gov/browsefar</p>
+      <p id="wrjdYq" outputclass="List2">2. Defense Federal Acquisition Regulation Supplement Part 215 http://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html</p>
+      <p id="QWmFhP" outputclass="List2">3. Army Federal Acquisition Regulation Supplement Part 5115 https://spcs3.kc.army.mil/asaalt/procurement/AFARS/Home.aspx</p>
+      <p id="UYulou" outputclass="List2">4. Department of Defense Source Selection Procedures http://www.acq.osd.mil/dpap/policy/policyvault/USA007183-10-DPAP.pdf</p>
+      <p id="Njldlp" outputclass="List2">5. Better Buying Power http://bbp.dau.mil/</p>
+      <p id="CiEjzZ" outputclass="List2">6. Under Secretary of Defense (Acquisition, Technology, And Logistics) (USD(ATL)) memorandum, subject: Appropriate Use of Lowest Price Technically Acceptable Source Selection Process and Associated Contract Type (March 04, 2015) http://bbp.dau.mil/docs/Appropriate_Use_of_Lowest_Priced_Technically_Acceptable_Source_Selec_Process_Assoc_Con_Type.pdf</p>
+      <p id="sRvsmm" outputclass="List2">7. ASA (ALT) memorandum, subject: Use of Lowest Price Technically Acceptable Source Selection Process (April 20, 2015), issued as Policy Alert #15-73: Use of Lowest Price Technically Acceptable Source Selection Process (April 21, 2015) https://spcs3.kc.army.mil/asaalt/procurement/PARC/PARC.aspx</p>
+      <p id="FnnydX" outputclass="List2">8. Government Accountability Office Cases - Various</p>
+      <p id="bwSmSX" outputclass="Normal">
+         <b>
+            <i>C-3 Purpose</i>
+         </b>
+      </p>
+      <p id="p_policy" outputclass="Normal">
+         <b>Policy Perspective on Use of LPTA</b>. The DOD Source Selection Procedures includes a separate Appendix C devoted to the LPTA Source Selection Process (reference 4). The use of LPTA has increased but not necessarily successfully in all cases, causing concern by both the Government and Industry Partners. Some specific concerns include:</p>
+      <ul>
+         <li id="AFYpLD">
+            <p id="eqa4zowr">Government officials are not able to adequately define the requirement, and therefore not able to adequately define technical acceptability.</p>
+         </li>
+         <li id="NKeeKR">
+            <p id="gpb8po74">Awarded prices are unrealistically low.</p>
+            <ul>
+               <li id="kBMyCB">
+                  <p id="f2763zpk">Incumbent contractors underbid at unreasonable or unrealistic prices.</p>
+               </li>
+               <li id="onTnaO">
+                  <p id="tsv0r0q">Winning contractors cannot attract qualified employees.</p>
+               </li>
+               <li id="WSokAm">
+                  <p id="x08yrx7c">Contractors are unable to perform at acceptable quality levels.</p>
+               </li>
+            </ul>
+         </li>
+         <li id="SpEuDK">
+            <p id="v8lub87h">Endangering the security of government resources, to include information systems and networks, and personnel.</p>
+         </li>
+      </ul>
+      <p id="fSWjVm" outputclass="Normal">To provide greater fidelity on the appropriate use of LPTA, Better Buying Power (BBP) 2.0 (reference 5) set basic guidance for use of LPTA. Subsequent memorandum issued by the Under Secretary of Defense (Acquisition, Technology and Logistics) (reference 6) and reinforced by the Assistant Secretary of the Army (Acquisition, Logistics and Technology) (reference 7), stress that:</p>
+      <p id="NVZOhk" outputclass="Normal">
+         <b>
+            <i>“</i>
+         </b>
+         <b>
+            <i>LPTA has a clear, but limited place in the source selection “best value” continuum. Used in appropriate circumstances and combined with effective competition and proper contract type, LPTA can drive down costs and provide the best value solution. LPTA offers a streamlined and simplified source selection approach to rapidly procure the commercial and non-complex services we need to support the Warfighter. If not applied appropriately, however, the Department can miss an opportunity to secure an innovative, cost-effective solution to meet Warfighter needs to help maintain our technological advantage.</i>
+         </b>
+         <b>
+            <i>”</i>
+         </b>
+      </p>
+      <p id="goiiWe" outputclass="Normal">
+         <b>
+            <i>C-4 What is Risk?</i>
+         </b>
+      </p>
+      <p id="kuOpnJ" outputclass="Normal">No matter whether using Tradeoff or LPTA, the focus should always be on identifying the key discriminators based upon market research and the assessment of risk. Risk, as it pertains to source selection, is the potential for unsuccessful contract performance. Increased risk comes with numerous possible complicating factors including:</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cPWdua">
+                        <b>Disruption of Schedule</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="xtpkyU">
+                        <b>Funding/Budget Availability</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="AnUbLg">
+                        <b>Increased Cost or Degradation of Performance</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="VxozYb">
+                        <b>Contract Type – Pricing Arrangement</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="iokmuq">
+                        <b>Need for Increased Government Oversight</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="Pqfymq">
+                        <b>Dependencies on Other Projects/Systems</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jiTTLM">
+                        <b>The Likelihood of Unsuccessful Contract Performance</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="IHQPRc">
+                        <b>Possible Effect on Other Simultaneous Projects</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SLHqgu">
+                        <b>Technical Feasibility</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="dtRYrk">
+                        <b>Operational Risk</b>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="CslrqJ" outputclass="Normal">While it is impossible to eliminate all risk, the objective is to reduce or mitigate risks by selecting the best value offeror through a sound source selection evaluation process.</p>
+      <p id="FxhScw" outputclass="Normal">
+         <b>The Government’s risk is increased where the criteria (standards) are set too low.</b> The source selection team must work together to ensure the PWS/SOW/Specification is complete and reflects the Government’s needs at the <b>
+            <i>
+               <u>right</u>
+            </i>
+         </b> quality level.</p>
+      <p id="sXtpSi" outputclass="Normal">Identifying key discriminators that are linked to the critical requirements where key risks lie is one of the most important steps in the process of determining the right process to achieve best value.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="1" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="LsDcWG" outputclass=" Ctr">
+                        <b>Key Risk Areas = Discriminators = Possible Evaluation Criteria</b>
+                     </p>
+                     <p id="JasXAh" outputclass=" Ctr">
+                        <b>Crystal Clear, Non-Debatable Evaluation Criteria</b>
+                     </p>
+                     <p id="fJBZOT" outputclass=" Ctr">
+                        <b>+ Evaluation on Basis of Technical Acceptability</b>
+                     </p>
+                     <p id="okmUJQ" outputclass=" Ctr">
+                        <b>+</b>
+                        <b>
+                           <u>Objective Standard of Proof for Each Criteria</u>
+                        </b>
+                     </p>
+                     <p id="iAXhFT">
+                        <b>
+                           <u></u>
+                        </b>
+                     </p>
+                     <p id="zDVhjR" outputclass=" Ctr">
+                        <b>= Candidate for LPTA Source Selection Process</b>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="sPRqDG" outputclass="Normal">If the evaluation criteria cannot be objectively defined strictly on the basis of acceptable/unacceptable, and a clear <b>
+            <i>“standard of proof”</i>
+         </b> be determined for each, the procurement is not a candidate for the LPTA process.</p>
+      <p id="naucTz" outputclass="Normal">
+         <b>NOTE:</b> If some, but not all, evaluation criteria fit the LPTA requirements a <b>
+            <i>combination approach</i>
+         </b> may be a consideration.</p>
+      <p id="HAmkMs" outputclass="Normal">
+         <b>Caution</b>
+         <b>–</b> If the customer/requiring activity is concerned about improving performance, LPTA is <u>not</u> an appropriate source selection approach.</p>
+      <p id="nkMQgG" outputclass="Normal">
+         <b>
+            <i>C-5 Quick Comparison of Best Value Basics</i>
+         </b>
+      </p>
+      <p id="p_s5_quick" outputclass="Normal">
+         <b>The FAR on Trade off vs LPTA Source Selection Processes</b>
+      </p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ESkpzX">
+                        <b>FAR 15.101-1 Tradeoff Process</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="hqZXIP">
+                        <b>FAR 15.101-2 LPTA Process</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cVvLdd">Permits tradeoffs among cost or price and non-cost factors and allows the Government to accept other than the lowest price proposal.</p>
+                  </entry>
+                  <entry>
+                     <p id="iIEFzy">Does not permit tradeoff among cost or price and non-cost factors.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rAYOQK">Used in competitive negotiated contracting.</p>
+                  </entry>
+                  <entry>
+                     <p id="QnjJzm">Used in competitive negotiated contracting.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FbsrYV">Select the most <u>advantageous</u> offer.</p>
+                  </entry>
+                  <entry>
+                     <p id="pczzGc">Select the lowest price proposal that meets/exceeds minimum requirements.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="okWZih">Evaluate and compare factors in addition to cost or price.</p>
+                  </entry>
+                  <entry>
+                     <p id="HqYeSc"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="eKpNkb">Proposals may be ranked.</p>
+                  </entry>
+                  <entry>
+                     <p id="vTMpNQ">No ranking of proposals.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OvPpnX">Exchanges may occur.</p>
+                  </entry>
+                  <entry>
+                     <p id="dbEKNt">Exchanges may occur.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="terSDer"></p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="4" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="yJTMHw">
+                        <b>IF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="wMOORB">
+                        <b>THEN</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="QJGFky">
+                        <b>IF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="AEVkXx">
+                        <b>THEN</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GgqoVB">- Generally considered complex items or services</p>
+                     <p id="idcwNO">- Less definitive</p>
+                     <p id="MyniWR">- Developmental or developmental work is required</p>
+                     <p id="IJxSOJ">- Non-price factors play a dominant role in the source selection decision</p>
+                  </entry>
+                  <entry>
+                     <p id="qVkoZV">
+                        <b>Use the Tradeo</b>
+                        <b>ff Process</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="cfZYyJ">- Commercial/non-complex items or services</p>
+                     <p id="LsbWxW">- Clear and well-defined requirements</p>
+                     <p id="BEJTUT">- Stable requirements</p>
+                     <p id="ONPyQh">- Items or services are readily and consistently available in the marketplace</p>
+                     <p id="uIPGES">- Risk of unsuccessful performance is minimal</p>
+                     <p id="HUZBAM">- There is neither value, need or willingness to pay for higher performance</p>
+                     <p id="svPvUH">- Cost/price plays a dominant role in the source selection decision</p>
+                  </entry>
+                  <entry>
+                     <p id="SevDeN">
+                        <b>Consider using the LPTA Process</b>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="qgontj" outputclass="Normal">
+         <b>
+            <i>C-6 Comparing Key Characteristics</i>
+         </b>
+      </p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="p_s6_key" outputclass=" Ctr">
+                        <b>Tradeoff vs LPTA Methods of Source Selection</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jSYDCF" outputclass=" Ctr">
+                        <b>TRADE OFF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="qcbGVj" outputclass=" Ctr">
+                        <b>LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SaahPf" outputclass=" Ctr">
+                        <b>SUMMARY OVERVIEW</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="JtfheF" outputclass=" Ctr">
+                        <b>SUMMARY OVERVIEW</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SfKnIX">A Tradeoff process is appropriate when it may be in the best interest of the Government to:</p>
+                     <p id="fxSZLU" outputclass="List2">a) consider award to other than the lowest-priced Offeror or:</p>
+                     <p id="IXElXp" outputclass="List2">b) other than the highest technically rated Offeror.</p>
+                     <p id="WpdRsU">Therefore, if the ability to distinguish between the quality of non-cost/price factors and cost/price factors within Offerors’ proposals and give credit (assign strengths) for aspects which provide a benefit to the Government and for which it might be willing to pay more for (premium), then the tradeoff process is the best approach.</p>
+                     <ul>
+                        <li id="hbgsYd">
+                           <p id="vzfjm8xp">Less definitive</p>
+                        </li>
+                        <li id="aiIcmn">
+                           <p id="dw81ukn">More complex and time consuming development work</p>
+                        </li>
+                        <li id="fwRhGX">
+                           <p id="dwz406u">Greater performance risk/integration risk</p>
+                        </li>
+                        <li id="rQbWKD">
+                           <p id="5ler6v4n">Technical and past performance considerations more important than price</p>
+                        </li>
+                        <li id="YgiRKy">
+                           <p id="c9jpvw8l">Price based on performance-based approach</p>
+                        </li>
+                        <li id="bYCIDH">
+                           <p id="3ax7ucnf">Past performance is critical in reducing risk</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <p id="WJNKlL">An LPTA process is appropriate when best value is expected to result from selection of the technically acceptable proposal with the lowest price.</p>
+                     <p id="AjibcT">Award is made to the responsible contractor who is technically acceptable and has the lowest evaluated price.</p>
+                     <ul>
+                        <li id="NuqUwe">
+                           <p id="nltbze47">Government design or stable requirements, clearly definable</p>
+                        </li>
+                        <li id="BVabWA">
+                           <p id="oda5y8t5">Risk of unsuccessful performance is minimal</p>
+                        </li>
+                        <li id="rXDBYO">
+                           <p id="iut16hph">No mission-related reason to pay a premium for quality or performance exceeding the acceptable level</p>
+                        </li>
+                        <li id="BrLMfH">
+                           <p id="xqhld6y7">Only use LPTA when able to clearly define and strictly evaluate Offerors’ proposals based on technical acceptability</p>
+                        </li>
+                        <li id="gvnBPJ">
+                           <p id="x5ri0bv5">Technical evaluation lends itself to acceptable/unacceptable basis</p>
+                        </li>
+                        <li id="RMQQrP">
+                           <p id="rh14j29o">When requirement is easy to price</p>
+                        </li>
+                        <li id="zXxAvS">
+                           <p id="qk87shd">When past performance is not critical to reducing risk</p>
+                        </li>
+                        <li id="kqpGyO">
+                           <p id="a7uexcsq">When a <u>“standard of proof”</u> is identifiable for each evaluation criteria</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="KHSvAJ" outputclass=" Ctr">
+                        <b>Tradeoff vs LPTA Methods of Source Selection</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="kGFbbF" outputclass=" Ctr">
+                        <b>TRADEO FF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="WREomI" outputclass=" Ctr">
+                        <b>LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="NhhZxa" outputclass=" Ctr">
+                        <b>Encourages Innovation</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="tkOtEC" outputclass=" Ctr">
+                        <b>Innovation Not Needed, Encouraged,nor Rewarded</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rlRtDD">Proposals can offer various technical approaches that may be of benefit to the Government and the competitive environment should encourage this depending upon what the solicitation places the most value/importance upon.</p>
+                  </entry>
+                  <entry>
+                     <p id="hyWsRk">LPTA inherently places the most value on the technical acceptability to provide known, stable requirements for the lowest price and the Government will not benefit from/is not willing to pay for above threshold performance.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tVrgFw" outputclass=" Ctr">
+                        <b>Maximum Flexibility</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="XJgqTu" outputclass=" Ctr">
+                        <b>Minimum Flexibility</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rXkocJ">The tradeoff process provides the most discretion/flexibility when it comes to the award decision.</p>
+                     <p id="IpFLvO">The Source Selection Evaluation Board (SSEB) can identify strengths within proposals that may benefit the Government and increase the value of the proposal.</p>
+                     <p id="hAOHVQ">The Source Selection Authority can give consideration to the benefit/value of non-cost/price factor differences between Offerors to determine if those differences justify paying the cost/price differential between them.</p>
+                  </entry>
+                  <entry>
+                     <p id="aBoyko">Tradeoffs not permitted – intended to be a simple selection process based upon technical acceptability/lowest price.</p>
+                     <p id="IUAudJ">Use a Checklist or Form to document the Technical Evaluation (1) to ensure the requirements/criteria/standards are suitable for this process; and (2) enable the Offeror to provide the standard of proof and determine whether the Offeror should be rated as acceptable or unacceptable for that item.</p>
+                     <p id="wgCcwR">- You must be able to evaluate everything included in your “checklist” using an <u>objective</u> standard of proof.</p>
+                     <p id="XePhfS">- By associating minimum standards with relative risks for execution of each task, risk of unsuccessful performance can be mitigated or decreased.</p>
+                     <p id="svUZmU">-The Offeror is required to provide clear proof that they meet the requirement (and the Government determines what the standard of proof is, and announces it in the RFP).</p>
+                     <p id="MkjINu">No additional “credit” can be given for exceeding established standards.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="nyEnGH" outputclass=" Ctr">
+                        <b>Tradeoff vs</b>
+                        <b>LPTA Methods of Source Selection</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HTIzIU" outputclass=" Ctr">
+                        <b>TRADEOFF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="Xznshg" outputclass=" Ctr">
+                        <b>LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vEpNMN" outputclass=" Ctr">
+                        <b>Competitive Range and Discussions</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="QXfraW" outputclass=" Ctr">
+                        <b>Competitive Range and Discussions</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="aZzBtW">52.215-1, Instructions to Offerors – Competitive Acquisition enables the Government to provide notice to prospective Offerors of the intent to make award without discussions as well as limit the number of proposals in the competitive range to the number at which an efficient competition can be conducted.</p>
+                     <p id="wsogOX">Contracting officer can provide the opportunity for offerors to eliminate weaknesses and deficiencies through the discussion process.</p>
+                  </entry>
+                  <entry>
+                     <p id="QvORsf">If few or no acceptable offers are received or proposals indicate that the requirements are misunderstood, the contracting officer may set a competitive range and conduct discussions with technically unacceptable Offerors and provide them the opportunity to eliminate deficiencies.</p>
+                     <p id="ivuKPZ">A proposal rated technically acceptable cannot be further improved through the discussion process. However, all Offerors in the competitive range must be afforded the opportunity to submit a revised proposal after discussions have concluded. See <i>Commercial Design Group, Inc.,</i> B-400923.4, August 6, 2009, CPD ¶ 157.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hxOVMw" outputclass=" Ctr">
+                        <b>Enables Meaningful Comparisons</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="KVghWY" outputclass=" Ctr">
+                        <b>No Comparisons Permitted</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CWkpAa">Tradeoff allows for meaningful comparisons and discrimination between and among competing proposals.</p>
+                  </entry>
+                  <entry>
+                     <p id="oGdrfs">If some, but not all, evaluation criteria fit the LPTA requirements, a combination approach may be a consideration. If a combination approach is used, comparison is allowable only for those factors based on tradeoff.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="phUJHC" outputclass=" Ctr">
+                        <b>Evaluation is More Complex</b>
+                        <b>But</b>
+                        <b>Can Be Simplified Using a</b>
+                        <b>Hybrid</b>
+                        <b>Approach When Appropriate</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="kCyGBg" outputclass=" Ctr">
+                        <b>Evaluation is Straightforward</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="pPVZgA">By using a combination approach, the Government can simplify some aspects of the evaluation where criteria are clear, can be evaluated on an acceptable/unacceptable basis, and a clear standard of proof can be linked to each one.</p>
+                     <p id="GLkFaE">Examples of may include professional qualifications, special certifications, licensing.</p>
+                  </entry>
+                  <entry>
+                     <p id="shCnHj">Well-written evaluation criteria and “standard of proof” that the Offeror must provide to satisfy each, should enable the evaluation to be conducted in an efficient and straightforward manner.</p>
+                     <p id="lziNEP">If not all evaluation criteria are clear and objective with an objective standard of proof for evaluation, a combination approach may be appropriate.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="LTJXnr" outputclass=" Ctr">
+                        <b>Tradeoff vs</b>
+                        <b>LPTA Methods of Source Selection</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cGVVgc" outputclass=" Ctr">
+                        <b>TRADEOFF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="aktyiA" outputclass=" Ctr">
+                        <b>LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vrMHeB" outputclass=" Ctr">
+                        <b>Performance Risk and Past Performance Assessment</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="YAophQ" outputclass=" Ctr">
+                        <b>Past Performance Rated Acceptable or Unacceptable</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HZafgR">In the case of an offeror without a record of recent/relevant past performance, or for whom information on past performance is not available, or so sparse that no meaningful past performance rating can be assigned, you must evaluate the offeror’s lack of past performance as “Neutral Confidence”, having no favorable or unfavorable impact on the evaluation.</p>
+                  </entry>
+                  <entry>
+                     <p id="uAKRqX">Past performance shall be evaluated unless waived. However, a comparative assessment is not allowed. When using LPTA, unknown past performance shall be considered acceptable.</p>
+                     <p id="tpyUGv">- You may utilize a combination approach where past performance is evaluated as part of the tradeoff and technical approach is assessed on acceptable/unacceptable basis.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FlIals" outputclass=" Ctr">
+                        <b>Planning Considerations</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="gXSnXh" outputclass=" Ctr">
+                        <b>Planning Considerations</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RCHqSy">The tradeoff methodology generally involves in-depth planning and more time and resources.</p>
+                     <p id="IPymPg">Tradeoffs must be clearly documented and supported.</p>
+                  </entry>
+                  <entry>
+                     <p id="GUZKbR">The LPTA process is not necessarily faster.</p>
+                     <p id="DOoJhu">Requires significant up-front time investment to clearly identify the critical technical requirements (standards) for evaluation and the standard of proof (evidence of the offeror’s compliance with the requirement) to determine whether each one is met (technical acceptability).</p>
+                     <p id="XwNQCp">
+                        <b>
+                           <i>The time investment is key to establishing whether the requirement is suitable for LPTA, and if so, setting up the procurement for success.</i>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="EQnEtz" outputclass="Normal"></p>
+      <p id="RpDSbB" outputclass="Normal">
+         <b>
+            <i>C-7 Rating Methodologies</i>
+         </b>
+      </p>
+      <p id="dIVePN" outputclass="Normal">
+         <b>Rating Methodologies.</b> Tradeoff and LPTA each have a unique rating methodology as summarized below.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="IeQAqE" outputclass=" Ctr">
+                        <b>COMPARING HOW OFFERORS ARE RATED FOR EACH APPROACH</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tjuxEU" outputclass=" Ctr">
+                        <b>TRADE OFF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="GHUhRm" outputclass=" Ctr">
+                        <b>LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BfiGwH" outputclass=" Ctr">
+                        <b>Technical Performance</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="bcgsvl" outputclass=" Ctr">
+                        <b>Technical Performance</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="mqDBnk">Subjective evaluation in accordance with DoD Source Selection Procedures and the Army Source Selection Supplement</p>
+                     <p id="YZoCLJ">Allows the Government to:</p>
+                     <p id="EOWPaF" outputclass="List2">a) consider award to other than the lowest-priced Offeror, or;</p>
+                     <p id="YqEnjw" outputclass="List2">b) other than the highest technically rated Offeror</p>
+                  </entry>
+                  <entry>
+                     <p id="MnveSm">Objective evaluation of minimum requirements in accordance with DoD Source Selection Procedures and the Army Source Selection Supplement</p>
+                     <p id="AmcEyu">Evaluated as acceptable or unacceptable</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lhXQri" outputclass=" Ctr">
+                        <b>Past Performance</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="MJhhrM" outputclass=" Ctr">
+                        <b>Past Performance</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="IhSqSm">Confidence Assessment</p>
+                     <p id="NnmneF">Comparative analysis permitted</p>
+                  </entry>
+                  <entry>
+                     <p id="labRvH">Acceptable or Unacceptable</p>
+                     <p id="JWWOgN">No comparative analysis permitted</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WAiWje" outputclass=" Ctr">
+                        <b>Small Business Participation</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="szIFQU" outputclass=" Ctr">
+                        <b>Small Business Participation</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HLFOjz">Factor or Subfactor</p>
+                  </entry>
+                  <entry>
+                     <p id="ujVVgz">Exempt from evaluation (DFARS 215.304(c)(i)).</p>
+                     <p id="nsSWmH">However, if desired as an evaluation factor, it should be considered one of the technical factors/subfactors and evaluated accordingly.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rHamqm" outputclass=" Ctr">
+                        <b>Price</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="wUpiOv" outputclass=" Ctr">
+                        <b>Price</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WrJKOc">Not rated adjectively</p>
+                     <p id="wQxQfB">Evaluated in accordance with the Source Selection Plan and Sections L and M of the RFP</p>
+                  </entry>
+                  <entry>
+                     <p id="iNhNAK">Not rated adjectively</p>
+                     <p id="nPySdX">Of the acceptable proposals, lowest evaluated price wins</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VIYKWn" outputclass=" Ctr">
+                        <b>Tradeo</b>
+                        <b>ffs</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ffiRld" outputclass=" Ctr">
+                        <b>T</b>
+                        <b>radeo</b>
+                        <b>ffs</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zRRUsJ">In accordance with the Source Selection Plan and Sections L and M of the RFP</p>
+                  </entry>
+                  <entry>
+                     <p id="mUawbQ">Tradeoff not permitted</p>
+                     <p id="LguAtO">No additional credit for exceeding standards</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="AvfaPq" outputclass="Normal">
+         <b>
+            <i>C-8 Common Concerns For Each Methodology</i>
+         </b>
+      </p>
+      <p id="FzxWMO" outputclass="Normal">It is important to understand and consider the benefits and possible down-sides of each approach in order to ensure you select the one that will help you achieve best value for the customer/program. Below are some of the common concerns.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="XHKOZE" outputclass=" Ctr">
+                        <b>COMPARING COMMON CONCERNS</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PLjBBh" outputclass=" Ctr">
+                        <b>TRADEOFF</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="KzgMXA" outputclass=" Ctr">
+                        <b>LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rSvkUM" outputclass=" Ctr">
+                        <b>Will the Government Get What</b>
+                     </p>
+                     <p id="IbqNEJ" outputclass=" Ctr">
+                        <b>It Is Paying More For?</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="TyoaVy" outputclass=" Ctr">
+                        <b>Will the Government Get What It</b>
+                     </p>
+                     <p id="idVAxQ" outputclass=" Ctr">
+                        <b>Needs At the Price Proposed?</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EwAVff">The Government shall incorporate evaluated strengths as a contractually binding requirement to the greatest extent possible (particularly when offeror was selected under VATEP).</p>
+                     <p id="bZKQwL">Post-award management must follow through to ensure receipt of the anticipated benefits.</p>
+                  </entry>
+                  <entry>
+                     <p id="rCKjOn">The Government sometimes has difficulty identifying with enough clarity and specificity what its requirements are (even when we think we’ve done a good job).</p>
+                     <p id="zNIpSh">If this occurs, the contract may require modifications to ensure the Government’s needs are met, which may increase the price over time.</p>
+                     <p id="kIrwGl">Thorough, upfront analysis is essential. Careful post-award management is equally as important.</p>
+                     <p id="xPsFJQ">Apply lessons learned to appropriately determine the source selection methodology for follow-on contracts.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="IeswMp" outputclass=" Ctr">
+                        <b>Ensure the Tradeoff Decision Is Sound</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="oYLqjf" outputclass=" Ctr">
+                        <b>Low Acceptability Standards/Evaluation Criteria Increase Performance Risk</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qXDQkO">Does the order of importance of factors and subfactors reflect the goals of the program, and what is most important to the customer and the end user/warfighter?</p>
+                     <p id="oSkjkM">Was the order of importance adequately described in the RFP?</p>
+                     <p id="kFERcW">Did the evaluation follow the Source Selection Plan and RFP?</p>
+                  </entry>
+                  <entry>
+                     <p id="YTQnim">Acceptability standards that are set too low can result in low prices that are also too low, resulting in award to the wrong Offeror at increased performance risk.</p>
+                     <p id="AbJpzU">LPTA should not mean buying cheaper goods or services. Minimum requirements does not mean “bare bones”.</p>
+                     <p id="mADVVY">No additional credit for exceeding standards</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="SgwYAs" outputclass="Normal">
+         <b>
+            <i>C-9 Tips And Best Practices For Using LPTA</i>
+         </b>
+      </p>
+      <p id="StXXqC" outputclass="Normal">Below are some general tips and agreed-upon best practices to guide application of LPTA techniques.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="1" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lYoitH" outputclass=" Ctr">
+                        <b>Tips and Best Practices for Using LPTA</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WHVaLF" outputclass=" Ctr">
+                        <b>Establishing Technical Factors For Evaluation</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hswhpm">When establishing technical factors for evaluation, each must link to specific critical technical requirements in the PWS.</p>
+                     <p id="oLjPAM">Using a Technical Information Questionnaire (TIQ), which includes the requirement (and PWS/SOW reference), the criteria, and the “standard of proof” will make the job of the evaluator far easier.</p>
+                     <p id="FMKhsC">Also, providing a technical information questionnaire to the Offeror to complete which includes the requirement (and PWS/SOW reference), the criteria, and the “standard of proof” required, will ensure consistency throughout the process. <i>See Attachment C-1, Technical Information Questionnaire.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sBiOao" outputclass=" Ctr">
+                        <b>“Buy-In” and Performance Risk Can be Mitigated</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JPTksU">
+                        <b>
+                           <i>In LPTA –a very low price is often the result of acceptability standards (criteria) that are set too low or are ill-defined.</i>
+                        </b>
+                     </p>
+                     <p id="PkQPGJ">
+                        <u>Rigorous Definition and Evaluation of “Technical Acceptability</u>
+                        <u>” is key to success</u>.By associating minimum standards with relative risks for execution of each task, the overall performance risk can be mitigated or decreased.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FtWEtw" outputclass=" Ctr">
+                        <b>Source Selection Evaluation Training</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="KUIdYL">Train the SSEB on the specific process of evaluating the proposal against the <b>
+                           <i>standard of proof</i>
+                        </b> relative to each evaluation criteria and documentation.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sckjOT" outputclass=" Ctr">
+                        <b>Brand Name or Equal RFPs</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="pIWFbz">Ensure the salient characteristics are included in the solicitation. If a firm is offering an equal product, the proposal must demonstrate that the product conforms to the salient characteristics listed in the solicitation. If the firm fails to comply, its product is properly rejected as technically unacceptable. <i>Nas</i>
+                        <i>/Corp-Telmah Inc.,</i> B-405893, Jan.10, 2012, 2012 CPD ¶ 88 at 2.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="QnXHHM" outputclass="Normal"></p>
+      <p id="iQSsbo" outputclass="Normal">
+         <b>
+            <i>C-10</i>
+         </b>
+         <b>
+            <i>LPTA Requirement and Standard of Proof Samples</i>
+         </b>
+      </p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <thead>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="zIIKFV">
+                        <b>LPTA REQUIREMENT/STANDARD OF PROOF SAMPLES</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="InfPjB">
+                        <b>
+                           <u>SUPPLIES</u>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="emsbQw">
+                        <b>
+                           <u>PROFESSIONAL SERVICES</u>
+                        </b>
+                     </p>
+                     <p id="ZnbkLW">
+                        <b>Corporate</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="pHrFVF">
+                        <b>
+                           <u>SIMPLE SERVICES</u>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="IUviTM">
+                        <b>Criteria:</b> All illumination must be provided by LED lights drawing a maximum of 5 amps (C.13.1)</p>
+                     <p id="HGYZsK">
+                        <b>Question on Technical Information Questionnaire (TIQ):</b> Are all the lights of the Light Emitting Diode (LED) type and a maximum combined draw of 5 amps?</p>
+                     <p id="rwLyuH">
+                        <b>Standard of Proof:</b> Manufacturer’s spec sheets showing LED characteristics.</p>
+                  </entry>
+                  <entry>
+                     <p id="VWiUnT">
+                        <b>Criteria:</b> Five program analysts with a Bachelor’s Degree in a business discipline with a minimum of 10 years of program analyst experience or a post-graduate degree in a business discipline (Master’s or Doctorate) with a minimum of 5 years of program analyst experience.</p>
+                     <p id="yramXU">
+                        <b>Question on Technical Information Questionnaire (TIQ</b>
+                        <b>):</b>Do all of the program analyst executives possess either a Bachelor’s Degree in a business discipline with a minimum of 10 years of program analyst experience or a post-graduate degree in a business discipline (Master’s or Doctorate) with a minimum of 5 years of program analyst experience?</p>
+                     <p id="HdKqsx">
+                        <b>Standard of proof:</b> Resume showing degree and years of experience as specified.</p>
+                  </entry>
+                  <entry>
+                     <p id="zVOgGX">
+                        <b>Criteria:</b> Contractor shall possess storage facility to store all equipment listed in attachment X within 15 miles of Arsenal (15 radial miles from geographic center of Arsenal).</p>
+                     <p id="HdHhFh">
+                        <b>Question on Technical Information Questionnaire (TIQ):</b> Does the Offeror possess storage facility that meets 15 mile requirement listed in Section C.4.4?</p>
+                     <p id="mxWQQy">
+                        <b>Standard of proof:</b> Provide evidence of ownership or lease of facility that meets requirements listed in Section C.4.4.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XIBeCO">
+                        <b>Criteria:</b> The vehicle must be transportable by C-17, C-5, and military sea and rail IAW ATPD XXXX Section 3.1.X and 3.1.X</p>
+                     <p id="JASMzE">
+                        <b>Question on Technical Information Questionnaire (TIQ):</b> Does the width of the vehicle exceed 96”?</p>
+                     <p id="GxijsX">
+                        <b>Standard of Proof:</b> CAD drawing with all outside dimensions noted.</p>
+                  </entry>
+                  <entry morerows="1">
+                     <p id="hyzbUo">
+                        <b>Criteria:</b> Five Communications Personnel with minimum of 4 years of experience with military tactical or satellite communications system.</p>
+                     <p id="fshRBN">
+                        <b>Question on Technical Information Questionnaire (TIQ):</b> Do all of the candidates have a minimum of 4 years of experience with military tactical or satellite communications system?</p>
+                     <p id="MrUzLd">
+                        <b>Standard of Proof:</b> Resumes showing years of experience as specified.</p>
+                  </entry>
+                  <entry morerows="1">
+                     <p id="kXhRUQ">
+                        <b>Criteria:</b> Offerors must possess the equipment required to refinish a 3,500 sq. ft. wood floor.</p>
+                     <p id="hctkKo">
+                        <b>Question on Technical Information</b>
+                        <b>Questionnaire (TIQ):</b> Does the Offeror own or lease equipment that will be used to refinish a 3,500 sq. ft. wood floor IAW C.4.5?</p>
+                     <p id="Lvqkgj">
+                        <b>Standard of Proof:</b> Specify list of equipment and certificates of ownership for equipment or lease agreements.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sfmmAs">
+                        <b>Requirement:</b> Engine must be able to be operated with JP-8 (C.1.3)</p>
+                     <p id="YcoqPm">
+                        <b>Question on TIQ:</b> Does the vehicle run on JP-8 IAW ATPD- XXXX Section 3.3.5.1?</p>
+                     <p id="WpeBVL">
+                        <b>Standard of Proof:</b> Manufacturer’s spec sheet for engine.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="HAkLKf" outputclass="Normal"></p>
+      <p id="jdXooB" outputclass="Normal">
+         <b>
+            <i>C-11 Flow Chart For Selection of Best Value Methodology</i>
+         </b>
+      </p>
+      <p id="imfDsd">
+         <image  href="Graphics/image7.png" scale="70" />
+      </p>
+      <p id="PaJxSA" outputclass="Normal"></p>
+      <p id="nsBjZz" outputclass="Normal">
+         <b>
+            <i>C-12 LPTA – Sample Evaluator Write-Up</i>
+         </b>
+      </p>
+      <p id="FnYNRv" outputclass="Normal">
+         <b>Describe the Evaluation Process in the Source Selection Plan – Then Fully Document the Evaluation</b>
+         <b>In</b>
+         <b>Accordance With the SSP</b>
+      </p>
+      <p id="pGjZMK" outputclass="Normal">Use a checklist or evaluation form such as the one below:</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="5" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
+            <tbody>
+               <row rowsep="1">
+                  <entry morerows="1">
+                     <p id="qomLtP">
+                        <b>FACTOR 3:</b>
+                     </p>
+                     <p id="fMCVie">
+                        <b>Usability</b>
+                     </p>
+                  </entry>
+                  <entry morerows="1">
+                     <p id="bBkIpr">
+                        <b>SUBFACTOR 3.2: Setup and Breakdown</b>
+                     </p>
+                  </entry>
+                  <entry nameend="5" namest="3">
+                     <p id="nWxFWM">
+                        <b>OFFEROR:</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="msTDAz">
+                        <b>RFP No:</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="tJhZtg"></p>
+                  </entry>
+                  <entry>
+                     <p id="tJhdZtg"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="yEtYri" outputclass=" Ctr">
+                        <b>Instruction to Offeror</b>
+                     </p>
+                  </entry>
+                  <entry nameend="5" namest="3">
+                     <p id="ZHdizE" outputclass=" Ctr">
+                        <b>Evaluation Criteria</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="ciYYxj">The Offeror shall setup its radar system for test to the point of data recording. After completion of the test, the Offeror shall breakdown its system and return the system to its pre-setup state.</p>
+                  </entry>
+                  <entry nameend="5" namest="3">
+                     <p id="NhFprl">The Government will evaluate the Offeror’s radar system setup and breakdown.</p>
+                     <p id="r3mbvmkh">To receive an acceptable rating, the Offeror must demonstrate all of the below items:</p>
+                     <p id="fihigbf7">a. The system must be transportable by a two person carry.</p>
+                     <p id="j9h1a45d">b. The system must be setup, broken down and operated by one person.</p>
+                     <p id="klooc25">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
+                     <p id="h9iid2j">d. Cable connectors connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
+                     <p id="zgmbtzqo">e. When the radar system antenna is mounted on the tripod, the range of motion must be +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SIgpfM">
+                        <b>
+                           <i>Acceptable</i>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry nameend="5" namest="2">
+                     <p id="YSIjln">* The system is transportable by a two person carry; and is setup, broken down and operated by one person.</p>
+                     <p id="fv1bhjxf">* The Offeror sets up its radar system within a time not to exceed one (1) hour using one person, and breaks down its radar system within a time not to exceed one (1) hour using one person.</p>
+                     <p id="13dplnei">* Cable connectors are quick to connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
+                     <p id="xq3203ck">* When the radar system antenna is mounted on the tripod, the range of motion is +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QWXWeU">
+                        <b>
+                           <i>Unacceptable</i>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry nameend="5" namest="2">
+                     <p id="RwwqLE">Not clearly meeting the requirements required to be acceptable.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="aKxIBF"></p>
+                  </entry>
+                  <entry nameend="5" namest="2">
+                     <p id="RIkcAj"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="UwHYgL"></p>
+                  </entry>
+                  <entry>
+                     <p id="MTZLaX">
+                        <b>Acceptable</b>
+                     </p>
+                  </entry>
+                  <entry nameend="4" namest="3">
+                     <p id="PZnlWf">
+                        <b>Unacceptable</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="dNwWDs"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DzfLvi">
+                        <b>SETUP/ BREAKDOWN</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="yiTjnm"></p>
+                  </entry>
+                  <entry nameend="4" namest="3">
+                     <p id="LxpMyD"></p>
+                  </entry>
+                  <entry>
+                     <p id="KkZrxk"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="iFuwHA">
+                        <b>NARRATIVE:</b>
+                     </p>
+                  </entry>
+                  <entry nameend="5" namest="2">
+                     <p id="qHWRyR"></p>
+                     <p id="QOSsCA"></p>
+                     <p id="Qshdjj"></p>
+                     <p id="slqfyX"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="4" namest="1">
+                     <p id="cFekXw">
+                        <b>TEAM MEMBER:</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="sUOKhj">
+                        <b>DATE:</b>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="Wkqjbi" outputclass="Normal"></p>
+      <table colsep="0" rowsep="0">
+         <tgroup cols="1">
+            <colspec colname="1" colnum="1" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="IkinDw">
+                        <b>Evaluation Criteria: The Government will evaluate the offeror?s radar system setup and breakdown.</b>
+                     </p>
+                     <p id="VCglAY">
+                        <b>To receive an acceptable rating, the offeror must demonstrate all of the below items:</b>
+                     </p>
+                     <p id="m3ysp10w"></p>
+                     <p id="zzggw0x">a. The system must be transportable by a two person carry.</p>
+                     <p id="lvs6j64">b. The system must be setup, broken down and operated by one person.</p>
+                     <p id="7xl4n1sh">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
+                     <p id="wpdagl7">d. Cable connectors connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
+                     <p id="s11gw2zj">e. When the radar system antenna is mounted on the tripod, the range of motion must be +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="ezieeth" outputclass="Normal"></p>
+      <p id="3ty5rz01" outputclass="Normal">Evaluation narrative write-up below provides an example of both ‘Acceptable” and “Unacceptable” proposal responses:</p>
+      <table colsep="0" rowsep="0">
+         <tgroup cols="1">
+            <colspec colname="1" colnum="1" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="dibZIi">
+                        <b>Acceptable:</b> The offeror proposed a system that can be transported by two people (page 12); can be setup, broken down, and operated by one person (page 13) ; and can be assembled and disassembled in less than one hour (45 minutes) (page 14). The offeror?s approach uses cable connectors that connect and disconnect using only one turn and the range of motion of the radar system antenna is +90 degrees to -10 degrees in elevation and 360 degrees azimuth (page 22).</p>
+                     <p id="DFCymM">
+                        <b>Unacceptable:</b> The offeror proposed a system that can be transported by two people (page 12); can be setup, broken down, and operated by one person (page 13); <b>however, the system cannot be assembled and disassembled in less than one hour (90 minutes, as stated in the offeror?s proposal in Volume 1, page 16). Based on the evaluation criteria, this is unacceptable and results in the entire factor being unacceptable.</b> The offeror?s approach uses cable connectors that connect and disconnect using only one turn and the range of motion of the radar system antenna is +90 degrees to -10 degrees in elevation and 360 degrees azimuth (page 22).</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="7xvl3qo7" outputclass="Normal"></p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="6" colsep="1">
+            <colspec colname="1" colnum="1" />
+            <colspec colname="2" colnum="2" />
+            <colspec colname="3" colnum="3" />
+            <colspec colname="4" colnum="4" />
+            <colspec colname="5" colnum="5" />
+            <colspec colname="6" colnum="6" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="6" namest="1">
+                     <p id="lyylDc" outputclass=" Ctr">
+                        <b>ATTACHMENT C-1</b>
+                     </p>
+                     <p id="BMzNin" outputclass=" Ctr">
+                        <b>TECHNICAL INFORMATION QUESTIONNAIRE/EVALUATION MATRIX</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="6" namest="1">
+                     <p id="iaDhVW">
+                        <b>OFFEROR</b>
+                        <b>NAME:_</b>
+                        <b>________________________________________</b>
+                     </p>
+                     <p id="JMzcew">
+                        <b>RFP</b>
+                        <b>NUMBER:_</b>
+                        <b>___________________________________________</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wtAFgv" outputclass=" Ctr">
+                        <b>Factors</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="yTcTqI" outputclass=" Ctr">
+                        <b>RFP Requirement Reference</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="mqTXHM" outputclass=" Ctr">
+                        <b>Proposal Reference</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="lzHYof" outputclass=" Ctr">
+                        <b>Standard of Proof</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="oiXokJ" outputclass=" Ctr">
+                        <b>Acceptable/</b>
+                     </p>
+                     <p id="NWMxEj" outputclass=" Ctr">
+                        <b>Unacceptable</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="juGLZZ" outputclass=" Ctr">
+                        <b>Evaluators Comments</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nUMAhq">
+                        <b>1.0 TECHNICAL EXECUTION</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="EmNPVa"></p>
+                  </entry>
+                  <entry>
+                     <p id="zSNFlV"></p>
+                  </entry>
+                  <entry>
+                     <p id="OUaVPO"></p>
+                  </entry>
+                  <entry>
+                     <p id="bnMoPU"></p>
+                  </entry>
+                  <entry>
+                     <p id="yaGvHF"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="zkkmTN">1.1. Key Personnel Professional Qualifications</p>
+                  </entry>
+                  <entry>
+                     <p id="xOeNDU"></p>
+                  </entry>
+                  <entry>
+                     <p id="kRKqsA"></p>
+                  </entry>
+                  <entry>
+                     <p id="DThhXx"></p>
+                  </entry>
+                  <entry>
+                     <p id="TlWAdB"></p>
+                  </entry>
+                  <entry>
+                     <p id="YoPXQy"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="TjUpvF">1.2 Technical Certifications</p>
+                  </entry>
+                  <entry>
+                     <p id="JMCXdX"></p>
+                  </entry>
+                  <entry>
+                     <p id="vTAiuR"></p>
+                  </entry>
+                  <entry>
+                     <p id="JjGlNV"></p>
+                  </entry>
+                  <entry>
+                     <p id="oQEslG"></p>
+                  </entry>
+                  <entry>
+                     <p id="mbCiDb"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tcBQOw">1.3 Onsite Courseware Acceptance</p>
+                  </entry>
+                  <entry>
+                     <p id="FJsjUN"></p>
+                  </entry>
+                  <entry>
+                     <p id="hyLKgr"></p>
+                  </entry>
+                  <entry>
+                     <p id="wjLVQi"></p>
+                  </entry>
+                  <entry>
+                     <p id="UPjCxh"></p>
+                  </entry>
+                  <entry>
+                     <p id="IKiPom"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rtBDye">1.4 Onsite Training Course</p>
+                  </entry>
+                  <entry>
+                     <p id="OLfcPD"></p>
+                  </entry>
+                  <entry>
+                     <p id="EKOpuE"></p>
+                  </entry>
+                  <entry>
+                     <p id="zYOVPH"></p>
+                  </entry>
+                  <entry>
+                     <p id="DwaZpB"></p>
+                  </entry>
+                  <entry>
+                     <p id="ACcELf"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cdXJSF">1.5 Electronic Classroom Upgrade</p>
+                  </entry>
+                  <entry>
+                     <p id="GRgLrL"></p>
+                  </entry>
+                  <entry>
+                     <p id="iafIqx"></p>
+                  </entry>
+                  <entry>
+                     <p id="JFEvop"></p>
+                  </entry>
+                  <entry>
+                     <p id="gZgOfp"></p>
+                  </entry>
+                  <entry>
+                     <p id="uTQEHU"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nChFHd">
+                        <b>2.0 PROGRAM MANAGEMENT</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="mmQxLN"></p>
+                  </entry>
+                  <entry>
+                     <p id="nBRmjB"></p>
+                  </entry>
+                  <entry>
+                     <p id="tkuSoi"></p>
+                  </entry>
+                  <entry>
+                     <p id="rXRNsG"></p>
+                  </entry>
+                  <entry>
+                     <p id="VoeNGQ"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="INNiIg">2.1 Integrated Master Schedule (IMS)</p>
+                  </entry>
+                  <entry>
+                     <p id="tQbHKj"></p>
+                  </entry>
+                  <entry>
+                     <p id="fFfWpU"></p>
+                  </entry>
+                  <entry>
+                     <p id="agEhvu"></p>
+                  </entry>
+                  <entry>
+                     <p id="WiYtoQ"></p>
+                  </entry>
+                  <entry>
+                     <p id="HMQPUQ"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RkkkjQ">2.2 Computer-Based Training Development Schedule/Plan</p>
+                  </entry>
+                  <entry>
+                     <p id="jfSLUu"></p>
+                  </entry>
+                  <entry>
+                     <p id="HcyrMU"></p>
+                  </entry>
+                  <entry>
+                     <p id="MFDdMl"></p>
+                  </entry>
+                  <entry>
+                     <p id="hpbPPq"></p>
+                  </entry>
+                  <entry>
+                     <p id="IDQxHd"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QzVdhK">2.3 Electronic Classroom Upgrade Schedule / Plan</p>
+                  </entry>
+                  <entry>
+                     <p id="BDSQni"></p>
+                  </entry>
+                  <entry>
+                     <p id="NJQLec"></p>
+                  </entry>
+                  <entry>
+                     <p id="PteXmR"></p>
+                  </entry>
+                  <entry>
+                     <p id="ZLmiJp"></p>
+                  </entry>
+                  <entry>
+                     <p id="PPCbyV"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BRVKHx">
+                        <b>3.0 ON-SITE PERSONNEL AND CERTIFICATIONS</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="jubdcV"></p>
+                  </entry>
+                  <entry>
+                     <p id="xPltRe"></p>
+                  </entry>
+                  <entry>
+                     <p id="AiMLNg"></p>
+                  </entry>
+                  <entry>
+                     <p id="UWVXTN"></p>
+                  </entry>
+                  <entry>
+                     <p id="nbxyLl"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DuPfOe">3.1 Manning Chart Provided</p>
+                  </entry>
+                  <entry>
+                     <p id="RShBuB"></p>
+                  </entry>
+                  <entry>
+                     <p id="vEdvor"></p>
+                  </entry>
+                  <entry>
+                     <p id="eCtNGV"></p>
+                  </entry>
+                  <entry>
+                     <p id="corMiC"></p>
+                  </entry>
+                  <entry>
+                     <p id="VPbDmR"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sruAwS">3.2 Labor categories to perform courseware and electronic classroom requirements. Minimum labor categories include Instructional Systems Specialists, Graphic Artists, Programmers, Computer Specialists and/or Engineers and Subject Matter Experts..</p>
+                  </entry>
+                  <entry>
+                     <p id="JFpgeB"></p>
+                  </entry>
+                  <entry>
+                     <p id="ZkWOaz"></p>
+                  </entry>
+                  <entry>
+                     <p id="eXSdgl"></p>
+                  </entry>
+                  <entry>
+                     <p id="wpUxpF"></p>
+                  </entry>
+                  <entry>
+                     <p id="DcGvgJ"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rfDOee">
+                        <b>4.0 SECURITY</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="gvusot"></p>
+                  </entry>
+                  <entry>
+                     <p id="ZdqFpU"></p>
+                  </entry>
+                  <entry>
+                     <p id="zIdWCT"></p>
+                  </entry>
+                  <entry>
+                     <p id="PIBEdl"></p>
+                  </entry>
+                  <entry>
+                     <p id="eFdkSI"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="adLOnF">4.1 Classified Information Security Requirements</p>
+                  </entry>
+                  <entry>
+                     <p id="YhIACY"></p>
+                  </entry>
+                  <entry>
+                     <p id="KqLHJx"></p>
+                  </entry>
+                  <entry>
+                     <p id="dZCRfj"></p>
+                  </entry>
+                  <entry>
+                     <p id="rUbxyK"></p>
+                  </entry>
+                  <entry>
+                     <p id="RjUYof"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wADNIZ">
+                        <b>5.0 PAST PERFORANCE</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="sVzusy"></p>
+                  </entry>
+                  <entry>
+                     <p id="xjEWIJ"></p>
+                  </entry>
+                  <entry>
+                     <p id="FMobPp"></p>
+                  </entry>
+                  <entry>
+                     <p id="nGaOJo"></p>
+                  </entry>
+                  <entry>
+                     <p id="nhvXjN"></p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

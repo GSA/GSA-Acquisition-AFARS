@@ -2,7 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFARS_AppendexBB_topic_1">
+   <topic id="AFARS_AppendexBB">
       <title outputclass="1 heading Ctr" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph "/>AFARS – APPENDIX BB</title>
       <body>
@@ -10,37 +10,33 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="AppendexBB-topic_2.dita#AFARS_AppendexBB_topic_2">MANAGEMENT CONTROL EVALUATION CHECKLISTS</xref>
+                        href="AppendexBB_MCEVC.dita#AFARS_AppendexBB_MCEVC">MANAGEMENT CONTROL EVALUATION CHECKLISTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AppendexBB_Part_1.dita#AFARS_AppendexBB_topic_3">Part 1 – General</xref>
+                              href="AppendexBB_Part_1.dita#AFARS_AppendexBB_Part_1">Part 1 – General</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-100.dita#AFARS_AppendexBB_topic_4">BB–100  Function.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-100.dita#AFARS_AppendexBB-100">BB–100  Function.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-101.dita#AFARS_AppendexBB_topic_5">BB–101  Purpose.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-101.dita#AFARS_AppendexBB-101">BB–101  Purpose.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-102.dita#AFARS_AppendexBB_topic_6">BB–102  Instructions.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-102.dita#AFARS_AppendexBB-102">BB–102  Instructions.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-103.dita#AFARS_AppendexBB_topic_7">BB–103  Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States. </xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-103.dita#AFARS_AppendexBB-103">BB–103  Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States. </xref>
                            </p>
                         </li>
                      </ul>
@@ -48,37 +44,32 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="AppendexBB_Part_2.dita#AFARS_AppendexBB_topic_8">Part 2 – Contracting Test Questions</xref>
+                              href="AppendexBB_Part_2.dita#AFARS_AppendexBB_Part_2">Part 2 – Contracting Test Questions</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-200.dita#AFARS_AppendexBB_topic_9">BB-200 Event Cycle 1: Management of Contracting Functions.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-200.dita#AFARS_AppendexBB-200">BB-200 Event Cycle 1: Management of Contracting Functions.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-201.dita#AFARS_AppendexBB_topic_10">BB-201 Event Cycle 2: Presolicitation.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-201.dita#AFARS_AppendexBB-201">BB-201 Event Cycle 2: Presolicitation.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-202.dita#AFARS_AppendexBB_topic_11">BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-202.dita#AFARS_AppendexBB-202">BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-203.dita#AFARS_AppendexBB_topic_12">BB-203 Event Cycle 4: Contract Administration.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-203.dita#AFARS_AppendexBB-203">BB-203 Event Cycle 4: Contract Administration.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="AppendexBB-204.dita#AFARS_AppendexBB_topic_13">BB-204 Event Cycle 5: Special Acquisition Situations and Requirements.</xref>
+                              <xref outputclass="fm:TOC" href="AppendexBB-204.dita#AFARS_AppendexBB-204">BB-204 Event Cycle 5: Special Acquisition Situations and Requirements.</xref>
                            </p>
                         </li>
                      </ul>

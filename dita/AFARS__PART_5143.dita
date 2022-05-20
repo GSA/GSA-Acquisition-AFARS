@@ -2,36 +2,36 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFARS_AFARS_topic_745">
+   <topic id="AFARS__PART_5143">
       <title outputclass="Heading 1" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">AFARS – PART 5143</ph> Contract Modifications</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5143.2.dita#AFARS_AFARS_topic_746">Subpart 5143.2 – Change Orders</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5143.2.dita#AFARS_Subpart_5143.2">Subpart 5143.2 – Change Orders</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5143.204.dita#AFARS_AFARS_topic_747">5143.204 Administration.</xref>
+                        <xref outputclass="fm:TOC" href="5143.204.dita#AFARS_5143.204">5143.204 Administration.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5143.204705.dita#AFARS_AFARS_topic_748">5143.204-70-5 Exceptions.</xref>
+                              <xref outputclass="fm:TOC" href="5143.204705.dita#AFARS_5143.204705">5143.204-70-5 Exceptions.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="5143.204706.dita#AFARS_AFARS_topic_749">5143.204-70-6 Allowable profit.</xref>
+                              <xref outputclass="fm:TOC" href="5143.204706.dita#AFARS_5143.204706">5143.204-70-6 Allowable profit.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5143.205.dita#AFARS_AFARS_topic_750">5143.205 Contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="5143.205.dita#AFARS_5143.205">5143.205 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

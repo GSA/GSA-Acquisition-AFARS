@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="AFARS_APPENDIX-AA_Chapter-5" xml:lang="en-US">
-    <title outputclass="Heading 1 Subpart">CHAPTER 5: DEFINITIONS</title>
+    <title outputclass="Heading 1 Subpart">
+        <ph props="autonumber" class="- topic/ph ">CHAPTER 5</ph>:  DEFINITIONS</title>
     <conbody>
         <p id="p_OLE_LINK4"><b><i>Affordability </i></b><b><i>Caps </i></b>are the approved cost
             constraints for major systems acquisitions determined by the resources a DoD component

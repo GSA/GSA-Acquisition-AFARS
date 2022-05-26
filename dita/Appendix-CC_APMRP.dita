@@ -2,12 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
 <concept id="AFARS_Appendix-CC_APMRP">
    <title outputclass="heading 2 Ctr Subpart">
-      <ph props="autonumber"> </ph>Army Procurement Management Review Program</title>
+      <ph props="autonumber">Army Procurement</ph> Management Review Program</title>
    <conbody>
       <p id="Tvmkds" outputclass=" Ctr">
-         <i>October</i>
-         <i>1, 201</i>
-         <i>4</i>
+         <i>October1, 2014</i>
       </p>
    </conbody>
 </concept>

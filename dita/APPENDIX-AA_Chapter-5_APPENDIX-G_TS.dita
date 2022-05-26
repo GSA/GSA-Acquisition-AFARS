@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
 <concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G_TS">
    <title outputclass="Ctr 3 heading">
-      <ph props="autonumber"> </ph>Templates / Samples</title>
+      <ph props="autonumber">Templates</ph> / Samples</title>
    <conbody>
       <table colsep="1" rowsep="1">
          <tgroup cols="1">

@@ -4,7 +4,7 @@
 <dita>
    <topic id="AFARS_APPENDIX-AA">
       <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "/>AFARS – APPENDIX AA</title>
+         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> AA</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -16,7 +16,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-1.dita#AFARS_APPENDIX-AA_Chapter-1">CHAPTER 1:PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
+                        href="APPENDIX-AA_Chapter-1.dita#AFARS_APPENDIX-AA_Chapter-1">CHAPTER 1: PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -48,7 +48,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-2.dita#AFARS_APPENDIX-AA_Chapter-2">CHAPTER 2:PRESOLICITATION ACTIVITIES</xref>
+                        href="APPENDIX-AA_Chapter-2.dita#AFARS_APPENDIX-AA_Chapter-2">CHAPTER 2: PRESOLICITATION ACTIVITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -160,7 +160,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-4.dita#AFARS_APPENDIX-AA_Chapter-4">CHAPTER 4: DOCUMENTATION REQUIREMENTS</xref>
+                        href="APPENDIX-AA_Chapter-4.dita#AFARS_APPENDIX-AA_Chapter-4">CHAPTER 4:  DOCUMENTATION REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -180,7 +180,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-5.dita#AFARS_APPENDIX-AA_Chapter-5">CHAPTER 5: DEFINITIONS</xref>
+                        href="APPENDIX-AA_Chapter-5.dita#AFARS_APPENDIX-AA_Chapter-5">CHAPTER 5:  DEFINITIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

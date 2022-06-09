@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_5153.3038">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5153.303-8</ph> Withdrawal of approval of property control system.</title>
+   <conbody>
+      <p id="IZVIqo" outputclass="Ctr">(Official Letter Head)</p>
+      <p id="IwWenc" outputclass="Normal">
+         <b>Office Symbol</b>
+      </p>
+      <p id="PwRSmU" outputclass="Normal">
+         <b>Contractor’s Name and Address</b>
+      </p>
+      <p id="XddugK" outputclass="Normal">Government contract (insert contract number) requires (insert contractor’s name) to establish and maintain, in accordance with FAR Subpart 45.5 and DFARS Subpart 245.5, a system to control, protect, preserve, and maintain Government property in your possession. The applicable provisions of the referenced contract provide that failure of the contractor to maintain and administer an acceptable program or system shall be presumed to be a failure resulting from willful misconduct or lack of good faith on the part of the contractor’s managerial personnel.</p>
+      <p id="dztzsc" outputclass="Normal">The Property Administrator, by letter dated (insert date) gave notification that (insert contractor’s name) system for the maintenance, protection, preservation, and control of Government property was reviewed and found not to meet the requirements of FAR Subpart 45.5 and DFARS Subpart 245.5 in the following respects:</p>
+      <p id="CtfuOq" outputclass="Ctr">(list all deficiencies)</p>
+      <p id="yKKDWx" outputclass="Normal">By letter of (insert date) you were advised that approval of the property control system would be withdrawn unless the noted deficiencies were corrected by (insert date). As of this date, these corrections have not been accomplished. This undue delay in complying with your contractual requirements concerning Government property and your continued delay in rectifying noted deficiencies indicate a lack of concern by (insert contractor’s name) managerial personnel. Therefore, the approval of your Property Control System is withdrawn as of (insert date). As a result of this action, (insert contractor’s name) shall be liable for any loss or damage to the Government property occurring after receipt of this notice in accordance with the provisions of the contract.</p>
+      <p id="BsETJA" outputclass="Normal">A copy of this letter is being furnished to the Chief of the Contracting Office. Your failure to maintain an acceptable property control system could adversely affect future recommendations for the award of contracts. Restoration of approval of your property system is dependent upon the correction of the above listed deficiencies to the satisfaction of the contracting officer.</p>
+      <p id="cq2vhzqj" outputclass="Normal"></p>
+      <p id="tpZGwl" outputclass="Ctr">Sincerely,</p>
+      <p id="ogQdNd" outputclass="Ctr">(Signature)</p>
+      <p id="kmtLDz" outputclass="Ctr">Contracting Officer</p>
+      <p id="mhEuDp">
+         <b>
+            <i>(Note: Send by registered or certified mail.)</i>
+         </b>
+      </p>
+   </conbody>
+</concept>

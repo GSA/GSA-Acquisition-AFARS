@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_Appendix-DD-103">
+   <title outputclass="Heading 4">
+      <ph props="autonumber" class="- topic/ph ">DD-103</ph> Evaluation Rating.</title>
+   <conbody>
+      <p id="gdjGQD">Either the contracting officer, the small business representative, or both, shall evaluate and rate the subcontracting plan as “acceptable” or “unacceptable,” in the context of the particular procurement. For instance, in smaller dollar value contracts, or contracts for uniquely manufactured items, it might be impracticable or not cost effective for offerors to take the type of actions that might be appropriate in contracts for larger dollar values or commercial components. To receive an “Acceptable” rating, the contractor must satisfy all objectives in Part 2 and meet each statutory subcontracting plan requirement outlined in Part 3. Failure to receive a subcontracting plan rating of acceptable could jeopardize the offeror’s selection for contract award. The contracting officer must document the decisions in the contract file.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_5137.9101">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5137.9101</ph> Policy.</title>
+   <conbody>
+      <p id="dEpmWB" outputclass="Normal">(a) Contracting officers shall ensure that the requirement to report contractor manpower is included in all contracts, task/delivery orders and modifications. The cognizant contracting officer shall include a separate line item in Section B of the contract to allow for payment in compliance with this requirement.</p>
+      <p id="BlHDgt">
+         <b>(b) Report all services contracts that meet the threshold outlined in FAR 4.1703 – Reporting Requirements. The list of contracts for which reporting is not applicable is located on the Assistant Secretary of the Army Manpower and Reserve Affairs (ASA(M&amp;RA)) website <xref format="pdf" href="http://www.asamra.army.mil/scra/documents/ServicesContractApprovalForm.pdf" scope="external">
+               <u>http://www.asamra.army.mil/scra/documents/ServicesContractApprovalForm.pdf</u>
+            </xref>.</b>
+      </p>
+      <p id="iXTRkA" outputclass="Normal">(c) The Under Secretary of Defense for Acquisition &amp; Sustainment established services contractor reporting in <xref format="html" href="http://www.sam.gov/" scope="external">
+            <u>www.SAM.gov</u>
+         </xref> on October 15, 2020. It provides most of the source data for compliance with section 2330a of Title 10, United States Code.</p>
+      <p id="RsSUkZ" outputclass="Normal">(d) Enter data into the <xref format="gov" href="http://www.SAM.gov" scope="external">
+            <u>www.SAM.gov</u>
+         </xref> system at any time during the contract’s period of performance. However, data must be accurate and complete and entered into <xref format="gov" href="http://www.SAM.gov" scope="external">
+            <u>www.SAM.gov</u>
+         </xref> not later than October 31 after the completion of each fiscal year or part of a fiscal year for which such contract is active.</p>
+      <p id="xLGens">
+         <b>(e) The Contractor Manpower Reporting application is available at <xref format="html" href="https://www.ecmra.mil/" scope="external">
+               <u>https://www.SAM.gov</u>
+            </xref>.</b>
+      </p>
+   </conbody>
+</concept>

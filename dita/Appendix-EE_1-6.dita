@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_Appendix-EE_1-6">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">1-6.</ph> Applicability</title>
+   <conbody>
+      <p id="gqlmpI" outputclass="Normal">These procedures apply to all GPC purchases with cards issued by the Army. Non-Army tenant organizations issued Army GPCs or convenience checks by an Army contracting office are also subject to these procedures. All BOs, CHs, A/OPCs (at all levels), Resource Managers (RMs), Logisticians, and other stakeholders that participate in the GSA SmartPay Purchase Card Program under the Army Level 2 hierarchy are subject to these procedures. The policy established in this document supersedes previous guidance issued in the Draft Army Regulation (AR715-xx). Explanation of the Army level hierarchy is provided at 1-8.</p>
+   </conbody>
+</concept>

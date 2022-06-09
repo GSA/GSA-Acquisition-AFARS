@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_AFARS_topic_383">
+      <title outputclass="1 Heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5118</ph> Emergency Acquisitions</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5118.1.dita#AFARS_AFARS_topic_384">Subpart 5118.1 – Available Acquisition Flexibilities</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5118.170.dita#AFARS_AFARS_topic_385">5118.170 Additional acquisition flexibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5118.2.dita#AFARS_AFARS_topic_386">Subpart 5118.2 – Emergency Acquisition Flexibilities</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5118.201.dita#AFARS_AFARS_topic_387">5118.201 Head of contracting activity determinations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5118.271.dita#AFARS_AFARS_topic_388">5118.271 Contingency operation.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

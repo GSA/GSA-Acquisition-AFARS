@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_AFARS_topic_563">
+      <title outputclass="1 Heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5130</ph> Cost Accounting Standards Administration</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5130.2.dita#AFARS_AFARS_topic_564">Subpart 5130.2 – CAS Program Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5130.201.dita#AFARS_AFARS_topic_565">5130.201 Contract requirements.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5130.2015.dita#AFARS_AFARS_topic_566">5130.201-5 Waiver.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5130.202.dita#AFARS_AFARS_topic_567">5130.202 Disclosure requirements.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5130.2026.dita#AFARS_AFARS_topic_568">5130.202-6 Responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

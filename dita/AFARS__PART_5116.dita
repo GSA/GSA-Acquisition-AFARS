@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_AFARS_topic_314">
+      <title outputclass="1 Heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5116</ph> Types of Contracts</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5116.1.dita#AFARS_AFARS_topic_315">Subpart 5116.1 – Selecting Contract Types</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.10290.dita#AFARS_AFARS_topic_316">5116.102-90 Policies.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.103.dita#AFARS_AFARS_topic_317">5116.103 Negotiating contract type.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5116.2.dita#AFARS_AFARS_topic_318">Subpart 5116.2 – Fixed–Price Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.203.dita#AFARS_AFARS_topic_319">5116.203 Fixed–price contracts with economic price adjustment.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.2034.dita#AFARS_AFARS_topic_320">5116.203-4 Contract clauses.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5116.3.dita#AFARS_AFARS_topic_321">Subpart 5116.3 – Cost–Reimbursement Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.301.dita#AFARS_AFARS_topic_322">5116.301 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.3013.dita#AFARS_AFARS_topic_323">5116.301-3 Limitations.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.306.dita#AFARS_AFARS_topic_324">5116.306 Cost–plus–fixed–fee contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5116.4.dita#AFARS_AFARS_topic_325">Subpart 5116.4 – Incentive Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.401.dita#AFARS_AFARS_topic_326">5116.401 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.405.dita#AFARS_AFARS_topic_327">5116.405 Cost–reimbursement incentive contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.4051.dita#AFARS_AFARS_topic_328">5116.405-1 Cost–plus–incentive–fee contracts.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.4052.dita#AFARS_AFARS_topic_329">5116.405-2 Cost–plus–award–fee contracts.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5116.5.dita#AFARS_AFARS_topic_330">Subpart 5116.5 – Indefinite–Delivery Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.504.dita#AFARS_AFARS_topic_331">5116.504 – Indefinite Quantity Contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.505.dita#AFARS_AFARS_topic_332">5116.505 Ordering.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.50591.dita#AFARS_AFARS_topic_333">5116.505-91 Multiple award task order contracts.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5116.6.dita#AFARS_AFARS_topic_334">Subpart 5116.6 – Time–and–Materials, Labor–Hour, and Letter Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5116.603.dita#AFARS_AFARS_topic_335">5116.603 Letter contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.6032.dita#AFARS_AFARS_topic_336">5116.603-2 Application.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5116.6033.dita#AFARS_AFARS_topic_337">5116.603-3 Limitations.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

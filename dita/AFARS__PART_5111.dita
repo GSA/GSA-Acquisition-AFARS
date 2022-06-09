@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_AFARS_topic_223">
+      <title outputclass="1 Heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5111</ph> Describing Agency Needs</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.1.dita#AFARS_AFARS_topic_224">Subpart 5111.1 – Selecting and Developing Requirements Documents</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.103.dita#AFARS_AFARS_topic_225">5111.103 Market acceptance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106.dita#AFARS_AFARS_topic_226">5111.106 Cloud Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_A.dita#AFARS_AFARS_topic_227">5111.106 (S–90)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_B.dita#AFARS_AFARS_topic_228">5111.106 (S–91)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_C.dita#AFARS_AFARS_topic_229">5111.106 (S–92)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_D.dita#AFARS_AFARS_topic_230">5111.106 (S–93)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_E.dita#AFARS_AFARS_topic_231">5111.106 (S–94)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_F.dita#AFARS_AFARS_topic_232">5111.106 (S–95)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.2.dita#AFARS_AFARS_topic_233">Subpart 5111.2 – Using and Maintaining Requirements Documents</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.274.dita#AFARS_AFARS_topic_234">5111.274 Item identification and valuation requirements.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2742.dita#AFARS_AFARS_topic_235">5111.274-2 Policy for item unique identification.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2742_A.dita#AFARS_AFARS_topic_236">5111.274-2 (S–90)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2742_B.dita#AFARS_AFARS_topic_237">5111.274-2 (S–91)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2746.dita#AFARS_AFARS_topic_238">5111.274-6 Contract clauses.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.5.dita#AFARS_AFARS_topic_239">Subpart 5111.5 – Liquidated Damages</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.501.dita#AFARS_AFARS_topic_240">5111.501 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.6.dita#AFARS_AFARS_topic_241">Subpart 5111.6 – Priorities and Allocations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.602.dita#AFARS_AFARS_topic_242">5111.602 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.60290.dita#AFARS_AFARS_topic_243">5111.602-90 Responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.603.dita#AFARS_AFARS_topic_244">5111.603 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.7.dita#AFARS_AFARS_topic_245">Subpart 5111.7 —Variation in Quantity</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.703.dita#AFARS_AFARS_topic_246">5111.703 Contract Clauses</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

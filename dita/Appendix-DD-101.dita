@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_Appendix-DD-101">
-   <title outputclass="Heading 4">
-      <ph props="autonumber" class="- topic/ph ">DD-101</ph> Applicability.</title>
-   <conbody>
-      <p id="vrXMsA">In accordance with requirements of FAR 19.705-4, DFARS 219.705-4 and AFARS 5119.705-4, the contracting officer shall use this guide to review all subcontracting plans (except those for commercial items), including those submitted in response to the provisions in FAR 19.705-2(d) and (e). When the contract will require subcontracting plans, use the clauses designated by FAR 19.708(b)(1) and (2) and DFARS 219.708(b)(1)(A) in the solicitation. A copy of the completed evaluation shall be included in the contract file.</p>
-   </conbody>
-</concept>

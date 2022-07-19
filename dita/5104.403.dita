@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5104.403" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5104.403</ph> Responsibilities of contracting officers.</title><conbody><p outputclass="List2">(1)  In accordance with DFARS PGI 204.403(1), the contracting officer will include a DoD Form DD 254, DoD Contract Security Classification Specification in solicitations as appropriate and obtain the security manager’s signature (see Army Regulation 380-49, 4-4a, Department of the Army Industrial Security Program) as the certifying official on the form.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.403" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept "><title outputclass="Heading 3" class="- topic/title "><ph props="autonumber" class="- topic/ph ">5104.403</ph> Responsibilities of contracting officers.</title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">(1) In accordance with DFARS PGI 204.403(1), the contracting officer will include a DoD
+            Form DD 254, DoD Contract Security Classification Specification in solicitations as
+            appropriate and obtain the security manager’s signature (see Army Regulation 380-49,
+            4-4a, Department of the Army Industrial Security Program) as the certifying official on
+            the form.</p>
+        <p class="- topic/p ">(2) See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external" class="- topic/xref ">AFARS PGI 5104.403(2)-1</xref>.</p>
+    </conbody></concept>

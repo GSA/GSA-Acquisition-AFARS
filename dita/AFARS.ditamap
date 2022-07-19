@@ -8,8 +8,14 @@
    </topicref>
    <topicref href="PART_5101.dita" navtitle="AFARS – PART 5101 Federal Acquisition Regulation System" outputclass="Part" props="AFARS – PART 5101" base="NoTitle" audience="AFARS__PART_5101" xtrf="Part" class="- map/topicref ">
       <topicref href="Subpart_5101.1.dita" navtitle="Subpart 5101.1 – Purpose, Authority, Issuance" outputclass="SubPart" props="Subpart 5101.1" base="NoTitle" audience="AFARS_Subpart_5101.1" xtrf="SubPart" class="- map/topicref ">
-         <topicref href="5101.101.dita" navtitle="5101.101 Purpose." props="5101.101" base="NoTitle" audience="AFARS_5101.101" outputclass="subtopic" xtrf="subtopic" class="- map/topicref ">
-            <topicref href="5101.1053.dita" navtitle="5101.105-3 Copies." props="5101.105-3" base="NoTitle" audience="AFARS_5101.1053" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
+         <topicref href="5101.101.dita" navtitle="5101.101 Purpose." props="5101.101" base="NoTitle"
+            audience="AFARS_5101.101" outputclass="subtopic" xtrf="subtopic" class="- map/topicref "/>
+         <topicref href="5101.105.dita" navtitle="5101.105 Reserved." props="5101.105"
+            base="NoTitle" audience="AFARS_5101.105" outputclass="subtopic" xtrf="subtopic"
+            class="- map/topicref ">
+            <topicref href="5101.105-3.dita" navtitle="5101.105-3 Copies." props="5101.105-3"
+               base="NoTitle" audience="AFARS_5101.105-3" outputclass="subtopic" xtrf="subtopic"
+               class="- map/topicref "/>
          </topicref>
          <topicref href="5101.108.dita" navtitle="5101.108 FAR conventions." props="5101.108" base="NoTitle" audience="AFARS_5101.108" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
          <topicref href="5101.108_A.dita" navtitle="5101.108
@@ -119,7 +125,12 @@
          <topicref href="5104.202.dita" navtitle="5104.202 Agency distribution requirements." props="5104.202" base="NoTitle" audience="AFARS_5104.202" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
       </topicref>
       <topicref href="Subpart_5104.4.dita" navtitle="Subpart 5104.4 – Safeguarding Classified Information Within Industry" outputclass="SubPart" props="Subpart 5104.4" base="NoTitle" audience="AFARS_Subpart_5104.4" xtrf="SubPart" class="- map/topicref ">
-         <topicref href="5104.403.dita" navtitle="5104.403 Responsibilities of contracting officers." props="5104.403" base="NoTitle" audience="AFARS_5104.403" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
+         <topicref href="5104.402.dita" navtitle="5104.402 General." props="5104.402" base="NoTitle"
+            audience="AFARS_5104.402" outputclass="subtopic" xtrf="subtopic" class="- map/topicref "/>
+         <topicref href="5104.403.dita"
+            navtitle="5104.403 Responsibilities of contracting officers." props="5104.403"
+            base="NoTitle" audience="AFARS_5104.403" outputclass="subtopic" xtrf="subtopic"
+            class="- map/topicref "/>
       </topicref>
       <topicref href="Subpart_5104.5.dita" navtitle="Subpart 5104.5 – Electronic Commerce in Contracting" outputclass="SubPart" props="Subpart 5104.5" base="NoTitle" audience="AFARS_Subpart_5104.5" xtrf="SubPart" class="- map/topicref ">
          <topicref href="5104.502.dita" navtitle="5104.502 Policy." props="5104.502" base="NoTitle" audience="AFARS_5104.502" outputclass="subtopic" xtrf="subtopic" class="- map/topicref ">
@@ -141,6 +152,15 @@
       </topicref>
       <topicref href="Subpart_5104.71.dita" navtitle="Subpart 5104.71 – Uniform Contract Line Item Numbering System" outputclass="SubPart" props="Subpart 5104.71" base="NoTitle" audience="AFARS_Subpart_5104.71" xtrf="SubPart" class="- map/topicref ">
          <topicref href="5104.710390.dita" navtitle="5104.7103-90 Contract line items for internal use software (IUS)." props="5104.7103-90" base="NoTitle" audience="AFARS_5104.710390" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
+      </topicref>
+      <topicref href="Subpart_5104.73.dita"
+         navtitle="Subpart 5104.73—Safeguarding Covered Defense Information and Cyber Incident Reporting"
+         outputclass="SubPart" props="Subpart 5104.73" base="NoTitle"
+         audience="AFARS_Subpart_5104.73" xtrf="SubPart" class="- map/topicref ">
+         <topicref href="5104.7304.dita"
+            navtitle="5104.7304 Solicitation provisions and contract clauses." props="5104.7304"
+            base="NoTitle" audience="AFARS_5104.7304" outputclass="subtopic" xtrf="subtopic"
+            class="- map/topicref "/>
       </topicref>
    </topicref>
    <topicref href="PART_5105.dita" outputclass="Part" navtitle="AFARS – PART 5105 Publicizing Contract Actions" props="AFARS – PART 5105" base="NoTitle" audience="AFARS_PART_5105" xtrf="Part" class="- map/topicref ">
@@ -197,6 +217,9 @@
          <topicref href="5107.105.dita" navtitle="5107.105 &#xa0; Contents of written acquisition plans." props="5107.105" base="NoTitle" audience="AFARS_5107.105" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
          <topicref href="5107.107.dita" navtitle="5107.107 &#xa0; Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling." props="5107.107" base="NoTitle" audience="AFARS_5107.107" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
          <topicref href="5107.1072.dita" navtitle="5107.107-2 &#xa0; Consolidation." props="5107.107-2" base="NoTitle" audience="AFARS_5107.1072" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
+         <topicref href="5107.1075.dita" navtitle="5107.107-5 Notifications." props="5107.107-5"
+            base="NoTitle" audience="AFARS_5107.1075" outputclass="subtopic" xtrf="subtopic"
+            class="- map/topicref "/>
       </topicref>
       <topicref href="Subpart_5107.2.dita" navtitle="Subpart 5107.2 – Planning for the Purchase of Supplies in Economic Quantities" outputclass="SubPart" props="Subpart 5107.2" base="NoTitle" audience="AFARS_Subpart_5107.2" xtrf="SubPart" class="- map/topicref ">
          <topicref href="5107.204.dita" navtitle="5107.204 &#xa0; Responsibilities of contracting officers." props="5107.204" base="NoTitle" audience="AFARS_5107.204" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
@@ -840,6 +863,14 @@
       </topicref>
       <topicref href="Subpart_5132.6.dita" navtitle="Subpart 5132.6 – Contract Debts" outputclass="SubPart" props="Subpart 5132.6" base="NoTitle" audience="AFARS_Subpart_5132.6" xtrf="SubPart" class="- map/topicref ">
          <topicref href="5132.606.dita" navtitle="5132.606 Debt collection." props="5132.606" base="NoTitle" audience="AFARS_5132.606" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
+         <topicref href="5132.607.dita"
+            navtitle="5132.607  Installment payments and deferment of collection." props="5132.607"
+            base="NoTitle" audience="AFARS_5132.607" outputclass="subtopic" xtrf="subtopic"
+            class="- map/topicref ">
+            <topicref href="5132.6072.dita" navtitle="5132.6072 Deferment of collection."
+               props="5132.6072" base="NoTitle" audience="AFARS_5132.6072" outputclass="subtopic"
+               xtrf="subtopic" class="- map/topicref "/>
+         </topicref>
          <topicref href="5132.671.dita" navtitle="5132.671 Bankruptcy reporting." props="5132.671" base="NoTitle" audience="AFARS_5132.671" outputclass="subtopic" xtrf="subtopic" class="- map/topicref " />
       </topicref>
       <topicref href="Subpart_5132.7.dita" navtitle="Subpart 5132.7 – Contract Funding" outputclass="SubPart" props="Subpart 5132.7" base="NoTitle" audience="AFARS_Subpart_5132.7" xtrf="SubPart" class="- map/topicref ">

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS__PART_5101" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+      <title outputclass="1 Heading" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5101</ph> Federal Acquisition Regulation System</title>
+      <body class="- topic/body ">
+         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">(Revised 12 July 2022)</i></p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.1.dita#AFARS_Subpart_5101.1" class="- topic/xref ">Subpart 5101.1 – Purpose, Authority, Issuance</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.101.dita#AFARS_5101.101" class="- topic/xref ">5101.101 Purpose.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.1053.dita#AFARS_5101.1053" class="- topic/xref ">5101.105-3 Copies.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.108.dita#AFARS_5101.108" class="- topic/xref ">5101.108 FAR conventions.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.108_A.dita#AFARS_5101.108_A" class="- topic/xref ">5101.108
+                           (b)(S–90) Introduction of delegations matrix at Appendix GG and
+                           instructions for use.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.170.dita#AFARS_5101.170" class="- topic/xref ">5101.170 Peer reviews.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.2.dita#AFARS_Subpart_5101.2" class="- topic/xref ">Subpart 5101.2 – Administration</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.290.dita#AFARS_5101.290" class="- topic/xref ">5101.290 Routing documents and mailing addresses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.3.dita#AFARS_Subpart_5101.3" class="- topic/xref ">Subpart 5101.3 – Agency Acquisition Regulations</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.301.dita#AFARS_5101.301" class="- topic/xref ">5101.301 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.303.dita#AFARS_5101.303" class="- topic/xref ">5101.303 Publication and codification.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.304.dita#AFARS_5101.304" class="- topic/xref ">5101.304 Agency control and compliance procedures.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.30490.dita#AFARS_5101.30490" class="- topic/xref ">5101.304-90 Army control and compliance.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.4.dita#AFARS_Subpart_5101.4" class="- topic/xref ">Subpart 5101.4 – Deviations From the FAR</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.402.dita#AFARS_5101.402" class="- topic/xref ">5101.402 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.403.dita#AFARS_5101.403" class="- topic/xref ">5101.403 Individual deviations.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.40390.dita#AFARS_5101.40390" class="- topic/xref ">5101.403-90 Deviation copy and control number.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.404.dita#AFARS_5101.404" class="- topic/xref ">5101.404 Class deviations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.5.dita#AFARS_Subpart_5101.5" class="- topic/xref ">Subpart 5101.5 – Agency and Public Participation</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.5012.dita#AFARS_5101.5012" class="- topic/xref ">5101.501-2 Opportunity for public comments.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.6.dita#AFARS_Subpart_5101.6" class="- topic/xref ">Subpart 5101.6 – Career Development, Contracting Authority and Responsibilities</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.601.dita#AFARS_5101.601" class="- topic/xref ">5101.601 General.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.60190.dita#AFARS_5101.60190" class="- topic/xref ">5101.601-90 Department of the Army contracting authorities and responsibilities.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.6021.dita#AFARS_5101.6021" class="- topic/xref ">5101.602-1 Authority.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.602190.dita#AFARS_5101.602190" class="- topic/xref ">5101.602-1-90 Departmental review and approval.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.6022.dita#AFARS_5101.6022" class="- topic/xref ">5101.602-2 Responsibilities.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.602290.dita#AFARS_5101.602290" class="- topic/xref ">5101.602-2-90 Legal coordination.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.602291.dita#AFARS_5101.602291" class="- topic/xref ">5101.602-2-91 Contracting officer’s representative appointments.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.602292.dita#AFARS_5101.602292" class="- topic/xref ">5101.602-2-92 Ordering officer appointments.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.6023.dita#AFARS_5101.6023" class="- topic/xref ">5101.602-3 Ratification of unauthorized commitments.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.602390.dita#AFARS_5101.602390" class="- topic/xref ">5101.602-3-90 Ratification procedures.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.603.dita#AFARS_5101.603" class="- topic/xref ">5101.603 Selection, appointment, and termination of appointment for contracting officers.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.6031.dita#AFARS_5101.6031" class="- topic/xref ">5101.603-1 General.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.6032.dita#AFARS_5101.6032" class="- topic/xref ">5101.603-2 Selection.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.6033.dita#AFARS_5101.6033" class="- topic/xref ">5101.603-3 Appointment.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.603390.dita#AFARS_5101.603390" class="- topic/xref ">5101.603-3-90 Other individuals authorized to procure supplies and services on behalf of the Army.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.603391.dita#AFARS_5101.603391" class="- topic/xref ">5101.603-3-91 Restrictions.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.690.dita#AFARS_5101.690" class="- topic/xref ">5101.690 Procurement management review assistance.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.691.dita#AFARS_5101.691" class="- topic/xref ">5101.691 Management controls.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.692.dita#AFARS_5101.692" class="- topic/xref ">5101.692 Head of the contracting activity.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.693.dita#AFARS_5101.693" class="- topic/xref ">5101.693 Senior contracting official.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5101.69490.dita#AFARS_5101.69490" class="- topic/xref ">5101.694-90 Program or Project–specific Senior contracting official.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.7.dita#AFARS_Subpart_5101.7" class="- topic/xref ">Subpart 5101.7 – Determinations and Findings</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.707.dita#AFARS_5101.707" class="- topic/xref ">5101.707 Signatory authority.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.90.dita#AFARS_Subpart_5101.90" class="- topic/xref ">Subpart 5101.90 – Nonappropriated Funds</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.9001.dita#AFARS_5101.9001" class="- topic/xref ">5101.9001 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.9002.dita#AFARS_5101.9002" class="- topic/xref ">5101.9002 Contracting authority.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5101.91.dita#AFARS_Subpart_5101.91" class="- topic/xref ">Subpart 5101.91 – Authority to Award and Administer Grants, Cooperative Agreements, Technology Investment Agreements, and Other Transactions</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5101.9101.dita#AFARS_5101.9101" class="- topic/xref ">5101.9101 Authority and responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

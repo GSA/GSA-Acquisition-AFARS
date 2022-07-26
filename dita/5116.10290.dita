@@ -1,3 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_AFARS_topic_316" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5116.102-90</ph> Policies.</title><conbody><p outputclass="Normal">Contracting officers must document the rationale for selection of the contract type, to include consideration of the associated risks, in the contract file.  The supporting documentation may be located in the contract type justification, a separate determination and findings, memorandum for record, or other appropriate document.</p></conbody></concept>
+<concept id="AFARS_5116.10290" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5116.102-90</ph> Policies.</title><conbody>
+        <p>Contracting officers must document the rationale for selection of the contract type, to
+            include consideration of the associated risks, in the contract file. The supporting
+            documentation may be located in the contract type justification, a separate
+            determination and findings, memorandum for record, or other appropriate document.</p>
+        <p>Follow the procedures at <xref
+                href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5116.aspx" format="html"
+                scope="external">AFARS PGI 5116.102-90-1</xref> for selecting contract type. </p>
+        <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5116.aspx"
+                format="html" scope="external">AFARS PGI 5116.102-90-2</xref> for guidance on using
+            the Virtual Pricing website.</p>
+    </conbody></concept>

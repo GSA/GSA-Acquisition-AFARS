@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5142" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
+      <title outputclass="Heading 1" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5142</ph> Contract Administration and Audit Services</title>
+      <body class="- topic/body ">
+         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">(Revised 23 March 2022)</i></p>
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.1.dita#AFARS_Subpart_5142.1" class="- topic/xref ">Subpart 5142.1 – Contract Audit Services</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.190.dita#AFARS_5142.190" class="- topic/xref ">5142.190 Follow–up on contract audit reports.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5142.1901.dita#AFARS_5142.1901" class="- topic/xref ">5142.190-1 Responsibilities.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5142.1902.dita#AFARS_5142.1902" class="- topic/xref ">5142.190-2 Tracking of contract audit report recommendations.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5142.1903.dita#AFARS_5142.1903" class="- topic/xref ">5142.190-3 Reporting.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5142.1904.dita#AFARS_5142.1904" class="- topic/xref ">5142.190-4 Overage Audit Review Boards.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.2.dita#AFARS_Subpart_5142.2" class="- topic/xref ">Subpart 5142.2 – Contract Administration Services</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.202.dita#AFARS_5142.202" class="- topic/xref ">5142.202 Assignment of contract administration.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.3.dita#AFARS_Subpart_5142.3" class="- topic/xref ">Subpart 5142.3 – Contract Administration Office Functions</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.302.dita#AFARS_5142.302" class="- topic/xref ">5142.302 Contract administration functions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.6.dita#AFARS_Subpart_5142.6" class="- topic/xref ">Subpart 5142.6 – Corporate Administrative Contracting Officer</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.602.dita#AFARS_5142.602" class="- topic/xref ">5142.602 Assignment and location.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.7.dita#AFARS_Subpart_5142.7" class="- topic/xref ">Subpart 5142.7 – Indirect Cost Rates</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.703.dita#AFARS_5142.703" class="- topic/xref ">5142.703 General.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5142.7032.dita#AFARS_5142.7032" class="- topic/xref ">5142.703-2 Certification of indirect costs.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.15.dita#AFARS_Subpart_5142.15" class="- topic/xref ">Subpart 5142.15 – Contractor Performance Information</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.1502.dita#AFARS_5142.1502" class="- topic/xref ">5142.1502 Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.1503.dita#AFARS_5142.1503" class="- topic/xref ">5142.1503 Procedures.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC" href="5142.150390.dita#AFARS_5142.150390" class="- topic/xref ">5142.1503-90 Policy.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC" href="Subpart_5142.71.dita#AFARS_Subpart_5142.71" class="- topic/xref ">Subpart 5142.71 – Voluntary Refunds</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC" href="5142.7100.dita#AFARS_5142.7100" class="- topic/xref ">5142.7100 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

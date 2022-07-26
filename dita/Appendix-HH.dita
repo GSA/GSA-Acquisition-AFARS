@@ -2,27 +2,26 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="AFARS_APPENDIX_HH_topic_1">
+   <topic id="AFARS_Appendix-HH">
       <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph "/>APPENDIX–HH</title>
+         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> HH</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-HH-topic_2.dita#AFARS_APPENDIX_HH_topic_2">Policy and PWS Language</xref>
+                        href="Appendix-HH_PAPWSL.dita#AFARS_Appendix-HH_PAPWSL">Policy and PWS Language</xref>
                </p>
             </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-HH-topic_3.dita#AFARS_APPENDIX_HH_topic_3">Common and Data Services</xref>
+                        href="Appendix-HH_CADS.dita#AFARS_Appendix-HH_CADS">Common and Data Services</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-HH-topic_4.dita#AFARS_APPENDIX_HH_topic_4">CLIN SLIN Descriptions</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-HH_CSD.dita#AFARS_Appendix-HH_CSD">CLIN SLIN Descriptions</xref>
                </p>
             </li>
          </ul>

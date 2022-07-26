@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_AFARS_topic_388" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5118.271</ph> Contingency operation.</title><conbody><p outputclass="List1">(e) The head of the contracting activity shall make the determination as described in DFARS 218.271(e).  See Appendix GG for further delegation.</p></conbody></concept>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5118.271" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept "><title outputclass="Heading 3" class="- topic/title "><ph props="autonumber" class="- topic/ph ">5118.271</ph> Head of contracting activity
+        determinations.</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(e) See <xref href="Appendix-GG.dita#AFARS_Appendix-GG" outputclass="fm:ParaNumOnly" class="- topic/xref ">Appendix GG</xref>.</p>
+        <p class="- topic/p ">See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5118.aspx" format="html" scope="external" class="- topic/xref ">AFARS PGI 5118.2-1</xref> for additional information
+            on acquisition flexibilities. </p>
+        <p class="- topic/p ">See AFARS PGI 5118.204-1 for additional information on Humanitarian or peacekeeping
+            operation.</p></conbody></concept>

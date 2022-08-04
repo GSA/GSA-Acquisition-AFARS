@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5123.3704"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5123.370-4</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">(1)(i)  The head of the contracting activity shall approve the waiver of the mandatory requirements at DFARS PGI 222.370-4(1)(i).  See Appendix GG for further delegation. </p>
+   </conbody>
+</concept>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.402"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5101.402</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">(2)  The contracting officer will prepare all deviation requests in accordance with DFARS 201.402(2) and follow the procedures at 5101.301(b) to publish the deviation in the Federal Register.</p>
+   </conbody>
+</concept>

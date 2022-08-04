@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5153.21370"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5153.213-70</ph> Completion of DD Form 1155, order for supplies or services.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a)  <i class="+ topic/ph hi-d/i ">Instructions for DD Form 1155 entries.</i>  (See DFARS PGI 253.213-70.)</p>
+      <p outputclass="List1" class="- topic/p ">Block 19, Schedule of Supplies or Services, for task orders under job order contracts, see 5117.9004-3(g)(1).</p>
+   </conbody>
+</concept>

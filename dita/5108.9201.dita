@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5108.9201"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5108.9201</ph> References.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">Army Regulation (AR) 621-5 establishes the ACES and prescribes policies and responsibilities for its administration.</p>
+      <p outputclass="List1" class="- topic/p ">(a)  AR 350-20 provides for mission-required language training procured through ACES.</p>
+      <p outputclass="List1" class="- topic/p ">(b)  AR 380-67 outlines security requirements for ACES personnel.</p>
+   </conbody>
+</concept>

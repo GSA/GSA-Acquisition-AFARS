@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5119.8081"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5119.808-1</ph> Sole source.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a)  The contracting activity must notify the contracting activity small business specialist of the intent to proceed with the acquisition if it exceeds $100 million and the requesting agency has completed a justification in accordance with the requirements of FAR 6.303-1(b).</p>
+      <p outputclass="List1" class="- topic/p ">(b)  When direct negotiation with an 8(a) subcontractor does not proceed satisfactorily, the contracting officer must ask the SBA to enter negotiations promptly to expedite the award.</p>
+   </conbody>
+</concept>

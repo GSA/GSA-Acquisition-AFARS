@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5153.30310"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5153.303-10</ph> Contractor Performance Assessment Report System access request format.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="CsWDDR" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Submit a copy to the Contractor Performance Assessment Report System (CPARS) focal point upon award, along with the CPARS initial registration consolidated format at 5153.303-9. Other formats may be used if all applicable</i>
+         <i class="+ topic/ph hi-d/i ">information below is included.</i>
+         <i class="+ topic/ph hi-d/i ">)</i>
+      </p>
+      <p id="mnttVo" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Note</b>: <b class="+ topic/ph hi-d/b ">For report completion and security measures, user(s) are responsible for notifying</b>
+         <b class="+ topic/ph hi-d/b ">the focal point for removal of person(s) no longer associated with the contract(s) below. A change in Assessing Official Representative or Assessing Official requires that person</b>
+         <b class="+ topic/ph hi-d/b ">to</b>
+         <b class="+ topic/ph hi-d/b ">start an Interim Assessment for continuity.</b>
+      </p>
+      <p id="oruPpn" outputclass="Normal" class="- topic/p ">A. Enter Contract Numbers/Order Numbers:</p>
+      <p id="uoAXrT" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Note:</b>
+         <b class="+ topic/ph hi-d/b ">For</b>
+         <b class="+ topic/ph hi-d/b ">General Services Administration (</b>
+         <b class="+ topic/ph hi-d/b ">GSA</b>
+         <b class="+ topic/ph hi-d/b ">)</b>
+         <b class="+ topic/ph hi-d/b ">orders, you must include a GSA schedule number.</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="RGVbiB" class="- topic/p ">1.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="naXtzC" class="- topic/p ">6.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="IomTdN" class="- topic/p ">2.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="whgWuZ" class="- topic/p ">7.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="mbCaXf" class="- topic/p ">3.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MOvBPs" class="- topic/p ">8.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="TZCUbt" class="- topic/p ">4.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oDYmla" class="- topic/p ">9.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="bwiljV" class="- topic/p ">5.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nGLbAl" class="- topic/p ">10.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="MolERe" outputclass="Normal" class="- topic/p "/>
+      <p id="JqpdVe" outputclass="Normal" class="- topic/p ">B. Enter Name of Assessing Official:</p>
+      <p id="ebooEs" outputclass="Normal" class="- topic/p ">The Assessing Official may input ratings and narrative, sign the assessment report, and release it to the contractor, and modify the report following contractor comments or close the report if it is not contentious. The Assessing Official is the person with overall responsibility for the program/project or job/task/delivery order. The Assessing Official must be a U.S. Army employee.</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="LWKEFY" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Name</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="waIQWc" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Email Address</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="iuAYav" class="- topic/p ">1.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="AjeMpt" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="WxxeZX" outputclass="Normal" class="- topic/p "/>
+      <p id="teLyRZ" outputclass="Normal" class="- topic/p ">C. Enter Name(s) of Assessing Official Representative(s) (Optional):</p>
+      <p id="eEJgKv" outputclass="Normal" class="- topic/p ">The Assessing Official Representative (AOR) may assist the Assessing Official by inputting ratings and narrative. The AOR may not sign the report. Examples of AORs include technical experts (i.e., engineering, logistics), Defense Contract Management Agency program integrators, quality and other team members. An AOR must be a government employee.</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="IEOkOF" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Name</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ekAsyz" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Email Address</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="zoAeAA" class="- topic/p ">1.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GPJvce" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gklutr" class="- topic/p ">2.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wqGugB" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="BedsmN" class="- topic/p ">3.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iVunpb" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="vHeLuf" class="- topic/p ">4.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="mzQApv" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="tLnnmU" outputclass="Normal" class="- topic/p "/>
+      <p id="f6ygwr9h" outputclass="Normal" class="- topic/p ">D. Enter Name of Contractor Representative:</p>
+      <p id="xUtnQN" outputclass="Normal" class="- topic/p ">This individual, the Contractor’s Program Manager equivalent, will comment on the Government Assessing Official’s assessment. The contractor representative can input comments for the contracts listed above and view the completed report(s).</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="LSiMbN" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Name</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DcXAlM" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Email Address</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="toqsgP" class="- topic/p ">1.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="mvtekF" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="hoMuTV" class="- topic/p ">2.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wVAqrU" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="AquZIO" class="- topic/p ">3.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="LysvCs" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="HNoifT" class="- topic/p ">4.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="sLAeLQ" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="hnXEjY" outputclass="Normal" class="- topic/p "/>
+      <p id="XImnBf" outputclass="Normal" class="- topic/p ">E. Enter Name of Reviewing Official:</p>
+      <p id="llFPul" outputclass="Normal" class="- topic/p ">A Reviewing Official, generally a level above the Assessing Official, provides the check-and-balance whenever the Government Assessing Official and the Contractor Representative disagree on the assessment. The Reviewing Official can input comments for the contracts listed above. The Reviewing Official must be a U.S. Army employee in the Assessing Official's chain of command.</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     colwidth="50*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="aDSfUM" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Name</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jTdrGK" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Email Address</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ppiqPD" class="- topic/p ">1.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="huBxhA" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="hdHXbt" outputclass="Normal" class="- topic/p "/>
+      <p id="dVgZUb" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Individual Submitting This Request for Access:</b>
+      </p>
+      <p id="lWgvGC" outputclass="Normal" class="- topic/p ">Name:</p>
+      <p id="eMOcxZ" outputclass="Normal" class="- topic/p ">Title:</p>
+      <p id="dDKCAK" outputclass="Normal" class="- topic/p ">Phone:</p>
+      <p id="oMYVCd" outputclass="Normal" class="- topic/p ">Date:</p>
+   </conbody>
+</concept>

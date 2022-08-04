@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AFARS_topic_853">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">2.2</ph> Develop a Source Selection Plan</title>
+   <conbody>
+      <p id="ieWoUc" outputclass="Text Body">
+         <b>Selection of Evaluation Factors</b>
+         <b>.</b> Selecting the correct evaluation factors is the most important decision in the evaluation process. Structure the evaluation factors and their relative importance to clearly reflect the needs of your acquisition.</p>
+      <p id="XexJAu" outputclass="Text Body">
+         <b>Mandatory Evaluation Considerations</b>
+         <b>.</b> In every source selection, you must evaluate cost/price, and the technical quality of the proposed product or service through one or more non-cost evaluation factors (e.g. technical excellence, management capability, and key personnel qualifications).</p>
+      <p id="p__Hlt498146333" outputclass="Normal">Additionally, you must evaluate past performance on all negotiated competitive acquisitions expected to exceed the thresholds identified in FAR 15.304 and DFARS 215.304, unless the PCO documents why it would not be appropriate. There may be other required evaluation factors, such as small business participation, based upon regulatory and/or statutory requirements (see FAR 15.304 and its supplements).</p>
+      <p id="KBqOvS" outputclass="Normal">From this point, the acquisition team must apply prudent business judgement to add other evaluation factors, subfactors, and elements that are important to selecting the most advantageous proposal(s). The number of factors and subfactors should be kept to the absolute minimum required to effectively assess the proposals. The use of more factors than needed to conduct the evaluation can complicate and extend the process while providing no additional value, and dilute the meaningful discriminators. Limiting factors also serves to reduce the evaluation oversight span-of-control responsibilities of the SSEB leadership, SSA/SSAC, PCO and legal counsel, thereby permitting more focused oversight on the remaining (and most important) factors/subfactors and reducing the likelihood of evaluation errors.</p>
+      <p id="aZDKpb" outputclass="Normal">Common evaluation factors are cost/price, technical, past performance, and small business participation. Additionally, as appropriate, you may have other evaluation factors and/or may use one or more levels of subfactors. The standard Army naming convention for the various levels is: Evaluation Factor, Subfactor, and Element.</p>
+      <p id="dwsdsQ" outputclass="Normal">
+         <image height="400px" href="Graphics/image6.png" outputclass="Right" width="1084px" />
+      </p>
+      <p id="vFQMFE" outputclass="Ctr normal">
+         <i>Figure 2-1: Sample Evaluation Factor Structure</i>
+      </p>
+      <p id="RuuctU" outputclass="Normal">
+         <b>
+            <i>Establishing Evaluation Factors and Subfactors</i>
+         </b>
+         <b>
+            <i>.</i>
+         </b> The acquisition team develops the evaluation factors, and any appropriate subfactors and elements. The team should select the factors based on user requirements, acquisition objectives, thorough market research and risk analysis. Figure 2-2 illustrates the steps involved in developing the factors and subfactors.</p>
+      <p id="eTfHuP" outputclass="Normal">Once the RFP is issued, the factors and subfactors give the offerors insight into the significant considerations the Government will use in selecting the best value proposal and help them to understand the source selection process. Carefully consider whether minimum “go/no go” or “pass/fail” entry-gates, can be included. When used properly, this use of entry-gate criteria can streamline the evaluation process significantly.</p>
+      <table colsep="0" rowsep="0">
+         <tgroup cols="1">
+            <colspec colname="1" colnum="1" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="yiTFsO"></p>
+                     <ul>
+                        <li id="qcdMdO">
+                           <p id="GWFGyF">
+                              <b>Conduct market research as a starting point for development of criteria in order to maximize competition</b>
+                           </p>
+                        </li>
+                        <li id="oLOArH">
+                           <p id="pn6dmbyb">
+                              <b>Conduct risk analysis in accordance with FAR 7.105 as necessary to support the acquisition.</b>
+                           </p>
+                        </li>
+                        <li id="RvcQQx">
+                           <p id="bLGbxu">
+                              <b>Brainstorm critical factors and subfactors.</b>
+                           </p>
+                        </li>
+                        <li id="MHAJSO">
+                           <p id="GUHjub">
+                              <b>Identify key discriminators.</b>
+                           </p>
+                        </li>
+                        <li id="JWvQta">
+                           <p id="FEhLiI">
+                              <b>Define the discriminators as evaluation factors and subfactors, and their relative order of importance.</b>
+                           </p>
+                        </li>
+                        <li id="cmzxyE">
+                           <p id="tWUXSY">
+                              <b>Obtain SSA approval of the list of factors and subfactors.</b>
+                           </p>
+                        </li>
+                        <li id="wYYfGW">
+                           <p id="uiIuKD">
+                              <b>When a draft RFP is used, clearly inform offerors in the draft RFP of the proposed factors and subfactors, and their relative order of importance.</b>
+                           </p>
+                        </li>
+                        <li id="ImMNLv">
+                           <p id="LfaebZ">
+                              <b>Assess feedback during presolicitation exchanges.</b>
+                           </p>
+                        </li>
+                        <li id="ccjTwJ">
+                           <p id="YcSGQM">
+                              <b>Get SSA approval as necessary to change the factors and subfactors before issuing the RFP.</b>
+                           </p>
+                        </li>
+                        <li id="DUgxrk">
+                           <p id="gfwr69py">
+                              <b>Clearly inform offerors of the factors and subfactors, and their relative importance, in the formal RFP. Do not change the factors and subfactors after receipt of proposals except in extreme circumstances, and only then after obtaining SSA?s approval and amending the RFP and SSP.</b>
+                           </p>
+                        </li>
+                     </ul>
+                     <p id="ovaGwx"></p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="yweelb" outputclass="Ctr normal">
+         <i>Figure 2-2</i>
+         <i>:</i>
+         <i>Steps Involved in Formulating Evaluation Factors and Subfactors</i>
+      </p>
+      <p id="tBUYGa" outputclass="Normal">
+         <b>
+            <i>Nongovernment Advisors</i>
+         </b>
+         <b>
+            <i>.</i>
+         </b> Nongovernment advisors may assist in, and provide input, regarding the evaluation, but they shall not determine ratings or rankings of the offeror’s proposals. Nongovernment sources can include academia, nonprofit institutions, and industry.</p>
+      <p id="JQTnLj" outputclass="Normal">
+         <b>
+            <i>Reminder:</i>
+         </b>When using nongovernment advisors, you must advise potential offerors of the nongovernment advisors’ participation in the source selection, and obtain the offerors consent to provide access of its proprietary information to the nongovernment advisor, or the company which employs the nongovernment advisor. Figure 2-3 identifies suggested RFP language relative to the use of commercial firms to support the source selection process. <i>(Reference DOD Source Selection Procedures 2.2.8)</i>
+      </p>
+      <table colsep="0" rowsep="0">
+         <tgroup cols="1">
+            <colspec colname="1" colnum="1" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="hZZFAc">(1) Offerors are advised that employees of the firms identified below may serve as non-government advisors in the source selection process. These individuals will be authorized access only to those portions of the proposal data and discussions that are necessary to enable them to perform their respective duties. Such firms are expressly prohibited from competing on the subject acquisition.</p>
+                     <p id="XWyImW">INSERT NAMES, ADDRESSES, AND TELEPHONE NUMBERS OF FIRMS</p>
+                     <p id="vfENOr">(2) In accomplishing their duties related to the source selection process, the aforementioned firms may require access to proprietary information contained in the offerors' proposals. Therefore, pursuant to FAR 9.505?4, these firms must execute an agreement with each offeror that states that they will (1) protect the offerors? information from unauthorized use or disclosure for as long as it remains proprietary and (2) refrain from using the information for any purpose other than that for which it was furnished. To expedite the evaluation process, each offeror must contact the above companies to effect execution of such an agreement prior to the submission of proposals. Each offeror shall submit copies of the agreement with their proposal.</p>
+                     <p id="TrckEV"></p>
+                     <b>NOTE: This requirement shall flow down to all Subcontractors.</b>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="jgw1w9am" outputclass="Ctr normal">
+         <i>Figure 2-3: Suggested RFP Language for the use of Nongovernment Advisors</i>
+      </p>
+      <p id="laVaEx" outputclass="Normal">
+         <b>
+            <i>Source Selection for Services</i>
+         </b>
+         <b>
+            <i>.</i>
+         </b> The source selection process for services, including development of the SSP, is often very complex. Organizations must ensure that the SST is comprised of qualified personnel with specific knowledge of the types of services to be acquired.</p>
+      <p id="OOnWsp" outputclass="Normal">The use of Sample Tasks is an effective tool in the evaluation of services. Sample Tasks can provide insight as to the offeror’s level of understanding of the work to be performed, as well as how the technical approach relates to the cost/price proposed for that Sample Task. See Appendix G for a sample of a Sample Task.</p>
+      <ul>
+         <li id="yriEuz">
+            <p id="mnz85zz1">To the maximum extent practicable, sample tasks should set forth requirements that are contemplated for award to establish the expectation that offerors will be held accountable for the resources and costs they propose.</p>
+         </li>
+         <li id="rHpxml">
+            <p id="4g694zqn">The use of generic or hypothetical sample tasks may unintentionally create an environment encouraging offerors to understate resources and costs in recognition of the fact that the sample tasks will not be awarded. Consequently, care must be taken to draft the sample tasks as closely as possible to the types and scope of services expected to be acquired from the Performance Work Statement (PWS). If possible, consider the use of a “live” task, which would be awarded at time of contract award<i>.</i>
+            </p>
+         </li>
+         <li id="iMwUDo">
+            <p id="mxxhvww8">Evaluation criteria should be limited to essential areas of performance that are measurable during the proposal evaluation process. This will permit a more focused evaluation of the offeror's proposed solution to the sample task.</p>
+         </li>
+         <li id="FdGwdY">
+            <p id="b2qamd9l">If utilizing a sample task, ensure this is accounted for and aligned with Sections L and M.</p>
+         </li>
+      </ul>
+   </conbody>
+</concept>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_Appendix-CC"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">APPENDIX - CC</ph> Table Of Contents</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_APMRP.dita#AFARS_Appendix-CC_APMRP"
+                        class="- topic/xref ">Army Procurement Management Review Program</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_1.dita#AFARS_Appendix-CC_Part_1"
+                              class="- topic/xref ">Part 1 - Introduction</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-100.dita#AFARS_Appendix-CC-100"
+                                    class="- topic/xref ">CC-100 Purpose.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-101.dita#AFARS_Appendix-CC-101"
+                                    class="- topic/xref ">CC-101 Mission and Objectives.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-102.dita#AFARS_Appendix-CC-102"
+                                    class="- topic/xref ">CC-102 Applicability.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_2.dita#AFARS_Appendix-CC_Part_2"
+                              class="- topic/xref ">Part 2 - PMR Policy and Philosophy</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-200.dita#AFARS_Appendix-CC-200"
+                                    class="- topic/xref ">CC-200 Policy.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-201.dita#AFARS_Appendix-CC-201"
+                                    class="- topic/xref ">CC-201 Philosophy.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_3.dita#AFARS_Appendix-CC_Part_3"
+                              class="- topic/xref ">Part 3 - Responsibilities</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-301.dita#AFARS_Appendix-CC-301"
+                                    class="- topic/xref ">CC-301 Assistant Secretary of the Army (Acquisition, Logistics and Technology) (ASA(ALT)).</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-302.dita#AFARS_Appendix-CC-302"
+                                    class="- topic/xref ">CC-302 Deputy Assistant Secretary of the Army for Procurement (DASA(P)).</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-303.dita#AFARS_Appendix-CC-303"
+                                    class="- topic/xref ">CC-303 Directorate of Review and Oversight, Office of the DASA(P).</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-304.dita#AFARS_Appendix-CC-304"
+                                    class="- topic/xref ">CC-304 Heads of Contracting Activities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_4.dita#AFARS_Appendix-CC_Part_4"
+                              class="- topic/xref ">Part 4 - Procedures</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-400.dita#AFARS_Appendix-CC-400"
+                                    class="- topic/xref ">CC-400 Scheduling.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-401.dita#AFARS_Appendix-CC-401"
+                                    class="- topic/xref ">CC-401 Types of Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-402.dita#AFARS_Appendix-CC-402"
+                                    class="- topic/xref ">CC-402 Approach of Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-403.dita#AFARS_Appendix-CC-403"
+                                    class="- topic/xref ">CC-403 Preparation for Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-404.dita#AFARS_Appendix-CC-404"
+                                    class="- topic/xref ">CC-404 Results of Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-CC-405.dita#AFARS_Appendix-CC-405"
+                                    class="- topic/xref ">CC-405 Annual Summary Health Report.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

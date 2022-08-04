@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5125.8704"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5125.870-4</ph> Contracting procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(c)(2)(ii)  The head of the contracting activity shall make the determination at DFARS 225.870-4(c)(2)(ii).  See Appendix GG for further delegation.</p>
+      <p outputclass="List2" class="- topic/p ">(5)  The head of the contracting activity shall make the determination at DFARS 225.870-4(c)(5).  See Appendix GG for further delegation.</p>
+   </conbody>
+</concept>

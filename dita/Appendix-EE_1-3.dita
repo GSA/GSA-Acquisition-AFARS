@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE_1-3"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">1-3.</ph> Background</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="JpqqTO" outputclass="Normal" class="- topic/p ">The General Services Administration (GSA) awarded a multiple award schedule contract for U.S. Government commercial purchase card services. The contractor (hereinafter referred to as the “Servicing Bank”) provides commercial GPCs and associated services. The Army issues a task order to the servicing bank for its GPC services.</p>
+   </conbody>
+</concept>

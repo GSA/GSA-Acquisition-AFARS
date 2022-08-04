@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-101"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">CC-101</ph> Mission        and Objectives.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">The Department of the Army, through the Office of the Deputy Assistant Secretary of the
+            Army (Procurement), shall establish, execute, and provide oversight of a tiered PMR
+            program reviewing each contracting activity every three years in order to – </p>
+      <p class="- topic/p ">(a) Assess, analyze, and communicate the health of Army contracting to senior Army
+            leadership; </p>
+      <p class="- topic/p ">(b) Ensure management oversight and control of contracting related issues;</p>
+      <p class="- topic/p ">(c) Ensure compliance with Federal, Defense, and Army acquisition regulations and
+            policies; and</p>
+      <p class="- topic/p ">(d) Provide best practices for the Army to enhance the procurement process.</p>
+   </conbody>
+</concept>

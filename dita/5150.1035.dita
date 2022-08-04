@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5150.1035"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5150.103-5</ph> Processing cases.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">(1)  Within five working days of receipt of a request for contract adjustment, regardless of dollar amount, the contracting officer shall send a copy, through procurement channels, to the following address:</p>
+      <p outputclass="Normal" class="- topic/p ">Attn:  SAGC, Recorder, Army Contract Adjustment Board</p>
+      <p outputclass="Normal" class="- topic/p ">Office of the General Counsel</p>
+      <p outputclass="Normal" class="- topic/p ">104 Army Pentagon</p>
+      <p outputclass="Normal" class="- topic/p ">Washington, DC 20310-0104.</p>
+      <p outputclass="List2" class="- topic/p ">(2)  Send documentation to the addressee in paragraph (1) of this section.</p>
+   </conbody>
+</concept>

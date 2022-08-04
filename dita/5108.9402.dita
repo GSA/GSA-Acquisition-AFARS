@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5108.9402"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5108.9402</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="aohMnp" outputclass="List1" class="- topic/p ">(a) Except as provided in (b), contracting officers shall use contracts administered by the U.S. Army Intelligence and Security Command (INSCOM) to procure foreign language support.</p>
+      <p id="yTDjSx" outputclass="List1" class="- topic/p ">(b)(1) If the contracting officer contemplates using a non-INSCOM-administered contract to procure foreign language support, the contracting officer shall send an exception request to the following address no later than 90 days prior to the proposed contract award:</p>
+      <p id="rWJFdF" class="- topic/p ">USARMY Pentagon HQDA DCS G-2 List Foreign Language Office</p>
+      <p id="FRZEEs" class="- topic/p ">
+         <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-dcs-g-2.list.foreign-language-office@mail.mil"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">usarmy.pentagon.hqda-dcs-g-2.list.foreign-language-office@mail.mil</u>
+         </xref>.</p>
+      <p id="jWSMly" outputclass="List2" class="- topic/p ">(2) At a minimum, the request for exception shall include –</p>
+      <p id="JiEHMp" outputclass="List3" class="- topic/p ">(i) The scope of the contract to include the mission, the number of linguists required, and the job description of the linguists;</p>
+      <p id="XsmJRl" outputclass="List3" class="- topic/p ">(ii) A justification statement;</p>
+      <p id="cVpyOp" outputclass="List3" class="- topic/p ">(iii) The type of funds to be used to pay for the contract;</p>
+      <p id="psCrMv" outputclass="List3" class="- topic/p ">(iv) Copies of the proposed contract and statement of work;</p>
+      <p id="dSSXLc" outputclass="List3" class="- topic/p ">(v) Any special Government-provided benefits; and</p>
+      <p id="CmBkSH" outputclass="List3" class="- topic/p ">(vi) The point-of-contact information for the proposed contract.</p>
+      <p id="XACPPr" outputclass="List2" class="- topic/p ">(3) HQDA Office of the Deputy Chief of Staff for Intelligence (G-2) will review the exception request and notify the requestor whether the proposed award can proceed.</p>
+      <p id="FRnUdX" outputclass="List1" class="- topic/p ">(c) Army organizations with existing contracts for foreign language support outside the INSCOM-administered contracts shall contact the G-2 at the address provided in paragraph (b)(1) of this section to determine if movement of the requirements to the INSCOM-administered contracts is appropriate.</p>
+   </conbody>
+</concept>

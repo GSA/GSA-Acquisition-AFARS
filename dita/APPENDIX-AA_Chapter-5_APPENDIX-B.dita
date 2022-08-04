@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Ctr 2 heading" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">APPENDIX B</ph> Table Of Contents</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="zLnlPK" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Tradeoff Source Selection Process:</b>
+      </p>
+      <p id="FmhLKf" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Subjective Tradeoff and Value Adjusted Total Evaluated Price Tradeoff</b>
+      </p>
+      <p id="RzBAMr" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">B-1 Subjective Tradeoff</i>
+         </b>
+      </p>
+      <p id="AkTEMY" class="- topic/p ">Where the tradeoff source selection process is used to obtain best value, <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">the subjective tradeoff process is appropriate for most Army source selections.</i>
+         </b> The subjective tradeoff process provides the following benefits in source selection:</p>
+      <ul class="- topic/ul ">
+         <li id="ymGGbh" class="- topic/li ">
+            <p id="bey8tdrh" class="- topic/p ">The ability for offerors to propose various technical approaches that may be of benefit to the Government. The competitive environment should encourage the freedom to do so depending upon what the solicitation places the most value/importance upon;</p>
+         </li>
+         <li id="lEsJao" class="- topic/li ">
+            <p id="5ktrz3ls" class="- topic/p ">The ability to have meaningful comparisons and establish discriminators among competing proposals;</p>
+         </li>
+         <li id="twIukP" class="- topic/li ">
+            <p id="gdoq75x" class="- topic/p ">The ability to place a greater value on past performance by enabling discernment of an offeror’s performance record;</p>
+         </li>
+         <li id="haObDf" class="- topic/li ">
+            <p id="lzp7zut" class="- topic/p ">The ability of the SSA to give consideration to the benefit/value of non-cost/price factor differences between offerors and to determine if those differences justify paying the cost/price differential between them.</p>
+         </li>
+      </ul>
+      <p id="PEuqKW" outputclass="Normal" class="- topic/p ">When using this process, clearly:</p>
+      <ul class="- topic/ul ">
+         <li id="pxGJwp" class="- topic/li ">
+            <p id="g21qqqrb" class="- topic/p ">State the relative importance of the factors and subfactors;</p>
+         </li>
+         <li id="LXTBhW" class="- topic/li ">
+            <p id="xiy5dl5h" class="- topic/p ">Describe in Section L approaches or capabilities that the Government places a higher value on for exceeding the threshold (minimum) requirements if applicable, and;</p>
+         </li>
+         <li id="SIuNUd" class="- topic/li ">
+            <p id="zxzybkm" class="- topic/p ">Describe in Section M how the Government will assign findings (strengths or significant strengths) correlated to the expected positive impact of, or benefit received, where the offeror exceeds threshold requirements when evaluating these areas.</p>
+         </li>
+      </ul>
+      <p id="ewxNVu" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">Use of Entry-Gate Criteria –</i>
+         </b> As part of the subjective tradeoff source selection process, the DOD Source Selection Procedures allows for the use of entry-gate criteria. This is considered a combination approach utilizing concepts from both LPTA and Subjective Tradeoff. When determining your evaluation criteria, the PM and the PCO should closely examine the key requirements and carefully consider whether some objective elements (i.e. entry-gate criteria) could be evaluated using an acceptable/unacceptable or pass/fail rating methodology. During the evaluation of proposals, offerors must be determined to be acceptable or pass the entry-gate criteria in order to advance in the subjective tradeoff evaluation. When the requirement can be clearly stated with a corresponding standard of proof, using this combination approach with entry-gate criteria can simplify and streamline the evaluation process. See also Appendix C for more information on acceptable/ unacceptable criteria.</p>
+      <p id="vBKaha" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">B-2 Value Adjusted Total Evaluated Price Tradeoff</i>
+         </b>
+      </p>
+      <p id="IOxIMp" outputclass="Normal" class="- topic/p ">VATEP may be appropriate where the PM is able to establish an affordability cap (limits on pursuing any above-threshold requirements), determine a relative order of importance for above-minimum performance or criteria, and assign a monetary value. <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">Use of VATEP may be most suitable for</i>
+         </b>
+         <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">procuring developmental items, where the Government can determine the value (or worth) of “better performance” and quantify it in the RFP.</i>
+         </b>
+      </p>
+      <p id="EZgLvx" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">VATEP Example 1</b>
+      </p>
+      <p id="osAhnE" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Scenario:</b> This effort is for the purchase of an aircraft with multiple minimum performance specifications (threshold), some of which also have desired performance specifications (objective). The PM / RA has identified the 3 most desired objectives for which a Value Adjusted Total Evaluated Price will be determined.</p>
+      <p id="sZlyMp" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <u class="+ topic/ph hi-d/u ">SECTION M LANGUAGE</u>
+         </b>
+         <b class="+ topic/ph hi-d/b ">:</b> At the end of the paragraph, “Basis of Award”, insert the following language:This RFP employs the use of Value Adjusted Total Evaluated Price (VATEP) techniques which identifies, in advance, the value placed on above-threshold performance or capabilities in the Air Movement Mission-Range and Payload, Self-Deployment, and/or Cruise Airspeed requirements. The specific VATEP procedures and values for this effort are set forth below:If an offeror’s proposal exceeds the mandatory minimum performance specifications for the Air Movement Mission-Range and Payload, Self-Deployment Mission, and/or Cruise Airspeed requirements set forth in the Air Vehicle technical subfactor, the following VATEP procedures will be applied:An offeror can earn VATEP evaluation credit for meeting performance between the threshold and objective for the Air Movement Mission-Range and Payload and/or Cruise Airspeed requirements. An offeror can also earn VATEP evaluation credit for meeting the objective for the Self-Deployment Mission. The VATEP eligible objectives shall be embodied in the FUA Aircraft and also priced and delivered in Contract Line Item Number (CLIN) X001AA.The offeror’s total evaluated price for CLIN X001AA will be adjusted, for evaluation purposes only, in accordance with the chart below where above-threshold performance has been achieved for any of the three objectives identified. The VATEP objectives must be available on the first aircraft in order to be eligible for VATEP evaluation credit. Risk will not be assessed in VATEP since risk was already assessed in the Air Vehicle subfactor.</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="MlLBXp" class="- topic/p ">VATEP Objectives</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PkwlTm" class="- topic/p ">Specification Paragraph</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oqQAvz" class="- topic/p ">Maximum VATEP % Reduction in CLIN X001AA Proposed Price</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XnZeGw" class="- topic/p ">Calculation of VATEP %</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="tYkBtv" class="- topic/p ">Identify where in Offeror’s proposal the VATEP objective is met or partially met</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="rUmAAc" class="- topic/p ">Air Movement Mission-Range and Payload</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="sILpHW" class="- topic/p ">6.3.2</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zWMWUu" class="- topic/p ">3%</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TDTmPa" class="- topic/p ">(Offerors proposed payload less the threshold of 2100)/600*3%</p>
+                     <p id="BGWCCY" class="- topic/p ">[Not-to-Exceed 3%)</p>
+                     <p id="BxNYbo" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <i class="+ topic/ph hi-d/i ">NOTE:</i>
+                        </b>
+                        <i class="+ topic/ph hi-d/i ">2100 is the threshold and 600 is the delta between the threshold and objective</i>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="gWnKnI" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="jMyMEr" class="- topic/p ">Self-Deployment</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QeswxD" class="- topic/p ">6.3.1</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="WwvSrn" class="- topic/p ">2%</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="LmNJlQ" class="- topic/p ">Objective is binary. An Offerors proposal will either meet or fail to meet the objective.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iJMNdX" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="IyztyD" class="- topic/p ">Cruise Airspeed</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CQnDXH" class="- topic/p ">6.1.6</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ElBXlx" class="- topic/p ">1%</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="evGkqy" class="- topic/p ">(Offerors proposed cruise airspeed less the threshold of 250)/150*1%</p>
+                     <p id="RyZYrW" class="- topic/p ">[Not-to-Exceed 1%]</p>
+                     <p id="fVfChx" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <i class="+ topic/ph hi-d/i ">NOTE</i>
+                        </b>
+                        <i class="+ topic/ph hi-d/i ">: 250 is the threshold and 150 is the delta between the threshold and objective</i>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="NIycpR" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="sfJphB" outputclass="Normal" class="- topic/p ">The SSA will consider the VATEP of the cost/price factor, along with the other evaluation factors, in making the source selection decision.<i class="+ topic/ph hi-d/i ">VATEP</i>
+         <i class="+ topic/ph hi-d/i ">is a technique used for evaluation purposes only. The value adjusted total evaluated price will not change the proposed unit prices set forth in Section B of the proposal, nor will it change the estimated contract value for award purposes.</i>
+      </p>
+      <p id="x9h8f8nm" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <u class="+ topic/ph hi-d/u ">SECTION L LANGUAGE</u>
+         </b>: The offeror shall complete RFP Attachment L-5 (VATEP Calculations) to facilitate the Government’s review process.</p>
+      <p id="85p333hp" outputclass="Normal" class="- topic/p ">(<b class="+ topic/ph hi-d/b ">NOTE:</b> RFP Attachment L-5 contains the chart identified in Section M above.)</p>
+      <p id="idDIjJ" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">VATEP Example 2</b>
+      </p>
+      <p id="UQakTA" outputclass="Normal" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">Example:</i> The Army is buying a large equipment trailer (LET) using VATEP, and one of the requirements is maximum payload. The threshold is 80,000 lbs, and the objective is 85,000. As stated in the RFP, During Step 2 of the VATEP process the SST will adjust each offeror’s total proposed price (TPP) to derive the total evaluated price (TEP) by $1,000 for each 50 lbs. of increased payload over the threshold, for a maximum adjustment to the TEP of $100,000. This adjustment is for evaluation purposes only, and will not change the proposed pricing, which will become the awarded price. If an offeror proposes the threshold for payload, then they will receive no adjustment.</p>
+      <p id="WNnSGV" outputclass="Normal" class="- topic/p ">In this example, four proposals are received:</p>
+      <ul class="- topic/ul ">
+         <li id="opYSNw" class="- topic/li ">
+            <p id="af6w0zwp" class="- topic/p ">Offeror A: TPP=$1,050,000; at least an “acceptable” rating for all minimum requirements, proposes a maximum payload of 83,500 lbs, an increase of 3,500 lbs. over the threshold.</p>
+         </li>
+         <li id="xKUrIn" class="- topic/li ">
+            <p id="9nhnwigk" class="- topic/p ">Offeror B: TPP=$1,000,000; at least an “acceptable” rating for all minimum requirements, proposes the threshold maximum payload of 80,000 lbs.</p>
+         </li>
+         <li id="jKAJRA" class="- topic/li ">
+            <p id="19a7te79" class="- topic/p ">Offeror C: TPP=$1,150,000; at least an “acceptable” rating for all minimum requirements, proposes a maximum payload at the objective level of 85,000 lbs, an increase of 5,000 lbs over the threshold</p>
+         </li>
+         <li id="oBgPzJ" class="- topic/li ">
+            <p id="49aoydqt" class="- topic/p ">Offeror D: TPP=$950,000; “unacceptable” for two minimum requirements, proposes a maximum payload at the objective level of 85,000 lbs, an increase of 5,000 lbs. over the threshold. <i class="+ topic/ph hi-d/i ">Offeror</i>
+               <i class="+ topic/ph hi-d/i ">D is eliminated in Step 1.</i>
+            </p>
+         </li>
+      </ul>
+      <p id="mEjuXK" outputclass="Normal" class="- topic/p ">At the conclusion of Step 1, offeror B has the lowest TPP, with offeror A as the second-lowest cost/price and Offeror C as the highest price. However, offerors A and C have their TPPs adjusted since they have proposed maximum payloads above the threshold, while offeror B has no adjustment since they have proposed only the threshold maximum payload. The TEP adjustments are as follows:</p>
+      <ul class="- topic/ul ">
+         <li id="JRPGTG" class="- topic/li ">
+            <p id="5s4dkg2" class="- topic/p ">Offeror A has proposed an increase of 3,500 lbs, which leads to a decrease of their TPP by $70,000, for a TEP of $980,000.</p>
+         </li>
+         <li id="xwlKBu" class="- topic/li ">
+            <p id="unf57r6q" class="- topic/p ">Offeror B has proposed the threshold, and receives no adjustment to their TPP. Therefore, their TEP is $1,000,000.</p>
+         </li>
+         <li id="vCIXiZ" class="- topic/li ">
+            <p id="2mbme2a" class="- topic/p ">Offeror C has a proposed increase of 5,000 lbs, which leads to a decrease of their TPP by the maximum amount of $100,000, for a TEP of $1,050,000.</p>
+         </li>
+      </ul>
+      <p id="IvuWtW" outputclass="Normal" class="- topic/p ">
+         <image height="91.65mm"
+                href="Graphics/image3.jpeg"
+                width="165.10mm"
+                placement="inline"
+                class="- topic/image "/>
+      </p>
+      <p id="KMErqH" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Requiremen</b>t: The US Government (USG) is soliciting for a large equipment trailer (LET). The LET has a rated payload of a minimum of 80,000 lbs (40 tons), with an objective payload of 85,000 lbs (42.5 tons). The LET is to be used to transport a variety of equipment. The LET will be employed for use on primary and secondary roads. The payload objective will be used to determine a Value Adjusted Total Evaluated Price (VATEP).</p>
+      <p id="bqFGSn" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <u class="+ topic/ph hi-d/u ">SECTION M LANGUAGE</u>
+         </b>: At the end of the “Basis of Award” paragraph, insert the following language:</p>
+      <p id="eZNUwp" outputclass="Normal" class="- topic/p ">This RFP employs the use of the Value Adjusted Total Evaluated Price (VATEP) technique, which identifies in advance the value placed on above-threshold performance for the payload requirement. The specific VATEP procedures and value for this effort are set forth below.The Offeror’s total proposed price will be adjusted to arrive at a total evaluated price, for evaluation purposes only, in accordance with the chart below where above-threshold performance has been achieved for the payload requirement. The VATEP objective must be available on the first LET in order to be eligible for VATEP evaluation credit. Risk will not be assessed in VATEP. For each 50 lbs of increased payload, the total evaluated price (TEP) will be reduced by $1,000, for a maximum adjustment to TEP of $100,000. No credit will be provided above the maximum for performance over the objective.</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="QUzuWj" class="- topic/p ">VATEP Objectives</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jGXPRS" class="- topic/p ">ATPD Paragraph</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MoBAVP" class="- topic/p ">Maximum VATEP Reduction to Total Evaluated Price</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="rJStKP" class="- topic/p ">Calculation of VATEP %</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CIuTCV" class="- topic/p ">Identify where in Offeror’s proposal the VATEP objective is met or partially met</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="XtQVuA" class="- topic/p ">Payload</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cEaUNQ" class="- topic/p ">4.3.2</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="haAORb" class="- topic/p ">$100,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ICkbBt" class="- topic/p ">(Offeror’s proposed payload less the threshold of 8000)/50*$1,000</p>
+                     <p id="DgPFkv" class="- topic/p ">[Not-to-Exceed $100,000 total reduction]</p>
+                     <p id="zSSozU" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <i class="+ topic/ph hi-d/i ">NOTE:</i>
+                        </b>
+                        <i class="+ topic/ph hi-d/i ">8000 is the threshold and 5,000 is the delta between the threshold and objective</i>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xSaEQR" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="Kwfhqe" outputclass="Normal" class="- topic/p ">The SSA will consider the VATEP of the cost/price factor, along with the other evaluation factors, in making the source selection decision.The VATEP adjustment is for evaluation purposes only, and will not change the proposed pricing, which will become the awarded price. If an Offeror proposes the threshold for payload, then they will receive no adjustment.</p>
+      <p id="RsrErx" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+            <u class="+ topic/ph hi-d/u ">SECTION L LANGUAGE</u>
+         </b>: The offeror shall complete RFP Attachment L-X (VATEP Calculations) to facilitate the Government review process.</p>
+      <p id="tSjTqA" outputclass="Normal" class="- topic/p ">The offeror’s LET shall meet or exceed the threshold identified in the table below. LETs that fail to meet the threshold will not be considered. If an offeror’s proposed payload exceeds the threshold performance specification set forth in the technical subfactor, the following VATEP procedures will be applied:An offeror can earn VATEP evaluation credit for meeting performance between the threshold and objective, or for meeting the objective requirement. This credit will be assessed as a reduction in the total evaluated price. If performance between threshold and objective is being proposed, the exact performance value shall be listed in Attachment L-X. An LET that meets the proposed above-threshold payload performance shall also be priced and delivered in CLIN X001AA.</p>
+      <p id="IlhBmy" outputclass="Normal" class="- topic/p "/>
+   </conbody>
+</concept>

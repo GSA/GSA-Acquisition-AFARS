@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-404"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">CC-404</ph> Results of Procurement Management Reviews.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(a) Reports of PMR results will contain a risk assessment, analysis of issues,
+            commendations, observations, findings, and recommendations as appropriate. PMR report
+            findings must be specific and include sufficient information to enable root cause
+            analysis. PMR recommendations must be based on supported findings and be actionable.</p>
+      <p class="- topic/p ">(b) Contracting activities at all levels will perform timely PMRs. Untimely reporting
+            erodes the review’s effectiveness. At a minimum—</p>
+      <p outputclass="List2" class="- topic/p ">(1) Reviewers shall submit the initial PMR report to the reviewed
+            activity within 30 business days of the Out-brief; </p>
+      <p outputclass="List2" class="- topic/p ">(2) The contracting activity reviewed shall submit a Corrective
+            Action Plan (CAP) within 30 business days of report receipt; (3) The responsible
+            official must review and approve the CAP and prepare a Final PMR report within 30
+            business days of CAP receipt ;</p>
+      <p outputclass="List2" class="- topic/p ">(4) The reviewed activity must complete corrective actions – if any –
+            within the agreed timeframe, inform the PMR Team Lead of corrective actions taken, and
+            request closure of the CAP. </p>
+   </conbody>
+</concept>

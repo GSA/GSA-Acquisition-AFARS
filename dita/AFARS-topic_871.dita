@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AFARS_topic_871">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">4.2</ph> Electronic Source Selection</title>
+   <conbody>
+      <p id="hUAAmE" outputclass="Normal">In those instances when an electronic system for source selection documentation is used, the PCO should determine which system is appropriate for the effort. The system available to the Army is the Virtual Contracting Enterprise Acquisition Source Selection Interactive Support Tool (ASSIST). For more information, please reference the ASSIST user guide at <xref format="mil" href="https://assist1.army.mil" scope="external">
+            <u>https://assist1.army.mil</u>
+         </xref>.</p>
+      <p id="p__Toc307839245" outputclass="Normal"></p>
+   </conbody>
+</concept>

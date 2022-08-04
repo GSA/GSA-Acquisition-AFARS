@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5116.504"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5116.504</ph> - Indefinite Quantity Contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a)(1) The contracting officer shall ensure an order that fulfills the minimum quantity of supplies or services is issued at the time of contract award.</p>
+      <p outputclass="List1" class="- topic/p ">(c)(1)(ii)(D)(<i class="+ topic/ph hi-d/i ">1</i>)  The senior procurement executive shall approve actions as stated in DFARS 216.504(c)(1)(ii)(D)(<i class="+ topic/ph hi-d/i ">1</i>).  See Appendix GG for further delegation.</p>
+   </conbody>
+</concept>

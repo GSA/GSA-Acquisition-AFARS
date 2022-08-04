@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE-Appendix-G"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="1 Heading" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">Appendix G: Formal Reporting Requirements</ph> Table Of Contents</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="tGbspS" class="- topic/p ">1. Surveillance program results are prepared by each Level 3 A/OPC and provided to the Army Level 2 A/OPC no later than April 21st and October 21st. The report identifies data collected during the two previous quarters of the fiscal year.</p>
+      <p id="YIXEyi" class="- topic/p ">2. A list of the number of waivers to the Army Standard Span of Control that have been requested (broken down to CH to BO, 300 accounts per Level 4 A/OPC, and so on), and the disposition of these requests, must be reported.</p>
+      <p id="GmrZra" class="- topic/p ">3. Level 3 A/OPCs must submit a summary of the corrective actions taken by the Level 4 A/OPC to reduce the number of delinquent accounts. In subsequent reports, the Level 4 A/OPC advises the results of the corrective actions.</p>
+      <p id="PRrmdS" class="- topic/p ">4. Level 3 A/OPCs outlines routine reviews of their program, identifying compliance reviews, reports, adverse actions, and exceptional activities.</p>
+      <p id="NBBHNG" class="- topic/p ">5. Reports due to the Army Level 2 A/OPC. A sample semi-annual surveillance report format is provided below.</p>
+      <p id="LSaPrb" outputclass="Ctr normal" class="- topic/p ">
+         <u class="+ topic/ph hi-d/u ">Reports due to the Army Level 2 A/OPC Office</u>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="FuhNmS" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Report Name</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="YvwPWX" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Frequency</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="fTgiqM" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Army Suspense Date</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dwnPYx" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Data Coverage</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="vXDqpX" class="- topic/p ">OMB</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cZNUsH" class="- topic/p ">Quarterly</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="HRVDfR" class="- topic/p ">January 5th</p>
+                     <p id="owUEpW" class="- topic/p ">April 5th</p>
+                     <p id="qcPRDx" class="- topic/p ">July 5th</p>
+                     <p id="WlBUIy" class="- topic/p ">October 5th</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="flgBAN" class="- topic/p ">Each previous quarter</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="idtoGV" class="- topic/p ">Surveillance</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="YyuofT" class="- topic/p ">Semi-Annually</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="kmSnoD" class="- topic/p ">April 21st</p>
+                     <p id="qjKciY" class="- topic/p ">October 21st</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="kzXwXt" class="- topic/p ">1st &amp; 2nd Qtr</p>
+                     <p id="MyKfaT" class="- topic/p ">3rd &amp; 4th Qtr</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="gwMGAY" class="- topic/p ">Appendix G: Formal Reporting Requirements (continued)</p>
+      <p id="MlCUJX" outputclass=" Ctr" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Department of the Army</b>
+      </p>
+      <p id="PvQAQX" outputclass=" Ctr" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Government Purchase Card (GPC) Program</b>
+      </p>
+      <p id="FvvxrC" outputclass=" Ctr" class="- topic/p ">Semi-Annual Surveillance Report</p>
+      <p id="pYOIcV" outputclass=" Ctr" class="- topic/p ">Report ____ for Fiscal Year ______</p>
+      <p id="MiZsPR" class="- topic/p ">Installation/Organization: _______________________________</p>
+      <p id="gKDlHl" class="- topic/p ">Reporting Activity ______________</p>
+      <p id="tAHwqf" class="- topic/p ">A/OPC Name: ________________</p>
+      <p id="uyfNtr" class="- topic/p ">A/OPC Phone Number: ________________ COMM _______________</p>
+      <p id="Wqrupg" class="- topic/p ">Person Preparing Report (if different than A/OPC) ___________________</p>
+      <p id="RonokV" class="- topic/p ">Phone Number ________________</p>
+      <p id="AbQKjc" outputclass="Normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Span of Control Waivers</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gIJmAJ" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">As of End of Quarter</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zJSywz" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">21 Apr</b>
+                     </p>
+                     <p id="hsKsIb" outputclass=" Ctr" class="- topic/p ">(1 Oct – 31 Mar)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="vuQoVp" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">21 Oct</b>
+                     </p>
+                     <p id="KQqRdG" outputclass=" Ctr" class="- topic/p ">(1 Apr – 30 Sep)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CSnnbL" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Comments</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="okZfqw" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">FY Total</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="VUlOcX" class="- topic/p ">A. Total Number of Waiver Requests</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cTwnes" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="npwMyr" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PyjYxp" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wQWJNo" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="TNxcsj" class="- topic/p ">A1. Total Number of Waivers Approved</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TOFgtn" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iaYSbf" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="smijiy" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PDdawY" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="lWMooR" class="- topic/p ">A2. Total Number of Waivers Disapproved</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="hgGMJI" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="LNIhhj" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="gAVxIV" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="rhTrwB" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="IVbOpI" class="- topic/p ">B. Number of Open but Inactive Accounts (more than 3 months)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="evqCBI" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="glijPE" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GhoPTl" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nfsTfC" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="nQVNpG" outputclass="Normal" class="- topic/p ">Appendix G: Formal Reporting Requirements (continued)</p>
+      <p id="OBgCLB" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Detailed Span of Control Waiver Report</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gdGSMo" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Entry N</b>
+                        <b class="+ topic/ph hi-d/b ">o.</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ioarBU" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Organization Name/Code</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="imzNXT" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Span of Control Waiver Request Summary and Reason for Waiver Request</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QjpfEK" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Date Waiver Submitted to A/OPC (</b>
+                        <b class="+ topic/ph hi-d/b ">ddmmyyyy</b>
+                        <b class="+ topic/ph hi-d/b ">)</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZaUjqJ" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Status/Disposition of Waiver Request</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="aHWYPC" class="- topic/p ">1</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QfvHVK" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="VZgvqc" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ucDIzy" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZxgayF" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="HFsJHh" class="- topic/p ">2</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="idGVPx" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="tNOgrX" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="WypQkf" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="hEqWQf" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="aJJCaz" class="- topic/p ">3</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jekmhS" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wqupEu" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="SzGVhq" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="BimvUZ" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="FtNtIT" class="- topic/p ">4</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nfQJZq" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="HhGYAQ" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QOatat" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="aSEwAo" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="aKurcj" class="- topic/p ">5</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dozggB" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="pGtMOX" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XhNvmk" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="FYHBCz" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="DKJOdL" class="- topic/p ">6</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nHrzoi" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DQlPMw" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="tRTtBa" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="YmSFqs" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="kqOvTT" class="- topic/p ">7</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="pzFCkl" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QmsSQI" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zjAxQl" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PfqkfI" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="jjMVYz" class="- topic/p ">8</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="vfqunP" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CLbKzq" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="VsAjdz" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ghMCRw" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="wFRaNk" outputclass="Normal" class="- topic/p "/>
+      <p id="4umdebj" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Inactivity</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="bBFkjI" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">As of End of Quarter</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cxcQTr" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">21 Apr</b>
+                     </p>
+                     <p id="MUKfIb" outputclass=" Ctr" class="- topic/p ">(1 Oct – 31 Mar)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dqZbgP" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">21 Oct</b>
+                     </p>
+                     <p id="fucaqM" outputclass=" Ctr" class="- topic/p ">(1 Apr – 30 Sep)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="AUnjWE" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Comments</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MIicfu" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">FY Total</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="tPEKEb" class="- topic/p ">A. Total Number of Open but Inactive accounts</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="YtGvHG" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GWxFBa" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="njZVRl" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PummQT" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="qiGOuY" class="- topic/p ">B. Number of Open but Inactive Accounts (more than 3 months)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XtEpps" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="SjvsUL" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="tfnrQG" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="kvytJM" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="pQkGeS" outputclass="Normal" class="- topic/p "/>
+      <p id="on1gx903" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Detailed Inactivity Report</b>
+      </p>
+      <p id="CGLkWr" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">(</b>
+         <b class="+ topic/ph hi-d/b ">List</b>
+         <b class="+ topic/ph hi-d/b ">all Open but Inactive accounts over 3 months</b>
+      </p>
+      <p id="nGDDFY" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">excluding accounts terminated or those in a V9 status</b>
+         <b class="+ topic/ph hi-d/b ">)</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="xZbXtP" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Organization Name/Code</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="AgxvUM" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">GPC Account Number</b> (masked)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RAJpqJ" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Date Opened</b> (ddmmyyyy)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="EEHKKh" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Beginning Date of Inactivity (</b>ddmmyyyy)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="JXtyMk" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Disposition of Account and Reason for inactivity</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ivekMp" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MyRtrj" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="AZTcmB" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zuftur" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="lNDNBD" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="rXnSLg" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OvBdJE" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="eNcZQq" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZvYkWc" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OIkQwI" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="FqdAjS" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="IPDifv" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="AFPjjk" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cNSaui" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CgBRaH" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="KgPGat" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="kKrMrN" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="vMfgDO" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="HSPefU" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RWzEKn" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="YJtqXS" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="LZiJaV" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OkebnN" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dQLVdg" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="pjpExa" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="AGqIZu" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jLVoVY" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="KCCLyt" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QUiCOL" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="dYQIvu" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="MwEAuz" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="opEOQD" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="pWppEP" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RTeTFC" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="vROFMy" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="kCQorg" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZjuKOS" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TQoLhr" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cyZnsw" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="sMezWk" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="iFMPJm" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="vcNnLb" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="jmWsDo" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="JaSfFt" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xTrJfv" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="JCXvFE" outputclass="Normal" class="- topic/p ">Appendix G: Formal Reporting Requirements (continued)</p>
+      <p id="LlgvLF" outputclass="Ctr normal" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Reviews</b>
+      </p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="5"
+                     colnum="5"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="NycWMn" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">As of End of Quarter</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iqXpZy" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">21 Apr</b>
+                     </p>
+                     <p id="VnhtgD" outputclass=" Ctr" class="- topic/p ">(1 Oct – 31 Mar)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="JIKqSa" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">21 Oct</b>
+                     </p>
+                     <p id="mZxHXu" outputclass=" Ctr" class="- topic/p ">(1 Apr – 30 Sep)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PpxWsB" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">FY</b>
+                     </p>
+                     <p id="JAljHt" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Total</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="vEuiOb" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Significant Findings</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="NJZWZR" class="- topic/p ">A. Total Number of Level 4 A/OPC Programs Inspected</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wRvaAm" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QDIRxv" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cdbMls" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XDicAy" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="IANHQW" class="- topic/p ">B. Number of BO Accounts under Level 3</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nuYCww" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ORhgCo" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="qAeCYj" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZDMjqi" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="KbyEjO" class="- topic/p ">C. Number of BO Accounts reviewed</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OzooQX" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oeIupO" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QKkmPe" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="aQIplq" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="QAuCLW" class="- topic/p ">D. Number of transactions reviewed</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="VbpOcB" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="MGCDAv" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="APSHqh" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="fZhxBJ" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="PqnYjR" class="- topic/p ">E. Number of formal reports issued to COC</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="NMuxcA" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xHIqYE" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="WWACTj" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GgXZYS" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="5" namest="1" class="- topic/entry ">
+                     <p id="KqsToS" class="- topic/p ">F. Summary of Repetitive, or Systemic Weaknesses by Activity</p>
+                     <p id="gaCVkm" class="- topic/p ">Explicitly state by activity where no repetitive problems or systemic weaknesses were found during the review period.</p>
+                     <p id="a2l3rz3s" class="- topic/p "/>
+                     <p id="1vxhnw7" class="- topic/p "/>
+                     <p id="xjr5ify" class="- topic/p "/>
+                     <p id="no339sq" class="- topic/p "/>
+                     <p id="zusqqg3l" class="- topic/p "/>
+                     <p id="g2tdkqvi" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="5" namest="1" class="- topic/entry ">
+                     <p id="HSPkpi" class="- topic/p ">G. Summary of Adverse Actions by Activity</p>
+                     <p id="ufvzg89b" class="- topic/p "/>
+                     <p id="c2bens0s" class="- topic/p "/>
+                     <p id="xpygjnpo" class="- topic/p "/>
+                     <p id="k35lb366" class="- topic/p "/>
+                     <p id="dxylk2sd" class="- topic/p "/>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="5" namest="1" class="- topic/entry ">
+                     <p id="UgJKPq" class="- topic/p ">H. Exceptional GPC Programs or Performance</p>
+                     <p id="ey1lbipk" class="- topic/p "/>
+                     <p id="azkfx46g" class="- topic/p "/>
+                     <p id="6hm79bto" class="- topic/p "/>
+                     <p id="zo1puckd" class="- topic/p "/>
+                     <p id="xqqr4g4d" class="- topic/p "/>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

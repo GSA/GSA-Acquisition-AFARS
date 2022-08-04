@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5117.9005"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5117.9005</ph> Contract administration.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">Contractor performance evaluations must be prepared for all orders of $100,000 or more and submitted to the CCASS in accordance with 5136.201.</p>
+   </conbody>
+</concept>

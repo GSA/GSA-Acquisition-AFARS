@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-303"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">CC-303</ph> Directorate of Review and Oversight, Office of the        DASA(P).</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">The Review and Oversight Directorate is responsible for the effective administration and
+            conduct of the PMR Program. To this end, the Directorate will –</p>
+      <p class="- topic/p ">(a) Provide a Program Director to coordinate, manage, and oversee the Army-wide PMR
+            Program and lead the Army’s PMR Advisory Working Group;</p>
+      <p class="- topic/p ">(b) Provide acquisition management advice to the Army;</p>
+      <p class="- topic/p ">(c) Analyze and assess the effectiveness and efficiency of Army contracting programs and
+            operations;</p>
+      <p class="- topic/p ">(d) Identify and communicate contracting trends, best practices and lessons learned;</p>
+      <p class="- topic/p ">(e) Oversee Army-wide execution of the PMR Program as administered by the heads of
+            contracting activities (HCAs);</p>
+      <p class="- topic/p ">(f) Periodically provide PMR guidance to HCAs, including guidance for DASA(P) special
+            areas of interest;</p>
+      <p class="- topic/p ">(g) Be an advocate of the field for the coordination and resolution of issues at DA or
+            higher levels; and</p>
+      <p class="- topic/p ">(h) Prepare the Army’s Annual Summary Health Report.</p>
+   </conbody>
+</concept>

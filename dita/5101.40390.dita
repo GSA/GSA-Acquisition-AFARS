@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.40390"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5101.403-90</ph> Deviation copy and control number.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">The contracting activity will –</p>
+      <p outputclass="List1" class="- topic/p ">(a)  Send one copy of each deviation to the address at 5101.290(b)(2)(ii)(A) at the time the approval authority grants the deviation; and</p>
+      <p outputclass="List1" class="- topic/p ">(b)  Assign a control number to each deviation.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE_3-8"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">3-8.</ph> Tax-Exempt Status</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="TpaPUp" outputclass="Normal" class="- topic/p ">a. Centrally Billed GPC accounts are exempt from state tax in EVERY state but require tax exemption forms in 13 states, including Florida, Georgia, Louisiana, Michigan, Minnesota, Rhode Island, South Dakota, Tennessee, Texas, Utah, West Virginia, Wisconsin, and Wyoming. For purchases within the United States, the CH informs the merchant that the purchase is for official U.S. Government purposes and, therefore, is not subject to state or local sales tax. The GPC is embossed with the statement “U.S. GOVT TAX EXEMPT” and the CH will point this statement out to any merchant attempting to apply taxes to a purchase. In those states where a tax exemption form is required, the CH obtains the required form from the GSA SmartPay Website at:</p>
+      <p id="mBnxTr" outputclass="Normal" class="- topic/p ">
+         <xref format="html"
+               href="https://smartpay.gsa.gov/about-gsa-smartpay/tax-information/state-response-letter"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://smartpay.gsa.gov/about-gsa-smartpay/tax-information/state-response-letter</u>
+         </xref>. By clicking on the state in the map, there is a link to download the required forms, as well as contact information for the Department of Revenue should additional questions arise. CHs are responsible for ensuring no sales tax has been included in their purchase, except where applicable.</p>
+      <p id="rHYLjN" outputclass="Normal" class="- topic/p ">b. Exceptions to the state tax rules above include Hawaii and Illinois. Both states levy a General Excise Tax (GET) on businesses selling tangible personal property which is allowed to be passed on to the Federal Government (customer).</p>
+      <p id="NgHJhh" outputclass="Normal" class="- topic/p ">c. Some companies, such as Amazon, have established a Tax Exemption Program, in which the CH must enroll in order to receive the tax exemption at the point of sale. The GSA SMARTPAY® SMART BULLETINs are found at: <xref format="html"
+               href="https://smartpay.gsa.gov/news/smart-bulletins"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://smartpay.gsa.gov/news/smart-bulletins</u>
+         </xref>.</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="2" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="2" namest="1" class="- topic/entry ">
+                     <p id="oZJskU" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">The Federal Government Tax Exemption Information</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="NyQHBf" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Tax Exempt</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ZtvvRx" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Not Tax Exempt</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="MPELHn" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Sales Tax</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wvVUeS" class="- topic/p ">Certain federal and state excise taxes (Hawaii and Illinois)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="qAMkEp" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Federal communications and highway vehicle</b>
+                        <b class="+ topic/ph hi-d/b ">users</b>
+                        <b class="+ topic/ph hi-d/b ">tax – FAR 29.203</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="PmBlKL" class="- topic/p ">If you pay for a service, you may pay the tax on labor only for work that is performed in that state. (e.g. New Mexico Gross Receipts Tax (NMGRT)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="OxdXiK" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xIxTiI" class="- topic/p ">The commissary surcharge is a federally mandated charge</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="iaFtrW" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="OKGbGW" class="- topic/p ">Overseas purchases are not exempt from foreign taxes unless foreign tax agreements so specify</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="WeIptW" class="- topic/p "/>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="giawbc" class="- topic/p ">Tax exemption does not apply at the point of sale for any fuel purchases</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

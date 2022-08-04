@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_AppendixBB"
+          ditaarch:DITAArchVersion="1.3"
+          class="- topic/topic ">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">APPENDIX - BB</ph> Table Of Contents</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="AppendixBB_MCEVC.dita#AFARS_AppendixBB_MCEVC"
+                        class="- topic/xref ">MANAGEMENT CONTROL EVALUATION CHECKLISTS</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AppendixBB_Part_1.dita#AFARS_AppendixBB_Part_1"
+                              class="- topic/xref ">Part 1 - General</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-100.dita#AFARS_AppendixBB-100"
+                                    class="- topic/xref ">BB–100 Function.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-101.dita#AFARS_AppendixBB-101"
+                                    class="- topic/xref ">BB–101 Purpose.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-102.dita#AFARS_AppendixBB-102"
+                                    class="- topic/xref ">BB–102 Instructions.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-103.dita#AFARS_AppendixBB-103"
+                                    class="- topic/xref ">BB–103 Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="AppendixBB_Part_2.dita#AFARS_AppendixBB_Part_2"
+                              class="- topic/xref ">Part 2 - Contracting Test Questions</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-200.dita#AFARS_AppendixBB-200"
+                                    class="- topic/xref ">BB-200 Event Cycle 1: Management of Contracting Functions.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-201.dita#AFARS_AppendixBB-201"
+                                    class="- topic/xref ">BB-201 Event Cycle 2: Presolicitation.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-202.dita#AFARS_AppendixBB-202"
+                                    class="- topic/xref ">BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-203.dita#AFARS_AppendixBB-203"
+                                    class="- topic/xref ">BB-203 Event Cycle 4: Contract Administration.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="AppendixBB-204.dita#AFARS_AppendixBB-204"
+                                    class="- topic/xref ">BB-204 Event Cycle 5: Special Acquisition Situations and Requirements.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

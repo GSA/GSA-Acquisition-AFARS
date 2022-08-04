@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5115.4074"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5115.407-4</ph> Should-cost review.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="SSkblr" outputclass="List1" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(b)</i>
+         <i class="+ topic/ph hi-d/i ">Program should-cost review</i>
+         <i class="+ topic/ph hi-d/i ">.</i>
+      </p>
+      <p id="heupMe" outputclass="List3" class="- topic/p ">(4) In coordination with the program manager or other customer, the SCO must establish the requirements and format for the program should-cost team report.</p>
+      <p id="HJUBUy" outputclass="List1" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(c) Overhead should-cost review.</i>
+      </p>
+      <p id="FWZuBp" outputclass="List3" class="- topic/p ">(2)(B) The head of the contracting activity may request an overhead should-cost review as described in DFARS PGI 215.407-4(c)(2)(B). See <xref format="aspx"
+               href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">Appendix GG</u>
+         </xref> for further delegation.</p>
+   </conbody>
+</concept>

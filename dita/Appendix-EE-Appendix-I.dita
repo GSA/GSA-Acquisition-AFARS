@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE-Appendix-I"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="1 Heading" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">Appendix I: GPC Thresholds</ph> Table Of Contents</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="4" namest="1" class="- topic/entry ">
+                     <p id="OKXMFI" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">GPC THRESHOLDS</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="GIKVNX" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">TYPE</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ANgcoA" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">THRESHOLD</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="wFMsIy" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">DESCRIPTION</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="cIqEJM" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">REFERENCE</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry morerows="5" class="- topic/entry ">
+                     <p id="QtpRNq" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Micropurchases</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="soJcCy" outputclass=" Ctr" class="- topic/p ">$3,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xqiJev" class="- topic/p ">Supplies or services- If purchases are made from CONUS vendors for use overseas, the micro-purchase threshold of $3,000 remains in effect.</p>
+                  </entry>
+                  <entry morerows="2" class="- topic/entry ">
+                     <p id="UnesBx" outputclass=" Ctr" class="- topic/p ">FAR 2.10148 CFR Part IV AFARS 5113.270-90 paragraph (h)(1)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="ujofWU" outputclass=" Ctr" class="- topic/p ">$2,500</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="zuZJXU" class="- topic/p ">purchases covered by Service Contract</p>
+                     <p id="dImNwq" class="- topic/p ">Labor Standards statute</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="JPnAFG" outputclass=" Ctr" class="- topic/p ">$2,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="RMqOnh" class="- topic/p ">purchases covered by</p>
+                     <p id="IqxGJF" class="- topic/p ">Construction Wage Rate Requirements statute</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="uXuAkI" outputclass=" Ctr" class="- topic/p ">$15,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DMSRFs" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">CONUS</u>
+                        </b>
+                     </p>
+                     <p id="p_OLE_LINK20" class="- topic/p ">1. Contingency Operation</p>
+                     <p id="ww9o5msa" class="- topic/p ">2. Defense or Recovery from Certain Attacks (nuclear, biological, chemical, or radiological)</p>
+                  </entry>
+                  <entry morerows="2" class="- topic/entry ">
+                     <p id="WYtacR" outputclass=" Ctr" class="- topic/p ">FAR 13.201 paragraph (g)(1)(i) &amp; (ii)FAR Part 18.2FAR 2.101FAC 2005-45FAR Case 2008-024DFARS 213.301</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="bPYxtu" outputclass=" Ctr" class="- topic/p ">$25,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="gVEcdr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">OCONUS</u>
+                        </b>
+                     </p>
+                     <p id="kNIOAI" class="- topic/p ">DFARS 213.301 - CH appointed per 201.603-3(b) may use the GPC up to $25,000, if—A commercial item purchase— made outside the United States for use outside the United States; cardholder is trained, complies with FAR 8.002, seeks maximum practicable competition for the purchase in accordance with FAR 13.104(b) - get at least 3 quotes.</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="LMXpSm" outputclass=" Ctr" class="- topic/p ">$30,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TumFSW" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">OCONUS</u>
+                        </b>
+                     </p>
+                     <p id="ZDAohO" class="- topic/p ">1. Contingency Operation</p>
+                     <p id="n399gkzf" class="- topic/p ">2. Defense or Recovery from Certain Attacks (nuclear, biological, chemical, or radiological)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="PEOXrZ" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Contract</b>
+                        <b class="+ topic/ph hi-d/b ">Payments</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="GJXsge" outputclass=" Ctr" class="- topic/p ">As identified in Contract</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DYIZNs" class="- topic/p ">Warranted contracting officers may use the GPC as a contract payment method up to the limit of their warrant. Written contracts to be paid by purchase card should include the clause at 52.232-36, Payment by Third Party, as prescribed by FAR 32.1110(d).</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="oUqhlH" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90 paragraph (h)(2)FAR 32.1108 FAR 52-232-36</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="uMFtTX" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Cardholders (CHs)</b>
+                     </p>
+                     <p id="ddzKXS" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">designated as</b>
+                        <b class="+ topic/ph hi-d/b ">Ordering Officers</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CkVZSj" outputclass=" Ctr" class="- topic/p ">$25,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="ovxJoA" class="- topic/p ">CHs not in contracting organizations may use the GPC only to obtain items from pre-priced government contracts and agreements (e.g., FSS, BPAs, Indefinite Delivery/Indefinite Quantity ID/IQ contracts etc.). When purchasing from FSSs and BPAs, cardholders must review prices on at least three contracts/agreements. A record of this review is be kept with the GPC documentation.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="IMfXiE" outputclass=" Ctr" class="- topic/p ">AFARS 5113.202-90 ( c )</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry morerows="2" class="- topic/entry ">
+                     <p id="iZakMr" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Convenience</b>
+                        <b class="+ topic/ph hi-d/b ">Checks</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="CAVOsO" outputclass=" Ctr" class="- topic/p ">$3,000</p>
+                  </entry>
+                  <entry morerows="2" class="- topic/entry ">
+                     <p id="sHfeTv" class="- topic/p ">With the exception of contingency or emergency operations, convenience checks shall not be written over:</p>
+                     <ul class="- topic/ul ">
+                        <li id="DTIYUp" class="- topic/li ">
+                           <p id="j3v47yki" class="- topic/p ">$3,000 for supplies,</p>
+                        </li>
+                        <li id="NXUFjW" class="- topic/li ">
+                           <p id="znj528xp" class="- topic/p ">$2,500 for services covered by the Service Contract Labor Standards statute, and</p>
+                        </li>
+                        <li id="hiTBAs" class="- topic/li ">
+                           <p id="kcb7nm7wm" class="- topic/p ">$2,000 for construction covered by the Construction Wage Rate Requirements Statute.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry morerows="2" class="- topic/entry ">
+                     <p id="XISfya" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90 paragraph (h)(3)DOD GuidebookDOD FMR Vol. 10 23, 230505</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="wBqoaB" outputclass=" Ctr" class="- topic/p ">$2,500</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="QJbgGJ" outputclass=" Ctr" class="- topic/p ">$2,000</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gmSaNc" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Contingency,</b>
+                        <b class="+ topic/ph hi-d/b ">Humanitarian, or</b>
+                        <b class="+ topic/ph hi-d/b ">Peacekeeping</b>
+                        <b class="+ topic/ph hi-d/b ">Operations</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="nIUCBO" outputclass=" Ctr" class="- topic/p ">May be adjusted IAW applicable act or order</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="uzFkYr" class="- topic/p ">As authorized by a specific appropriation or an Executive Order, the micro-purchase threshold may be adjusted in accordance with the applicable act or the order.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="xQLjul" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90 paragraph (h)(4)DOD Guidebook</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="OBlyzi" outputclass="Normal" class="- topic/p "/>
+      <p id="sdai2ti" outputclass="Normal" class="- topic/p ">Appendix I: GPC Thresholds (continued)</p>
+      <table colsep="1" rowsep="1" class="- topic/table ">
+         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
+            <colspec colname="1"
+                     colnum="1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="2"
+                     colnum="2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="3"
+                     colnum="3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="4"
+                     colnum="4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row rowsep="1" class="- topic/row ">
+                  <entry nameend="4" namest="1" class="- topic/entry ">
+                     <p id="Thycdi" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">GPC THRESHOLDS</b>
+                        <b class="+ topic/ph hi-d/b ">(Continued)</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="gbGyNL" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">TYPE</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="WWsqAP" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">THRESHOLD</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="hSAesI" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">DESCRIPTION</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="iKkocV" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">REFERENCE</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry morerows="1" class="- topic/entry ">
+                     <p id="nCBFfu" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Commercial Training</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="KwbJDK" outputclass=" Ctr" class="- topic/p ">$25,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="yCxTqr" class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Off-the-shelf Training and Education</u> - The GPC shall be used by training and education office personnel to pay for government, non-government and/or off-the-shelf training and education up to $25,000 for an individual or planned series of the same training event, activity, or course material. Advance payments are authorized under Tuition Assistance.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="Wxpfko" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90 paragraph (g)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="VNMlvl" outputclass=" Ctr" class="- topic/p ">Equal to invoice submitted by institution</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="lzKBFR" class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Military Tuition Assistance (MTA)</u> - Single purchase limits for MTA is set commensurate to the level of the consolidated GPC invoice submitted by each university or college.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="FEZhcJ" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90 paragraph (g)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="AqnMXC" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Government to Government</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="gjVYFW" outputclass=" Ctr" class="- topic/p ">No thresholds when making payment with GPC: however, CHs can't exceed their delegated authority</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="TMcgtf" class="- topic/p ">When requisitioning for supplies/services from other government sources (i.e. DLA Document Services, GSA stores or depots, DLA, Interagency Agreements), payment by GPC can be used up to the CHs delegated authority.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="yZDsRM" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90(e)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="CJWhdu" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">D</b>
+                        <b class="+ topic/ph hi-d/b ">LA Document</b>
+                     </p>
+                     <p id="YgTsMy" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Services</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="pLYvEO" outputclass=" Ctr" class="- topic/p ">Thresholds do not apply</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="funrSV" class="- topic/p ">Self-service copiers are used only when necessary to satisfy needs that are impractical for sending to DLA Document Services due to size or time constraints. The GPC is not used to purchase printing and reproduction services directly from a commercial vendor unless a waiver has been obtained through DLA Document Services. The Lighthouse for the Blind, Inc., and UNICOR, may be used (without a waiver) as an alternate source of procuring services when it is clearly less costly to the Army.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="sScGoU" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90(e)AR 25-30</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry morerows="1" class="- topic/entry ">
+                     <p id="HaAkgB" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Emergency Acquisition Flexibilities</b>
+                     </p>
+                     <p id="VrzUpC" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Warranted Contracting Officer</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="DTRJOc" outputclass=" Ctr" class="- topic/p ">$300,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="XeNDHI" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">CONUS</u>
+                        </b>
+                     </p>
+                     <p id="ITKpgi" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">Can't exceed SAT</u>
+                        </b>
+                     </p>
+                     <p id="yaUoFT" class="- topic/p ">1. Contingency Operation</p>
+                     <p id="3d5c9bg" class="- topic/p ">2. Defense or Recovery from Certain Attacks (nuclear, biological, chemical, or radiological)</p>
+                  </entry>
+                  <entry morerows="1" class="- topic/entry ">
+                     <p id="ddBTls" outputclass=" Ctr" class="- topic/p ">DFARS 213-301(3)FAR 2.101 "Definitions"10 U.S.C. 101(a)(13)10 U.S.C. §2302(8)41 U.S.C. §1903FAC 2005-45FAR Case 2008-024</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="uCvDNA" outputclass=" Ctr" class="- topic/p ">$1,000,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="eydpCr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">OCONUS</u>
+                        </b>
+                     </p>
+                     <p id="eySiSa" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <u class="+ topic/ph hi-d/u ">Can't exceed SAT</u>
+                        </b>
+                     </p>
+                     <p id="88xfpqb9" class="- topic/p ">1. Contingency Operation</p>
+                     <p id="uc1j7k3v" class="- topic/p ">2. Defense or Recovery from Certain Attacks (nuclear, biological, chemical, or radiological)</p>
+                  </entry>
+               </row>
+               <row rowsep="1" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p id="WHjeFB" outputclass=" Ctr" class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">NAFI</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="KLLWHz" outputclass=" Ctr" class="- topic/p ">$50,000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="peglRm" class="- topic/p ">Purchases up to $50,000 maybe made from exchanges only (vice NAFI's) by overseas organizations and the purchase card can be used as a method of payment.</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p id="QLwABL" outputclass=" Ctr" class="- topic/p ">AFARS 5113.270-90 (f)</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

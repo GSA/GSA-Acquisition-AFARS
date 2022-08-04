@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE_3-9"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">3-9.</ph> Surcharges</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="YKOEWK" outputclass="Normal" class="- topic/p ">a. Surcharges are fees that a retailer adds to the cost of a purchase when a customer uses a charge/credit card. As a result of the settlement between a class of retailers and the brands, on January 27, 2013, merchants in the United States and U.S. Territories are permitted to impose a surcharge on cardholders when a charge/credit card is used.</p>
+      <p id="GqBtaY" outputclass="Normal" class="- topic/p ">b. Not all merchants impose a surcharge, and some states (California, Colorado, Connecticut, Florida, Kansas, Maine, Massachusetts, New York, Oklahoma and Texas) have laws which do not allow or limit surcharges. Cardholders who receive a surcharge or a check out fee in any of the above mentioned states should report the merchant to the state Attorney General’s Office.</p>
+      <p id="mIvrRY" outputclass="Normal" class="- topic/p ">c. Surcharges may not be added to debit, prepaid or cash purchases and cardholders are required to be notified in advance of making the purchase if a merchant will impose a surcharge. Merchants must also include the surcharge fee on any receipt(s) provided to the cardholder.</p>
+      <p id="TcwPCl" outputclass="Normal" class="- topic/p ">d. Per Visa and MasterCard guidance, there is a limit to the allowable surcharge amounts. These limits vary by brand and by merchant discount rate. Information on surcharge limitations for Visa and MasterCard is available at:</p>
+      <p id="uxMTTF" outputclass="Normal" class="- topic/p ">
+         <xref format="html"
+               href="http://www.mastercard.us/merchants/support/surcharge-rules.html"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">http://www.mastercard.us/merchants/support/surcharge-rules.html</u>
+         </xref>
+      </p>
+      <p id="zEfQHJ" outputclass="Normal" class="- topic/p ">
+         <xref format="html"
+               href="http://usa.visa.com/personal/using_visa/checkout_fees/index.html"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">http://usa.visa.com/personal/using_visa/checkout_fees/index.html</u>
+         </xref>
+      </p>
+      <p id="uLFUlo" outputclass="Normal" class="- topic/p ">e. A/OPCs should ensure cardholders and other charge card management personnel are aware of the possibility of surcharges when making purchases using credit/charge cards. If a merchant is imposing a surcharge, the cardholder should consider choosing another merchant that offers the same or similar item(s) to avoid paying the surcharge.</p>
+   </conbody>
+</concept>

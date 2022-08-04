@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5110.002"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5110.002</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(b)  All members of the acquisition team will participate in market research and apply their functional tools and expertise.  Program managers or representatives of the requiring activity will typically lead the market research effort.  A statement that the solicitation will be synopsized and that all proposals received will be evaluated is not a substitute for performing adequate market research and in itself does not support and justify procurement under other than full and open conditions.  Specific requirements pertaining to market research in support of other than full and open competition are included in 5153.303-5, paragraph 8.</p>
+      <p outputclass="List1" class="- topic/p ">(e)(i) In addition to using the “Market Research Report Guide for Improving the Tradecraft in Services Acquisition”, for service acquisitions, the format and processes should also be adapted for use in documenting market research for supplies.  The Office of Small Business Programs tool at: <xref href="https://ebiz.acq.osd.mil/mrcoe/"
+               scope="external"
+               format="html"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://ebiz.acq.osd.mil/mrcoe/</u>
+         </xref> (CAC enabled) should be used to develop the Market Research report.</p>
+   </conbody>
+</concept>

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5101.108"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5101.108</ph> FAR conventions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="STYWis" outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Delegation of authority.</i> Each authority is delegable within the contracting chain  of authority unless otherwise indicated by law, statute, or regulation. All delegations must reference the applicable AFARS citation. Delegations that do not include expiration dates remain effective until a higher authority supersedes or cancels them.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5101.108" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5101.108</ph> FAR conventions.</title>
+   <conbody>
+      <p id="STYWis" outputclass="List1">(b) <i>Delegation of authority.</i> Each authority is delegable within the contracting chain  of authority unless otherwise indicated by law, statute, or regulation. All delegations must reference the applicable AFARS citation. Delegations that do not include expiration dates remain effective until a higher authority supersedes or cancels them.</p>
    </conbody>
 </concept>

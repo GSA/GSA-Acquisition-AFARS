@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5106.3031"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5106.303-1</ph> Requirements.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)  Contracting officers shall not release any solicitation for other than full and open competition prior to approval of the justification, except when citing the authority at 10 U.S.C. 2304(c)(2) as implemented at FAR 6.302-2.</p>
-      <p outputclass="List1" class="- topic/p ">(b) Contracting officers shall not release any solicitation for a sole-source contract prior to approval of the justification, except when citing the 8(a) authority (15 U.S.C. 637(a)) for an amount exceeding $100 million unless—</p>
-      <p outputclass="List2" class="- topic/p ">(2) The head of the procuring activity has approved the justification.  See Appendix GG for further delegation,</p>
-      <p outputclass="List1" class="- topic/p ">(c)  Only United States Government employees formally representing the appropriate functional activity may sign technical and requirements certifications under this provision.</p>
-      <p outputclass="List1" class="- topic/p ">(d)  A justification approved on a class basis authorizes the award of two or more contract actions using other than full and open competition.  Provided that it complies with the requirements below, the justification may encompass identified contract actions for the same or integrally related supplies or services or other contract actions that require essentially identical justification.  A justification made on a class basis—</p>
-      <p outputclass="List3" class="- topic/p ">(i)  Is not limited to a single contractor;</p>
-      <p outputclass="List3" class="- topic/p ">(ii)  May cover contracts for non-permanent requirements to be awarded in successive fiscal years, provided that the requirements and quantities are included in the Future Years Defense Plan, and their costs have been specifically identified;</p>
-      <p outputclass="List3" class="- topic/p ">(iii)  Must address every contract included in the scope of the class justification in each paragraph, in detail (e.g., specific quantity and dollar amounts for each contract; detailed documentation of the circumstances supporting the use of other than full and open competitive procedures for each contracting action); and</p>
-      <p outputclass="List3" class="- topic/p ">(iv)  Must include only those supply or service components that are, and will clearly remain, sole or limited source for the period covered by the justification.</p>
-      <p outputclass="List1" class="- topic/p ">(e)  If a contracting officer awards a contract exceeding the dollar threshold identified at FAR 6.304(a)(4) prior to approval of the required justification using the authority cited in FAR 6.302-2, the contracting activity must submit the justification for approval to the address in 5101.290(b)(2)(ii)(C) no later than seven calendar days after contract award<i class="+ topic/ph hi-d/i ">.</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5106.3031" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5106.303-1</ph> Requirements.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Contracting officers shall not release any solicitation for other than full and open competition prior to approval of the justification, except when citing the authority at 10 U.S.C. 2304(c)(2) as implemented at FAR 6.302-2.</p>
+      <p outputclass="List1">(b) Contracting officers shall not release any solicitation for a sole-source contract prior to approval of the justification, except when citing the 8(a) authority (15 U.S.C. 637(a)) for an amount exceeding $100 million unless—</p>
+      <p outputclass="List2">(2) The head of the procuring activity has approved the justification.  See Appendix GG for further delegation,</p>
+      <p outputclass="List1">(c)  Only United States Government employees formally representing the appropriate functional activity may sign technical and requirements certifications under this provision.</p>
+      <p outputclass="List1">(d)  A justification approved on a class basis authorizes the award of two or more contract actions using other than full and open competition.  Provided that it complies with the requirements below, the justification may encompass identified contract actions for the same or integrally related supplies or services or other contract actions that require essentially identical justification.  A justification made on a class basis—</p>
+      <p outputclass="List3">(i)  Is not limited to a single contractor;</p>
+      <p outputclass="List3">(ii)  May cover contracts for non-permanent requirements to be awarded in successive fiscal years, provided that the requirements and quantities are included in the Future Years Defense Plan, and their costs have been specifically identified;</p>
+      <p outputclass="List3">(iii)  Must address every contract included in the scope of the class justification in each paragraph, in detail (e.g., specific quantity and dollar amounts for each contract; detailed documentation of the circumstances supporting the use of other than full and open competitive procedures for each contracting action); and</p>
+      <p outputclass="List3">(iv)  Must include only those supply or service components that are, and will clearly remain, sole or limited source for the period covered by the justification.</p>
+      <p outputclass="List1">(e)  If a contracting officer awards a contract exceeding the dollar threshold identified at FAR 6.304(a)(4) prior to approval of the required justification using the authority cited in FAR 6.302-2, the contracting activity must submit the justification for approval to the address in 5101.290(b)(2)(ii)(C) no later than seven calendar days after contract award<i>.</i>
       </p>
    </conbody>
 </concept>

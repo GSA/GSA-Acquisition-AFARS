@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5150.1013"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5150.101-3</ph> Records.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List2" class="- topic/p ">(1)(iii)  See DFARS PGI 250.103.  Unless otherwise specified, the contracting officer is responsible for maintaining all records under subpart 5150.1.  The Office of the Deputy Assistant Secretary of the Army (Procurement) will maintain a record of all memorandums of decision executed at the Secretariat level.  </p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5150.1013" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5150.101-3</ph> Records.</title>
+   <conbody>
+      <p outputclass="List2">(1)(iii)  See DFARS PGI 250.103.  Unless otherwise specified, the contracting officer is responsible for maintaining all records under subpart 5150.1.  The Office of the Deputy Assistant Secretary of the Army (Procurement) will maintain a record of all memorandums of decision executed at the Secretariat level.  </p>
    </conbody>
 </concept>

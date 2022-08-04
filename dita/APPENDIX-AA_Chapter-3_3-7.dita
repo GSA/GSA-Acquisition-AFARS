@@ -1,211 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_APPENDIX-AA_Chapter-3_3-7"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3.7</ph> Documentation of Final Evaluation Results</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="iLstXX" outputclass="Normal" class="- topic/p ">At the request of the SSA, the SSAC and/or SSEB members may also present the evaluation results by means of one or more briefings. Figure 3-4 illustrates a sample format for the briefing. The documentation should be clear and concise and should cross-reference, rather than repeat, information in existing documents as much as possible (e.g., the SSP, evaluation team reports, etc.). In rare occasions, if the SSA identifies concerns with the evaluation findings and/or analysis, the SSA may require the SSEB and/or SSAC to conduct a re-evaluation and/or analysis to address these concerns. <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The evaluation results shall clearly be documented in the Price Negotiation Memorandum (PNM). (See FAR 15.406-3, DFARS PGI 215.406-3)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-3_3-7" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3.7</ph> Documentation of Final Evaluation Results</title>
+   <conbody>
+      <p id="iLstXX" outputclass="Normal">At the request of the SSA, the SSAC and/or SSEB members may also present the evaluation results by means of one or more briefings. Figure 3-4 illustrates a sample format for the briefing. The documentation should be clear and concise and should cross-reference, rather than repeat, information in existing documents as much as possible (e.g., the SSP, evaluation team reports, etc.). In rare occasions, if the SSA identifies concerns with the evaluation findings and/or analysis, the SSA may require the SSEB and/or SSAC to conduct a re-evaluation and/or analysis to address these concerns. <b>
+            <i>The evaluation results shall clearly be documented in the Price Negotiation Memorandum (PNM). (See FAR 15.406-3, DFARS PGI 215.406-3)</i>
          </b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="5" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RfFbSk" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">OFFEROR</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="5" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RfFbSk">
+                        <b>OFFEROR</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bvVnUV" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">TECHNICAL EVALUATION</b>
+                  <entry>
+                     <p id="bvVnUV">
+                        <b>TECHNICAL EVALUATION</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WKaVuG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">PAST PERFORMANCE CONFIDENCE</b>
+                  <entry>
+                     <p id="WKaVuG">
+                        <b>PAST PERFORMANCE CONFIDENCE</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tCNjNX" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">SMALL BUSINESS PARTICIPATION</b>
+                  <entry>
+                     <p id="tCNjNX">
+                        <b>SMALL BUSINESS PARTICIPATION</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Rrpvsz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">TOTAL EVALUATED PRICE</b>
+                  <entry>
+                     <p id="Rrpvsz">
+                        <b>TOTAL EVALUATED PRICE</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="tfPpLS" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">A</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tfPpLS">
+                        <b>A</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MSdVSG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Outstanding</b>
+                  <entry>
+                     <p id="MSdVSG">
+                        <b>Outstanding</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="plGnzv" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Substantial Confidence</b>
+                  <entry>
+                     <p id="plGnzv">
+                        <b>Substantial Confidence</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="kcpGqn" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Good</b>
+                  <entry>
+                     <p id="kcpGqn">
+                        <b>Good</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SXuAQj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$171,503,971</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="wAGXCt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">B</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NBJHpR" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Outstanding</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sqZADl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Limited Confidence</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Sizebf" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Good</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UpuAQV" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$134,983,305</b>
+                  <entry>
+                     <p id="SXuAQj">
+                        <b>$171,503,971</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="p__Toc307819161" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">C</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wAGXCt">
+                        <b>B</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TPFBbL" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Good</b>
+                  <entry>
+                     <p id="NBJHpR">
+                        <b>Outstanding</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iDyGTA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Limited Confidence</b>
+                  <entry>
+                     <p id="sqZADl">
+                        <b>Limited Confidence</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="YWYVvR" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Outstanding</b>
+                  <entry>
+                     <p id="Sizebf">
+                        <b>Good</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UPQhjS" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$120,976,836</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="YdHXpt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">D</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uaYyGM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Outstanding</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ULJUoz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Limited Confidence</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ozavGG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Outstanding</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BhYcBO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$150,840,308</b>
+                  <entry>
+                     <p id="UpuAQV">
+                        <b>$134,983,305</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sSkeGs" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">E</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="p__Toc307819161">
+                        <b>C</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZaOtIz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Acceptable</b>
+                  <entry>
+                     <p id="TPFBbL">
+                        <b>Good</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fzAFIh" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Substantial</b>
-                     </p>
-                     <p id="xJmWFK" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Confidence</b>
+                  <entry>
+                     <p id="iDyGTA">
+                        <b>Limited Confidence</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TKvxQI" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Acceptable</b>
+                  <entry>
+                     <p id="YWYVvR">
+                        <b>Outstanding</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GzbyuZ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">$115,751,933</b>
+                  <entry>
+                     <p id="UPQhjS">
+                        <b>$120,976,836</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="YdHXpt">
+                        <b>D</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="uaYyGM">
+                        <b>Outstanding</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ULJUoz">
+                        <b>Limited Confidence</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ozavGG">
+                        <b>Outstanding</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="BhYcBO">
+                        <b>$150,840,308</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sSkeGs">
+                        <b>E</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ZaOtIz">
+                        <b>Acceptable</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="fzAFIh">
+                        <b>Substantial</b>
+                     </p>
+                     <p id="xJmWFK">
+                        <b>Confidence</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="TKvxQI">
+                        <b>Acceptable</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="GzbyuZ">
+                        <b>$115,751,933</b>
                      </p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="goBOdb" outputclass="Ctr normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Figure 3-4:</i>
-         <i class="+ topic/ph hi-d/i ">Sample Proposal Evaluation Matrix</i>
+      <p id="goBOdb" outputclass="Ctr normal">
+         <i>Figure 3-4:</i>
+         <i>Sample Proposal Evaluation Matrix</i>
       </p>
    </conbody>
 </concept>

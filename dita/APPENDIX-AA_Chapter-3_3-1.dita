@@ -1,664 +1,627 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_APPENDIX-AA_Chapter-3_3-1"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3.1</ph> Evaluation Activities</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="AqehUv" outputclass="Text Body" class="- topic/p ">While the specific evaluation processes and tasks will vary between source selections, the basic objective remains constant – <b class="+ topic/ph hi-d/b ">to</b>
-         <b class="+ topic/ph hi-d/b ">provide the SSA</b>
-         <b class="+ topic/ph hi-d/b ">with the information needed</b>
-         <b class="+ topic/ph hi-d/b ">to make an informed and reasoned selection.</b>Towards this end, the evaluators will identify strengths, weaknesses, deficiencies, risks, and uncertainties applicable to each proposal. The process of identifying these findings is crucial to the competitive range determination, the conduct of meaningful discussions and debriefings, and the tradeoff analysis described in the Source Selection Decision Document (SSDD).</p>
-      <p id="YskvRs" outputclass="Text Body" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">Reminder:</b> The SSEB <b class="+ topic/ph hi-d/b ">shall not</b> perform comparative analysis of proposals or make source selection recommendations <u class="+ topic/ph hi-d/u ">unless</u> requested by the SSA (Reference DOD Source Selection Procedures 1.4.4.4.3).</p>
-      <p id="rehmHW" class="- topic/p ">While the below steps are identified in a linear manner, the process is actually iterative and some of the steps may be taken concurrently. Except where noted, these steps apply to the evaluation of both the cost and non-cost factors. The groups responsible for evaluating past performance, other non-cost factors, and cost/price normally perform their evaluations in parallel. The PCO and SSEB Chairperson shall ensure that the evaluation of each proposal is performed in a fair, integrated and comprehensive manner.</p>
-      <ul class="- topic/ul ">
-         <li id="nedxUf" class="- topic/li ">
-            <p id="HyNNlW" class="- topic/p ">
-               <b class="+ topic/ph hi-d/b ">
-                  <i class="+ topic/ph hi-d/i ">Best Practice:</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-3_3-1" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3.1</ph> Evaluation Activities</title>
+   <conbody>
+      <p id="AqehUv" outputclass="Text Body">While the specific evaluation processes and tasks will vary between source selections, the basic objective remains constant – <b>to</b>
+         <b>provide the SSA</b>
+         <b>with the information needed</b>
+         <b>to make an informed and reasoned selection.</b>Towards this end, the evaluators will identify strengths, weaknesses, deficiencies, risks, and uncertainties applicable to each proposal. The process of identifying these findings is crucial to the competitive range determination, the conduct of meaningful discussions and debriefings, and the tradeoff analysis described in the Source Selection Decision Document (SSDD).</p>
+      <p id="YskvRs" outputclass="Text Body">
+         <b>Reminder:</b> The SSEB <b>shall not</b> perform comparative analysis of proposals or make source selection recommendations <u>unless</u> requested by the SSA (Reference DOD Source Selection Procedures 1.4.4.4.3).</p>
+      <p id="rehmHW">While the below steps are identified in a linear manner, the process is actually iterative and some of the steps may be taken concurrently. Except where noted, these steps apply to the evaluation of both the cost and non-cost factors. The groups responsible for evaluating past performance, other non-cost factors, and cost/price normally perform their evaluations in parallel. The PCO and SSEB Chairperson shall ensure that the evaluation of each proposal is performed in a fair, integrated and comprehensive manner.</p>
+      <ul>
+         <li id="nedxUf">
+            <p id="HyNNlW">
+               <b>
+                  <i>Best Practice:</i>
                </b> Identify acquisition teams at the requirements development phase and provide comprehensive training on the entire process, from acquisition planning through source selection decision. Provide SSEB training covering the final RFP and SSP approximately one to two weeks prior to receipt of proposals.</p>
          </li>
       </ul>
-      <p id="sixOYi" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 1: Conduct SSEB Training</i>
+      <p id="sixOYi">
+         <b>
+            <i>Step 1: Conduct SSEB Training</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">–</i>
+         <b>
+            <i>–</i>
          </b> Prior to receipt of proposals, each evaluator must become familiar with all pertinent documents (e.g., the RFP and SSP). Training shall be conducted by the PCO, with the assistance of Legal Counsel, and include an overview of these documents and the source selection process. Training will provide a detailed focus on how to properly document each proposal’s strengths, weaknesses, uncertainties, risks, and deficiencies. The training will be based on the contents of the DoD Source Selection Procedures and this supplement, and shall also include ethics / procurement integrity training and protection of source selection information. This training is especially crucial when evaluators do not have prior source selection evaluation experience.</p>
-      <p id="OjohYv" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 2: Perform Initial Screening of Proposals –</i>
+      <p id="OjohYv">
+         <b>
+            <i>Step 2: Perform Initial Screening of Proposals –</i>
          </b> Upon receipt of proposals, the PCO or designee shall conduct an initial screening to ensure offerors’ proposals comply with the RFP instructions for submission of all required information, including electronic media, in the quantities and format specified in the RFP. Figure 3-1 is an extract of a sample proposal screening checklist that may be used to accomplish this initial screening and should be tailored to match the specific proposal submission requirements of the RFP.</p>
-      <p id="RFyCUC" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">A key aspect of this step is</i>
+      <p id="RFyCUC">
+         <b>
+            <i>A key aspect of this step is</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">to</i>
+         <b>
+            <i>to</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">also screen proposals for any exceptions taken by</i>
+         <b>
+            <i>also screen proposals for any exceptions taken by</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">offerors</i>
+         <b>
+            <i>offerors</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">to the terms and conditions as set forth within the RFP.</i>
+         <b>
+            <i>to the terms and conditions as set forth within the RFP.</i>
          </b>
       </p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="p__Toc307819137" class="- topic/p "/>
-                     <p id="LFQrSg" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">TAB</b>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="p__Toc307819137"></p>
+                     <p id="LFQrSg">
+                        <b>TAB</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FQWiEV" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">TECHNICAL PROPOSAL</b>
+                  <entry>
+                     <p id="FQWiEV">
+                        <b>TECHNICAL PROPOSAL</b>
                      </p>
-                     <p id="mMdcPd" class="- topic/p "/>
+                     <p id="mMdcPd"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qfGvUU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Circle Applicable Response</b>
+                  <entry>
+                     <p id="qfGvUU">
+                        <b>Circle Applicable Response</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="UkZlZr" class="- topic/p ">1: Executive Summary</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="UkZlZr">1: Executive Summary</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zQprTl" class="- topic/p ">Does this tab include a brief synopsis of the technical proposal?</p>
-                     <p id="YSYiZX" class="- topic/p ">Does it identify the offeror’s proposed teaming partners and/or subcontractors and discuss the nature and extent of their proposed involvement in satisfying the Government’s requirements?</p>
-                     <p id="QMQDtT" class="- topic/p ">Is a letter of commitment from each proposed team member and key subcontractor included at this tab?</p>
+                  <entry>
+                     <p id="zQprTl">Does this tab include a brief synopsis of the technical proposal?</p>
+                     <p id="YSYiZX">Does it identify the offeror’s proposed teaming partners and/or subcontractors and discuss the nature and extent of their proposed involvement in satisfying the Government’s requirements?</p>
+                     <p id="QMQDtT">Is a letter of commitment from each proposed team member and key subcontractor included at this tab?</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ExsZpX" class="- topic/p ">Y / N</p>
-                     <p id="ymTEyn" class="- topic/p ">Y / N</p>
-                     <p id="OQtkgz" class="- topic/p ">Y / N</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="qPsXQX" class="- topic/p ">2: Matrix</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VRUECR" class="- topic/p ">Does this tab include a matrix which cross-references the proposal and Volume 1 RFP paragraphs (at least all titled paragraphs)?</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZkdMUP" class="- topic/p ">Y / N</p>
+                  <entry>
+                     <p id="ExsZpX">Y / N</p>
+                     <p id="ymTEyn">Y / N</p>
+                     <p id="OQtkgz">Y / N</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="lrvfaQ" class="- topic/p ">3: Exceptions</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qPsXQX">2: Matrix</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="irPVCV" class="- topic/p ">Are any exceptions identified at this tab?</p>
+                  <entry>
+                     <p id="VRUECR">Does this tab include a matrix which cross-references the proposal and Volume 1 RFP paragraphs (at least all titled paragraphs)?</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zMPAth" class="- topic/p ">Y / N</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="SCVsgu" class="- topic/p ">4: Install/ Modify/ Terminate and Restore Service</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="KsNpST" class="- topic/p ">Does this tab address paragraph 2.1 of the RFP? Is there a description of the format and content of a typical service restoration plan (as required by PWS para 2.1.5.a)?</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DmAypy" class="- topic/p ">Y / N</p>
+                  <entry>
+                     <p id="ZkdMUP">Y / N</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MzRfuY" class="- topic/p ">5: Customer Coordination</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="lrvfaQ">3: Exceptions</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bkAFJG" class="- topic/p ">Does this tab include a detailed description of the proposed customer coordination services….</p>
+                  <entry>
+                     <p id="irPVCV">Are any exceptions identified at this tab?</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RCFKWV" class="- topic/p ">Y / N</p>
+                  <entry>
+                     <p id="zMPAth">Y / N</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SCVsgu">4: Install/ Modify/ Terminate and Restore Service</p>
+                  </entry>
+                  <entry>
+                     <p id="KsNpST">Does this tab address paragraph 2.1 of the RFP? Is there a description of the format and content of a typical service restoration plan (as required by PWS para 2.1.5.a)?</p>
+                  </entry>
+                  <entry>
+                     <p id="DmAypy">Y / N</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MzRfuY">5: Customer Coordination</p>
+                  </entry>
+                  <entry>
+                     <p id="bkAFJG">Does this tab include a detailed description of the proposed customer coordination services….</p>
+                  </entry>
+                  <entry>
+                     <p id="RCFKWV">Y / N</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="gdMxFY" outputclass="Ctr normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Figure 3-1</i>
-         <i class="+ topic/ph hi-d/i ">:</i>
-         <i class="+ topic/ph hi-d/i ">Sample Proposal Screening Checklist (Extract)</i>
+      <p id="gdMxFY" outputclass="Ctr normal">
+         <i>Figure 3-1</i>
+         <i>:</i>
+         <i>Sample Proposal Screening Checklist (Extract)</i>
       </p>
-      <p id="azenWy" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 3: Sharing of Cost/Price Information</i>
+      <p id="azenWy">
+         <b>
+            <i>Step 3: Sharing of Cost/Price Information</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">–</i>
+         <b>
+            <i>–</i>
          </b> The SSEB Chairperson and PCO, in coordination with the SSA, shall determine whether cost information will be provided to the technical evaluators, when and what information shall be provided, and under what conditions. The SSEB Chairperson and PCO shall ensure the Small Business Participation evaluation team verifies the total proposed price (not individual cost elements), and any subcontracting information with the Cost/Price team. This will ensure the dollar amounts are consistent with what is being proposed in the Small Business Participation Plan.</p>
-      <p id="hFNdqA" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 4: Conduct Initial Evaluation</i>
+      <p id="hFNdqA">
+         <b>
+            <i>Step 4: Conduct Initial Evaluation</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">–</i>
+         <b>
+            <i>–</i>
          </b>Evaluators will independently read and evaluate the offeror’s proposal against the criteria identified in the RFP and SSP, document their initial evaluation findings (e.g., strengths, weaknesses, deficiencies, risks and uncertainties), and draft proposed ENs for each finding to be addressed.</p>
-      <p id="iWJbVe" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 5: Identify and Document Areas of the Proposal That</i>
+      <p id="iWJbVe">
+         <b>
+            <i>Step 5: Identify and Document Areas of the Proposal That</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">May Be</i>
+         <b>
+            <i>May Be</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Resolvable</i>
+         <b>
+            <i>Resolvable</i>
          </b>
       </p>
-      <p id="ekAvTP" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Through Clarifications or Communications</i>
+      <p id="ekAvTP">
+         <b>
+            <i>Through Clarifications or Communications</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">–</b> If information is required to enhance the Government’s understanding of the proposal, the PCO may request amplification and other information from the offeror by means of the clarification or communication process. The PCO should engage the legal advisor prior to conducting this process. See Figure 3-3 for a detailed discussion of the differences between clarifications, communications, and discussions.</p>
-      <p id="nIpNbT" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step</i>
+         <b>–</b> If information is required to enhance the Government’s understanding of the proposal, the PCO may request amplification and other information from the offeror by means of the clarification or communication process. The PCO should engage the legal advisor prior to conducting this process. See Figure 3-3 for a detailed discussion of the differences between clarifications, communications, and discussions.</p>
+      <p id="nIpNbT">
+         <b>
+            <i>Step</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">6</i>
+         <b>
+            <i>6</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">:</i>
+         <b>
+            <i>:</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Assign</i>
+         <b>
+            <i>Assign</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Ratings for Non</i>
+         <b>
+            <i>Ratings for Non</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">-Cost Evaluation Factors</i>
+         <b>
+            <i>-Cost Evaluation Factors</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">When Using the Tradeoff Process</i>
+         <b>
+            <i>When Using the Tradeoff Process</i>
          </b>– At this point, the evaluators may or may not individually assign ratings to each evaluation factor or subfactor for which they are responsible. At a minimum, each evaluation team (factor, subfactor) must convene to discuss the offeror’s proposal. The purpose of the discussion is to share their views on the offeror’s strengths, weaknesses, deficiencies, risks, and uncertainties related to their assigned evaluation factor(s) / subfactor(s), and to reach a team consensus on findings and rating as appropriate.</p>
-      <p id="bbJpYq" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Note: Ratings must be supported by evaluation fin</i>
-         <i class="+ topic/ph hi-d/i ">dings and narrative statements.</i>
+      <p id="bbJpYq">
+         <i>Note: Ratings must be supported by evaluation fin</i>
+         <i>dings and narrative statements.</i>
       </p>
-      <ul class="- topic/ul ">
-         <li id="RlodPf" class="- topic/li ">
-            <p id="gQdCkJ" class="- topic/p ">Consensus requires a meeting of the minds on the assigned rating and associated deficiencies, strengths, weaknesses, uncertainties and risks. <i class="+ topic/ph hi-d/i ">Note</i>
-               <i class="+ topic/ph hi-d/i ">:</i> A simple averaging of the individual evaluation results does not constitute consensus.</p>
+      <ul>
+         <li id="RlodPf">
+            <p id="gQdCkJ">Consensus requires a meeting of the minds on the assigned rating and associated deficiencies, strengths, weaknesses, uncertainties and risks. <i>Note</i>
+               <i>:</i> A simple averaging of the individual evaluation results does not constitute consensus.</p>
          </li>
-         <li id="qjBOPi" class="- topic/li ">
-            <p id="MNKBTV" class="- topic/p ">In exceptional cases where the evaluators are unable to reach consensus without unreasonably delaying the source selection process, the evaluation report shall include the majority conclusion and the dissenting view(s), in the form of a minority opinion, with supporting rationale. The report must be briefed to the SSAC (if used) and the SSA.</p>
+         <li id="qjBOPi">
+            <p id="MNKBTV">In exceptional cases where the evaluators are unable to reach consensus without unreasonably delaying the source selection process, the evaluation report shall include the majority conclusion and the dissenting view(s), in the form of a minority opinion, with supporting rationale. The report must be briefed to the SSAC (if used) and the SSA.</p>
          </li>
       </ul>
-      <p id="RfUOnt" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 7: Finalize</i>
+      <p id="RfUOnt">
+         <b>
+            <i>Step 7: Finalize</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">ENs –</i>
+         <b>
+            <i>ENs –</i>
          </b>ENs will include deficiencies, significant weaknesses, weaknesses (and any uncertainties not resolved through clarifications or communications) as well as ENs for strengths, if dictated by the SSP.</p>
-      <p id="MGqgeh" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 8: Prepare Summary Evaluation Reports for Each Factor –</i>
+      <p id="MGqgeh">
+         <b>
+            <i>Step 8: Prepare Summary Evaluation Reports for Each Factor –</i>
          </b> Each Factor Chair will prepare a summary report for their respective factor which provides a discussion of their associated findings. These reports will help form the Summary SSEB Evaluation Report, and must be prepared at each phase of the process: initial, interim, and final evaluations.</p>
-      <p id="xnmORK" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Step 9: Prepare a Summary SSEB Evaluation Report –</i>
+      <p id="xnmORK">
+         <b>
+            <i>Step 9: Prepare a Summary SSEB Evaluation Report –</i>
          </b> The final step is for the SSEB Chairperson to prepare a summary report for each proposal that includes the evaluated price, the rating for each evaluation factor and subfactor, and a discussion of the associated findings (strengths, weaknesses, deficiencies, risks, and uncertainties). A Summary SSEB Evaluation Report must be prepared at each stage of the process: initial, interim, and final evaluations.</p>
-      <p id="p__Hlt498326626" outputclass="Normal" class="- topic/p "/>
-      <p id="rDNiXA" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Cost or Price Evaluation</u>
+      <p id="p__Hlt498326626" outputclass="Normal"></p>
+      <p id="rDNiXA" outputclass="Normal">
+         <b>
+            <i>
+               <u>Cost or Price Evaluation</u>
             </i>
          </b>
       </p>
-      <p id="KFnAUf" outputclass="Normal" class="- topic/p ">Figure 3-2 below provides a side-by-side comparison of what price analysis, cost analysis, and cost realism analysis should consist of and when they must be used. For detailed instructions and professional guidance on how to conduct these analyses, refer to FAR 15.4, and the Army Cost and Price Portal on the ODASA(P) Procurement.Army.Mil Knowledge Management Portal.</p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="WhiENP" class="- topic/p "/>
+      <p id="KFnAUf" outputclass="Normal">Figure 3-2 below provides a side-by-side comparison of what price analysis, cost analysis, and cost realism analysis should consist of and when they must be used. For detailed instructions and professional guidance on how to conduct these analyses, refer to FAR 15.4, and the Army Cost and Price Portal on the ODASA(P) Procurement.Army.Mil Knowledge Management Portal.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="4" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WhiENP"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XWbcTV" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Price Analysis</b>
+                  <entry>
+                     <p id="XWbcTV">
+                        <b>Price Analysis</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fqoOBE" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Cost Analysis</b>
+                  <entry>
+                     <p id="fqoOBE">
+                        <b>Cost Analysis</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GIryHW" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Cost Realism Analysis</b>
+                  <entry>
+                     <p id="GIryHW">
+                        <b>Cost Realism Analysis</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="cMfKrV" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">What is it?</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cMfKrV">
+                        <b>What is it?</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cpzoZP" class="- topic/p ">The process of examining and evaluating an offeror’s proposed price to determine if it is fair and reasonable without evaluating its separate cost elements and proposed profit/fee.</p>
-                     <p id="aFqiLV" class="- topic/p ">Price analysis always involves some type of comparison with other prices; e.g., comparing an offeror’s proposed price with the proposed prices of competing offerors or with previously proposed prices for the same or similar items.</p>
+                  <entry>
+                     <p id="cpzoZP">The process of examining and evaluating an offeror’s proposed price to determine if it is fair and reasonable without evaluating its separate cost elements and proposed profit/fee.</p>
+                     <p id="aFqiLV">Price analysis always involves some type of comparison with other prices; e.g., comparing an offeror’s proposed price with the proposed prices of competing offerors or with previously proposed prices for the same or similar items.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LWgkmT" class="- topic/p ">The review and evaluation of the separate cost elements in an offeror’s proposal and the application of judgment to determine how well the proposed costs represent what the cost of the contract should be, assuming reasonable economy and efficiency.</p>
+                  <entry>
+                     <p id="LWgkmT">The review and evaluation of the separate cost elements in an offeror’s proposal and the application of judgment to determine how well the proposed costs represent what the cost of the contract should be, assuming reasonable economy and efficiency.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zLiBdM" class="- topic/p ">The process of independently evaluating specific elements of each offeror’s cost estimate to determine whether the estimated cost elements are:</p>
-                     <ul class="- topic/ul ">
-                        <li id="OPWeOI" class="- topic/li ">
-                           <p id="dqmkmZ" class="- topic/p ">realistic for the work to be performed;</p>
+                  <entry>
+                     <p id="zLiBdM">The process of independently evaluating specific elements of each offeror’s cost estimate to determine whether the estimated cost elements are:</p>
+                     <ul>
+                        <li id="OPWeOI">
+                           <p id="dqmkmZ">realistic for the work to be performed;</p>
                         </li>
-                        <li id="OpBbrx" class="- topic/li ">
-                           <p id="VnculV" class="- topic/p ">reflect a clear understanding of the requirements; and</p>
+                        <li id="OpBbrx">
+                           <p id="VnculV">reflect a clear understanding of the requirements; and</p>
                         </li>
-                        <li id="cquxDd" class="- topic/li ">
-                           <p id="KcKSUO" class="- topic/p ">consistent with the unique methods of performance and materials described in the Offeror’s technical proposal.</p>
+                        <li id="cquxDd">
+                           <p id="KcKSUO">consistent with the unique methods of performance and materials described in the Offeror’s technical proposal.</p>
                         </li>
                      </ul>
-                     <p id="tediAp" class="- topic/p ">The probable cost estimate is a product of a cost realism analysis.</p>
+                     <p id="tediAp">The probable cost estimate is a product of a cost realism analysis.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="MMPVGM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">When must you perform it?</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MMPVGM">
+                        <b>When must you perform it?</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oJXIZo" class="- topic/p ">When cost and pricing data is not required to determine if the overall price is fair and reasonable.</p>
-                     <p id="RiqByA" class="- topic/p ">Price realism may be performed to determine that the price offered is consistent with the effort proposed.</p>
+                  <entry>
+                     <p id="oJXIZo">When cost and pricing data is not required to determine if the overall price is fair and reasonable.</p>
+                     <p id="RiqByA">Price realism may be performed to determine that the price offered is consistent with the effort proposed.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FQiZLk" class="- topic/p ">When Certified Cost or Pricing Data has been submitted.</p>
-                     <p id="dVzsxH" class="- topic/p ">When Data Other Than Certified Cost or Pricing Data is submitted if being evaluated for cost reasonableness or cost realism. May also be used when a fair and reasonable price cannot be determined through price alone. (See FAR 15.404-1(a)(4).</p>
+                  <entry>
+                     <p id="FQiZLk">When Certified Cost or Pricing Data has been submitted.</p>
+                     <p id="dVzsxH">When Data Other Than Certified Cost or Pricing Data is submitted if being evaluated for cost reasonableness or cost realism. May also be used when a fair and reasonable price cannot be determined through price alone. (See FAR 15.404-1(a)(4).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vYCAjg" class="- topic/p ">When cost-reimbursement contracts are anticipated.</p>
-                     <p id="YmpqUm" class="- topic/p ">Also you may use it on fixed price (FP) incentive contracts or, in exceptional cases, on other competitive FP contracts when the Offerors may not fully understand new requirements, there are quality concerns, or past experience indicates contractors’ proposed costs have resulted in quality/ service shortfalls.</p>
-                     <p id="LUkhSu" class="- topic/p ">However, when cost realism analysis is performed on FP contracts, proposals shall be evaluated using the criteria in the solicitation, and the offered prices shall not be adjusted as a result of the analysis.</p>
+                  <entry>
+                     <p id="vYCAjg">When cost-reimbursement contracts are anticipated.</p>
+                     <p id="YmpqUm">Also you may use it on fixed price (FP) incentive contracts or, in exceptional cases, on other competitive FP contracts when the Offerors may not fully understand new requirements, there are quality concerns, or past experience indicates contractors’ proposed costs have resulted in quality/ service shortfalls.</p>
+                     <p id="LUkhSu">However, when cost realism analysis is performed on FP contracts, proposals shall be evaluated using the criteria in the solicitation, and the offered prices shall not be adjusted as a result of the analysis.</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="nZsNmw" outputclass=" Ctr" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Figure 3-2</i>
-         <i class="+ topic/ph hi-d/i ">:</i>
-         <i class="+ topic/ph hi-d/i ">Comparison of Price, Cost, and Cost Realism Analysis</i>
+      <p id="nZsNmw" outputclass=" Ctr">
+         <i>Figure 3-2</i>
+         <i>:</i>
+         <i>Comparison of Price, Cost, and Cost Realism Analysis</i>
       </p>
-      <p id="CTZVNM" outputclass="Normal" class="- topic/p ">The following are some general evaluation guidelines and recommendations for evaluating cost/price:</p>
-      <ul class="- topic/ul ">
-         <li id="eNLjqP" class="- topic/li ">
-            <p id="uSWrji" class="- topic/p ">The Independent Government Cost Estimate (IGCE) may play a key role in cost/price analysis. It serves as a benchmark for price analysis and in cost realism, it may also serve as a benchmark for individual cost elements. The IGCE must contain a rationale for how it was developed, (e.g., what estimating tools were used and what assumptions were made), in order to properly evaluate cost/price.</p>
+      <p id="CTZVNM" outputclass="Normal">The following are some general evaluation guidelines and recommendations for evaluating cost/price:</p>
+      <ul>
+         <li id="eNLjqP">
+            <p id="uSWrji">The Independent Government Cost Estimate (IGCE) may play a key role in cost/price analysis. It serves as a benchmark for price analysis and in cost realism, it may also serve as a benchmark for individual cost elements. The IGCE must contain a rationale for how it was developed, (e.g., what estimating tools were used and what assumptions were made), in order to properly evaluate cost/price.</p>
          </li>
-         <li id="JGsViM" class="- topic/li ">
-            <p id="nBxOog" class="- topic/p ">With the approval of the SSEB Chairperson and the PCO, the cost/price evaluators should coordinate with the non-cost Factor/Functional Team Leads as necessary to ensure consistency between the proposed costs/prices and other portions of the proposal. This interchange between SSEB factor teams is part of the initial validation exercise and should be continued throughout the evaluation process to ensure that interrelationships are promptly identified and the evaluation findings reflect their recognition. For example, the technical evaluation may reveal areas where each offeror’s approach is inadequate or its resourcing unrealistic, given the proposed approach. The technical evaluators and the cost evaluators should crosswalk technical deficiencies and weaknesses and their impact on cost to ensure proper adjustments can be made to the proposed costs.</p>
+         <li id="JGsViM">
+            <p id="nBxOog">With the approval of the SSEB Chairperson and the PCO, the cost/price evaluators should coordinate with the non-cost Factor/Functional Team Leads as necessary to ensure consistency between the proposed costs/prices and other portions of the proposal. This interchange between SSEB factor teams is part of the initial validation exercise and should be continued throughout the evaluation process to ensure that interrelationships are promptly identified and the evaluation findings reflect their recognition. For example, the technical evaluation may reveal areas where each offeror’s approach is inadequate or its resourcing unrealistic, given the proposed approach. The technical evaluators and the cost evaluators should crosswalk technical deficiencies and weaknesses and their impact on cost to ensure proper adjustments can be made to the proposed costs.</p>
          </li>
-         <li id="zsxiEQ" class="- topic/li ">
-            <p id="AcLxat" class="- topic/p ">When conducting price analysis, consider not only the total price, including options, but also the prices for the individual Contract Line Items to ensure they are not unbalanced. Unbalanced pricing exists when the price of one or more contract line items is significantly over or understated as indicated by the application of cost/price analysis techniques. The PCO with concurrence of the SSA (and if permitted by the RFP) may reject the offer if they determine that this poses an unacceptable risk to the Government. For more information on unbalanced pricing, see FAR 15.404-1(g).</p>
+         <li id="zsxiEQ">
+            <p id="AcLxat">When conducting price analysis, consider not only the total price, including options, but also the prices for the individual Contract Line Items to ensure they are not unbalanced. Unbalanced pricing exists when the price of one or more contract line items is significantly over or understated as indicated by the application of cost/price analysis techniques. The PCO with concurrence of the SSA (and if permitted by the RFP) may reject the offer if they determine that this poses an unacceptable risk to the Government. For more information on unbalanced pricing, see FAR 15.404-1(g).</p>
          </li>
-         <li id="qCxbRb" class="- topic/li ">
-            <p id="zmRvWO" class="- topic/p ">For fixed-price contracts, the evaluation can be as simple as consideration of adequate price competition and ensuring prices are fair and reasonable. For cost-reimbursement contracts, you must analyze the offerors’ estimated costs for both realism and reasonableness. In a competitive environment, the cost realism analysis enables you to determine each offeror’s probable cost of performance. This precludes an award decision based on an overly optimistic cost estimate.</p>
+         <li id="qCxbRb">
+            <p id="zmRvWO">For fixed-price contracts, the evaluation can be as simple as consideration of adequate price competition and ensuring prices are fair and reasonable. For cost-reimbursement contracts, you must analyze the offerors’ estimated costs for both realism and reasonableness. In a competitive environment, the cost realism analysis enables you to determine each offeror’s probable cost of performance. This precludes an award decision based on an overly optimistic cost estimate.</p>
          </li>
       </ul>
-      <p id="dMnwzh" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Technical Evaluation</u>
+      <p id="dMnwzh" outputclass="Normal">
+         <b>
+            <i>
+               <u>Technical Evaluation</u>
             </i>
          </b>
       </p>
-      <p id="wYlxev" outputclass="Normal" class="- topic/p ">The <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Army</i>
+      <p id="wYlxev" outputclass="Normal">The <b>
+            <i>Army</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">methodology for</i>
+         <b>
+            <i>methodology for</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">evaluating Technical Approach and Related Risk</i>
+         <b>
+            <i>evaluating Technical Approach and Related Risk</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">is Methodology 2: Combined Technical/Risk Rating</i>
+         <b>
+            <i>is Methodology 2: Combined Technical/Risk Rating</i>
          </b>
-         <i class="+ topic/ph hi-d/i ">(Reference</i>
-         <i class="+ topic/ph hi-d/i ">DOD Source Selection Procedures 3.1.2.</i>
-         <i class="+ topic/ph hi-d/i ">2)</i>. This methodology provides the most flexibility and least complexity in the rating process, in conducting of the comparative analysis, and best value subjective tradeoff analysis process<i class="+ topic/ph hi-d/i ">.</i>
+         <i>(Reference</i>
+         <i>DOD Source Selection Procedures 3.1.2.</i>
+         <i>2)</i>. This methodology provides the most flexibility and least complexity in the rating process, in conducting of the comparative analysis, and best value subjective tradeoff analysis process<i>.</i>
       </p>
-      <p id="XwoVlx" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Past Performance Evaluation</u>
+      <p id="XwoVlx" outputclass="Normal">
+         <b>
+            <i>
+               <u>Past Performance Evaluation</u>
             </i>
          </b>
       </p>
-      <p id="iZrlRy" outputclass="Normal" class="- topic/p ">In past performance evaluations, you examine the offeror’s performance record on similar contract efforts, and use the information to predict the probability the offeror will successfully perform under your contract. It is important to understand the difference between an offeror’s experience and its past performance – experience is <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">what</i>
-         </b> (work) the offeror has done, and past performance is <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">how well</i>
+      <p id="iZrlRy" outputclass="Normal">In past performance evaluations, you examine the offeror’s performance record on similar contract efforts, and use the information to predict the probability the offeror will successfully perform under your contract. It is important to understand the difference between an offeror’s experience and its past performance – experience is <b>
+            <i>what</i>
+         </b> (work) the offeror has done, and past performance is <b>
+            <i>how well</i>
          </b> the offeror did it.</p>
-      <p id="DemIPn" class="- topic/p ">FAR Parts 9, 12, 15, 36 and 42 contain regulatory policies related to the evaluation of past performance. FAR Part 36 provides specific procedures, forms, and thresholds for evaluation of Architect &amp; Engineering and construction acquisitions. Additionally, the Office of Federal Procurement Policy (OFPP) and DOD have published the following guides that pertain to the evaluation of past performance information:</p>
-      <ul class="- topic/ul ">
-         <li id="yzhpiS" class="- topic/li ">
-            <p id="keBiNc" class="- topic/p ">OFPP Guide: Best Practices for Collecting and Using Current and Past Performance Information</p>
+      <p id="DemIPn">FAR Parts 9, 12, 15, 36 and 42 contain regulatory policies related to the evaluation of past performance. FAR Part 36 provides specific procedures, forms, and thresholds for evaluation of Architect &amp; Engineering and construction acquisitions. Additionally, the Office of Federal Procurement Policy (OFPP) and DOD have published the following guides that pertain to the evaluation of past performance information:</p>
+      <ul>
+         <li id="yzhpiS">
+            <p id="keBiNc">OFPP Guide: Best Practices for Collecting and Using Current and Past Performance Information</p>
          </li>
-         <li id="QcvrHa" class="- topic/li ">
-            <p id="EjEQpi" class="- topic/p ">DOD Guide: A Guide to Collection and Use of Past Performance Information</p>
+         <li id="QcvrHa">
+            <p id="EjEQpi">DOD Guide: A Guide to Collection and Use of Past Performance Information</p>
          </li>
       </ul>
-      <p id="kAxAzc" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Recency</i>. No Army Text.</p>
-      <p id="axMFJO" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Relevance</i>. A helpful tool to consider using to assist in determining/verifying the relevancy of a contract reference is to locate and review the contract and requirements in Electronic Document Access (EDA). <i class="+ topic/ph hi-d/i ">Note</i>: EDA requires user registration within the Wide Area Workflow suite of tools. To ensure your ability to access contract records, complete this process well in advance of SSEB. <i class="+ topic/ph hi-d/i ">(Reference DOD Source Selection Procedures</i> 3.1.3.1.2<i class="+ topic/ph hi-d/i ">)</i>
+      <p id="kAxAzc" outputclass="Normal">
+         <i>Recency</i>. No Army Text.</p>
+      <p id="axMFJO">
+         <i>Relevance</i>. A helpful tool to consider using to assist in determining/verifying the relevancy of a contract reference is to locate and review the contract and requirements in Electronic Document Access (EDA). <i>Note</i>: EDA requires user registration within the Wide Area Workflow suite of tools. To ensure your ability to access contract records, complete this process well in advance of SSEB. <i>(Reference DOD Source Selection Procedures</i> 3.1.3.1.2<i>)</i>
       </p>
-      <p id="EObcFr" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Quality of Products or Services</i>. No Army Text.</p>
-      <p id="uCTYgz" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Sources of Past Performance Information</i>
+      <p id="EObcFr" outputclass="Normal">
+         <i>Quality of Products or Services</i>. No Army Text.</p>
+      <p id="uCTYgz" outputclass="Normal">
+         <b>
+            <i>Sources of Past Performance Information</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">.</i>
+         <b>
+            <i>.</i>
          </b> Where possible, use past performance information available from Government-wide and agency-wide databases. Use of such information will help to expedite and streamline the evaluation process.</p>
-      <ul class="- topic/ul ">
-         <li id="TjYjHG" class="- topic/li ">
-            <p id="kXUBcO" class="- topic/p ">If possible, contact two points of contact on each contract effort selected for in-depth review. The PCOs, CORs, Fee Determining Officials, and program management office representatives are often excellent sources of information.</p>
+      <ul>
+         <li id="TjYjHG">
+            <p id="kXUBcO">If possible, contact two points of contact on each contract effort selected for in-depth review. The PCOs, CORs, Fee Determining Officials, and program management office representatives are often excellent sources of information.</p>
          </li>
-         <li id="aekyPJ" class="- topic/li ">
-            <p id="yCDFPC" class="- topic/p ">If multiple points of contact are providing past performance information on contract (for example, the PCO and PM), arrange for submission of consolidated input from these sources. This may remove the need for the evaluation team to reconcile variances in past performance information submitted.</p>
+         <li id="aekyPJ">
+            <p id="yCDFPC">If multiple points of contact are providing past performance information on contract (for example, the PCO and PM), arrange for submission of consolidated input from these sources. This may remove the need for the evaluation team to reconcile variances in past performance information submitted.</p>
          </li>
-         <li id="qqjmii" class="- topic/li ">
-            <p id="NXhjWC" class="- topic/p ">In assessing the feedback, pay particular attention to the source of that feedback and their familiarity with the requirements of the contract being assessed. For example, end users may be unfamiliar with the contract requirements or certain issues, and resolution arising from contract performance may not be apparent to them.</p>
+         <li id="qqjmii">
+            <p id="NXhjWC">In assessing the feedback, pay particular attention to the source of that feedback and their familiarity with the requirements of the contract being assessed. For example, end users may be unfamiliar with the contract requirements or certain issues, and resolution arising from contract performance may not be apparent to them.</p>
          </li>
-         <li id="wLohuu" class="- topic/li ">
-            <p id="AJMQLj" class="- topic/p ">The agency has an obligation to consider information that has a bearing on an offeror’s past performance, if the SST is aware of (or should have been aware of) the information. For example, an agency may not ignore contract performance by an offeror involving the same agency, the same services, and/or the same PCO, simply because an agency official fails to complete the necessary assessments or documentation. Consult legal counsel on how to address this type of information.</p>
+         <li id="wLohuu">
+            <p id="AJMQLj">The agency has an obligation to consider information that has a bearing on an offeror’s past performance, if the SST is aware of (or should have been aware of) the information. For example, an agency may not ignore contract performance by an offeror involving the same agency, the same services, and/or the same PCO, simply because an agency official fails to complete the necessary assessments or documentation. Consult legal counsel on how to address this type of information.</p>
          </li>
       </ul>
-      <p id="aLQWar" class="- topic/p "/>
-      <p id="idJkaa" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Addressing Adverse Past Performance Information.</i>
+      <p id="aLQWar"></p>
+      <p id="idJkaa">
+         <b>
+            <i>Addressing Adverse Past Performance Information.</i>
          </b> When adverse past performance is obtained, as appropriate, contact the respective point of contact for that contract to obtain further information about the circumstances surrounding the situation. Additionally, and when practical, contact at least one other individual to get a second perspective on the offeror’s performance on the subject acquisition. Consider the context of the performance problems, any mitigating circumstances, the number and severity of the problems, the demonstrated effectiveness of corrective actions taken, and the overall work record.</p>
-      <p id="snGnMY" class="- topic/p ">If there is past performance information that adversely impacts an offeror’s proposal assessment, provide the offeror an opportunity to address any such information on which it has not had a previous opportunity to comment. This opportunity may occur during clarifications, communications, or discussions, depending upon whether discussions are anticipated.</p>
-      <p id="AoEYEV" class="- topic/p ">When addressing adverse past performance information, identify the contract, but do not identify the name of the individual who provided the information. Summarize the problem(s) with sufficient detail to give the offeror a reasonable opportunity to respond.</p>
-      <p id="drQcNv" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">NOTE</i>
+      <p id="snGnMY">If there is past performance information that adversely impacts an offeror’s proposal assessment, provide the offeror an opportunity to address any such information on which it has not had a previous opportunity to comment. This opportunity may occur during clarifications, communications, or discussions, depending upon whether discussions are anticipated.</p>
+      <p id="AoEYEV">When addressing adverse past performance information, identify the contract, but do not identify the name of the individual who provided the information. Summarize the problem(s) with sufficient detail to give the offeror a reasonable opportunity to respond.</p>
+      <p id="drQcNv">
+         <b>
+            <i>NOTE</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">:</b> Past performance is considered a responsibility-type evaluation factor for purposes of SBA’s Certificate of Competency (COC) program. FAR 19.602-1(a) requires agencies to refer a finding of non-responsibility to the SBA if the determination would preclude award. Therefore, if the PCO refuses to consider a small business concern for award after evaluating the concern's past performance on a non-comparative basis (e.g., a pass/fail, go/no go, or acceptable/unacceptable), the matter must be referred to the SBA. Alternatively, when using the trade-off process, the government may use traditional responsibility factors such as past performance as technical evaluation factors where a comparative evaluation of those areas will be performed as opposed to a pass/fail basis. In this case SBA referral is not required because the evaluation of past performance is part of a comparative, best value evaluation and not a responsibility determination.</p>
-      <p id="NbCpae" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Small Business Evaluation</u>
+         <b>:</b> Past performance is considered a responsibility-type evaluation factor for purposes of SBA’s Certificate of Competency (COC) program. FAR 19.602-1(a) requires agencies to refer a finding of non-responsibility to the SBA if the determination would preclude award. Therefore, if the PCO refuses to consider a small business concern for award after evaluating the concern's past performance on a non-comparative basis (e.g., a pass/fail, go/no go, or acceptable/unacceptable), the matter must be referred to the SBA. Alternatively, when using the trade-off process, the government may use traditional responsibility factors such as past performance as technical evaluation factors where a comparative evaluation of those areas will be performed as opposed to a pass/fail basis. In this case SBA referral is not required because the evaluation of past performance is part of a comparative, best value evaluation and not a responsibility determination.</p>
+      <p id="NbCpae" outputclass="Normal">
+         <b>
+            <i>
+               <u>Small Business Evaluation</u>
             </i>
          </b>
       </p>
-      <p id="iMPZTc" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The Army methodology for rating the Small Business Participation Factor is to utilize the DoD Source Selection Procedures rating scheme for Small Business Participation</i>
+      <p id="iMPZTc" outputclass="Normal">
+         <b>
+            <i>The Army methodology for rating the Small Business Participation Factor is to utilize the DoD Source Selection Procedures rating scheme for Small Business Participation</i>
          </b>
-         <i class="+ topic/ph hi-d/i ">(see</i>
-         <i class="+ topic/ph hi-d/i ">DoD Source Selection Procedures</i>
-         <i class="+ topic/ph hi-d/i ">3.1.4.1.2 – Table 6).</i> Acceptable/ Unacceptable (Pass/Fail) rating schemes are the least preferred method of evaluating small business participation in best value source selections. This rating scheme does not allow evaluators to give higher ratings to offerors that significantly exceed the stated small business goals or submit proof of binding agreements with small businesses, and therefore are discouraged.</p>
-      <p id="dfocJw" outputclass="Indent Text Body" class="- topic/p ">Additionally, Small Business Past Performance should be considered, and in some cases is required (see FAR 15.304(c)(3)(ii) DOD Deviation). In looking at Small Business Past Performance, the Government evaluates how well the offeror has performed on achieving its small business goals. Remember that this should only be evaluated against large businesses in their compliance of FAR 52.219-9. <i class="+ topic/ph hi-d/i ">For example, the Government may request</i>
-         <i class="+ topic/ph hi-d/i ">e</i>
-         <i class="+ topic/ph hi-d/i ">lectronic Subcontracting Reporting System</i>
-         <i class="+ topic/ph hi-d/i ">(</i>
-         <i class="+ topic/ph hi-d/i ">eSRS</i>
-         <i class="+ topic/ph hi-d/i ">)</i>
-         <i class="+ topic/ph hi-d/i ">information.</i>
+         <i>(see</i>
+         <i>DoD Source Selection Procedures</i>
+         <i>3.1.4.1.2 – Table 6).</i> Acceptable/ Unacceptable (Pass/Fail) rating schemes are the least preferred method of evaluating small business participation in best value source selections. This rating scheme does not allow evaluators to give higher ratings to offerors that significantly exceed the stated small business goals or submit proof of binding agreements with small businesses, and therefore are discouraged.</p>
+      <p id="dfocJw" outputclass="Indent Text Body">Additionally, Small Business Past Performance should be considered, and in some cases is required (see FAR 15.304(c)(3)(ii) DOD Deviation). In looking at Small Business Past Performance, the Government evaluates how well the offeror has performed on achieving its small business goals. Remember that this should only be evaluated against large businesses in their compliance of FAR 52.219-9. <i>For example, the Government may request</i>
+         <i>e</i>
+         <i>lectronic Subcontracting Reporting System</i>
+         <i>(</i>
+         <i>eSRS</i>
+         <i>)</i>
+         <i>information.</i>
       </p>
-      <p id="KquqCN" outputclass="List3" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Note:</i>
-         </b> Although DFARS PGI 215.304 provides an example that indicates evaluation of Past Performance compliance within a separate Small Business Participation Factor, it may be evaluated instead under the Past Performance Factor, <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">but not in both factors</i>
+      <p id="KquqCN" outputclass="List3">
+         <b>
+            <i>Note:</i>
+         </b> Although DFARS PGI 215.304 provides an example that indicates evaluation of Past Performance compliance within a separate Small Business Participation Factor, it may be evaluated instead under the Past Performance Factor, <b>
+            <i>but not in both factors</i>
          </b>.</p>
-      <p id="BbMsCW" outputclass="Text Body" class="- topic/p ">Small Business offerors proposing on unrestricted requirements are not held to the requirements of FAR 52.219-14 Limitations on Subcontracting because the clause is applicable to small business set-aside procurements only. However, small business offerors should meet the small business participation factor goals through performance as a prime small business or a combination of performance and small business subcontracting.</p>
-      <p id="BnSqcF" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Types of Exchanges</u>
+      <p id="BbMsCW" outputclass="Text Body">Small Business offerors proposing on unrestricted requirements are not held to the requirements of FAR 52.219-14 Limitations on Subcontracting because the clause is applicable to small business set-aside procurements only. However, small business offerors should meet the small business participation factor goals through performance as a prime small business or a combination of performance and small business subcontracting.</p>
+      <p id="BnSqcF" outputclass="Normal">
+         <b>
+            <i>
+               <u>Types of Exchanges</u>
             </i>
          </b>
       </p>
-      <p id="SNynqR" outputclass="Normal" class="- topic/p ">After receipt of proposals, there are three types of exchanges that may occur between the Government and offerors -- clarifications, communications and negotiations / discussions. They differ on when they occur, their purpose and scope, and whether offerors are allowed to revise their proposals as a result of the exchanges. <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">All SSEB exchanges must be accomplished through the use of</i>
+      <p id="SNynqR" outputclass="Normal">After receipt of proposals, there are three types of exchanges that may occur between the Government and offerors -- clarifications, communications and negotiations / discussions. They differ on when they occur, their purpose and scope, and whether offerors are allowed to revise their proposals as a result of the exchanges. <b>
+            <i>All SSEB exchanges must be accomplished through the use of</i>
          </b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">ENs</i>
+         <b>
+            <i>ENs</i>
          </b>.</p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="4" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="HxAfDn" class="- topic/p "/>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="4" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HxAfDn"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZfhBPb" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Clarifications</b>
+                  <entry>
+                     <p id="ZfhBPb">
+                        <b>Clarifications</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dcLwwk" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Communications</b>
+                  <entry>
+                     <p id="dcLwwk">
+                        <b>Communications</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BHsJbQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Negotiations/Discussions</b>
+                  <entry>
+                     <p id="BHsJbQ">
+                        <b>Negotiations/Discussions</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="xheEFz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">When They Occur</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="xheEFz">
+                        <b>When They Occur</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EbpCuo" class="- topic/p ">Limited exchanges, between the Government and offerors when award WITHOUT discussions is contemplated</p>
-                     <p id="NxTvho" class="- topic/p ">NOTE: Award may be made without discussions if the solicitation announces that the government intends to evaluate proposals and make award without discussions.</p>
+                  <entry>
+                     <p id="EbpCuo">Limited exchanges, between the Government and offerors when award WITHOUT discussions is contemplated</p>
+                     <p id="NxTvho">NOTE: Award may be made without discussions if the solicitation announces that the government intends to evaluate proposals and make award without discussions.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QkzPLV" class="- topic/p ">After receipt of proposals, leading to the establishment of the competitive range of offerors with which the government intends to conduct discussions</p>
-                     <p id="tBeQTr" class="- topic/p ">May only be held with those offerors (other than offerors under FAR 15.306 (b)(1)(i)) whose exclusion from the competitive range is uncertain.</p>
+                  <entry>
+                     <p id="QkzPLV">After receipt of proposals, leading to the establishment of the competitive range of offerors with which the government intends to conduct discussions</p>
+                     <p id="tBeQTr">May only be held with those offerors (other than offerors under FAR 15.306 (b)(1)(i)) whose exclusion from the competitive range is uncertain.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SxCMyF" class="- topic/p ">After establishing the competitive range</p>
-                     <p id="SGpjNb" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">NOTE</b>: The term “negotiations” applies to both competitive and non-competitive acquisitions. In competitive acquisitions, negotiations are also called discussions.</p>
+                  <entry>
+                     <p id="SxCMyF">After establishing the competitive range</p>
+                     <p id="SGpjNb">
+                        <b>NOTE</b>: The term “negotiations” applies to both competitive and non-competitive acquisitions. In competitive acquisitions, negotiations are also called discussions.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="tCHaqe" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Scope of the Exchanges</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tCHaqe">
+                        <b>Scope of the Exchanges</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jginSy" class="- topic/p ">Most limited of the three types of exchanges. Clarifications are not required to be held with all offerors.</p>
+                  <entry>
+                     <p id="jginSy">Most limited of the three types of exchanges. Clarifications are not required to be held with all offerors.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IkiAkV" class="- topic/p ">Limited; similar to fact finding</p>
+                  <entry>
+                     <p id="IkiAkV">Limited; similar to fact finding</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GHsSVP" class="- topic/p ">Most detailed and extensive. When conducting discussions with one offeror must conduct with all offerors in the competitive range.</p>
+                  <entry>
+                     <p id="GHsSVP">Most detailed and extensive. When conducting discussions with one offeror must conduct with all offerors in the competitive range.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="KuPIOe" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Purpose</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="KuPIOe">
+                        <b>Purpose</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NFkhkp" class="- topic/p ">To clarify certain aspects of proposals</p>
+                  <entry>
+                     <p id="NFkhkp">To clarify certain aspects of proposals</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="asnPTF" class="- topic/p ">To enhance the Government’s understanding of the proposal by addressing issues that must be explored to allow a reasonable interpretation of the offeror’s proposal to determine whether a proposal should be placed in the competitive range</p>
+                  <entry>
+                     <p id="asnPTF">To enhance the Government’s understanding of the proposal by addressing issues that must be explored to allow a reasonable interpretation of the offeror’s proposal to determine whether a proposal should be placed in the competitive range</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oTZJRo" class="- topic/p ">To allow the offeror an opportunity to revise its proposal so that the Government obtains the best value, based on the requirement and applicable evaluation factors</p>
+                  <entry>
+                     <p id="oTZJRo">To allow the offeror an opportunity to revise its proposal so that the Government obtains the best value, based on the requirement and applicable evaluation factors</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="fWvZbg" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Examples of Topics of Exchanges</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fWvZbg">
+                        <b>Examples of Topics of Exchanges</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pcwkKW" class="- topic/p "/>
-                     <ul class="- topic/ul ">
-                        <li id="aCuojX" class="- topic/li ">
-                           <p id="gSrPXK" class="- topic/p ">Relevance of an offeror’s past performance</p>
+                  <entry>
+                     <p id="pcwkKW"></p>
+                     <ul>
+                        <li id="aCuojX">
+                           <p id="gSrPXK">Relevance of an offeror’s past performance</p>
                         </li>
-                        <li id="sovdIx" class="- topic/li ">
-                           <p id="NomWdv" class="- topic/p ">Adverse past performance information</p>
+                        <li id="sovdIx">
+                           <p id="NomWdv">Adverse past performance information</p>
                         </li>
-                        <li id="KLOOWD" class="- topic/li ">
-                           <p id="qNivRp" class="- topic/p ">Resolution of minor or clerical errors</p>
+                        <li id="KLOOWD">
+                           <p id="qNivRp">Resolution of minor or clerical errors</p>
                         </li>
                      </ul>
-                     <p id="eeywHN" class="- topic/p "/>
+                     <p id="eeywHN"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xaFGXw" class="- topic/p "/>
-                     <ul class="- topic/ul ">
-                        <li id="dKWLPI" class="- topic/li ">
-                           <p id="IZUEGN" class="- topic/p ">Address issues that must be explored to determine whether a proposal should be placed in the competitive range</p>
+                  <entry>
+                     <p id="xaFGXw"></p>
+                     <ul>
+                        <li id="dKWLPI">
+                           <p id="IZUEGN">Address issues that must be explored to determine whether a proposal should be placed in the competitive range</p>
                         </li>
-                        <li id="DyDsWM" class="- topic/li ">
-                           <p id="ngBbbQ" class="- topic/p ">Ambiguities or other concerns (e.g., perceived deficiencies, weaknesses, errors, omissions, or mistakes)</p>
+                        <li id="DyDsWM">
+                           <p id="ngBbbQ">Ambiguities or other concerns (e.g., perceived deficiencies, weaknesses, errors, omissions, or mistakes)</p>
                         </li>
-                        <li id="OpZFSQ" class="- topic/li ">
-                           <p id="dfyHzh" class="- topic/p ">Relevance of an offeror’s past performance</p>
+                        <li id="OpZFSQ">
+                           <p id="dfyHzh">Relevance of an offeror’s past performance</p>
                         </li>
-                        <li id="zIGEeO" class="- topic/li ">
-                           <p id="PSuwkR" class="- topic/p ">Adverse past performance information</p>
+                        <li id="zIGEeO">
+                           <p id="PSuwkR">Adverse past performance information</p>
                         </li>
                      </ul>
-                     <p id="stlFyB" class="- topic/p "/>
+                     <p id="stlFyB"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XYTYmt" class="- topic/p ">Examples of potential discussion topics include the identification of all evaluated deficiencies, significant weaknesses, weaknesses, and any adverse past performance information to which the offeror has not yet had an opportunity to respond.</p>
-                     <p id="gysTID" class="- topic/p ">Additionally, it is a best practice to identify strengths and significant strengths to ensure that the offeror does not remove when submitting the FPR.</p>
-                     <p id="SJvzJi" class="- topic/p ">Finally, the PCO may inform the Offeror that its price is too low or too high with the basis of these conclusions.</p>
+                  <entry>
+                     <p id="XYTYmt">Examples of potential discussion topics include the identification of all evaluated deficiencies, significant weaknesses, weaknesses, and any adverse past performance information to which the offeror has not yet had an opportunity to respond.</p>
+                     <p id="gysTID">Additionally, it is a best practice to identify strengths and significant strengths to ensure that the offeror does not remove when submitting the FPR.</p>
+                     <p id="SJvzJi">Finally, the PCO may inform the Offeror that its price is too low or too high with the basis of these conclusions.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="jekZAn" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Are Resultant Proposal Revisions Allowed?</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jekZAn">
+                        <b>Are Resultant Proposal Revisions Allowed?</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vvmNim" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="vvmNim">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ORMdgj" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="ORMdgj">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AgqKtT" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="AgqKtT">Yes</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="ksEdtd" outputclass=" Ctr" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Figure 3-3: Comparison of Types of Exchanges (After Receipt of Proposals)</i>
+      <p id="ksEdtd" outputclass=" Ctr">
+         <i>Figure 3-3: Comparison of Types of Exchanges (After Receipt of Proposals)</i>
       </p>
-      <p id="SsBLOp" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">
-               <u class="+ topic/ph hi-d/u ">Conducting Exchanges with Offerors</u>
+      <p id="SsBLOp" outputclass="Normal">
+         <b>
+            <i>
+               <u>Conducting Exchanges with Offerors</u>
             </i>
          </b>
       </p>
-      <p id="ADJrCa" outputclass="Normal" class="- topic/p ">The PCO controls all exchanges with Offerors. Before participating in any exchanges, the PCO shall review the ground rules with the team members. During exchanges with offerors, the Government may not:</p>
-      <ul class="- topic/ul ">
-         <li id="oXyrNQ" class="- topic/li ">
-            <p id="uukyid1h" class="- topic/p ">Favor one offeror over another;</p>
+      <p id="ADJrCa" outputclass="Normal">The PCO controls all exchanges with Offerors. Before participating in any exchanges, the PCO shall review the ground rules with the team members. During exchanges with offerors, the Government may not:</p>
+      <ul>
+         <li id="oXyrNQ">
+            <p id="uukyid1h">Favor one offeror over another;</p>
          </li>
-         <li id="JkSpio" class="- topic/li ">
-            <p id="m1xlsec2" class="- topic/p ">Reveal an offeror’s technical solution to another offeror;</p>
+         <li id="JkSpio">
+            <p id="m1xlsec2">Reveal an offeror’s technical solution to another offeror;</p>
          </li>
-         <li id="QeOLus" class="- topic/li ">
-            <p id="0z33ckq7" class="- topic/p ">Reveal an offeror’s price to another offeror without that offeror’s permission;</p>
+         <li id="QeOLus">
+            <p id="0z33ckq7">Reveal an offeror’s price to another offeror without that offeror’s permission;</p>
          </li>
-         <li id="btvZIl" class="- topic/li ">
-            <p id="1py7i1s4" class="- topic/p ">Knowingly disclose source selection information, or reveal the name of individuals providing past performance information;</p>
+         <li id="btvZIl">
+            <p id="1py7i1s4">Knowingly disclose source selection information, or reveal the name of individuals providing past performance information;</p>
          </li>
-         <li id="IVFtDh" class="- topic/li ">
-            <p id="bl7u6dc9" class="- topic/p ">Reveal source selection information in violation of statutory and regulatory requirements.</p>
+         <li id="IVFtDh">
+            <p id="bl7u6dc9">Reveal source selection information in violation of statutory and regulatory requirements.</p>
          </li>
       </ul>
    </conbody>

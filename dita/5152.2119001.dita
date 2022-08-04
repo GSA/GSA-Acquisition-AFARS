@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5152.2119001"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5152.211-9001</ph> Variations in Estimated Quantities—Subline Items.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="iBYZru" outputclass="Normal" class="- topic/p ">As prescribed in 5111.703(c)(ii), insert the following clause:</p>
-      <p id="YeJTBS" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">VARIATIONS IN ESTIMATED QUANTITIES — SUB</b>
-         <b class="+ topic/ph hi-d/b ">LINE</b>
-         <b class="+ topic/ph hi-d/b ">ITEMS (</b>
-         <b class="+ topic/ph hi-d/b ">DEC</b>
-         <b class="+ topic/ph hi-d/b ">2019)</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5152.2119001" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5152.211-9001</ph> Variations in Estimated Quantities—Subline Items.</title>
+   <conbody>
+      <p id="iBYZru" outputclass="Normal">As prescribed in 5111.703(c)(ii), insert the following clause:</p>
+      <p id="YeJTBS" outputclass="Normal">
+         <b>VARIATIONS IN ESTIMATED QUANTITIES — SUB</b>
+         <b>LINE</b>
+         <b>ITEMS (</b>
+         <b>DEC</b>
+         <b>2019)</b>
       </p>
-      <p id="artSFj" outputclass="Normal" class="- topic/p ">This variation in estimated quantities clause is applicable only to item Nos. ___.</p>
-      <p id="JoHDKO" outputclass="List1" class="- topic/p ">(a) Variation from the estimated quantity in the actual work performed under any second or subsequent subline item or elimination of all work under such a second or subsequent subline item will not be the basis for an adjustment in contract unit price.</p>
-      <p id="Clgfkn" outputclass="List1" class="- topic/p ">(b) Where the actual quantity of work performed for item Nos. ____ is less than 85% of the quantity of the first subline item listed under such item, the contractor will be paid at the contract unit price for that subline item for the actual quantity of work performed and, in addition, an equitable adjustment shall be made in accordance with the clause at Federal Acquisition Regulation (FAR) 52.211-18, Variation in Estimated Quantities.</p>
-      <p id="CmtYsP" outputclass="List1" class="- topic/p ">(c) If the actual quantity of work performed under item Nos. ____ exceeds 115% or is less than 85% of the total estimated quantity of the subline item under that item and/or if the quantity of the work performed under the second subline item or any subsequent subline item under item Nos.____ exceeds 115% or is less than 85% of the estimated quantity of any such subline item, and if such variation causes an increase or a decrease in the time required for performance of this contract the contract completion time will be adjusted in accordance with the clause FAR 52.211-18, Variation in Estimated Quantities.</p>
-      <p id="urTliG" outputclass="Ctr" class="- topic/p ">(End of clause)</p>
+      <p id="artSFj" outputclass="Normal">This variation in estimated quantities clause is applicable only to item Nos. ___.</p>
+      <p id="JoHDKO" outputclass="List1">(a) Variation from the estimated quantity in the actual work performed under any second or subsequent subline item or elimination of all work under such a second or subsequent subline item will not be the basis for an adjustment in contract unit price.</p>
+      <p id="Clgfkn" outputclass="List1">(b) Where the actual quantity of work performed for item Nos. ____ is less than 85% of the quantity of the first subline item listed under such item, the contractor will be paid at the contract unit price for that subline item for the actual quantity of work performed and, in addition, an equitable adjustment shall be made in accordance with the clause at Federal Acquisition Regulation (FAR) 52.211-18, Variation in Estimated Quantities.</p>
+      <p id="CmtYsP" outputclass="List1">(c) If the actual quantity of work performed under item Nos. ____ exceeds 115% or is less than 85% of the total estimated quantity of the subline item under that item and/or if the quantity of the work performed under the second subline item or any subsequent subline item under item Nos.____ exceeds 115% or is less than 85% of the estimated quantity of any such subline item, and if such variation causes an increase or a decrease in the time required for performance of this contract the contract completion time will be adjusted in accordance with the clause FAR 52.211-18, Variation in Estimated Quantities.</p>
+      <p id="urTliG" outputclass="Ctr">(End of clause)</p>
    </conbody>
 </concept>

@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5150.1022"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5150.102-2</ph> Contract adjustments boards.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">The Assistant Secretary of the Army (Acquisition, Logistics and Technology) convenes the Army Contract Adjustment Board (ACAB) on an as-needed basis.  In accordance with Headquarters, Department of the Army General Orders Number 2017-01 (and any successor document) the Office of the Army General Counsel provides the ACAB Recorder.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5150.1022" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5150.102-2</ph> Contract adjustments boards.</title>
+   <conbody>
+      <p>The Assistant Secretary of the Army (Acquisition, Logistics and Technology) convenes the Army Contract Adjustment Board (ACAB) on an as-needed basis.  In accordance with Headquarters, Department of the Army General Orders Number 2017-01 (and any successor document) the Office of the Army General Counsel provides the ACAB Recorder.</p>
    </conbody>
 </concept>

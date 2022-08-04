@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-3"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3-3.</ph> Use of the GPC for Military Tuition Assistance</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="RDgVVb" outputclass="Normal" class="- topic/p ">The GPC shall be used for the payment of military tuition assistance invoices. DD Form 2171, Request for Tuition Assistance (TA), provides financial assistance for voluntary off duty education programs in support of soldiers’ professional and personal self development. Advance payments are authorized under the TA Program in accordance with AR 621-5. All course enrollments must be approved prior to start of class. Soldiers must request TA through www.GoArmyEd.com, prior to the course start date or before the school’s late registration period.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_3-3" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3-3.</ph> Use of the GPC for Military Tuition Assistance</title>
+   <conbody>
+      <p id="RDgVVb" outputclass="Normal">The GPC shall be used for the payment of military tuition assistance invoices. DD Form 2171, Request for Tuition Assistance (TA), provides financial assistance for voluntary off duty education programs in support of soldiers’ professional and personal self development. Advance payments are authorized under the TA Program in accordance with AR 621-5. All course enrollments must be approved prior to start of class. Soldiers must request TA through www.GoArmyEd.com, prior to the course start date or before the school’s late registration period.</p>
    </conbody>
 </concept>

@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_AppendixBB-102"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">BB–102</ph> Instructions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="p_OLE_LINK4" outputclass="Normal" class="- topic/p ">The evaluation of key internal controls should
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_AppendixBB-102" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">BB–102</ph> Instructions.</title>
+   <conbody>
+      <p id="p_OLE_LINK4" outputclass="Normal">The evaluation of key internal controls should
             result in a specific determination of their effectiveness. Contracting managers shall
             use the checklist questions in appendix BB to test key controls of contracting functions
             through a combination of document analysis, direct observation, and random sampling. The

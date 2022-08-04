@@ -1,260 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_2-2"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">2-2.</ph> Training Requirements</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="MSPzFV" outputclass="Normal" class="- topic/p ">a. Individuals must complete the training identified in the chart below. The training must be completed prior to issuance of appointment letters and/or establishment of GPC accounts. Proof of training must be documented and retrained by the A/OPC.</p>
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="ecyvjj" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">GPC Training Requirements</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_2-2" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">2-2.</ph> Training Requirements</title>
+   <conbody>
+      <p id="MSPzFV" outputclass="Normal">a. Individuals must complete the training identified in the chart below. The training must be completed prior to issuance of appointment letters and/or establishment of GPC accounts. Proof of training must be documented and retrained by the A/OPC.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="ecyvjj" outputclass=" Ctr">
+                        <b>GPC Training Requirements</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="SdWsiv" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Training Requirement</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SdWsiv" outputclass=" Ctr">
+                        <b>Training Requirement</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cPQlRH" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Role</b>
+                  <entry>
+                     <p id="cPQlRH" outputclass=" Ctr">
+                        <b>Role</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HtZiAI" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Source</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="CESGnq" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Mandatory Training</b>
+                  <entry>
+                     <p id="HtZiAI" outputclass=" Ctr">
+                        <b>Source</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="EmcdOF" class="- topic/p ">Ethics</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ujuQeN" class="- topic/p ">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RFCSlw" class="- topic/p ">AR 350-1 paragraph G-18 and DOD 5500.7-R, the J<ph class="- topic/ph ">oint Ethics Regulation</ph>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="CESGnq" outputclass=" Ctr">
+                        <b>Mandatory Training</b>
                      </p>
-                     <p id="KcpKVM" class="- topic/p ">HBS 415 Ethics at Work <xref format="mil"
-                              href="http://clc.dau.mil"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil</u>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="EmcdOF">Ethics</p>
+                  </entry>
+                  <entry>
+                     <p id="ujuQeN">A/OPC/CH/BO</p>
+                  </entry>
+                  <entry>
+                     <p id="RFCSlw">AR 350-1 paragraph G-18 and DOD 5500.7-R, the J<ph>oint Ethics Regulation</ph>
+                     </p>
+                     <p id="KcpKVM">HBS 415 Ethics at Work <xref format="mil" href="http://clc.dau.mil" scope="external">
+                           <u>http://clc.dau.mil</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="sHWoUf" class="- topic/p ">U.S. Bank Access Online</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sHWoUf">U.S. Bank Access Online</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VxBzXR" class="- topic/p ">A/OPC/CH/BO</p>
+                  <entry>
+                     <p id="VxBzXR">A/OPC/CH/BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CvMtba" class="- topic/p ">
-                        <xref format="jsp"
-                              href="https://access.usbank.com/cpsApp1/index.jsp"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">https://access.usbank.com/cpsApp1/index.jsp</u>
+                  <entry>
+                     <p id="CvMtba">
+                        <xref format="jsp" href="https://access.usbank.com/cpsApp1/index.jsp" scope="external">
+                           <u>https://access.usbank.com/cpsApp1/index.jsp</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RobYhx" class="- topic/p ">Purchase Card Online System (PCOLS)</p>
-                     <p id="rQEXcS" class="- topic/p ">CLG 005</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RobYhx">Purchase Card Online System (PCOLS)</p>
+                     <p id="rQEXcS">CLG 005</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uYIyFn" class="- topic/p ">A/OPC/CH/BO</p>
+                  <entry>
+                     <p id="uYIyFn">A/OPC/CH/BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XUAuXx" class="- topic/p ">
-                        <xref format="html"
-                              href="http://clc.dau.mil/"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil/</u>
+                  <entry>
+                     <p id="XUAuXx">
+                        <xref format="html" href="http://clc.dau.mil/" scope="external">
+                           <u>http://clc.dau.mil/</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="RzLEjV" class="- topic/p ">Local GPC Training</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RzLEjV">Local GPC Training</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yhvUck" class="- topic/p ">CH, BO</p>
+                  <entry>
+                     <p id="yhvUck">CH, BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WZnwcq" class="- topic/p ">Activity/Level 3 A/OPC developed</p>
+                  <entry>
+                     <p id="WZnwcq">Activity/Level 3 A/OPC developed</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="XatYtv" class="- topic/p ">DoD GPC (CLG001)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XatYtv">DoD GPC (CLG001)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SyTrUR" class="- topic/p ">A/OPC/CH/BO</p>
+                  <entry>
+                     <p id="SyTrUR">A/OPC/CH/BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iMlcNN" class="- topic/p ">
-                        <xref format="html"
-                              href="http://clc.dau.mil/"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil/</u>
+                  <entry>
+                     <p id="iMlcNN">
+                        <xref format="html" href="http://clc.dau.mil/" scope="external">
+                           <u>http://clc.dau.mil/</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="DlHxVC" class="- topic/p ">DoD GPC Refresher Training</p>
-                     <p id="aBuLwY" class="- topic/p ">(every 2 years) (CLG004)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="DlHxVC">DoD GPC Refresher Training</p>
+                     <p id="aBuLwY">(every 2 years) (CLG004)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="KtupoJ" class="- topic/p ">A/OPC/CH/BO</p>
+                  <entry>
+                     <p id="KtupoJ">A/OPC/CH/BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hfIdcH" class="- topic/p ">
-                        <xref format="html"
-                              href="http://clc.dau.mil/"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil/</u>
+                  <entry>
+                     <p id="hfIdcH">
+                        <xref format="html" href="http://clc.dau.mil/" scope="external">
+                           <u>http://clc.dau.mil/</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry nameend="3" namest="1" class="- topic/entry ">
-                     <p id="dxzeeC" outputclass=" Ctr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Suggested Training</b>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="dxzeeC" outputclass=" Ctr">
+                        <b>Suggested Training</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QPcKTJ" class="- topic/p ">Fraud Awareness</p>
-                     <p id="Ygvyor" class="- topic/p ">(AUD 1283)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QPcKTJ">Fraud Awareness</p>
+                     <p id="Ygvyor">(AUD 1283)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NDsZJg" class="- topic/p ">A/OPC/CH/BO</p>
+                  <entry>
+                     <p id="NDsZJg">A/OPC/CH/BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uYdDqx" class="- topic/p ">
-                        <xref format="html"
-                              href="http://clc.dau.mil/"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil/</u>
+                  <entry>
+                     <p id="uYdDqx">
+                        <xref format="html" href="http://clc.dau.mil/" scope="external">
+                           <u>http://clc.dau.mil/</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="wTgJKq" class="- topic/p ">Effective Report Writing</p>
-                     <p id="JJqbDL" class="- topic/p ">(AUD 6115)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="wTgJKq">Effective Report Writing</p>
+                     <p id="JJqbDL">(AUD 6115)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MZJfff" class="- topic/p ">A/OPC/CH/BO</p>
+                  <entry>
+                     <p id="MZJfff">A/OPC/CH/BO</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="biLHBC" class="- topic/p ">
-                        <xref format="html"
-                              href="http://clc.dau.mil/"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil/</u>
+                  <entry>
+                     <p id="biLHBC">
+                        <xref format="html" href="http://clc.dau.mil/" scope="external">
+                           <u>http://clc.dau.mil/</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="xJxqMc" class="- topic/p ">Simplified Acquisition Procedures</p>
-                     <p id="OljGrD" class="- topic/p ">(CON 237)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="xJxqMc">Simplified Acquisition Procedures</p>
+                     <p id="OljGrD">(CON 237)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="aiCuvJ" class="- topic/p ">Ordering Officers</p>
+                  <entry>
+                     <p id="aiCuvJ">Ordering Officers</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SkEbsK" class="- topic/p ">
-                        <xref format="html"
-                              href="http://clc.dau.mil/"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">http://clc.dau.mil/</u>
+                  <entry>
+                     <p id="SkEbsK">
+                        <xref format="html" href="http://clc.dau.mil/" scope="external">
+                           <u>http://clc.dau.mil/</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="llSNRZ" class="- topic/p ">GSA SmartPay Purchase Card Training (CH)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="llSNRZ">GSA SmartPay Purchase Card Training (CH)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dDoVFu" class="- topic/p ">CH</p>
+                  <entry>
+                     <p id="dDoVFu">CH</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JkeKEP" class="- topic/p ">
-                        <xref format="html"
-                              href="https://training.smartpay.gsa.gov/training/purchase-card-cardholders"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">https://training.smartpay.gsa.gov/training/purchase-card-cardholders</u>
+                  <entry>
+                     <p id="JkeKEP">
+                        <xref format="html" href="https://training.smartpay.gsa.gov/training/purchase-card-cardholders" scope="external">
+                           <u>https://training.smartpay.gsa.gov/training/purchase-card-cardholders</u>
                         </xref>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="vIKtwE" class="- topic/p ">GSA SmartPay Purchase Card Training (A/OPC)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vIKtwE">GSA SmartPay Purchase Card Training (A/OPC)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zdELHZ" class="- topic/p ">A/OPC</p>
+                  <entry>
+                     <p id="zdELHZ">A/OPC</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NObdTM" class="- topic/p ">
-                        <xref format="html"
-                              href="https://training.smartpay.gsa.gov/training/purchase-card-aopc"
-                              scope="external"
-                              class="- topic/xref ">
-                           <u class="+ topic/ph hi-d/u ">https://training.smartpay.gsa.gov/training/purchase-card-aopc</u>
+                  <entry>
+                     <p id="NObdTM">
+                        <xref format="html" href="https://training.smartpay.gsa.gov/training/purchase-card-aopc" scope="external">
+                           <u>https://training.smartpay.gsa.gov/training/purchase-card-aopc</u>
                         </xref>
                      </p>
                   </entry>
@@ -262,58 +219,46 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="iVLuiV" outputclass="Normal" class="- topic/p "/>
-      <p id="2dmhvogp" outputclass="Normal" class="- topic/p ">b. Each Level 4 A/OPC is responsible for providing training to CHs and BOs. No exceptions or substitutions for this training are authorized. At a minimum, the local training for CHs and BOs must cover the following:</p>
-      <p id="Iukkfp" outputclass="List2" class="- topic/p ">(1) Army Purchase Card Program policies and procedures</p>
-      <p id="eYTNEE" outputclass="List2" class="- topic/p ">(2) CH and BO duties and responsibilities</p>
-      <p id="dimONy" outputclass="List2" class="- topic/p ">(3) CH and BO guides developed by the Servicing Bank</p>
-      <p id="CaKexH" outputclass="List2" class="- topic/p ">(4) Procedures and techniques for the use of the Servicing Bank’s EAS</p>
-      <p id="EPYJtM" outputclass="List2" class="- topic/p ">(5) Funding, billing, payment, and file documentation requirements</p>
-      <p id="kPCoPr" outputclass="List2" class="- topic/p ">(6) Property accountability procedures</p>
-      <p id="XMmxOP" outputclass="List2" class="- topic/p ">(7) Ethics Training</p>
-      <p id="sHgvLJ" outputclass="List2" class="- topic/p ">(8) Required sources of supply</p>
-      <p id="oSiHkJ" outputclass="List2" class="- topic/p ">(9) FAR/DFARS/AFARS coverage of simplified acquisition procedures</p>
-      <p id="GoVrpj" outputclass="List2" class="- topic/p ">(10) Record retention requirements</p>
-      <p id="iylCLU" outputclass="List2" class="- topic/p ">(11) Prohibited items and items that require pre-approval for purchase</p>
-      <p id="hPMlaM" outputclass="List2" class="- topic/p ">(12) Dispute procedures</p>
-      <p id="gFjWwv" outputclass="List2" class="- topic/p ">(13) Cancellation and lost, stolen, or compromised card procedures</p>
-      <p id="PUzjJC" outputclass="List2" class="- topic/p ">(14) Convenience check usage</p>
-      <p id="OAVLQM" outputclass="List2" class="- topic/p ">(15) Oversight tools and techniques</p>
-      <p id="utdxND" outputclass="List2" class="- topic/p ">(16) Card Security</p>
-      <p id="jRRcqD" outputclass="List2" class="- topic/p ">(17) Emphasize consideration of small business concerns when making micro-purchases</p>
-      <p id="oeTybv" outputclass="List2" class="- topic/p ">(18) Mandatory use of Office Supply BPAs located on DOD EMALL Army Corridor</p>
-      <p id="kRxAUa" outputclass="List2" class="- topic/p ">(19) Use of the AbilityOne Base Supply Centers</p>
-      <p id="lDkBul" outputclass="Normal" class="- topic/p ">c. A/OPCs provide additional training on simplified acquisitions procedures and required documentation to CHs who are given authority to place orders above the micro-purchase threshold against existing contracts (appointed as Ordering Officers), and for CHs outside the continental United States (OCONUS) who have a single purchase limit in excess of $3,000 but does not exceed $25,000 (DFARS 213.301).</p>
-      <p id="YltZAd" outputclass="Normal" class="- topic/p ">d. GPC A/OPCs are required to track the training (including refresher training) of all program participants (CHs, A/BOs, Certifying Officers (CO), and A/OPCs) in a system of records and ensure that the required DAU initial and refresher training (Courses CLG001 and CLG004, respectively) have been completed. Successful completion of the initial training course is required before issuing cards. Successful completion of the refresher training course must be satisfied once every two years by program officials in order to continue in their roles. A/OPCs must ensure completion of the refresher training requirement is part of their annual review of all managing accounts under their cognizance.</p>
-      <p id="tHeNVa" outputclass="Normal" class="- topic/p ">e. CHs and BOs who fail to complete biennial refresher training must have their GPC account suspended until training is completed. The SCO or the local GPC activity may require refresher training more frequently to satisfy their training or operational needs. The training requirement for CHs and BOs trained at a previous duty station may be abbreviated or waived, in writing, as determined by the current A/OPC.</p>
-      <p id="fHDlQk" outputclass="Normal" class="- topic/p ">f. All trainees must sign a statement of training certifying they have received the initial GPC program training, they understand the training provided, GPC program training materials have been provided or made available, and they understand the penalties associated with misuse of the card. Cardholders should provide their Level 4 A/OPC with a copy of the training certificate and retain the original.</p>
-      <p id="oCpjtO" outputclass="Normal" class="- topic/p ">g. Level 3 and Level 4 A/OPCs should notify all participants in the GPC program of changes, as they occur, through the most efficient means (e.g. e-mail, newsletters, etc.).</p>
-      <p id="klCVae" outputclass="Normal" class="- topic/p ">h. Attendance at the annual GSA SmartPay Conference is mandatory for all Level 3 and 4 A/OPCs as funding permits.</p>
-      <p id="VQayMW" outputclass="Normal" class="- topic/p ">
-         <ph class="- topic/ph ">i</ph>
-         <ph class="- topic/ph ">.</ph> All GPC personnel must receive mandatory ethics training annually in accordance with AR 350-1 paragraph G-18 and DOD 5500.7-R, the J<ph class="- topic/ph ">oint Ethics Regulation.</ph>
+      <p id="iVLuiV" outputclass="Normal"></p>
+      <p id="2dmhvogp" outputclass="Normal">b. Each Level 4 A/OPC is responsible for providing training to CHs and BOs. No exceptions or substitutions for this training are authorized. At a minimum, the local training for CHs and BOs must cover the following:</p>
+      <p id="Iukkfp" outputclass="List2">(1) Army Purchase Card Program policies and procedures</p>
+      <p id="eYTNEE" outputclass="List2">(2) CH and BO duties and responsibilities</p>
+      <p id="dimONy" outputclass="List2">(3) CH and BO guides developed by the Servicing Bank</p>
+      <p id="CaKexH" outputclass="List2">(4) Procedures and techniques for the use of the Servicing Bank’s EAS</p>
+      <p id="EPYJtM" outputclass="List2">(5) Funding, billing, payment, and file documentation requirements</p>
+      <p id="kPCoPr" outputclass="List2">(6) Property accountability procedures</p>
+      <p id="XMmxOP" outputclass="List2">(7) Ethics Training</p>
+      <p id="sHgvLJ" outputclass="List2">(8) Required sources of supply</p>
+      <p id="oSiHkJ" outputclass="List2">(9) FAR/DFARS/AFARS coverage of simplified acquisition procedures</p>
+      <p id="GoVrpj" outputclass="List2">(10) Record retention requirements</p>
+      <p id="iylCLU" outputclass="List2">(11) Prohibited items and items that require pre-approval for purchase</p>
+      <p id="hPMlaM" outputclass="List2">(12) Dispute procedures</p>
+      <p id="gFjWwv" outputclass="List2">(13) Cancellation and lost, stolen, or compromised card procedures</p>
+      <p id="PUzjJC" outputclass="List2">(14) Convenience check usage</p>
+      <p id="OAVLQM" outputclass="List2">(15) Oversight tools and techniques</p>
+      <p id="utdxND" outputclass="List2">(16) Card Security</p>
+      <p id="jRRcqD" outputclass="List2">(17) Emphasize consideration of small business concerns when making micro-purchases</p>
+      <p id="oeTybv" outputclass="List2">(18) Mandatory use of Office Supply BPAs located on DOD EMALL Army Corridor</p>
+      <p id="kRxAUa" outputclass="List2">(19) Use of the AbilityOne Base Supply Centers</p>
+      <p id="lDkBul" outputclass="Normal">c. A/OPCs provide additional training on simplified acquisitions procedures and required documentation to CHs who are given authority to place orders above the micro-purchase threshold against existing contracts (appointed as Ordering Officers), and for CHs outside the continental United States (OCONUS) who have a single purchase limit in excess of $3,000 but does not exceed $25,000 (DFARS 213.301).</p>
+      <p id="YltZAd" outputclass="Normal">d. GPC A/OPCs are required to track the training (including refresher training) of all program participants (CHs, A/BOs, Certifying Officers (CO), and A/OPCs) in a system of records and ensure that the required DAU initial and refresher training (Courses CLG001 and CLG004, respectively) have been completed. Successful completion of the initial training course is required before issuing cards. Successful completion of the refresher training course must be satisfied once every two years by program officials in order to continue in their roles. A/OPCs must ensure completion of the refresher training requirement is part of their annual review of all managing accounts under their cognizance.</p>
+      <p id="tHeNVa" outputclass="Normal">e. CHs and BOs who fail to complete biennial refresher training must have their GPC account suspended until training is completed. The SCO or the local GPC activity may require refresher training more frequently to satisfy their training or operational needs. The training requirement for CHs and BOs trained at a previous duty station may be abbreviated or waived, in writing, as determined by the current A/OPC.</p>
+      <p id="fHDlQk" outputclass="Normal">f. All trainees must sign a statement of training certifying they have received the initial GPC program training, they understand the training provided, GPC program training materials have been provided or made available, and they understand the penalties associated with misuse of the card. Cardholders should provide their Level 4 A/OPC with a copy of the training certificate and retain the original.</p>
+      <p id="oCpjtO" outputclass="Normal">g. Level 3 and Level 4 A/OPCs should notify all participants in the GPC program of changes, as they occur, through the most efficient means (e.g. e-mail, newsletters, etc.).</p>
+      <p id="klCVae" outputclass="Normal">h. Attendance at the annual GSA SmartPay Conference is mandatory for all Level 3 and 4 A/OPCs as funding permits.</p>
+      <p id="VQayMW" outputclass="Normal">
+         <ph>i</ph>
+         <ph>.</ph> All GPC personnel must receive mandatory ethics training annually in accordance with AR 350-1 paragraph G-18 and DOD 5500.7-R, the J<ph>oint Ethics Regulation.</ph>
       </p>
-      <p id="bzdkjV" outputclass="Normal" class="- topic/p ">j. GSA developed and hosts an online training course for to help A/OPCs and CHs understand their role and responsibilities. To visit the Purchase Charge Card Online Training, go to the GSA SmartPay® website at <xref format="gov"
-               href="https://training.smartpay.gsa.gov"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://training.smartpay.gsa.gov</u>
+      <p id="bzdkjV" outputclass="Normal">j. GSA developed and hosts an online training course for to help A/OPCs and CHs understand their role and responsibilities. To visit the Purchase Charge Card Online Training, go to the GSA SmartPay® website at <xref format="gov" href="https://training.smartpay.gsa.gov" scope="external">
+            <u>https://training.smartpay.gsa.gov</u>
          </xref>.The servicing bank provides an A/OPC Guide available in hard copy and/or via the Internet at https://access.usbank.com/cpsApp1/index.jsp2476933.</p>
-      <p id="wVmVkq" outputclass="Normal" class="- topic/p ">k. Section 508 of the Rehabilitation Act (29 U.S.C 794d), as amended, requires that Federal agencies purchase and use electronic and information technology (EIT) that is accessible to people with disabilities and conforms to Section 508 standards. Visit <xref format="html"
-               href="http://www.section508.gov/"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">http://www.section508.gov/</u>
-         </xref> for more information and Section 508 compliance training titled “Micro-purchases and Section 508” <xref format="cfm"
-               href="http://www.section508.gov/index.cfm"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">http://www.section508.gov/index.cfm</u>
-         </xref>. GSA developed several online and CD training modules that can be accessed at: <xref format="cfm?FuseAction=Content&amp;ID=5"
-               href="http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=5"
-               scope="external"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=5</u>
+      <p id="wVmVkq" outputclass="Normal">k. Section 508 of the Rehabilitation Act (29 U.S.C 794d), as amended, requires that Federal agencies purchase and use electronic and information technology (EIT) that is accessible to people with disabilities and conforms to Section 508 standards. Visit <xref format="html" href="http://www.section508.gov/" scope="external">
+            <u>http://www.section508.gov/</u>
+         </xref> for more information and Section 508 compliance training titled “Micro-purchases and Section 508” <xref format="cfm" href="http://www.section508.gov/index.cfm" scope="external">
+            <u>http://www.section508.gov/index.cfm</u>
+         </xref>. GSA developed several online and CD training modules that can be accessed at: <xref format="cfm?FuseAction=Content&amp;ID=5" href="http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=5" scope="external">
+            <u>http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=5</u>
          </xref>. The requiring activity must identify IT deliverables covered by Section 508 and then identify the applicable technical standards; functional performance criteria; and information, documentation and support that apply to each IT deliverable to produce products that conform to the accessibility standard.</p>
    </conbody>
 </concept>

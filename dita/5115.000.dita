@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5115.000"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5115.000</ph> Scope of part.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(1) The Army Source Selection Supplement (AS3) at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/SiteAssets/AFARS/AFARSAA.pdf"
-               scope="external"
-               format="pdf"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">Appendix AA</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5115.000" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5115.000</ph> Scope of part.</title>
+   <conbody>
+      <p outputclass="List1">(1) The Army Source Selection Supplement (AS3) at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/SiteAssets/AFARS/AFARSAA.pdf" scope="external" format="pdf">
+            <u>Appendix AA</u>
          </xref> contains detailed guidance
             pertaining to the source selection process. The AS3 is used in conjunction with this
             part and supplements the mandatory DoD Source Selection Procedures. It contains
             information on source selection processes and techniques that the Army uses for
             competitive, negotiated acquisitions using either formal or informal source selection
             procedures. See DoD Source Selection Procedures at 1.3, page 2 for exceptions.</p>
-      <p outputclass="Normal" class="- topic/p ">(2) The AS3 is a comprehensive source selection resource which
+      <p outputclass="Normal">(2) The AS3 is a comprehensive source selection resource which
             recites best practices that promote source selection flexibility and consistency within
             a given framework in Army source selections. Army personnel shall use the AS3 resource
             when conducting competitive source selections. The extent to which personnel will use

@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5106.502"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5106.502</ph> Duties and responsibilities.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)  Local advocates for competition are an extension of the CAFC office and assist the CAFC in the accomplishment of their responsibilities.</p>
-      <p outputclass="List1" class="- topic/p ">(b)(2)  Command advocates for competition must report the following information to the AAFC (see address at 5101.290(b)(2)(ii)(C)) no later than November 15 of each year, or as the AAFC specifies—</p>
-      <p outputclass="List4" class="- topic/p ">(A)  The level of competition achieved against their goal for the fiscal year and, if applicable, reasons for not attaining the goal.</p>
-      <p outputclass="List4" class="- topic/p ">(B)  Significant actions taken to increase competition or overcome barriers to competition, number of new sources identified as a result of market research, notable savings or performance or quality enhancements resulting from competition, and employees recognized for initiatives to enhance competition.</p>
-      <p outputclass="List4" class="- topic/p ">(C)  Mitigating factors affecting goal achievement.</p>
-      <p outputclass="List4" class="- topic/p ">(D)  A plan for competition in the coming fiscal year.</p>
-      <p outputclass="List4" class="- topic/p ">(E)  Any other activities and accomplishments.</p>
-      <p outputclass="List4" class="- topic/p ">(F)  Their competition goal for the coming fiscal year.</p>
-      <p outputclass="List2" class="- topic/p ">(3)  Before seeking approval, CAFCs will coordinate their activity’s annual competition goals with the local small business specialist to balance socio-economic and competition goals with organizational interests.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5106.502" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5106.502</ph> Duties and responsibilities.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Local advocates for competition are an extension of the CAFC office and assist the CAFC in the accomplishment of their responsibilities.</p>
+      <p outputclass="List1">(b)(2)  Command advocates for competition must report the following information to the AAFC (see address at 5101.290(b)(2)(ii)(C)) no later than November 15 of each year, or as the AAFC specifies—</p>
+      <p outputclass="List4">(A)  The level of competition achieved against their goal for the fiscal year and, if applicable, reasons for not attaining the goal.</p>
+      <p outputclass="List4">(B)  Significant actions taken to increase competition or overcome barriers to competition, number of new sources identified as a result of market research, notable savings or performance or quality enhancements resulting from competition, and employees recognized for initiatives to enhance competition.</p>
+      <p outputclass="List4">(C)  Mitigating factors affecting goal achievement.</p>
+      <p outputclass="List4">(D)  A plan for competition in the coming fiscal year.</p>
+      <p outputclass="List4">(E)  Any other activities and accomplishments.</p>
+      <p outputclass="List4">(F)  Their competition goal for the coming fiscal year.</p>
+      <p outputclass="List2">(3)  Before seeking approval, CAFCs will coordinate their activity’s annual competition goals with the local small business specialist to balance socio-economic and competition goals with organizational interests.</p>
    </conbody>
 </concept>

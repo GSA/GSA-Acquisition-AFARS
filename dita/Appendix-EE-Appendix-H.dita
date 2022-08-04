@@ -1,287 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE-Appendix-H"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="1 Heading" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Appendix H: Semi-Annual Surveillance Report Template</ph> Table Of Contents</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="SNyKNZ" outputclass="Normal" class="- topic/p ">MEMORANDUM FOR ARMY LEVEL II A/OPC <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert Level 2 A/OPC</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-H" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="1 Heading">
+      <ph props="autonumber">Appendix H: Semi-Annual Surveillance Report Template</ph> Table Of Contents</title>
+   <conbody>
+      <p id="SNyKNZ" outputclass="Normal">MEMORANDUM FOR ARMY LEVEL II A/OPC <i>
+            <u>insert Level 2 A/OPC</u>
          </i>, HQ, Department of the Army, ATTN: DASA(P) (SAAL-PB), 2800 Crystal Drive, Arlington,
          VA 22202.</p>
-      <p id="XQjTjW" outputclass="Normal" class="- topic/p ">SUBJECT: Semi-Annual Surveillance Report for <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert</u>
+      <p id="XQjTjW" outputclass="Normal">SUBJECT: Semi-Annual Surveillance Report for <i>
+            <u>insert</u>
          </i>
-         <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">agency,</u>
-         </i> Government Purchase Card Program (GPC) <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert period</u>
-         </i> Quarter Fiscal Year <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert year</u>
+         <i>
+            <u>agency,</u>
+         </i> Government Purchase Card Program (GPC) <i>
+            <u>insert period</u>
+         </i> Quarter Fiscal Year <i>
+            <u>insert year</u>
          </i>.</p>
-      <p id="hcoubd" outputclass="List1" class="- topic/p ">ENCLS: (A) Department of Defense Purchase Card Review
+      <p id="hcoubd" outputclass="List1">ENCLS: (A) Department of Defense Purchase Card Review
          Checklist and Certification, Department of the Army Government Purchase Card Operating
          Procedures (AGPCOP) 22 July 2015, Appendix D</p>
-      <p id="pczOiS" outputclass="List4" class="- topic/p ">(B) Formal Reporting Requirements, AGPCOP Appendix G</p>
-      <p id="hxkhCC" outputclass="Normal" class="- topic/p ">1. Subject report is provided in accordance with AGPCOP,
+      <p id="pczOiS" outputclass="List4">(B) Formal Reporting Requirements, AGPCOP Appendix G</p>
+      <p id="hxkhCC" outputclass="Normal">1. Subject report is provided in accordance with AGPCOP,
          22 July 2015, Chapter 4-2 Program Oversight and Reviews. The following provides an analysis
-         and summary of findings identified in Enclosures (A) and (B) for <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert agency</u>
+         and summary of findings identified in Enclosures (A) and (B) for <i>
+            <u>insert agency</u>
          </i>. The subject report explains GPC Program systemic weaknesses, corrective actions, and
-         lessons learned. The review was conducted by <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert reviewer name</u>
-         </i> for the period <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert time period</u>
+         lessons learned. The review was conducted by <i>
+            <u>insert reviewer name</u>
+         </i> for the period <i>
+            <u>insert time period</u>
          </i>.</p>
-      <p id="fnZeXp" class="- topic/p ">2. <u class="+ topic/ph hi-d/u ">Formal Reporting Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address reporting requirements found in Enclosure</i>
+      <p id="fnZeXp">2. <u>Formal Reporting Requirements:</u>
+         <i>Address reporting requirements found in Enclosure</i>
       </p>
-      <p id="wp4lodz" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(B).</i>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Analysis should include the following:</i>
+      <p id="wp4lodz">
+         <i>(B).</i>
+         <b>
+            <i>Analysis should include the following:</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="DqFUYA" class="- topic/li ">
-            <p id="BRBWVy" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Span of Control Waivers (</i>
-               <i class="+ topic/ph hi-d/i ">BO:A</i>
-               <i class="+ topic/ph hi-d/i ">/OPC=7:1, A/OPC:BO=300:1; Is justification sufficient/approved for increased span
+      <ul>
+         <li id="DqFUYA">
+            <p id="BRBWVy">
+               <i>Span of Control Waivers (</i>
+               <i>BO:A</i>
+               <i>/OPC=7:1, A/OPC:BO=300:1; Is justification sufficient/approved for increased span
                   of control?</i>
             </p>
          </li>
-         <li id="jCeqcs" class="- topic/li ">
-            <p id="tjggXS" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Accounts inactive &gt; 3 months-justification sufficient?</i>
+         <li id="jCeqcs">
+            <p id="tjggXS">
+               <i>Accounts inactive &gt; 3 months-justification sufficient?</i>
             </p>
          </li>
-         <li id="TGcRyE" class="- topic/li ">
-            <p id="jZoqgv" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Number</i>
-               <i class="+ topic/ph hi-d/i ">of BO accounts inspected, number of transactions reviewed for each BO, number of
+         <li id="TGcRyE">
+            <p id="jZoqgv">
+               <i>Number</i>
+               <i>of BO accounts inspected, number of transactions reviewed for each BO, number of
                   BO accounts reviewed during prior reporting period</i>
             </p>
          </li>
-         <li id="WxMVnS" class="- topic/li ">
-            <p id="ftTtUM" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Compliant with 100% yearly BO review?</i>
+         <li id="WxMVnS">
+            <p id="ftTtUM">
+               <i>Compliant with 100% yearly BO review?</i>
             </p>
          </li>
-         <li id="PkBkGC" class="- topic/li ">
-            <p id="JyGxLz" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Number of CH accounts inspected, number of transactions reviewed for each CH (1
+         <li id="PkBkGC">
+            <p id="JyGxLz">
+               <i>Number of CH accounts inspected, number of transactions reviewed for each CH (1
                   per CH preferred/6% sample size is DoD standard)</i>
             </p>
          </li>
-         <li id="oBKqTS" class="- topic/li ">
-            <p id="tKGUNi" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Method of compliance review for BO and CH (PCOLS, Bank’s EAS, in person, remotely,
+         <li id="oBKqTS">
+            <p id="tKGUNi">
+               <i>Method of compliance review for BO and CH (PCOLS, Bank’s EAS, in person, remotely,
                   or electronically)</i>
             </p>
          </li>
-         <li id="CTZrhi" class="- topic/li ">
-            <p id="WwTOLN" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Mandatory transaction log review of new CHs within initial 4 months of CH
+         <li id="CTZrhi">
+            <p id="WwTOLN">
+               <i>Mandatory transaction log review of new CHs within initial 4 months of CH
                   appointment?</i>
             </p>
          </li>
-         <li id="IRFhao" class="- topic/li ">
-            <p id="JSUuUV" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">What metrics are being utilized to manage your GPC Program (</i>
-               <i class="+ topic/ph hi-d/i ">i.e.</i>
-               <i class="+ topic/ph hi-d/i ">Delinquency (0.75), Financial Exposure)?</i>
+         <li id="IRFhao">
+            <p id="JSUuUV">
+               <i>What metrics are being utilized to manage your GPC Program (</i>
+               <i>i.e.</i>
+               <i>Delinquency (0.75), Financial Exposure)?</i>
             </p>
          </li>
       </ul>
-      <p id="zUrsnJ" class="- topic/p ">Appendix H: Semi-Annual Surveillance Report Template (continued)</p>
-      <p id="IENJDP" outputclass="Normal" class="- topic/p ">3. <u class="+ topic/ph hi-d/u ">Appointment and Account Issuance and Maintenance</u>
-         <u class="+ topic/ph hi-d/u ">for A/OPCs, BOs, and CHs:</u>
-         <i class="+ topic/ph hi-d/i "> Address Section A, 1-14 of Enclosure (A).</i>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i "> In addition to</i>
+      <p id="zUrsnJ">Appendix H: Semi-Annual Surveillance Report Template (continued)</p>
+      <p id="IENJDP" outputclass="Normal">3. <u>Appointment and Account Issuance and Maintenance</u>
+         <u>for A/OPCs, BOs, and CHs:</u>
+         <i> Address Section A, 1-14 of Enclosure (A).</i>
+         <b>
+            <i> In addition to</i>
          </b>
-         <i class="+ topic/ph hi-d/i "> items on the checklist, address the following:</i>
+         <i> items on the checklist, address the following:</i>
       </p>
-      <ul class="- topic/ul ">
-         <li id="gwthht" class="- topic/li ">
-            <p id="BzNZPf" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Level 3 and 4 A/OPC training requirement</i>
+      <ul>
+         <li id="gwthht">
+            <p id="BzNZPf">
+               <i>Level 3 and 4 A/OPC training requirement</i>
             </p>
          </li>
-         <li id="oOXOhX" class="- topic/li ">
-            <p id="FIJzDd" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Is Level 4 A/OPC certified at Level II in Contracting or Purchasing or will
+         <li id="oOXOhX">
+            <p id="FIJzDd">
+               <i>Is Level 4 A/OPC certified at Level II in Contracting or Purchasing or will
                   individual have acquired the certification within 24 months of appointment?</i>
             </p>
          </li>
-         <li id="cdbcwP" class="- topic/li ">
-            <p id="vLULiB" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Organization’s Delegation of Authority (i.e. SCO</i>
-               <ph outputclass="symbol" class="- topic/ph ">?</ph>
-               <i class="+ topic/ph hi-d/i ">CCO, SCO</i>
-               <ph outputclass="symbol" class="- topic/ph ">?</ph>
-               <i class="+ topic/ph hi-d/i ">Level III A/OPC and Alternate, CCO</i>
-               <ph outputclass="symbol" class="- topic/ph ">?</ph>
-               <i class="+ topic/ph hi-d/i ">Level 4 A/OPC and Alternate, Level 4 A/OPC or CCO</i>
-               <ph outputclass="symbol" class="- topic/ph ">?</ph>
-               <i class="+ topic/ph hi-d/i ">BO and CH)</i>
+         <li id="cdbcwP">
+            <p id="vLULiB">
+               <i>Organization’s Delegation of Authority (i.e. SCO</i>
+               <ph outputclass="symbol">?</ph>
+               <i>CCO, SCO</i>
+               <ph outputclass="symbol">?</ph>
+               <i>Level III A/OPC and Alternate, CCO</i>
+               <ph outputclass="symbol">?</ph>
+               <i>Level 4 A/OPC and Alternate, Level 4 A/OPC or CCO</i>
+               <ph outputclass="symbol">?</ph>
+               <i>BO and CH)</i>
             </p>
          </li>
-         <li id="BqqBVn" class="- topic/li ">
-            <p id="sMroBZ" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Are appointment letters current?</i>
+         <li id="BqqBVn">
+            <p id="sMroBZ">
+               <i>Are appointment letters current?</i>
             </p>
          </li>
       </ul>
-      <p id="uPsYRM" class="- topic/p ">4. <u class="+ topic/ph hi-d/u ">GPC Usage Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section B, 1-39 of Enclosure (A).</i>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i "> In addition to</i>
+      <p id="uPsYRM">4. <u>GPC Usage Requirements:</u>
+         <i>Address Section B, 1-39 of Enclosure (A).</i>
+         <b>
+            <i> In addition to</i>
          </b>
-         <i class="+ topic/ph hi-d/i "> items on the checklist, address the following:</i>
+         <i> items on the checklist, address the following:</i>
       </p>
-      <ul class="- topic/ul ">
-         <li id="Xpepmf" class="- topic/li ">
-            <p id="eizeJs" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Adherence to GPC Program requirements: transaction activity; systemic problems,
+      <ul>
+         <li id="Xpepmf">
+            <p id="eizeJs">
+               <i>Adherence to GPC Program requirements: transaction activity; systemic problems,
                   delinquencies and corrective action, abuse, or fraud; summary of adverse actions
                   (type and number) against the responsible individual; formal reports issued to the
                   Chief of the Contracting Office (CCO)</i>
             </p>
          </li>
-         <li id="flwUGT" class="- topic/li ">
-            <p id="wfTjEO" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Incidents of</i>
-               <i class="+ topic/ph hi-d/i ">splitting purchases</i>
-               <i class="+ topic/ph hi-d/i ">to override purchase threshold</i>
+         <li id="flwUGT">
+            <p id="wfTjEO">
+               <i>Incidents of</i>
+               <i>splitting purchases</i>
+               <i>to override purchase threshold</i>
             </p>
          </li>
-         <li id="chVEJN" class="- topic/li ">
-            <p id="TYHWkE" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Incidents of “After the fact” buys</i>
+         <li id="chVEJN">
+            <p id="TYHWkE">
+               <i>Incidents of “After the fact” buys</i>
             </p>
          </li>
-         <li id="nGUGGR" class="- topic/li ">
-            <p id="xcxGpA" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Rotating sources in order to give vendors a fair opportunity</i>
+         <li id="nGUGGR">
+            <p id="xcxGpA">
+               <i>Rotating sources in order to give vendors a fair opportunity</i>
             </p>
          </li>
-         <li id="oEhaGA" class="- topic/li ">
-            <p id="rbdLfp" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Use of mandatory sources, specifically CHESS,</i>
-               <i class="+ topic/ph hi-d/i ">AbilityOne</i>
-               <i class="+ topic/ph hi-d/i ">, FSSI BPAs on DoD EMALL Corridor</i>
+         <li id="oEhaGA">
+            <p id="rbdLfp">
+               <i>Use of mandatory sources, specifically CHESS,</i>
+               <i>AbilityOne</i>
+               <i>, FSSI BPAs on DoD EMALL Corridor</i>
             </p>
          </li>
-         <li id="lhrOrs" class="- topic/li ">
-            <p id="RaqZqA" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Credits and rebates-were they adequately accounted for</i>
+         <li id="lhrOrs">
+            <p id="RaqZqA">
+               <i>Credits and rebates-were they adequately accounted for</i>
             </p>
          </li>
-         <li id="qYqJUD" class="- topic/li ">
-            <p id="PUSARj" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">What Strategic Sourcing initiatives are in place?</i>
+         <li id="qYqJUD">
+            <p id="PUSARj">
+               <i>What Strategic Sourcing initiatives are in place?</i>
             </p>
          </li>
       </ul>
-      <p id="LEjfwJ" outputclass="Normal" class="- topic/p ">5. <u class="+ topic/ph hi-d/u ">Documentation Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section C, 1-14 of Enclosure (A).</i>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i "> In addition to</i>
+      <p id="LEjfwJ" outputclass="Normal">5. <u>Documentation Requirements:</u>
+         <i>Address Section C, 1-14 of Enclosure (A).</i>
+         <b>
+            <i> In addition to</i>
          </b>
-         <i class="+ topic/ph hi-d/i "> items on the checklist, address the following:</i>
+         <i> items on the checklist, address the following:</i>
       </p>
-      <ul class="- topic/ul ">
-         <li id="ipCbcm" class="- topic/li ">
-            <p id="aAEahq" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">File Documentation (hard copy)- Does Level 4 A/OPC file contain purchase card applications and approvals, account
+      <ul>
+         <li id="ipCbcm">
+            <p id="aAEahq">
+               <i>File Documentation (hard copy)- Does Level 4 A/OPC file contain purchase card applications and approvals, account
                   maintenance, CH and BO delegation of appointment letters, ethics and training
                   certifications, results of annual reviews?</i>
             </p>
          </li>
-         <li id="PRoBTs" class="- topic/li ">
-            <p id="YVYLbz" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Do BO files contain hard copy CH statements, original receipts, invoices, logs,
+         <li id="PRoBTs">
+            <p id="YVYLbz">
+               <i>Do BO files contain hard copy CH statements, original receipts, invoices, logs,
                   approvals, supporting documentation, CH delegation of authority letters, BO
                   appointment letters?</i>
             </p>
          </li>
-         <li id="jPmDtj" class="- topic/li ">
-            <p id="xwVSyB" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Do CH files contain purchase logs, statements of record, billing statements,
+         <li id="jPmDtj">
+            <p id="xwVSyB">
+               <i>Do CH files contain purchase logs, statements of record, billing statements,
                   documentation supporting purchase (fair and reasonable, competition, legitimate
                   need, receipt and acceptance), appointment letter, training certificates?</i>
             </p>
          </li>
       </ul>
-      <p id="sKeVZP" class="- topic/p ">Appendix H: Semi-Annual Surveillance Report Template (continued)</p>
-      <p id="ijNzAN" outputclass="Normal" class="- topic/p ">6. <u class="+ topic/ph hi-d/u ">Processing Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section D, 1-3 of Enclosure (A).</i>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i "> In addition to</i>
+      <p id="sKeVZP">Appendix H: Semi-Annual Surveillance Report Template (continued)</p>
+      <p id="ijNzAN" outputclass="Normal">6. <u>Processing Requirements:</u>
+         <i>Address Section D, 1-3 of Enclosure (A).</i>
+         <b>
+            <i> In addition to</i>
          </b>
-         <i class="+ topic/ph hi-d/i "> items on the checklist, address the following:</i>
+         <i> items on the checklist, address the following:</i>
       </p>
-      <p id="EIMjpa" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Reconciliation and certification of invoice payments-review and reconciliation of CH
+      <p id="EIMjpa" outputclass="Normal">
+         <i>Reconciliation and certification of invoice payments-review and reconciliation of CH
             statement against receipt documentation within 5 days; prior bills paid; purchases
             necessary, mission essential, meet minimum need of the Government; contains valid line
             of accounting</i>
       </p>
-      <p id="mLTPdv" outputclass="Normal" class="- topic/p ">7. <u class="+ topic/ph hi-d/u ">Financial Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section E, 1-2 of Enclosure (A).</i>
+      <p id="mLTPdv" outputclass="Normal">7. <u>Financial Requirements:</u>
+         <i>Address Section E, 1-2 of Enclosure (A).</i>
       </p>
-      <p id="caAQBr" outputclass="Normal" class="- topic/p ">8. <u class="+ topic/ph hi-d/u ">Convenience Check Writer Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section F, 1-10 of Enclosure (A).</i>
+      <p id="caAQBr" outputclass="Normal">8. <u>Convenience Check Writer Requirements:</u>
+         <i>Address Section F, 1-10 of Enclosure (A).</i>
       </p>
-      <p id="QCxfaT" outputclass="Normal" class="- topic/p ">9. <u class="+ topic/ph hi-d/u ">GPC Accounts Used to Place Orders by Ordering
-            Officer:</u> A<i class="+ topic/ph hi-d/i ">ddress Section G, 1-9 of Enclosure (A).</i>
+      <p id="QCxfaT" outputclass="Normal">9. <u>GPC Accounts Used to Place Orders by Ordering
+            Officer:</u> A<i>ddress Section G, 1-9 of Enclosure (A).</i>
       </p>
-      <p id="PbQNjT" outputclass="Normal" class="- topic/p ">10. <u class="+ topic/ph hi-d/u ">Contract Payment Requirements:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section H, 1-10 of Enclosure (A).</i>
+      <p id="PbQNjT" outputclass="Normal">10. <u>Contract Payment Requirements:</u>
+         <i>Address Section H, 1-10 of Enclosure (A).</i>
       </p>
-      <p id="RjgkWQ" outputclass="Normal" class="- topic/p ">11. <u class="+ topic/ph hi-d/u ">Payments to Document and Automation Production
-            Services (DAPS) or Other Government Entities:</u> A<i class="+ topic/ph hi-d/i ">ddress Section I, 1-4 of Enclosure
+      <p id="RjgkWQ" outputclass="Normal">11. <u>Payments to Document and Automation Production
+            Services (DAPS) or Other Government Entities:</u> A<i>ddress Section I, 1-4 of Enclosure
             (A).</i>
       </p>
-      <p id="wYvHbg" outputclass="Normal" class="- topic/p ">12. <u class="+ topic/ph hi-d/u ">Training Payments:</u>
-         <i class="+ topic/ph hi-d/i ">Address Section J, 1-7 of Enclosure (A).</i>
+      <p id="wYvHbg" outputclass="Normal">12. <u>Training Payments:</u>
+         <i>Address Section J, 1-7 of Enclosure (A).</i>
       </p>
-      <p id="joChxn" outputclass="Normal" class="- topic/p ">13. <u class="+ topic/ph hi-d/u ">Previous Findings:</u>
-         <i class="+ topic/ph hi-d/i ">Address adverse findings from previous quarterly reviews, corrective actions taken, and
+      <p id="joChxn" outputclass="Normal">13. <u>Previous Findings:</u>
+         <i>Address adverse findings from previous quarterly reviews, corrective actions taken, and
             results.</i>
       </p>
-      <p id="EMTTLR" outputclass="Normal" class="- topic/p ">14. <u class="+ topic/ph hi-d/u ">Surveillance Reporting:</u>
-         <i class="+ topic/ph hi-d/i ">Have all Level 4 A/OPCs received proper training and oversight for conducting
+      <p id="EMTTLR" outputclass="Normal">14. <u>Surveillance Reporting:</u>
+         <i>Have all Level 4 A/OPCs received proper training and oversight for conducting
             surveillance? How is information transferred from Level 3 A/OPC to Level 4 A/OPCs; how
             is information packaged and presented to Level 2 A/OPC? To what extent is PCOLS used to
             collect surveillance data. What tools within PCOLS were utilized (EMMA, AIM, DM, Risk
             Assessment)?</i>
       </p>
-      <p id="krXpCA" outputclass="Normal" class="- topic/p ">15. <u class="+ topic/ph hi-d/u ">Program Summary:</u>
-         <i class="+ topic/ph hi-d/i ">Summarize repetitive or systemic weaknesses at the individual command and organizational
+      <p id="krXpCA" outputclass="Normal">15. <u>Program Summary:</u>
+         <i>Summarize repetitive or systemic weaknesses at the individual command and organizational
             level. What corrective actions will be taken and how will corrective actions be
             tracked?</i>
       </p>
-      <p id="CIbEuD" outputclass="Normal" class="- topic/p ">16. <u class="+ topic/ph hi-d/u ">Exceptional Performance:</u>
-         <i class="+ topic/ph hi-d/i ">Identify examples of exceptional GPC programs or performance and/or lessons learned.</i>
+      <p id="CIbEuD" outputclass="Normal">16. <u>Exceptional Performance:</u>
+         <i>Identify examples of exceptional GPC programs or performance and/or lessons learned.</i>
       </p>
-      <p id="afGvVN" outputclass="Normal" class="- topic/p ">17. Any questions may be directed to the undersigned at <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">insert</u>
+      <p id="afGvVN" outputclass="Normal">17. Any questions may be directed to the undersigned at <i>
+            <u>insert</u>
          </i>
-         <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u "> Level 3 A/OPC</u>
-         </i> at <i class="+ topic/ph hi-d/i ">
-            <u class="+ topic/ph hi-d/u ">(XXX)</u>
+         <i>
+            <u> Level 3 A/OPC</u>
+         </i> at <i>
+            <u>(XXX)</u>
          </i>
-         <i class="+ topic/ph hi-d/i ">XXX-XXXX</i>.</p>
-      <p id="bLedHT" outputclass="normal Right" class="- topic/p ">Level 3 Agency/Organizational Coordinator</p>
-      <p id="dYSHfM" outputclass="normal Right" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">Insert A/OPC Signature</i>
+         <i>XXX-XXXX</i>.</p>
+      <p id="bLedHT" outputclass="normal Right">Level 3 Agency/Organizational Coordinator</p>
+      <p id="dYSHfM" outputclass="normal Right">
+         <i>Insert A/OPC Signature</i>
       </p>
    </conbody>
 </concept>

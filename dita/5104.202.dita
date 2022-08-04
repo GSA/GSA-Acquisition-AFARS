@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5104.202"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5104.202</ph> Agency distribution requirements.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List4" class="- topic/p ">Distribute a copy of contracts for utility services and communications to:</p>
-      <p outputclass="List4" class="- topic/p ">General Services Administration/Public Buildings Service</p>
-      <p outputclass="List4" class="- topic/p ">Office of Procurement, Public Utilities Service Division (PPU)</p>
-      <p outputclass="List4" class="- topic/p ">Room 7322, GSA Building</p>
-      <p outputclass="List4" class="- topic/p ">18th &amp; F Streets NW</p>
-      <p outputclass="List4" class="- topic/p ">Washington DC 20405.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.202" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5104.202</ph> Agency distribution requirements.</title>
+   <conbody>
+      <p outputclass="List4">Distribute a copy of contracts for utility services and communications to:</p>
+      <p outputclass="List4">General Services Administration/Public Buildings Service</p>
+      <p outputclass="List4">Office of Procurement, Public Utilities Service Division (PPU)</p>
+      <p outputclass="List4">Room 7322, GSA Building</p>
+      <p outputclass="List4">18th &amp; F Streets NW</p>
+      <p outputclass="List4">Washington DC 20405.</p>
    </conbody>
 </concept>

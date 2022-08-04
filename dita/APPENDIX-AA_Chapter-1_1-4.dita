@@ -1,48 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_APPENDIX-AA_Chapter-1_1-4"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">1.4</ph> Source Selection Team Roles &amp; Responsibilities</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="JbYdmn" outputclass="Text Body" class="- topic/p ">Source selection is a multi-disciplined team effort. The Source Selection Team (SST) should include representatives from appropriate functional areas such as contracting, small business, technical, logistics, cost/price, legal, and program management. User organizations should also be represented.</p>
-      <p id="CtEMpQ" outputclass="Text Body" class="- topic/p ">The success of any source selection is determined to a large degree by the personnel involved. Likewise, the Source Selection Authority (SSA), with assistance from the SCO, will ensure the appointment of people with the requisite skills, expertise, and experience to ensure the success of the source selection. This includes those members appointed to the Source Selection Advisory Council (SSAC).</p>
-      <p id="YizbAs" outputclass="Text Body" class="- topic/p ">The SCO is responsible for determining the capability of the organization to effectively resource the SST as set forth in the hierarchy of source selection expertise below (see Figure 1-1). In the event the SCO determines the required expertise is not obtainable, the HCA will be consulted. If the HCA concurs the resources are still unavailable, the DASA(P) will be notified and will assist in providing resources from other contracting activities, or assign the procurement to another contracting activity for execution.</p>
-      <p id="fmbqqrik" outputclass="Text Body" class="- topic/p "/>
-      <table colsep="0" rowsep="0" class="- topic/table ">
-         <tgroup cols="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="gjilRN" class="- topic/p "/>
-                     <ul class="- topic/ul ">
-                        <li id="etafIs" class="- topic/li ">
-                           <p id="aZygEw" class="- topic/p ">Look within own organization for expertise.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-1_1-4" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">1.4</ph> Source Selection Team Roles &amp; Responsibilities</title>
+   <conbody>
+      <p id="JbYdmn" outputclass="Text Body">Source selection is a multi-disciplined team effort. The Source Selection Team (SST) should include representatives from appropriate functional areas such as contracting, small business, technical, logistics, cost/price, legal, and program management. User organizations should also be represented.</p>
+      <p id="CtEMpQ" outputclass="Text Body">The success of any source selection is determined to a large degree by the personnel involved. Likewise, the Source Selection Authority (SSA), with assistance from the SCO, will ensure the appointment of people with the requisite skills, expertise, and experience to ensure the success of the source selection. This includes those members appointed to the Source Selection Advisory Council (SSAC).</p>
+      <p id="YizbAs" outputclass="Text Body">The SCO is responsible for determining the capability of the organization to effectively resource the SST as set forth in the hierarchy of source selection expertise below (see Figure 1-1). In the event the SCO determines the required expertise is not obtainable, the HCA will be consulted. If the HCA concurs the resources are still unavailable, the DASA(P) will be notified and will assist in providing resources from other contracting activities, or assign the procurement to another contracting activity for execution.</p>
+      <p id="fmbqqrik" outputclass="Text Body"></p>
+      <table colsep="0" rowsep="0">
+         <tgroup cols="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="gjilRN"></p>
+                     <ul>
+                        <li id="etafIs">
+                           <p id="aZygEw">Look within own organization for expertise.</p>
                         </li>
-                        <li id="kRCFGN" class="- topic/li ">
-                           <p id="IHJAlC" class="- topic/p ">Identify and appoint Government personnel outside own organization with the requisite expertise.</p>
+                        <li id="kRCFGN">
+                           <p id="IHJAlC">Identify and appoint Government personnel outside own organization with the requisite expertise.</p>
                         </li>
-                        <li id="HLroyJ" class="- topic/li ">
-                           <p id="GjRSia" class="- topic/p ">Identify junior personnel to grow expertise and experience in source selection by allowing them to participate on non-technical factors.</p>
+                        <li id="HLroyJ">
+                           <p id="GjRSia">Identify junior personnel to grow expertise and experience in source selection by allowing them to participate on non-technical factors.</p>
                         </li>
-                        <li id="ZTPLYn" class="- topic/li ">
-                           <p id="zpZXAv" class="- topic/p ">If expertise does not exist, then move acquisition elsewhere.</p>
+                        <li id="ZTPLYn">
+                           <p id="zpZXAv">If expertise does not exist, then move acquisition elsewhere.</p>
                         </li>
-                        <li id="Qyugqj" class="- topic/li ">
-                           <p id="exHafe" class="- topic/p ">Consider establishing and/or hiring, on an ad hoc basis, qualified retired annuitants to supplement source selection teams.</p>
+                        <li id="Qyugqj">
+                           <p id="exHafe">Consider establishing and/or hiring, on an ad hoc basis, qualified retired annuitants to supplement source selection teams.</p>
                         </li>
-                        <li id="bLfgMn" class="- topic/li ">
-                           <p id="IClfnP" class="- topic/p ">Establish an advance pool of experts to supplement on an ad hoc and rotational basis.</p>
+                        <li id="bLfgMn">
+                           <p id="IClfnP">Establish an advance pool of experts to supplement on an ad hoc and rotational basis.</p>
                         </li>
-                        <li id="ngADAE" class="- topic/li ">
-                           <p id="fnazHr" class="- topic/p ">In accordance with FAR Subparts 7.5 and 9.5, hire contractor experts to augment the Source Selection Evaluation Board (SSEB) ensuring there is no organizational conflict of interest or inclusion of inherently governmental functions.</p>
+                        <li id="ngADAE">
+                           <p id="fnazHr">In accordance with FAR Subparts 7.5 and 9.5, hire contractor experts to augment the Source Selection Evaluation Board (SSEB) ensuring there is no organizational conflict of interest or inclusion of inherently governmental functions.</p>
                         </li>
                      </ul>
                   </entry>
@@ -50,209 +43,202 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="VbmpDk" outputclass="Ctr Text Body" class="- topic/p ">Figure 1-1: Hierarchy of Source Selection Expertise</p>
-      <p id="pZQvVV" outputclass="Text Body" class="- topic/p ">The size and composition of the SST will vary depending upon the requirements of each acquisition. For example, major hardware acquisitions frequently involve requirements organizations from across the Army (or from other services on joint-service programs). In such cases, and when forming the SST, SSEB Factor/Subfactor teams should include evaluator representation from each major requirements organization. These evaluators should be assigned to the evaluation criteria associated with their specific area of requirements interest. Inclusion of technical evaluators who are subject matter experts on the requirement(s) being evaluated is essential to a successful evaluation process and fair/accurate assessment of the proposals, and absolutely critical where joint-service and/or multiple functional requirements are involved.</p>
-      <p id="MXErwB" outputclass="Text Body" class="- topic/p ">Whether the team is large or small, it should be structured to ensure teamwork, unity of purpose, and appropriate open communication among the team members throughout the process. This will facilitate a comprehensive evaluation and selection of the best value proposal.</p>
-      <p id="UKKhKo" outputclass="Normal" class="- topic/p "/>
-      <p id="GFsHil" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Key Components of the SST</i>
+      <p id="VbmpDk" outputclass="Ctr Text Body">Figure 1-1: Hierarchy of Source Selection Expertise</p>
+      <p id="pZQvVV" outputclass="Text Body">The size and composition of the SST will vary depending upon the requirements of each acquisition. For example, major hardware acquisitions frequently involve requirements organizations from across the Army (or from other services on joint-service programs). In such cases, and when forming the SST, SSEB Factor/Subfactor teams should include evaluator representation from each major requirements organization. These evaluators should be assigned to the evaluation criteria associated with their specific area of requirements interest. Inclusion of technical evaluators who are subject matter experts on the requirement(s) being evaluated is essential to a successful evaluation process and fair/accurate assessment of the proposals, and absolutely critical where joint-service and/or multiple functional requirements are involved.</p>
+      <p id="MXErwB" outputclass="Text Body">Whether the team is large or small, it should be structured to ensure teamwork, unity of purpose, and appropriate open communication among the team members throughout the process. This will facilitate a comprehensive evaluation and selection of the best value proposal.</p>
+      <p id="UKKhKo" outputclass="Normal"></p>
+      <p id="GFsHil" outputclass="Normal">
+         <b>
+            <i>Key Components of the SST</i>
          </b>
       </p>
-      <p id="jutjiz" class="- topic/p ">For source selections with a total estimated value of $100M or more, the SST shall consist of the SSA, a SSAC, and an SSEB. Each of these SST entities has distinct and separate functions (See Figure 1-2).</p>
-      <p id="jutjuP" outputclass="normal Right" class="- topic/p ">
-         <image height="141px"
-                href="Graphics/image2.png"
-                width="200px"
-                placement="inline"
-                class="- topic/image "/>
+      <p id="jutjiz">For source selections with a total estimated value of $100M or more, the SST shall consist of the SSA, a SSAC, and an SSEB. Each of these SST entities has distinct and separate functions (See Figure 1-2).</p>
+      <p id="jutjuP" outputclass="normal Right">
+         <image height="141px" href="Graphics/image2.png" width="200px" placement="inline" />
       </p>
-      <p id="jusduPD" outputclass="normal Right" class="- topic/p ">Figure 1-2: SST Responsibilities</p>
-      <p id="zqLNgU" class="- topic/p "/>
-      <p id="nQjCct" class="- topic/p ">The SSEB is usually comprised of multiple groups of evaluators who are responsible for evaluating specific areas of the proposal against the RFP requirements. Additionally, legal counsel, small business advisors, cost/price, and technical experts may also serve as SST advisors. The precise structure of the SSEB is a matter within the SSA’s discretion.</p>
-      <p id="oQtUnS" outputclass="Text Body" class="- topic/p ">The information below supplements the Roles and Responsibilities found in the DoD Source Selection Procedures (see paragraph 1.4).</p>
-      <p id="qcmXuS" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The SSA.</i>
+      <p id="jusduPD" outputclass="normal Right">Figure 1-2: SST Responsibilities</p>
+      <p id="zqLNgU"></p>
+      <p id="nQjCct">The SSEB is usually comprised of multiple groups of evaluators who are responsible for evaluating specific areas of the proposal against the RFP requirements. Additionally, legal counsel, small business advisors, cost/price, and technical experts may also serve as SST advisors. The precise structure of the SSEB is a matter within the SSA’s discretion.</p>
+      <p id="oQtUnS" outputclass="Text Body">The information below supplements the Roles and Responsibilities found in the DoD Source Selection Procedures (see paragraph 1.4).</p>
+      <p id="qcmXuS" outputclass="Normal">
+         <b>
+            <i>The SSA.</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="DCERaw" class="- topic/li ">
-            <p id="ypZbLl" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Appointment.</i> The AFARS 5115.303 provides the policy on SSA appointments.</p>
-            <ul class="- topic/ul ">
-               <li id="pGDHQo" class="- topic/li ">
-                  <p id="pvTiLt" class="- topic/p ">All appointed SSAs are considered procurement officials and are subject to the associated statutory / regulatory rules.</p>
+      <ul>
+         <li id="DCERaw">
+            <p id="ypZbLl">
+               <i>Appointment.</i> The AFARS 5115.303 provides the policy on SSA appointments.</p>
+            <ul>
+               <li id="pGDHQo">
+                  <p id="pvTiLt">All appointed SSAs are considered procurement officials and are subject to the associated statutory / regulatory rules.</p>
                </li>
-               <li id="rusbMd" class="- topic/li ">
-                  <p id="NidLuk" class="- topic/p ">Once appointed, the SSA cannot further delegate their SSA authorities.</p>
+               <li id="rusbMd">
+                  <p id="NidLuk">Once appointed, the SSA cannot further delegate their SSA authorities.</p>
                </li>
-               <li id="sfSEiG" class="- topic/li ">
-                  <p id="cQrafR" class="- topic/p ">
-                     <b class="+ topic/ph hi-d/b ">
-                        <i class="+ topic/ph hi-d/i ">Note:</i>
+               <li id="sfSEiG">
+                  <p id="cQrafR">
+                     <b>
+                        <i>Note:</i>
                      </b> The identity of the SSA shall be considered procurement sensitive and shall not be disclosed to anyone who has not signed a non-disclosure agreement for that RFP / acquisition.</p>
                </li>
             </ul>
          </li>
-         <li id="fkfgXi" class="- topic/li ">
-            <p id="NuQPNB" class="- topic/p ">Ensure the Source Selection Plan (SSP) and evaluation criteria are consistent with the requirements of the solicitation and applicable regulations.</p>
+         <li id="fkfgXi">
+            <p id="NuQPNB">Ensure the Source Selection Plan (SSP) and evaluation criteria are consistent with the requirements of the solicitation and applicable regulations.</p>
          </li>
       </ul>
-      <p id="zDFcfc" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The Procuring Contracting Officer (PCO).</i>
+      <p id="zDFcfc" outputclass="Normal">
+         <b>
+            <i>The Procuring Contracting Officer (PCO).</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="JdmqVf" class="- topic/li ">
-            <p id="BhRIVZ" class="- topic/p ">No Army text.</p>
+      <ul>
+         <li id="JdmqVf">
+            <p id="BhRIVZ">No Army text.</p>
          </li>
       </ul>
-      <p id="EPzBUC" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The SSAC.</i>
+      <p id="EPzBUC" outputclass="Normal">
+         <b>
+            <i>The SSAC.</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="SbyeHd" class="- topic/li ">
-            <p id="kRawNh" class="- topic/p ">The SSAC will consist of senior Government personnel, and may include representation from the cognizant contracting office and legal office.</p>
+      <ul>
+         <li id="SbyeHd">
+            <p id="kRawNh">The SSAC will consist of senior Government personnel, and may include representation from the cognizant contracting office and legal office.</p>
          </li>
-         <li id="sfMuSF" class="- topic/li ">
-            <p id="XZIVrh" class="- topic/p ">For Acquisition Category I/II Source Selections involving requirements organizations from across the Army (or from other services on joint-service programs), the SSAC must include representation from all significant requirements organizations. The SSAC representatives must be at an organization / grade level commensurate with the other members of the SSAC, usually military 0-6/GS-15 or higher.</p>
+         <li id="sfMuSF">
+            <p id="XZIVrh">For Acquisition Category I/II Source Selections involving requirements organizations from across the Army (or from other services on joint-service programs), the SSAC must include representation from all significant requirements organizations. The SSAC representatives must be at an organization / grade level commensurate with the other members of the SSAC, usually military 0-6/GS-15 or higher.</p>
          </li>
       </ul>
-      <p id="VnqpcQ" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">The SSEB.</i>
+      <p id="VnqpcQ" outputclass="Normal">
+         <b>
+            <i>The SSEB.</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="zmFkRT" class="- topic/li ">
-            <p id="SnZVEp" class="- topic/p ">
-               <b class="+ topic/ph hi-d/b ">
-                  <i class="+ topic/ph hi-d/i ">The SSEB Chairperson.</i>
+      <ul>
+         <li id="zmFkRT">
+            <p id="SnZVEp">
+               <b>
+                  <i>The SSEB Chairperson.</i>
                </b>
             </p>
-            <ul class="- topic/ul ">
-               <li id="eiIQva" class="- topic/li ">
-                  <p id="unPaOc" class="- topic/p ">Ensure the SSEB members understand the evaluation criteria and establish a uniform approach to the evaluation and rating effort. Seek to build consensus among the SSEB members.</p>
+            <ul>
+               <li id="eiIQva">
+                  <p id="unPaOc">Ensure the SSEB members understand the evaluation criteria and establish a uniform approach to the evaluation and rating effort. Seek to build consensus among the SSEB members.</p>
                </li>
-               <li id="WzdgRy" class="- topic/li ">
-                  <p id="ObkEmX" class="- topic/p ">Isolate policy issues and major questions requiring decision by the SSA.</p>
+               <li id="WzdgRy">
+                  <p id="ObkEmX">Isolate policy issues and major questions requiring decision by the SSA.</p>
                </li>
-               <li id="XUBPUF" class="- topic/li ">
-                  <p id="EwuSZv" class="- topic/p ">Relieve and replace SSEB members from assignment <b class="+ topic/ph hi-d/b ">
-                        <i class="+ topic/ph hi-d/i ">
-                           <u class="+ topic/ph hi-d/u ">only</u>
+               <li id="XUBPUF">
+                  <p id="EwuSZv">Relieve and replace SSEB members from assignment <b>
+                        <i>
+                           <u>only</u>
                         </i>
                      </b> in the event of a demonstrated emergency or other appropriate cause.</p>
                </li>
-               <li id="cVHsdm" class="- topic/li ">
-                  <p id="pBZHpx" class="- topic/p ">Arrange for the SSEB members to work compensatory time, when necessary, authorized, and approved.</p>
+               <li id="cVHsdm">
+                  <p id="pBZHpx">Arrange for the SSEB members to work compensatory time, when necessary, authorized, and approved.</p>
                </li>
-               <li id="epJhOz" class="- topic/li ">
-                  <p id="naGZFA" class="- topic/p ">Arrange for the needed administrative staff at the evaluation work site.</p>
+               <li id="epJhOz">
+                  <p id="naGZFA">Arrange for the needed administrative staff at the evaluation work site.</p>
                </li>
             </ul>
          </li>
-         <li id="NPnQKp" class="- topic/li ">
-            <p id="ODAsOQ" class="- topic/p ">
-               <b class="+ topic/ph hi-d/b ">
-                  <i class="+ topic/ph hi-d/i ">The SSEB Members.</i>
+         <li id="NPnQKp">
+            <p id="ODAsOQ">
+               <b>
+                  <i>The SSEB Members.</i>
                </b>
             </p>
-            <ul class="- topic/ul ">
-               <li id="zxNUms" class="- topic/li ">
-                  <p id="TztsMT" class="- topic/p ">Prepare the evaluation notices (ENs).</p>
+            <ul>
+               <li id="zxNUms">
+                  <p id="TztsMT">Prepare the evaluation notices (ENs).</p>
                </li>
-               <li id="NQDYwG" class="- topic/li ">
-                  <p id="WxRcfS" class="- topic/p ">Brief the SSAC/SSA (as requested), and respond to comments / instructions from the SSAC/SSA.</p>
+               <li id="NQDYwG">
+                  <p id="WxRcfS">Brief the SSAC/SSA (as requested), and respond to comments / instructions from the SSAC/SSA.</p>
                </li>
             </ul>
          </li>
       </ul>
-      <p id="vaIdSR" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Legal Counsel.</i>
+      <p id="vaIdSR" outputclass="Normal">
+         <b>
+            <i>Legal Counsel.</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="CiEqXt" class="- topic/li ">
-            <p id="vinZsY" class="- topic/p ">No Army text.</p>
+      <ul>
+         <li id="CiEqXt">
+            <p id="vinZsY">No Army text.</p>
          </li>
       </ul>
-      <p id="HFVOQK" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Other Advisors.</i>
+      <p id="HFVOQK" outputclass="Normal">
+         <b>
+            <i>Other Advisors.</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="jCmcfA" class="- topic/li ">
-            <p id="cajDVO" class="- topic/p ">No Army text.</p>
+      <ul>
+         <li id="jCmcfA">
+            <p id="cajDVO">No Army text.</p>
          </li>
       </ul>
-      <p id="tygQkb" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Program Manager (PM) / Requiring Activity (RA).</i>
+      <p id="tygQkb" outputclass="Normal">
+         <b>
+            <i>Program Manager (PM) / Requiring Activity (RA).</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="sMpzok" class="- topic/li ">
-            <p id="fITOwV" class="- topic/p ">No Army text.</p>
+      <ul>
+         <li id="sMpzok">
+            <p id="fITOwV">No Army text.</p>
          </li>
       </ul>
-      <p id="qmXftK" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">Administrative Support.</i>
+      <p id="qmXftK" outputclass="Normal">
+         <b>
+            <i>Administrative Support.</i>
          </b>
       </p>
-      <ul class="- topic/ul ">
-         <li id="uiRlIk" class="- topic/li ">
-            <p id="NhdrPC" class="- topic/p ">Each acquisition will vary in terms of the administrative support requirements. Figure 1-3 contains a checklist of some important requirements common to many acquisitions.</p>
+      <ul>
+         <li id="uiRlIk">
+            <p id="NhdrPC">Each acquisition will vary in terms of the administrative support requirements. Figure 1-3 contains a checklist of some important requirements common to many acquisitions.</p>
          </li>
       </ul>
-      <table colsep="0" rowsep="0" class="- topic/table ">
-         <tgroup cols="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="SEawkC" class="- topic/p "/>
-                     <ul class="- topic/ul ">
-                        <li id="IMKOLm" class="- topic/li ">
-                           <p id="wGXlaE" class="- topic/p ">Adequate facilities (to include space for the evaluators and related meetings and for discussions with Offerors): Consider whether the facilities are of an adequate size, capable of segregation of committees, comfortable, properly furnished, secure, accessible to disabled persons, and close to support services such as copiers, restrooms, and eating facilities.</p>
+      <table colsep="0" rowsep="0">
+         <tgroup cols="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <tbody>
+               <row>
+                  <entry>
+                     <p id="SEawkC"></p>
+                     <ul>
+                        <li id="IMKOLm">
+                           <p id="wGXlaE">Adequate facilities (to include space for the evaluators and related meetings and for discussions with Offerors): Consider whether the facilities are of an adequate size, capable of segregation of committees, comfortable, properly furnished, secure, accessible to disabled persons, and close to support services such as copiers, restrooms, and eating facilities.</p>
                         </li>
-                        <li id="iXqFRQ" class="- topic/li ">
-                           <p id="FHWCcj" class="- topic/p ">Appropriate security controls, such as identification badges and access control.</p>
+                        <li id="iXqFRQ">
+                           <p id="FHWCcj">Appropriate security controls, such as identification badges and access control.</p>
                         </li>
-                        <li id="xpbGwP" class="- topic/li ">
-                           <p id="GdoYgp" class="- topic/p ">Adequate secure storage space for proposals and source selection materials.</p>
+                        <li id="xpbGwP">
+                           <p id="GdoYgp">Adequate secure storage space for proposals and source selection materials.</p>
                         </li>
-                        <li id="vVUPMw" class="- topic/li ">
-                           <p id="smCfEV" class="- topic/p ">Appropriate computer hardware and software and related support.</p>
+                        <li id="vVUPMw">
+                           <p id="smCfEV">Appropriate computer hardware and software and related support.</p>
                         </li>
-                        <li id="bakzRY" class="- topic/li ">
-                           <p id="YpquIo" class="- topic/p ">Adequate telephones, facsimile machines, copiers and/or printing services located in secure areas and secure audio/video teleconferencing capabilities.</p>
+                        <li id="bakzRY">
+                           <p id="YpquIo">Adequate telephones, facsimile machines, copiers and/or printing services located in secure areas and secure audio/video teleconferencing capabilities.</p>
                         </li>
-                        <li id="UgCebT" class="- topic/li ">
-                           <p id="hHGcan" class="- topic/p ">Adequate office supplies.</p>
+                        <li id="UgCebT">
+                           <p id="hHGcan">Adequate office supplies.</p>
                         </li>
-                        <li id="OoRYLP" class="- topic/li ">
-                           <p id="SSpYJb" class="- topic/p ">Adequate lodging and transportation for personnel on temporary duty (TDY).</p>
+                        <li id="OoRYLP">
+                           <p id="SSpYJb">Adequate lodging and transportation for personnel on temporary duty (TDY).</p>
                         </li>
                      </ul>
-                     <p id="YNxJGo" class="- topic/p "/>
+                     <p id="YNxJGo"></p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="fmc862h" class="- topic/p "/>
-      <p id="StYDni" outputclass="Ctr text body" class="- topic/p ">Figure 1-3: Administrative Support Considerations</p>
-      <p id="p__Toc307839227" outputclass="Normal" class="- topic/p "/>
+      <p id="fmc862h"></p>
+      <p id="StYDni" outputclass="Ctr text body">Figure 1-3: Administrative Support Considerations</p>
+      <p id="p__Toc307839227" outputclass="Normal"></p>
    </conbody>
 </concept>

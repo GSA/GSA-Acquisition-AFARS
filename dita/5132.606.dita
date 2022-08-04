@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5132.606"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5132.606</ph> Debt collection.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(c)(i)  Send case files to the contract financing office within 15 calendar days after the end of the 30-day period following the contracting officer’s demand for payment.  The address is as follows:</p>
-      <p outputclass="Normal" class="- topic/p ">Defense Finance and Accounting Service-Columbus Center</p>
-      <p outputclass="Normal" class="- topic/p ">Attn: DFAS-JDCBB/CO</p>
-      <p outputclass="Normal" class="- topic/p ">Debt Management Office, P.O. Box 182559</p>
-      <p outputclass="Normal" class="- topic/p ">Columbus, Ohio 43218-2559.</p>
-      <p outputclass="List3" class="- topic/p ">(ii)  The case file must include a copy of the contracting officer’s demand; a statement as to whether or not the contract contains an interest clause; and, if so, a copy of the clause or a reference to the clause number.</p>
-      <p outputclass="List3" class="- topic/p ">(iii)  If the debt represents excess costs incurred in purchasing supplies or services against the account of a defaulted contractor, the case file shall include –</p>
-      <p outputclass="List4" class="- topic/p ">(A)  The name and address of the replacement contractor;</p>
-      <p outputclass="List4" class="- topic/p ">(B)  The disbursing office voucher number;</p>
-      <p outputclass="List4" class="- topic/p ">(C)  The date paid;</p>
-      <p outputclass="List4" class="- topic/p ">(D)  Bills of lading numbers, if any;</p>
-      <p outputclass="List4" class="- topic/p ">(E)  The name of the carrier, when applicable; and</p>
-      <p outputclass="List4" class="- topic/p ">(F)  The name and symbol number of the disbursing officer.</p>
-      <p outputclass="List3" class="- topic/p ">(iv)  If the debt represents liquidated damages, the case file shall include an explanation of the basis for assessing liquidated damages.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5132.606" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5132.606</ph> Debt collection.</title>
+   <conbody>
+      <p outputclass="List1">(c)(i)  Send case files to the contract financing office within 15 calendar days after the end of the 30-day period following the contracting officer’s demand for payment.  The address is as follows:</p>
+      <p outputclass="Normal">Defense Finance and Accounting Service-Columbus Center</p>
+      <p outputclass="Normal">Attn: DFAS-JDCBB/CO</p>
+      <p outputclass="Normal">Debt Management Office, P.O. Box 182559</p>
+      <p outputclass="Normal">Columbus, Ohio 43218-2559.</p>
+      <p outputclass="List3">(ii)  The case file must include a copy of the contracting officer’s demand; a statement as to whether or not the contract contains an interest clause; and, if so, a copy of the clause or a reference to the clause number.</p>
+      <p outputclass="List3">(iii)  If the debt represents excess costs incurred in purchasing supplies or services against the account of a defaulted contractor, the case file shall include –</p>
+      <p outputclass="List4">(A)  The name and address of the replacement contractor;</p>
+      <p outputclass="List4">(B)  The disbursing office voucher number;</p>
+      <p outputclass="List4">(C)  The date paid;</p>
+      <p outputclass="List4">(D)  Bills of lading numbers, if any;</p>
+      <p outputclass="List4">(E)  The name of the carrier, when applicable; and</p>
+      <p outputclass="List4">(F)  The name and symbol number of the disbursing officer.</p>
+      <p outputclass="List3">(iv)  If the debt represents liquidated damages, the case file shall include an explanation of the basis for assessing liquidated damages.</p>
    </conbody>
 </concept>

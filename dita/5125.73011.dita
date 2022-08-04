@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5125.73011"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5125.7301-1</ph> Requirement to use firm-fixed-price contracts.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">
-         <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/225_73.htmhttps:/www.acq.osd.mil/dpap/policy/policyvault/USA000016-20-DPC.pdf"
-               scope="external"
-               format="pdf"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">D</u>
-            <u class="+ topic/ph hi-d/u ">efense </u>
-            <u class="+ topic/ph hi-d/u ">P</u>
-            <u class="+ topic/ph hi-d/u ">ricing and </u>
-            <u class="+ topic/ph hi-d/u ">C</u>
-            <u class="+ topic/ph hi-d/u ">ontracting</u>
-            <u class="+ topic/ph hi-d/u "> Class Deviation</u>
-            <u class="+ topic/ph hi-d/u "> 2020-O0003—</u>
-            <u class="+ topic/ph hi-d/u ">Use of Fixed-Price Contracts for Foreign Military Sales</u>
-            <u class="+ topic/ph hi-d/u "> valid through December 31, 2020.</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5125.73011" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5125.7301-1</ph> Requirement to use firm-fixed-price contracts.</title>
+   <conbody>
+      <p outputclass="Normal">
+         <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/225_73.htmhttps:/www.acq.osd.mil/dpap/policy/policyvault/USA000016-20-DPC.pdf" scope="external" format="pdf">
+            <u>D</u>
+            <u>efense </u>
+            <u>P</u>
+            <u>ricing and </u>
+            <u>C</u>
+            <u>ontracting</u>
+            <u> Class Deviation</u>
+            <u> 2020-O0003—</u>
+            <u>Use of Fixed-Price Contracts for Foreign Military Sales</u>
+            <u> valid through December 31, 2020.</u>
          </xref>
       </p>
-      <p outputclass="List1" class="- topic/p ">(b) The chief of the contracting office shall waive the requirement as described in DFARS 225.7301-1(a).  See Appendix GG. </p>
+      <p outputclass="List1">(b) The chief of the contracting office shall waive the requirement as described in DFARS 225.7301-1(a).  See Appendix GG. </p>
    </conbody>
 </concept>

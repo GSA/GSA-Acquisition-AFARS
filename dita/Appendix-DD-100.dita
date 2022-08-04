@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-DD-100"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">DD-100</ph> Purpose.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="wPKsjO" class="- topic/p ">The guide provides a methodology for uniform and consistent evaluation of subcontracting plans within the Army. It is designed to facilitate compliance with the mandates of 15 U.S.C. § 637(d) to increase opportunities for small and small disadvantaged businesses.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-DD-100" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">DD-100</ph> Purpose.</title>
+   <conbody>
+      <p id="wPKsjO">The guide provides a methodology for uniform and consistent evaluation of subcontracting plans within the Army. It is designed to facilitate compliance with the mandates of 15 U.S.C. § 637(d) to increase opportunities for small and small disadvantaged businesses.</p>
    </conbody>
 </concept>

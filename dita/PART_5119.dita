@@ -1,262 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5119"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">Part 5119</ph> - Small Business Programs</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.2.dita#AFARS_Subpart_5119.2"
-                        class="- topic/xref ">Subpart 5119.2 - Policies</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5119" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5119</ph> - Small Business Programs</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.2.dita#AFARS_Subpart_5119.2">Subpart 5119.2 - Policies</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.201.dita#AFARS_5119.201"
-                              class="- topic/xref ">5119.201 General policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.201.dita#AFARS_5119.201">5119.201 General policy.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.2021.dita#AFARS_5119.2021"
-                                    class="- topic/xref ">5119.202-1 Encouraging small business participation in acquisitions.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.2021.dita#AFARS_5119.2021">5119.202-1 Encouraging small business participation in acquisitions.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.203.dita#AFARS_5119.203"
-                              class="- topic/xref ">5119.203 Relationship among small business programs.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.203.dita#AFARS_5119.203">5119.203 Relationship among small business programs.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.5.dita#AFARS_Subpart_5119.5"
-                        class="- topic/xref ">Subpart 5119.5 - Set-Asides for Small Business</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.5.dita#AFARS_Subpart_5119.5">Subpart 5119.5 - Set-Asides for Small Business</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.502.dita#AFARS_5119.502"
-                              class="- topic/xref ">5119.502 Setting aside acquisitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.502.dita#AFARS_5119.502">5119.502 Setting aside acquisitions.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.5023.dita#AFARS_5119.5023"
-                                    class="- topic/xref ">5119.502-3 Partial set-asides.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.5023.dita#AFARS_5119.5023">5119.502-3 Partial set-asides.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.505.dita#AFARS_5119.505"
-                              class="- topic/xref ">5119.505 Rejecting Small Business Administration recommendations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.505.dita#AFARS_5119.505">5119.505 Rejecting Small Business Administration recommendations.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.506.dita#AFARS_5119.506"
-                              class="- topic/xref ">5119.506 Withdrawing or modifying small business set-asides.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.506.dita#AFARS_5119.506">5119.506 Withdrawing or modifying small business set-asides.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.6.dita#AFARS_Subpart_5119.6"
-                        class="- topic/xref ">Subpart 5119.6 - Certificates of Competency and Determinations of Responsibility</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.6.dita#AFARS_Subpart_5119.6">Subpart 5119.6 - Certificates of Competency and Determinations of Responsibility</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.602.dita#AFARS_5119.602"
-                              class="- topic/xref ">5119.602 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.602.dita#AFARS_5119.602">5119.602 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.6023.dita#AFARS_5119.6023"
-                                    class="- topic/xref ">5119.602-3 Resolving differences between the agency and the Small Business Administration.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.6023.dita#AFARS_5119.6023">5119.602-3 Resolving differences between the agency and the Small Business Administration.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.7.dita#AFARS_Subpart_5119.7"
-                        class="- topic/xref ">Subpart 5119.7 - The Small Business Subcontracting Program</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.7.dita#AFARS_Subpart_5119.7">Subpart 5119.7 - The Small Business Subcontracting Program</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.705.dita#AFARS_5119.705"
-                              class="- topic/xref ">5119.705 Responsibilities of the contracting officer under the subcontracting assistance program.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.705.dita#AFARS_5119.705">5119.705 Responsibilities of the contracting officer under the subcontracting assistance program.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.7052.dita#AFARS_5119.7052"
-                                    class="- topic/xref ">5119.705-2 Determining the need for a subcontracting plan.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.7052.dita#AFARS_5119.7052">5119.705-2 Determining the need for a subcontracting plan.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.7054.dita#AFARS_5119.7054"
-                                    class="- topic/xref ">5119.705-4 Reviewing the subcontracting plan.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.7054.dita#AFARS_5119.7054">5119.705-4 Reviewing the subcontracting plan.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.7056.dita#AFARS_5119.7056"
-                                    class="- topic/xref ">5119.705-6 Postaward responsibilities of the contracting officer.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.7056.dita#AFARS_5119.7056">5119.705-6 Postaward responsibilities of the contracting officer.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.705690.dita#AFARS_5119.705690"
-                                    class="- topic/xref ">5119.705-6-90 Transferring postaward responsibilities of the contracting officer to another contracting officer.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.705690.dita#AFARS_5119.705690">5119.705-6-90 Transferring postaward responsibilities of the contracting officer to another contracting officer.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.8.dita#AFARS_Subpart_5119.8"
-                        class="- topic/xref ">Subpart 5119.8 - Contracting with the Small Business Administration (The 8(a) Program)</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.8.dita#AFARS_Subpart_5119.8">Subpart 5119.8 - Contracting with the Small Business Administration (The 8(a) Program)</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.803.dita#AFARS_5119.803"
-                              class="- topic/xref ">5119.803 Selecting acquisitions for the 8(a) program.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.803.dita#AFARS_5119.803">5119.803 Selecting acquisitions for the 8(a) program.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.804.dita#AFARS_5119.804"
-                              class="- topic/xref ">5119.804 Evaluation, offering, and acceptance.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.804.dita#AFARS_5119.804">5119.804 Evaluation, offering, and acceptance.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.8042.dita#AFARS_5119.8042"
-                                    class="- topic/xref ">5119.804-2 Agency offering.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.8042.dita#AFARS_5119.8042">5119.804-2 Agency offering.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.808.dita#AFARS_5119.808"
-                              class="- topic/xref ">5119.808 Contract negotiation.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.808.dita#AFARS_5119.808">5119.808 Contract negotiation.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5119.8081.dita#AFARS_5119.8081"
-                                    class="- topic/xref ">5119.808-1 Sole source.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5119.8081.dita#AFARS_5119.8081">5119.808-1 Sole source.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.810.dita#AFARS_5119.810"
-                              class="- topic/xref ">5119.810 SBA appeals.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.810.dita#AFARS_5119.810">5119.810 SBA appeals.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.812.dita#AFARS_5119.812"
-                              class="- topic/xref ">5119.812 Contract administration.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.812.dita#AFARS_5119.812">5119.812 Contract administration.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.816.dita#AFARS_5119.816"
-                              class="- topic/xref ">5119.816 Exiting the 8(a) program.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.816.dita#AFARS_5119.816">5119.816 Exiting the 8(a) program.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.890.dita#AFARS_5119.890"
-                              class="- topic/xref ">5119.890 Notification of award.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.890.dita#AFARS_5119.890">5119.890 Notification of award.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.13.dita#AFARS_Subpart_5119.13"
-                        class="- topic/xref ">Subpart 5119.13 - Historically Underutilized Business Zone (HUBZone) Program</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.13.dita#AFARS_Subpart_5119.13">Subpart 5119.13 - Historically Underutilized Business Zone (HUBZone) Program</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.1305.dita#AFARS_5119.1305"
-                              class="- topic/xref ">5119.1305 HUBZone set-aside procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.1305.dita#AFARS_5119.1305">5119.1305 HUBZone set-aside procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5119.14.dita#AFARS_Subpart_5119.14"
-                        class="- topic/xref ">Subpart 5119.14 - Service-Disabled Veteran-Owned Small Business Procurement Program</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5119.14.dita#AFARS_Subpart_5119.14">Subpart 5119.14 - Service-Disabled Veteran-Owned Small Business Procurement Program</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5119.1405.dita#AFARS_5119.1405"
-                              class="- topic/xref ">5119.1405 Service-disabled veteran-owned small business set-aside procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5119.1405.dita#AFARS_5119.1405">5119.1405 Service-disabled veteran-owned small business set-aside procedures.</xref>
                      </p>
                   </li>
                </ul>

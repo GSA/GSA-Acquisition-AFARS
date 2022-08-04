@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5104.710390"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5104.7103-90</ph> Contract line items for internal use software (IUS).</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Definition</i>.  As used in this section, the following terms have the same meaning as given in the Implementation Guide for Internal Use Software located on the Procurement.Army.Mil Knowledge Management Portal at <xref href="https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/PARC%20Policy%20Alert%2018-17%20AFARS%205104%20Revision%20Contract%20Line%20Items%20for%20Internal%20Use%20Software%20RMoye.msg"
-               scope="external"
-               format="msg"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/PARC%20Policy%20Alert%2018-17%20AFARS%205104%20Revision%20Contract%20Line%20Items%20for%20Internal%20Use%20Software%20RMoye.msg</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.710390" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5104.7103-90</ph> Contract line items for internal use software (IUS).</title>
+   <conbody>
+      <p outputclass="List1">(a) <i>Definition</i>.  As used in this section, the following terms have the same meaning as given in the Implementation Guide for Internal Use Software located on the Procurement.Army.Mil Knowledge Management Portal at <xref href="https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/PARC%20Policy%20Alert%2018-17%20AFARS%205104%20Revision%20Contract%20Line%20Items%20for%20Internal%20Use%20Software%20RMoye.msg" scope="external" format="msg">
+            <u>https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/PARC%20Policy%20Alert%2018-17%20AFARS%205104%20Revision%20Contract%20Line%20Items%20for%20Internal%20Use%20Software%20RMoye.msg</u>
          </xref>. </p>
-      <p outputclass="List2" class="- topic/p ">(1) internal use software</p>
-      <p outputclass="List2" class="- topic/p ">(2) valuation</p>
-      <p outputclass="List2" class="- topic/p ">(3) capitalized</p>
-      <p outputclass="List2" class="- topic/p ">(4) expensed</p>
-      <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Procedures</i>.  When procuring internal use software, Army contracting activities shall—</p>
-      <p outputclass="List2" class="- topic/p ">(1) Confirm that the requiring activity has established separately identifiable line items for all capitalized and expensed requirements in the purchase request; </p>
-      <p outputclass="List2" class="- topic/p ">(2) Ensure the line item structure aligns with the lines of accounting related to the capitalized and expensed classifications assigned by the requiring activity; and</p>
-      <p outputclass="List2" class="- topic/p ">(3) Include appropriate invoicing instructions and acceptance criteria in the solicitation and contract or order.</p>
+      <p outputclass="List2">(1) internal use software</p>
+      <p outputclass="List2">(2) valuation</p>
+      <p outputclass="List2">(3) capitalized</p>
+      <p outputclass="List2">(4) expensed</p>
+      <p outputclass="List1">(b) <i>Procedures</i>.  When procuring internal use software, Army contracting activities shall—</p>
+      <p outputclass="List2">(1) Confirm that the requiring activity has established separately identifiable line items for all capitalized and expensed requirements in the purchase request; </p>
+      <p outputclass="List2">(2) Ensure the line item structure aligns with the lines of accounting related to the capitalized and expensed classifications assigned by the requiring activity; and</p>
+      <p outputclass="List2">(3) Include appropriate invoicing instructions and acceptance criteria in the solicitation and contract or order.</p>
    </conbody>
 </concept>

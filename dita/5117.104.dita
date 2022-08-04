@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5117.104"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5117.104</ph> General.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may authorize modifications of the requirements as set forth in FAR 17.1.  See Appendix GG for further delegation.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5117.104" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5117.104</ph> General.</title>
+   <conbody>
+      <p outputclass="List1">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may authorize modifications of the requirements as set forth in FAR 17.1.  See Appendix GG for further delegation.</p>
    </conbody>
 </concept>

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_DOTAGPCOP"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">DEPARTMENT OF</ph> THE ARMY GOVERNMENT PURCHASE CARD      OPERATING PROCEDURES</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="oUcEXu" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">22 July 2015</b>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_DOTAGPCOP" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">DEPARTMENT OF</ph> THE ARMY GOVERNMENT PURCHASE CARD      OPERATING PROCEDURES</title>
+   <conbody>
+      <p id="oUcEXu" outputclass="Normal">
+         <b>22 July 2015</b>
       </p>
    </conbody>
 </concept>

@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5125.103"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5125.103</ph> Exceptions.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)(ii)(B)(1)  The position one level above the contracting officer<ph class="- topic/ph ">, </ph>without further delegation, shall make the determination at DFARS 225.103(a)(ii)(B)(1).  </p>
-      <p outputclass="List2" class="- topic/p ">(2) The head of the contracting activity shall make the determination at DFARS 225.103(a)(ii)(B)(2).  See Appendix GG for further delegation.</p>
-      <p outputclass="List2" class="- topic/p ">(3) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall make the determination at DFARS 225.103(a)(ii)(B)(3).  See Appendix GG for further delegation.</p>
-      <p outputclass="List1" class="- topic/p ">(b)(ii)(A)  The position one level above the contracting officer<ph class="- topic/ph ">, </ph>without further delegation, may make the determination at DFARS 225.103(b)(ii)(A).  </p>
-      <p outputclass="List4" class="- topic/p ">(B)  The chief of the contracting office, without further delegation, may make the determination at DFARS 225.103(b)(ii)(B).  </p>
-      <p outputclass="List4" class="- topic/p ">(C) The head of the contracting activity may make the determination at DFARS 225.103(b)(ii)(C).  See Appendix GG for further delegation.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5125.103" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5125.103</ph> Exceptions.</title>
+   <conbody>
+      <p outputclass="List1">(a)(ii)(B)(1)  The position one level above the contracting officer<ph>, </ph>without further delegation, shall make the determination at DFARS 225.103(a)(ii)(B)(1).  </p>
+      <p outputclass="List2">(2) The head of the contracting activity shall make the determination at DFARS 225.103(a)(ii)(B)(2).  See Appendix GG for further delegation.</p>
+      <p outputclass="List2">(3) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall make the determination at DFARS 225.103(a)(ii)(B)(3).  See Appendix GG for further delegation.</p>
+      <p outputclass="List1">(b)(ii)(A)  The position one level above the contracting officer<ph>, </ph>without further delegation, may make the determination at DFARS 225.103(b)(ii)(A).  </p>
+      <p outputclass="List4">(B)  The chief of the contracting office, without further delegation, may make the determination at DFARS 225.103(b)(ii)(B).  </p>
+      <p outputclass="List4">(C) The head of the contracting activity may make the determination at DFARS 225.103(b)(ii)(C).  See Appendix GG for further delegation.</p>
    </conbody>
 </concept>

@@ -1,248 +1,183 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5122"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">Part 5122</ph> - Application of Labor Laws to Government Acquisitions</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="5122.001.dita#AFARS_5122.001"
-                        class="- topic/xref ">5122.001 Definitions.</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5122" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5122</ph> - Application of Labor Laws to Government Acquisitions</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5122.001.dita#AFARS_5122.001">5122.001 Definitions.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.1.dita#AFARS_Subpart_5122.1"
-                        class="- topic/xref ">Subpart 5122.1 - Basic Labor Policies</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.1.dita#AFARS_Subpart_5122.1">Subpart 5122.1 - Basic Labor Policies</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.101.dita#AFARS_5122.101"
-                              class="- topic/xref ">5122.101 Labor relations.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.101.dita#AFARS_5122.101">5122.101 Labor relations.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.1011.dita#AFARS_5122.1011"
-                                    class="- topic/xref ">5122.101-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.1011.dita#AFARS_5122.1011">5122.101-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.1013.dita#AFARS_5122.1013"
-                                    class="- topic/xref ">5122.101-3 Reporting labor disputes.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.1013.dita#AFARS_5122.1013">5122.101-3 Reporting labor disputes.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.101370.dita#AFARS_5122.101370"
-                                    class="- topic/xref ">5122.101-3-70 Impact of labor disputes on defense programs.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.101370.dita#AFARS_5122.101370">5122.101-3-70 Impact of labor disputes on defense programs.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.103.dita#AFARS_5122.103"
-                              class="- topic/xref ">5122.103 Overtime.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.103.dita#AFARS_5122.103">5122.103 Overtime.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.1034.dita#AFARS_5122.1034"
-                                    class="- topic/xref ">5122.103-4 Approvals.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.1034.dita#AFARS_5122.1034">5122.103-4 Approvals.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.3.dita#AFARS_Subpart_5122.3"
-                        class="- topic/xref ">Subpart 5122.3 - Contract Work Hours and Safety Standards Act</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.3.dita#AFARS_Subpart_5122.3">Subpart 5122.3 - Contract Work Hours and Safety Standards Act</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.302.dita#AFARS_5122.302"
-                              class="- topic/xref ">5122.302 Liquidated damages and overtime pay.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.302.dita#AFARS_5122.302">5122.302 Liquidated damages and overtime pay.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.4.dita#AFARS_Subpart_5122.4"
-                        class="- topic/xref ">Subpart 5122.4 - Labor Standards for Contracts Involving Construction</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.4.dita#AFARS_Subpart_5122.4">Subpart 5122.4 - Labor Standards for Contracts Involving Construction</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.404.dita#AFARS_5122.404"
-                              class="- topic/xref ">5122.404 Construction wage requirements statute wage determinations.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.404.dita#AFARS_5122.404">5122.404 Construction wage requirements statute wage determinations.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.4046.dita#AFARS_5122.4046"
-                                    class="- topic/xref ">5122.404-6 Modification of wage determinations.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.4046.dita#AFARS_5122.4046">5122.404-6 Modification of wage determinations.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.406.dita#AFARS_5122.406"
-                              class="- topic/xref ">5122.406 Administration and enforcement.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.406.dita#AFARS_5122.406">5122.406 Administration and enforcement.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.4068.dita#AFARS_5122.4068"
-                                    class="- topic/xref ">5122.406-8 Investigations.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.4068.dita#AFARS_5122.4068">5122.406-8 Investigations.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5122.4069.dita#AFARS_5122.4069"
-                                    class="- topic/xref ">5122.406-9 Withholding from or suspension of contract payments.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5122.4069.dita#AFARS_5122.4069">5122.406-9 Withholding from or suspension of contract payments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.8.dita#AFARS_Subpart_5122.8"
-                        class="- topic/xref ">Subpart 5122.8 - Equal Employment Opportunity</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.8.dita#AFARS_Subpart_5122.8">Subpart 5122.8 - Equal Employment Opportunity</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.805.dita#AFARS_5122.805"
-                              class="- topic/xref ">5122.805 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.805.dita#AFARS_5122.805">5122.805 Procedures.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.807.dita#AFARS_5122.807"
-                              class="- topic/xref ">5122.807 Exemptions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.807.dita#AFARS_5122.807">5122.807 Exemptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.13.dita#AFARS_Subpart_5122.13"
-                        class="- topic/xref ">Subpart 5122.13 - Equal Opportunity for Veterans</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.13.dita#AFARS_Subpart_5122.13">Subpart 5122.13 - Equal Opportunity for Veterans</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.1305.dita#AFARS_5122.1305"
-                              class="- topic/xref ">5122.1305 Waivers.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.1305.dita#AFARS_5122.1305">5122.1305 Waivers.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.14.dita#AFARS_Subpart_5122.14"
-                        class="- topic/xref ">Subpart 5122.14 - Employment of Workers With Disabilities</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.14.dita#AFARS_Subpart_5122.14">Subpart 5122.14 - Employment of Workers With Disabilities</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.1403.dita#AFARS_5122.1403"
-                              class="- topic/xref ">5122.1403 Waivers.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.1403.dita#AFARS_5122.1403">5122.1403 Waivers.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.15.dita#AFARS_Subpart_5122.15"
-                        class="- topic/xref ">Subpart 5122.15 - Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.15.dita#AFARS_Subpart_5122.15">Subpart 5122.15 - Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.1503.dita#AFARS_5122.1503"
-                              class="- topic/xref ">5122.1503 Procedures for acquiring end products on the list of products requiring contractor certification as to forced or indentured child labor.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.1503.dita#AFARS_5122.1503">5122.1503 Procedures for acquiring end products on the list of products requiring contractor certification as to forced or indentured child labor.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.16.dita#AFARS_Subpart_5122.16"
-                        class="- topic/xref ">Subpart 5122.16 - Notification of Employee Rights Under the National Labor Relations Act</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.16.dita#AFARS_Subpart_5122.16">Subpart 5122.16 - Notification of Employee Rights Under the National Labor Relations Act</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.1604.dita#AFARS_5122.1604"
-                              class="- topic/xref ">5122.1604 Compliance evaluation and complaint investigations and sanctions for violations.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.1604.dita#AFARS_5122.1604">5122.1604 Compliance evaluation and complaint investigations and sanctions for violations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5122.17.dita#AFARS_Subpart_5122.17"
-                        class="- topic/xref ">Subpart 5122.17 - Combating Trafficking in Persons</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.17.dita#AFARS_Subpart_5122.17">Subpart 5122.17 - Combating Trafficking in Persons</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.1703.dita#AFARS_5122.1703"
-                              class="- topic/xref ">5122.1703 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.1703.dita#AFARS_5122.1703">5122.1703 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5122.1704.dita#AFARS_5122.1704"
-                              class="- topic/xref ">5122.1704 Violations and remedies.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5122.1704.dita#AFARS_5122.1704">5122.1704 Violations and remedies.</xref>
                      </p>
                   </li>
                </ul>

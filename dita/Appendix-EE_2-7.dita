@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_2-7"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">2-7.</ph> Card Security</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="Ffugbv" class="- topic/p ">a. CHs are responsible for properly using and safeguarding their GPCs. Only the CHs make purchases using their GPC. The CH must maintain the physical security of the card. If the card is lost or stolen, notify the issuing bank, A/BO, and A/OPC immediately.</p>
-      <p id="AEfRDB" class="- topic/p ">b. In addition to corrective or disciplinary action, military personnel who misuse their GPC may have their access to classified information modified or revoked if warranted in the interest of national security. Commanders and supervisors shall follow Army guidance to ensure that security clearance reviews are conducted when the holder of a government purchase card comes under investigation for card misuse.</p>
-      <p id="wEwFae" class="- topic/p ">c. The Servicing Bank must ensure that adequate controls are in place to ensure the security of transaction data within their electronic access system. Only the cardholder or A/BO can approve, dispute, or reallocate purchase card transactions. The Servicing Bank must ensure that adequate controls are in place within their data warehouse to preclude anyone other than the A/BO or alternate A/BO from accessing, making changes and certifying the monthly bill.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_2-7" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">2-7.</ph> Card Security</title>
+   <conbody>
+      <p id="Ffugbv">a. CHs are responsible for properly using and safeguarding their GPCs. Only the CHs make purchases using their GPC. The CH must maintain the physical security of the card. If the card is lost or stolen, notify the issuing bank, A/BO, and A/OPC immediately.</p>
+      <p id="AEfRDB">b. In addition to corrective or disciplinary action, military personnel who misuse their GPC may have their access to classified information modified or revoked if warranted in the interest of national security. Commanders and supervisors shall follow Army guidance to ensure that security clearance reviews are conducted when the holder of a government purchase card comes under investigation for card misuse.</p>
+      <p id="wEwFae">c. The Servicing Bank must ensure that adequate controls are in place to ensure the security of transaction data within their electronic access system. Only the cardholder or A/BO can approve, dispute, or reallocate purchase card transactions. The Servicing Bank must ensure that adequate controls are in place within their data warehouse to preclude anyone other than the A/BO or alternate A/BO from accessing, making changes and certifying the monthly bill.</p>
    </conbody>
 </concept>

@@ -1,260 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5101.303"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5101.303</ph> Publication and codification.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)(i)  The Code of Federal Regulations codifies the AFARS under chapter 51, in Title 48.</p>
-      <p outputclass="List3" class="- topic/p ">(ii)  To the extent possible, number all AFARS text, whether implemental or supplemental, as if it were implemental.  Use supplemental numbering only when the text cannot be integrated intelligibly with its FAR or DFARS counterpart.</p>
-      <p outputclass="List4" class="- topic/p ">(A)  The AFARS implemental numbering sequence is the same as the FAR except–</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(1)</i>  Insert the number “51” before the primary citation;</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(2)  </i>Insert “0” if the primary citation is to a single digit part number; and</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(3)</i>  When the text exceeds one paragraph, number subdivisions by skipping a unit in the FAR 1.105-2(b)(2) prescribed numbering sequence.</p>
-      <p outputclass="List4" class="- topic/p ">(B)  The AFARS supplemental numbering sequence is the same as the FAR except –</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(1)</i>  Insert the number “51” before the primary citation;</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(2)  </i>Insert “0” if the primary citation is to a single digit part number;</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(3)</i>  Add “90” to parts, subparts, sections, or subsections;</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(4)</i>  Add “S-90” to subdivisions; and</p>
-      <p outputclass="List6" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(5)</i>  When the text exceeds one paragraph, number subdivisions without skipping a unit in the FAR 1.105-2(b)(2) prescribed numbering sequence.</p>
-      <p outputclass="List4" class="- topic/p ">(D)  Examples of AFARS implemental and supplemental numbering are in Tables 1-1 and 1-2 respectively:</p>
-      <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-            <colspec colname="col1"
-                     colwidth="228.95pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col2"
-                     colwidth="118.55pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col3"
-                     colwidth="119.5pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry namest="col1"
-                         nameend="col3"
-                         valign="middle"
-                         class="- topic/entry ">
-                     <p class="- topic/p ">TABLE 1-1, AFARS IMPLEMENTAL NUMBERING</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5101.303" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5101.303</ph> Publication and codification.</title>
+   <conbody>
+      <p outputclass="List1">(a)(i)  The Code of Federal Regulations codifies the AFARS under chapter 51, in Title 48.</p>
+      <p outputclass="List3">(ii)  To the extent possible, number all AFARS text, whether implemental or supplemental, as if it were implemental.  Use supplemental numbering only when the text cannot be integrated intelligibly with its FAR or DFARS counterpart.</p>
+      <p outputclass="List4">(A)  The AFARS implemental numbering sequence is the same as the FAR except–</p>
+      <p outputclass="List6">
+         <i>(1)</i>  Insert the number “51” before the primary citation;</p>
+      <p outputclass="List6">
+         <i>(2)  </i>Insert “0” if the primary citation is to a single digit part number; and</p>
+      <p outputclass="List6">
+         <i>(3)</i>  When the text exceeds one paragraph, number subdivisions by skipping a unit in the FAR 1.105-2(b)(2) prescribed numbering sequence.</p>
+      <p outputclass="List4">(B)  The AFARS supplemental numbering sequence is the same as the FAR except –</p>
+      <p outputclass="List6">
+         <i>(1)</i>  Insert the number “51” before the primary citation;</p>
+      <p outputclass="List6">
+         <i>(2)  </i>Insert “0” if the primary citation is to a single digit part number;</p>
+      <p outputclass="List6">
+         <i>(3)</i>  Add “90” to parts, subparts, sections, or subsections;</p>
+      <p outputclass="List6">
+         <i>(4)</i>  Add “S-90” to subdivisions; and</p>
+      <p outputclass="List6">
+         <i>(5)</i>  When the text exceeds one paragraph, number subdivisions without skipping a unit in the FAR 1.105-2(b)(2) prescribed numbering sequence.</p>
+      <p outputclass="List4">(D)  Examples of AFARS implemental and supplemental numbering are in Tables 1-1 and 1-2 respectively:</p>
+      <table frame="all" rowsep="1" colsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="col1" colwidth="228.95pt" rowheader="headers" />
+            <colspec colname="col2" colwidth="118.55pt" rowheader="headers" />
+            <colspec colname="col3" colwidth="119.5pt" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry namest="col1" nameend="col3" valign="middle">
+                     <p>TABLE 1-1, AFARS IMPLEMENTAL NUMBERING</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry "/>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">FAR</p>
+               <row rowsep="1">
+                  <entry />
+                  <entry>
+                     <p>FAR</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">AFARS</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">1 paragraph implementing FAR 19.501</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">19.501</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">5119.501</p>
+                  <entry>
+                     <p>AFARS</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">3 paragraphs implementing FAR 19.501</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>1 paragraph implementing FAR 19.501</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">19.501</p>
+                  <entry>
+                     <p>19.501</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">5119.501</p>
-                     <p outputclass="List2" class="- topic/p ">(1)</p>
-                     <p outputclass="List2" class="- topic/p ">(2)</p>
-                     <p outputclass="List2" class="- topic/p ">(3)</p>
+                  <entry>
+                     <p>5119.501</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">1 paragraph implementing FAR 19.501(a)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>3 paragraphs implementing FAR 19.501</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">19.501(a)</p>
+                  <entry>
+                     <p>19.501</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">5119.501(a)</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">3 paragraphs implementing FAR 19.501(a) </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">19.501(a)</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">5119.501</p>
-                     <p outputclass="List1" class="- topic/p ">(a)(i)</p>
-                     <p outputclass="List3" class="- topic/p ">(ii)</p>
-                     <p outputclass="List3" class="- topic/p ">(iii)</p>
+                  <entry>
+                     <p>5119.501</p>
+                     <p outputclass="List2">(1)</p>
+                     <p outputclass="List2">(2)</p>
+                     <p outputclass="List2">(3)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">3 paragraphs implementing FAR 19.501(a)(1)</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>1 paragraph implementing FAR 19.501(a)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">19.501(a)(1)</p>
+                  <entry>
+                     <p>19.501(a)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">5119.501</p>
-                     <p outputclass="List1" class="- topic/p ">(a)</p>
-                     <p outputclass="List2" class="- topic/p ">(1)(A)</p>
-                     <p outputclass="List4" class="- topic/p ">(B)</p>
-                     <p outputclass="List4" class="- topic/p ">(C) </p>
+                  <entry>
+                     <p>5119.501(a)</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">Further subdivisions follow the prescribed sequence</p>
+               <row rowsep="1">
+                  <entry>
+                     <p>3 paragraphs implementing FAR 19.501(a) </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">19.501(a)(1)(i)(A)(<i class="+ topic/ph hi-d/i ">1)(</i>
-                        <i class="+ topic/ph hi-d/i ">i</i>
-                        <i class="+ topic/ph hi-d/i ">)</i>
+                  <entry>
+                     <p>19.501(a)</p>
+                  </entry>
+                  <entry>
+                     <p>5119.501</p>
+                     <p outputclass="List1">(a)(i)</p>
+                     <p outputclass="List3">(ii)</p>
+                     <p outputclass="List3">(iii)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p>3 paragraphs implementing FAR 19.501(a)(1)</p>
+                  </entry>
+                  <entry>
+                     <p>19.501(a)(1)</p>
+                  </entry>
+                  <entry>
+                     <p>5119.501</p>
+                     <p outputclass="List1">(a)</p>
+                     <p outputclass="List2">(1)(A)</p>
+                     <p outputclass="List4">(B)</p>
+                     <p outputclass="List4">(C) </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p>Further subdivisions follow the prescribed sequence</p>
+                  </entry>
+                  <entry>
+                     <p>19.501(a)(1)(i)(A)(<i>1)(</i>
+                        <i>i</i>
+                        <i>)</i>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p class="- topic/p ">5119.501(1)(i)(A<i class="+ topic/ph hi-d/i ">)(1)(</i>
-                        <i class="+ topic/ph hi-d/i ">i</i>
-                        <i class="+ topic/ph hi-d/i ">)</i>
+                  <entry>
+                     <p>5119.501(1)(i)(A<i>)(1)(</i>
+                        <i>i</i>
+                        <i>)</i>
                      </p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
-         <tgroup cols="3" colsep="1" class="- topic/tgroup ">
-            <colspec colname="col1"
-                     colwidth="86.4pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col2"
-                     colwidth="103.5pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="col3"
-                     colwidth="130.95pt"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry namest="col1"
-                         nameend="col3"
-                         valign="middle"
-                         class="- topic/entry ">
-                     <p class="- topic/p ">TABLE 1-2, AFARS IMPLEMENTAL AND SUPPLEMENTAL NUMBERING</p>
+      <table frame="all" rowsep="1" colsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="col1" colwidth="86.4pt" rowheader="headers" />
+            <colspec colname="col2" colwidth="103.5pt" rowheader="headers" />
+            <colspec colname="col3" colwidth="130.95pt" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry namest="col1" nameend="col3" valign="middle">
+                     <p>TABLE 1-2, AFARS IMPLEMENTAL AND SUPPLEMENTAL NUMBERING</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">FAR</p>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>FAR</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">Is Implemented As*</p>
+                  <entry valign="middle">
+                     <p>Is Implemented As*</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">Is Supplemented As</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">19</p>
-                  </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119</p>
-                  </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.90</p>
+                  <entry valign="middle">
+                     <p>Is Supplemented As</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">19.5</p>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>19</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.5</p>
+                  <entry valign="middle">
+                     <p>5119</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.590</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">19.501</p>
-                  </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501</p>
-                  </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-90</p>
+                  <entry valign="middle">
+                     <p>5119.90</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">19.501-1</p>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>19.5</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-1</p>
+                  <entry valign="middle">
+                     <p>5119.5</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-1-90</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">19.501-1(a)</p>
-                  </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-1(a)</p>
-                  </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-1(a)(S-90)</p>
+                  <entry valign="middle">
+                     <p>5119.590</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">19.501-1(a)(1)</p>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>19.501</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-1(a)(1)</p>
+                  <entry valign="middle">
+                     <p>5119.501</p>
                   </entry>
-                  <entry valign="middle" class="- topic/entry ">
-                     <p class="- topic/p ">5119.501-1(a)(1)(S-90)</p>
+                  <entry valign="middle">
+                     <p>5119.501-90</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>19.501-1</p>
+                  </entry>
+                  <entry valign="middle">
+                     <p>5119.501-1</p>
+                  </entry>
+                  <entry valign="middle">
+                     <p>5119.501-1-90</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>19.501-1(a)</p>
+                  </entry>
+                  <entry valign="middle">
+                     <p>5119.501-1(a)</p>
+                  </entry>
+                  <entry valign="middle">
+                     <p>5119.501-1(a)(S-90)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry valign="middle">
+                     <p>19.501-1(a)(1)</p>
+                  </entry>
+                  <entry valign="middle">
+                     <p>5119.501-1(a)(1)</p>
+                  </entry>
+                  <entry valign="middle">
+                     <p>5119.501-1(a)(1)(S-90)</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p class="- topic/p ">*Assumes one AFARS paragraph implementing one FAR or DFARS paragraph.</p>
-      <p outputclass="List3" class="- topic/p ">(iii)  Contracting activities will contact SAAL-PP to obtain numbers for acquisition instruction or guidebook text and clauses.</p>
-      <p outputclass="List4" class="- topic/p ">(A)  Chapter 51 reserves subsection numbers 90-99 for AFARS supplementary material with no FAR or DFARS counterpart.</p>
-      <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  Headquarters, Department of the Army (HQDA) reserves numbers 100-199 for the Army Commands, the Army Service Component Commands, and the Direct Reporting Units with a head of the contracting activity for unique implementing material with no counterpart in higher-level regulations.</p>
-      <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)  HQDA reserves numbers 200 and above for Army Materiel Command and major subordinate command unique implementing material with no counterpart in higher-level regulations.</p>
-      <p outputclass="List4" class="- topic/p ">(B)  Chapter 51 reserves numbers 9000 and above for supplementary clauses approved for use Army-wide, in specific commands, subordinate commands or contracting offices.  (See 5152.101.)</p>
+      <p>*Assumes one AFARS paragraph implementing one FAR or DFARS paragraph.</p>
+      <p outputclass="List3">(iii)  Contracting activities will contact SAAL-PP to obtain numbers for acquisition instruction or guidebook text and clauses.</p>
+      <p outputclass="List4">(A)  Chapter 51 reserves subsection numbers 90-99 for AFARS supplementary material with no FAR or DFARS counterpart.</p>
+      <p outputclass="List6">(<i>1</i>)  Headquarters, Department of the Army (HQDA) reserves numbers 100-199 for the Army Commands, the Army Service Component Commands, and the Direct Reporting Units with a head of the contracting activity for unique implementing material with no counterpart in higher-level regulations.</p>
+      <p outputclass="List6">(<i>2</i>)  HQDA reserves numbers 200 and above for Army Materiel Command and major subordinate command unique implementing material with no counterpart in higher-level regulations.</p>
+      <p outputclass="List4">(B)  Chapter 51 reserves numbers 9000 and above for supplementary clauses approved for use Army-wide, in specific commands, subordinate commands or contracting offices.  (See 5152.101.)</p>
    </conbody>
 </concept>

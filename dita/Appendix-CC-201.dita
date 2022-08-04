@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-CC-201"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">CC-201</ph> Philosophy.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">The PMR Program effects change through continuous improvement and verifies compliance
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-CC-201" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">CC-201</ph> Philosophy.</title>
+   <conbody>
+      <p>The PMR Program effects change through continuous improvement and verifies compliance
             with acquisition policies and regulations. The PMR Program provides an interactive
             framework emphasizing communication, assessment, and assistance throughout the Army.
             Data collection, analysis, identification of best practices, and other information allow

@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-DD-104"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">DD-104</ph> Modification of Guide.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="FOzeqc" class="- topic/p ">Pursuant to AFARS 5101.403, only senior contracting officials may approve individual deviations to this evaluation guide. This approval authority may not be further delegated.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-DD-104" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">DD-104</ph> Modification of Guide.</title>
+   <conbody>
+      <p id="FOzeqc">Pursuant to AFARS 5101.403, only senior contracting officials may approve individual deviations to this evaluation guide. This approval authority may not be further delegated.</p>
    </conbody>
 </concept>

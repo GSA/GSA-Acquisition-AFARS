@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5105.101"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5105.101</ph> Methods of disseminating information.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)(1)  Prior to synopsizing in Federal Business Opportunities (FedBizOpps), contracting officers shall obtain concurrence on the notice for all Program Executive Office (PEO) managed programs requiring a written acquisition plan in accordance with DFARS 207.103.</p>
-      <p outputclass="List3" class="- topic/p ">(i) When the estimated dollar value of the acquisition is at least $50 million but less than $250 million, obtain the concurrence of the cognizant Program Manager.</p>
-      <p outputclass="List3" class="- topic/p ">(ii) When the estimated dollar value of the acquisition is $250 million or greater, obtain the concurrence of the cognizant PEO.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5105.101" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5105.101</ph> Methods of disseminating information.</title>
+   <conbody>
+      <p outputclass="List1">(a)(1)  Prior to synopsizing in Federal Business Opportunities (FedBizOpps), contracting officers shall obtain concurrence on the notice for all Program Executive Office (PEO) managed programs requiring a written acquisition plan in accordance with DFARS 207.103.</p>
+      <p outputclass="List3">(i) When the estimated dollar value of the acquisition is at least $50 million but less than $250 million, obtain the concurrence of the cognizant Program Manager.</p>
+      <p outputclass="List3">(ii) When the estimated dollar value of the acquisition is $250 million or greater, obtain the concurrence of the cognizant PEO.</p>
    </conbody>
 </concept>

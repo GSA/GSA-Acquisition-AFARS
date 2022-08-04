@@ -1,106 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5105"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">Part 5105</ph> - Publicizing Contract Actions</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5105.1.dita#AFARS_Subpart_5105.1"
-                        class="- topic/xref ">Subpart 5105.1 - Dissemination of Information</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5105" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5105</ph> - Publicizing Contract Actions</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5105.1.dita#AFARS_Subpart_5105.1">Subpart 5105.1 - Dissemination of Information</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.101.dita#AFARS_5105.101"
-                              class="- topic/xref ">5105.101 Methods of disseminating information.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.101.dita#AFARS_5105.101">5105.101 Methods of disseminating information.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.102.dita#AFARS_5105.102"
-                              class="- topic/xref ">5105.102 Availability of solicitations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.102.dita#AFARS_5105.102">5105.102 Availability of solicitations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5105.3.dita#AFARS_Subpart_5105.3"
-                        class="- topic/xref ">Subpart 5105.3 - Synopses of Contract Awards</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5105.3.dita#AFARS_Subpart_5105.3">Subpart 5105.3 - Synopses of Contract Awards</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.303.dita#AFARS_5105.303"
-                              class="- topic/xref ">5105.303 Announcement of contract awards.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.303.dita#AFARS_5105.303">5105.303 Announcement of contract awards.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5105.4.dita#AFARS_Subpart_5105.4"
-                        class="- topic/xref ">Subpart 5105.4 - Release of Information</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5105.4.dita#AFARS_Subpart_5105.4">Subpart 5105.4 - Release of Information</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.402.dita#AFARS_5105.402"
-                              class="- topic/xref ">5105.402 General public.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.402.dita#AFARS_5105.402">5105.402 General public.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.403.dita#AFARS_5105.403"
-                              class="- topic/xref ">5105.403 Requests from members of congress.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.403.dita#AFARS_5105.403">5105.403 Requests from members of congress.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.404.dita#AFARS_5105.404"
-                              class="- topic/xref ">5105.404 Release of long-range acquisition estimates.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.404.dita#AFARS_5105.404">5105.404 Release of long-range acquisition estimates.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5105.4041.dita#AFARS_5105.4041"
-                                    class="- topic/xref ">5105.404-1 Release procedures.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5105.4041.dita#AFARS_5105.4041">5105.404-1 Release procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5105.5.dita#AFARS_Subpart_5105.5"
-                        class="- topic/xref ">Subpart 5105.5 - Paid Advertisments</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5105.5.dita#AFARS_Subpart_5105.5">Subpart 5105.5 - Paid Advertisments</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5105.502.dita#AFARS_5105.502"
-                              class="- topic/xref ">5105.502 Authority.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5105.502.dita#AFARS_5105.502">5105.502 Authority.</xref>
                      </p>
                   </li>
                </ul>

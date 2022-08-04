@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5133.10390"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5133.103-90</ph> Annual agency bid protest report.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">HCAs must prepare an annual report of agency bid protests and send it to the addressee in AFARS 5101.290(b)(2)(ii)(B) not later than 30 calendar days following the end of the fiscal year.  The analysis must include –</p>
-      <p outputclass="List1" class="- topic/p ">(a)  The number of protests received during the reporting period, to include their disposition;</p>
-      <p outputclass="List1" class="- topic/p ">(b)  An assessment of the causes of the most frequently recurring issues, including a description of all corrective actions taken to include the award of protest costs;</p>
-      <p outputclass="List1" class="- topic/p ">(c)  The distribution of protests by subordinate contracting offices; and</p>
-      <p outputclass="List1" class="- topic/p ">(d)  Any additional information considered necessary to a full understanding of the efficiency and effectiveness of the activity’s agency protest procedures.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.10390" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5133.103-90</ph> Annual agency bid protest report.</title>
+   <conbody>
+      <p outputclass="Normal">HCAs must prepare an annual report of agency bid protests and send it to the addressee in AFARS 5101.290(b)(2)(ii)(B) not later than 30 calendar days following the end of the fiscal year.  The analysis must include –</p>
+      <p outputclass="List1">(a)  The number of protests received during the reporting period, to include their disposition;</p>
+      <p outputclass="List1">(b)  An assessment of the causes of the most frequently recurring issues, including a description of all corrective actions taken to include the award of protest costs;</p>
+      <p outputclass="List1">(c)  The distribution of protests by subordinate contracting offices; and</p>
+      <p outputclass="List1">(d)  Any additional information considered necessary to a full understanding of the efficiency and effectiveness of the activity’s agency protest procedures.</p>
    </conbody>
 </concept>

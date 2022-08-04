@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5103.1044"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5103.104-4</ph> Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="EvOnrS" outputclass="List1" class="- topic/p ">(a) Personnel serving in the following positions are authorized access to contractor bid or proposal information and source selection information to the extent necessary to perform their official duties:</p>
-      <p id="HqfGen" outputclass="List2" class="- topic/p ">(i) Personnel assigned to the Office of the <ph class="- topic/ph ">Assistant Secretary of the Army for Acquisition, Logistics and Technology (</ph>
-         <ph class="- topic/ph ">
-            <i class="+ topic/ph hi-d/i ">ASA</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5103.1044" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5103.104-4</ph> Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</title>
+   <conbody>
+      <p id="EvOnrS" outputclass="List1">(a) Personnel serving in the following positions are authorized access to contractor bid or proposal information and source selection information to the extent necessary to perform their official duties:</p>
+      <p id="HqfGen" outputclass="List2">(i) Personnel assigned to the Office of the <ph>Assistant Secretary of the Army for Acquisition, Logistics and Technology (</ph>
+         <ph>
+            <i>ASA</i>
          </ph>
-         <ph class="- topic/ph ">
-            <b class="+ topic/ph hi-d/b ">(</b>
+         <ph>
+            <b>(</b>
          </ph>
-         <ph class="- topic/ph ">
-            <i class="+ topic/ph hi-d/i ">ALT)</i>
+         <ph>
+            <i>ALT)</i>
          </ph>
-         <ph class="- topic/ph ">)</ph> and the Office of the Army General Counsel, who are performing Headquarters, Department of the Army level oversight.</p>
-      <p id="MQxKXH" outputclass="List2" class="- topic/p ">(ii) Personnel participating in the evaluation of an offeror’s or bidder’s proposal or in the review and defense of protests.</p>
-      <p id="QmIDJL" outputclass="List2" class="- topic/p ">(iii) Personnel in the responsible contracting office, along with supporting legal and small business office personnel.</p>
-      <p id="FmEPYh" outputclass="List2" class="- topic/p ">(iv) The initiator of the procurement request, to include the official having principal technical cognizance over the requirement.</p>
-      <p id="soXhDX" outputclass="List2" class="- topic/p ">(v) Personnel assigned to the Defense Contract Audit Agency and contract administration offices of the DoD, who are supporting the procurement.</p>
-      <p id="STmcnK" outputclass="List2" class="- topic/p ">(vi) Other personnel whom the Deputy Assistant Secretary of the Army (Procurement), the head of the contracting activity (HCA), contracting officer, or the source selection authority designates on an individual basis.</p>
-      <p id="oYTQbB" outputclass="List2" class="- topic/p ">(vii) Supervisors, at any level, of the personnel listed in paragraphs (a)(i) through (vi) of this section.</p>
+         <ph>)</ph> and the Office of the Army General Counsel, who are performing Headquarters, Department of the Army level oversight.</p>
+      <p id="MQxKXH" outputclass="List2">(ii) Personnel participating in the evaluation of an offeror’s or bidder’s proposal or in the review and defense of protests.</p>
+      <p id="QmIDJL" outputclass="List2">(iii) Personnel in the responsible contracting office, along with supporting legal and small business office personnel.</p>
+      <p id="FmEPYh" outputclass="List2">(iv) The initiator of the procurement request, to include the official having principal technical cognizance over the requirement.</p>
+      <p id="soXhDX" outputclass="List2">(v) Personnel assigned to the Defense Contract Audit Agency and contract administration offices of the DoD, who are supporting the procurement.</p>
+      <p id="STmcnK" outputclass="List2">(vi) Other personnel whom the Deputy Assistant Secretary of the Army (Procurement), the head of the contracting activity (HCA), contracting officer, or the source selection authority designates on an individual basis.</p>
+      <p id="oYTQbB" outputclass="List2">(vii) Supervisors, at any level, of the personnel listed in paragraphs (a)(i) through (vi) of this section.</p>
    </conbody>
 </concept>

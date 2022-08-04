@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.23390"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5153.233-90</ph> Format for bid protest action report.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">Use the format for a bid protest action report at 5153.303-6 to provide notification of a Government Accountability Office protest resolution.  Contracting officers will email the report to the addressees provided at 5133.190-1 within 15 calendar days of its resolution.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.23390" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5153.233-90</ph> Format for bid protest action report.</title>
+   <conbody>
+      <p outputclass="Normal">Use the format for a bid protest action report at 5153.303-6 to provide notification of a Government Accountability Office protest resolution.  Contracting officers will email the report to the addressees provided at 5133.190-1 within 15 calendar days of its resolution.</p>
    </conbody>
 </concept>

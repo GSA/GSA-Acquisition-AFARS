@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_APPENDIX-AA_Chapter-3_3-8"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3.8</ph> Conduct and Document the Comparative Analysis</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">When performing the comparative analysis, the SSAC will consider each offeror’s total
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-3_3-8" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3.8</ph> Conduct and Document the Comparative Analysis</title>
+   <conbody>
+      <p>When performing the comparative analysis, the SSAC will consider each offeror’s total
             evaluated price and the discriminators in the non-cost ratings as indicated by the
             SSEB’s evaluation findings for each offeror. Consider these differences in light of the
-                    <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">relative importance(or weight)assigned to each evaluation factor</i>
+                    <b>
+            <i>relative importance(or weight)assigned to each evaluation factor</i>
          </b>.
         </p>
    </conbody>

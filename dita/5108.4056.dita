@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5108.4056"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5108.405-6</ph> Limited sources.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">(b)(3)(ii)(C) The senior procurement executive makes the determination described in FAR 8.405-6(b)(3)(ii)(C).  See Appendix GG for further delegation.</p>
-      <p outputclass="Normal" class="- topic/p ">(d)(3) The head of the contracting activity is the approval authority for actions stated in FAR 8.405-6(d)(3).  See Appendix GG for further delegation.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5108.4056" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5108.405-6</ph> Limited sources.</title>
+   <conbody>
+      <p outputclass="Normal">(b)(3)(ii)(C) The senior procurement executive makes the determination described in FAR 8.405-6(b)(3)(ii)(C).  See Appendix GG for further delegation.</p>
+      <p outputclass="Normal">(d)(3) The head of the contracting activity is the approval authority for actions stated in FAR 8.405-6(d)(3).  See Appendix GG for further delegation.</p>
    </conbody>
 </concept>

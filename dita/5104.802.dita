@@ -1,56 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5104.802"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5104.802</ph> Contract files.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(f) Contracting officers shall utilize the Virtual Contracting Enterprise (VCE) tools throughout the acquisition process to maximize visibility and management of contract specific information and documents.  VCE shall not be used for classified documents or contracts. </p>
-      <p outputclass="List3" class="- topic/p ">(i) The Paperless Contract File (PCF) module shall be used to store, access, and route documents necessary to manage the acquisition process for review and approval.  Contracting officers shall ensure that the PCF contains all appropriate contract documents.  If the contract document is maintained within the Procurement Integrated Enterprise Environment (PIEE, <xref href="https://wawf.eb.mil/"
-               scope="external"
-               format="html"
-               class="- topic/xref ">
-            <u class="+ topic/ph hi-d/u ">https://wawf.eb.mil/</u>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.802" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5104.802</ph> Contract files.</title>
+   <conbody>
+      <p outputclass="List1">(f) Contracting officers shall utilize the Virtual Contracting Enterprise (VCE) tools throughout the acquisition process to maximize visibility and management of contract specific information and documents.  VCE shall not be used for classified documents or contracts. </p>
+      <p outputclass="List3">(i) The Paperless Contract File (PCF) module shall be used to store, access, and route documents necessary to manage the acquisition process for review and approval.  Contracting officers shall ensure that the PCF contains all appropriate contract documents.  If the contract document is maintained within the Procurement Integrated Enterprise Environment (PIEE, <xref href="https://wawf.eb.mil/" scope="external" format="html">
+            <u>https://wawf.eb.mil/</u>
          </xref>) or the Federal Procurement Data System-Next Generation (FPDS-NG)), then that system is the official system of record; contracting officers should not duplicate the document and file it in the PCF.</p>
-      <p class="- topic/p ">Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
-               format="html"
-               scope="external"
-               class="- topic/xref ">AFARS PGI 5104.802(f)(i)-2.</xref>
+      <p>Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)-2.</xref>
       </p>
-      <p class="- topic/p ">Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
-               format="html"
-               scope="external"
-               class="- topic/xref ">AFARS PGI 5104.802(f)(i)-1.</xref>
+      <p>Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)-1.</xref>
       </p>
-      <p outputclass="List2" class="- topic/p ">(1) The Army Cabinet Index folder structure shall be used
+      <p outputclass="List2">(1) The Army Cabinet Index folder structure shall be used
       when filing documents in PCF to ensure standardization throughout Army contract files. See
       AFARS PGI 5104.802(f)(i)(1) for instructions to access the cabinet index structure. </p>
-      <p outputclass="List2" class="- topic/p ">(2) The Protest and Claims Tracking tool shall be used when the
+      <p outputclass="List2">(2) The Protest and Claims Tracking tool shall be used when the
       contracting officer receives knowledge of a preaward or postaward protest submitted to any
       venue. </p>
-      <p outputclass="List2" class="- topic/p ">(3) Milestone Tracking shall be used to forecast and document dates for
+      <p outputclass="List2">(3) Milestone Tracking shall be used to forecast and document dates for
       initiation and completion of key documents and milestones. The VCE tool identifies the
       mandatory data fields based on specific criteria for the acquisition. </p>
-      <p class="- topic/p ">See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
-               format="html"
-               scope="external"
-               class="- topic/xref ">AFARS PGI 5104.802(f)(i)(3)-1.</xref>
+      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)(3)-1.</xref>
       </p>
-      <p class="- topic/p ">See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
-               format="html"
-               scope="external"
-               class="- topic/xref ">AFARS PGI 5104.802(f)(i)(3)-2.</xref>
+      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)(3)-2.</xref>
       </p>
-      <p outputclass="List2" class="- topic/p ">(4) Mission Partner/Requirement Owner Functionality shall be used by
+      <p outputclass="List2">(4) Mission Partner/Requirement Owner Functionality shall be used by
       requirements owners to create cabinets and submit documents to contracting organizations.
       Contracting officers shall assist requirements owners as necessary to ensure utilization of
       the tool. </p>
-      <p outputclass="List2" class="- topic/p "> (ii) VCE Warrants Module shall be used to issue and track
+      <p outputclass="List2"> (ii) VCE Warrants Module shall be used to issue and track
       contracting officer and grant officer warrants; see 5101.603-3.</p>
-      <p outputclass="List3" class="- topic/p ">(iii) VCE shall be used for the Announcement of Awards and Small Business Coordination Record (DD Form 2579); see 5105.303 and 5119.201(d)(10)(B)(i) respectively.</p>
+      <p outputclass="List3">(iii) VCE shall be used for the Announcement of Awards and Small Business Coordination Record (DD Form 2579); see 5105.303 and 5119.201(d)(10)(B)(i) respectively.</p>
    </conbody>
 </concept>

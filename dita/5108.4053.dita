@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5108.4053"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5108.405-3</ph> Blanket purchase agreements (BPAs).</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="Normal" class="- topic/p ">(a)(3)(ii). The Assistant Secretary of the Army (Acquisition, Logistics and Technology) makes the determination described in FAR 8.405-3(3)(ii).  See Appendix GG for further delegation. </p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5108.4053" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5108.405-3</ph> Blanket purchase agreements (BPAs).</title>
+   <conbody>
+      <p outputclass="Normal">(a)(3)(ii). The Assistant Secretary of the Army (Acquisition, Logistics and Technology) makes the determination described in FAR 8.405-3(3)(ii).  See Appendix GG for further delegation. </p>
    </conbody>
 </concept>

@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-CC-301"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">CC-301</ph> Assistant Secretary of the Army (Acquisition, Logistics        and Technology) (ASA(ALT)).</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">The ASA(ALT) is the Army Acquisition Executive (AAE) and the Senior Procurement Executive
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-CC-301" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">CC-301</ph> Assistant Secretary of the Army (Acquisition, Logistics        and Technology) (ASA(ALT)).</title>
+   <conbody>
+      <p>The ASA(ALT) is the Army Acquisition Executive (AAE) and the Senior Procurement Executive
             (SPE) and is responsible for all procurement and contracting functions across the Army
             to include providing oversight of contracting functions through an enterprise-wide
             Procurement Management Review Program. </p>

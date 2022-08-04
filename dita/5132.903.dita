@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5132.903"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5132.903</ph> Responsibilities.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall perform the duties as set forth in FAR 32.903(a).  See Appendix GG for further delegation.  </p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5132.903" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5132.903</ph> Responsibilities.</title>
+   <conbody>
+      <p outputclass="List1">(a)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall perform the duties as set forth in FAR 32.903(a).  See Appendix GG for further delegation.  </p>
    </conbody>
 </concept>

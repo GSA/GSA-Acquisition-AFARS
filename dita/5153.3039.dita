@@ -1,182 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.3039"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5153.303-9</ph> Contractor Performance Assessment Report System initial registration consolidated format.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="vwFcPb" outputclass="Normal" class="- topic/p ">
-         <i class="+ topic/ph hi-d/i ">(Submit a copy to the Contractor Performance Assessment Report System (CPARS) focal point upon award, along with the CPARS access request format at 5153.303-10. Other formats may be used if all applicable</i>
-         <i class="+ topic/ph hi-d/i ">information below is included.</i>
-         <i class="+ topic/ph hi-d/i ">)</i>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.3039" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5153.303-9</ph> Contractor Performance Assessment Report System initial registration consolidated format.</title>
+   <conbody>
+      <p id="vwFcPb" outputclass="Normal">
+         <i>(Submit a copy to the Contractor Performance Assessment Report System (CPARS) focal point upon award, along with the CPARS access request format at 5153.303-10. Other formats may be used if all applicable</i>
+         <i>information below is included.</i>
+         <i>)</i>
       </p>
-      <p id="mUmokg" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACT NUMBER: ________________________</b>
+      <p id="mUmokg" outputclass="Normal">
+         <b>CONTRACT NUMBER: ________________________</b>
       </p>
-      <p id="aaSbQC" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">ORDER</b>
-         <b class="+ topic/ph hi-d/b ">NUMBER</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">_______________</b>(Include General Services Administration (GSA) number and basic procurement instrument identification “F” order number.)</p>
-      <p id="MfsZNl" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACT TITLE/EFFORT DESCRIPTION: __________________________________________</b>
-         <b class="+ topic/ph hi-d/b ">_________</b>
-         <b class="+ topic/ph hi-d/b ">___________________________</b>
+      <p id="aaSbQC" outputclass="Normal">
+         <b>ORDER</b>
+         <b>NUMBER</b>
+         <b>_</b>
+         <b>_______________</b>(Include General Services Administration (GSA) number and basic procurement instrument identification “F” order number.)</p>
+      <p id="MfsZNl" outputclass="Normal">
+         <b>CONTRACT TITLE/EFFORT DESCRIPTION: __________________________________________</b>
+         <b>_________</b>
+         <b>___________________________</b>
       </p>
-      <p id="UeCMAV" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CAGE</b>
-         <b class="+ topic/ph hi-d/b ">CODE:_</b>
-         <b class="+ topic/ph hi-d/b ">_______ DUNS:________________ PSC:________ NAICS:</b>
-         <b class="+ topic/ph hi-d/b ">______</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">_____</b>
+      <p id="UeCMAV" outputclass="Normal">
+         <b>CAGE</b>
+         <b>CODE:_</b>
+         <b>_______ DUNS:________________ PSC:________ NAICS:</b>
+         <b>______</b>
+         <b>_</b>
+         <b>_____</b>
       </p>
-      <p id="SNftyq" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACTOR NAME, A</b>
-         <b class="+ topic/ph hi-d/b ">D</b>
-         <b class="+ topic/ph hi-d/b ">DRESS (</b>as listed in System for Award Management, www.sam.gov)<b class="+ topic/ph hi-d/b ">: ___________________</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">_____________________________________________</b>
-         <b class="+ topic/ph hi-d/b ">___</b>
-         <b class="+ topic/ph hi-d/b ">_________</b>
+      <p id="SNftyq" outputclass="Normal">
+         <b>CONTRACTOR NAME, A</b>
+         <b>D</b>
+         <b>DRESS (</b>as listed in System for Award Management, www.sam.gov)<b>: ___________________</b>
+         <b>_</b>
+         <b>_____________________________________________</b>
+         <b>___</b>
+         <b>_________</b>
       </p>
-      <p id="hcedTf" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">BUSINESS SECTOR (Circle one):</b> Systems or Non-systems</p>
-      <p id="qzvPpm" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">LOCATION OF CONTRACTOR PERFORMANCE</b> (if other than contractor address above)<b class="+ topic/ph hi-d/b ">: ______________________________________________________________________</b>
-         <b class="+ topic/ph hi-d/b ">___</b>
-         <b class="+ topic/ph hi-d/b ">____</b>
+      <p id="hcedTf" outputclass="Normal">
+         <b>BUSINESS SECTOR (Circle one):</b> Systems or Non-systems</p>
+      <p id="qzvPpm" outputclass="Normal">
+         <b>LOCATION OF CONTRACTOR PERFORMANCE</b> (if other than contractor address above)<b>: ______________________________________________________________________</b>
+         <b>___</b>
+         <b>____</b>
       </p>
-      <p id="FqxGPx" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACT AWARD DATE ___________</b>
-         <b class="+ topic/ph hi-d/b ">_ EFFECTIVE</b>
-         <b class="+ topic/ph hi-d/b ">DATE: ___________________</b>
+      <p id="FqxGPx" outputclass="Normal">
+         <b>CONTRACT AWARD DATE ___________</b>
+         <b>_ EFFECTIVE</b>
+         <b>DATE: ___________________</b>
       </p>
-      <p id="biPdKR" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">COMPLETION DATE</b> (Include last possible date, if all options exercised<b class="+ topic/ph hi-d/b ">):</b>
-         <b class="+ topic/ph hi-d/b ">
-            <i class="+ topic/ph hi-d/i ">______________</i>
+      <p id="biPdKR" outputclass="Normal">
+         <b>COMPLETION DATE</b> (Include last possible date, if all options exercised<b>):</b>
+         <b>
+            <i>______________</i>
          </b>
       </p>
-      <p id="HSzYsb" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">DOLLAR VALUES:</b>
+      <p id="HSzYsb" outputclass="Normal">
+         <b>DOLLAR VALUES:</b>
       </p>
-      <p id="PYmeVM" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">AWARDED VALUE</b> (Grand total, including unexercised options)<b class="+ topic/ph hi-d/b ">: _______________</b>
+      <p id="PYmeVM" outputclass="Normal">
+         <b>AWARDED VALUE</b> (Grand total, including unexercised options)<b>: _______________</b>
       </p>
-      <p id="5qdjshrh" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CURRENT VALUE</b> (Current funded amount as of registration date. Use target price or total estimated amount for incentive contracts.): <b class="+ topic/ph hi-d/b ">____________________________</b>
+      <p id="5qdjshrh" outputclass="Normal">
+         <b>CURRENT VALUE</b> (Current funded amount as of registration date. Use target price or total estimated amount for incentive contracts.): <b>____________________________</b>
       </p>
-      <p id="ZowOHp" outputclass="Normal" class="- topic/p "/>
-      <p id="mxd7owzc" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACT TYPE (Circle one. For hybrid, put a “P” next to the predominate type and identify other type with an “O” next to it.):</b>
+      <p id="ZowOHp" outputclass="Normal"></p>
+      <p id="mxd7owzc" outputclass="Normal">
+         <b>CONTRACT TYPE (Circle one. For hybrid, put a “P” next to the predominate type and identify other type with an “O” next to it.):</b>
       </p>
-      <p id="IbytKs" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">FFP __ FPI ___ FPR ___ CPFF</b>
-         <b class="+ topic/ph hi-d/b ">___ CPIF ___ CPAF ___</b>
-         <b class="+ topic/ph hi-d/b ">HYBRID _</b>
-         <b class="+ topic/ph hi-d/b ">__ OTHER: _________________</b>
+      <p id="IbytKs" outputclass="Normal">
+         <b>FFP __ FPI ___ FPR ___ CPFF</b>
+         <b>___ CPIF ___ CPAF ___</b>
+         <b>HYBRID _</b>
+         <b>__ OTHER: _________________</b>
       </p>
-      <p id="saGcnu" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">COMPETITIVE (Basis of award):</b> YES or NO</p>
-      <p id="YeTurE" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">PROGRAM/PRODUCT/PROJECT</b>
-         <b class="+ topic/ph hi-d/b ">M</b>
-         <b class="+ topic/ph hi-d/b ">ANA</b>
-         <b class="+ topic/ph hi-d/b ">G</b>
-         <b class="+ topic/ph hi-d/b ">E</b>
-         <b class="+ topic/ph hi-d/b ">R</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">__________________</b>
+      <p id="saGcnu" outputclass="Normal">
+         <b>COMPETITIVE (Basis of award):</b> YES or NO</p>
+      <p id="YeTurE" outputclass="Normal">
+         <b>PROGRAM/PRODUCT/PROJECT</b>
+         <b>M</b>
+         <b>ANA</b>
+         <b>G</b>
+         <b>E</b>
+         <b>R</b>
+         <b>_</b>
+         <b>__________________</b>
       </p>
-      <p id="AwzWVw" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">E-MAIL:</b>
-         <b class="+ topic/ph hi-d/b ">_____________________________ TELE: _________________</b>
+      <p id="AwzWVw" outputclass="Normal">
+         <b>E-MAIL:</b>
+         <b>_____________________________ TELE: _________________</b>
       </p>
-      <p id="GnkKcl" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACT SPEC</b>
-         <b class="+ topic/ph hi-d/b ">IALIST ___________________</b>
+      <p id="GnkKcl" outputclass="Normal">
+         <b>CONTRACT SPEC</b>
+         <b>IALIST ___________________</b>
       </p>
-      <p id="PXZrLF" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">E-MAIL:</b>
-         <b class="+ topic/ph hi-d/b ">____________________________</b>
-         <b class="+ topic/ph hi-d/b ">TELE:</b>
-         <b class="+ topic/ph hi-d/b ">_________________</b>
+      <p id="PXZrLF" outputclass="Normal">
+         <b>E-MAIL:</b>
+         <b>____________________________</b>
+         <b>TELE:</b>
+         <b>_________________</b>
       </p>
-      <p id="GPBtnj" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACTING</b>
-         <b class="+ topic/ph hi-d/b ">OFFICER</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">__________________</b>
+      <p id="GPBtnj" outputclass="Normal">
+         <b>CONTRACTING</b>
+         <b>OFFICER</b>
+         <b>_</b>
+         <b>__________________</b>
       </p>
-      <p id="GWYOBe" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">E-MAIL:_</b>
-         <b class="+ topic/ph hi-d/b ">___________________</b>
-         <b class="+ topic/ph hi-d/b ">TELE:</b>
-         <b class="+ topic/ph hi-d/b ">____</b>
-         <b class="+ topic/ph hi-d/b ">__</b>
-         <b class="+ topic/ph hi-d/b ">___________</b>
+      <p id="GWYOBe" outputclass="Normal">
+         <b>E-MAIL:_</b>
+         <b>___________________</b>
+         <b>TELE:</b>
+         <b>____</b>
+         <b>__</b>
+         <b>___________</b>
       </p>
-      <p id="alTEuH" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">GOV</b>
-         <b class="+ topic/ph hi-d/b ">ERMEN</b>
-         <b class="+ topic/ph hi-d/b ">T C</b>
-         <b class="+ topic/ph hi-d/b ">ONTRACTING OFFICER’S REPRESENTATIVE</b>
-         <b class="+ topic/ph hi-d/b ">/</b>
-         <b class="+ topic/ph hi-d/b ">QUALITY ASSURANCE</b>
-         <b class="+ topic/ph hi-d/b ">EVALUATOR _</b>
-         <b class="+ topic/ph hi-d/b ">__________________</b>
+      <p id="alTEuH" outputclass="Normal">
+         <b>GOV</b>
+         <b>ERMEN</b>
+         <b>T C</b>
+         <b>ONTRACTING OFFICER’S REPRESENTATIVE</b>
+         <b>/</b>
+         <b>QUALITY ASSURANCE</b>
+         <b>EVALUATOR _</b>
+         <b>__________________</b>
       </p>
-      <p id="bNeWzH" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">E-MAIL:_</b>
-         <b class="+ topic/ph hi-d/b ">____________________________ TELE:</b>
-         <b class="+ topic/ph hi-d/b ">_________________</b>
+      <p id="bNeWzH" outputclass="Normal">
+         <b>E-MAIL:_</b>
+         <b>____________________________ TELE:</b>
+         <b>_________________</b>
       </p>
-      <p id="qykqsr" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">CONTRACTOR PROGRAM</b>
-         <b class="+ topic/ph hi-d/b ">MANAGER:_</b>
-         <b class="+ topic/ph hi-d/b ">___</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">_________________________ TELE:_________________E-MAIL: ___________________________________</b>
+      <p id="qykqsr" outputclass="Normal">
+         <b>CONTRACTOR PROGRAM</b>
+         <b>MANAGER:_</b>
+         <b>___</b>
+         <b>_</b>
+         <b>_________________________ TELE:_________________E-MAIL: ___________________________________</b>
       </p>
-      <p id="UukqVI" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">PERIOD OF PERFORMANCE (POP) FOR 1</b>
-         <b class="+ topic/ph hi-d/b ">ST</b>
-         <b class="+ topic/ph hi-d/b ">ASSESSMENT:</b>
+      <p id="UukqVI" outputclass="Normal">
+         <b>PERIOD OF PERFORMANCE (POP) FOR 1</b>
+         <b>ST</b>
+         <b>ASSESSMENT:</b>
       </p>
-      <p id="jqMfcA" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">FROM:_</b>
-         <b class="+ topic/ph hi-d/b ">______</b>
-         <b class="+ topic/ph hi-d/b ">_</b>
-         <b class="+ topic/ph hi-d/b ">____ TO:___________ CPAR COMPLETED:_________</b>
+      <p id="jqMfcA" outputclass="Normal">
+         <b>FROM:_</b>
+         <b>______</b>
+         <b>_</b>
+         <b>____ TO:___________ CPAR COMPLETED:_________</b>
       </p>
-      <p id="UduRUx" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">OPTION 1 POP</b>
-         <b class="+ topic/ph hi-d/b ">FROM:_</b>
-         <b class="+ topic/ph hi-d/b ">__________ TO:___________ CPAR</b>
-         <b class="+ topic/ph hi-d/b ">COMPLETED:_________</b>
+      <p id="UduRUx" outputclass="Normal">
+         <b>OPTION 1 POP</b>
+         <b>FROM:_</b>
+         <b>__________ TO:___________ CPAR</b>
+         <b>COMPLETED:_________</b>
       </p>
-      <p id="wbFhcf" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">OPTION 2 POP</b>
-         <b class="+ topic/ph hi-d/b ">FROM:_</b>
-         <b class="+ topic/ph hi-d/b ">__________ TO:_______</b>
-         <b class="+ topic/ph hi-d/b ">____ CPAR COMPLETED:_________</b>
+      <p id="wbFhcf" outputclass="Normal">
+         <b>OPTION 2 POP</b>
+         <b>FROM:_</b>
+         <b>__________ TO:_______</b>
+         <b>____ CPAR COMPLETED:_________</b>
       </p>
-      <p id="xZADJJ" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">OPTION 3 POP</b>
-         <b class="+ topic/ph hi-d/b ">FROM:_</b>
-         <b class="+ topic/ph hi-d/b ">__________ TO:______</b>
-         <b class="+ topic/ph hi-d/b ">_____ CPAR COMPLETED:_________</b>
+      <p id="xZADJJ" outputclass="Normal">
+         <b>OPTION 3 POP</b>
+         <b>FROM:_</b>
+         <b>__________ TO:______</b>
+         <b>_____ CPAR COMPLETED:_________</b>
       </p>
-      <p id="FjLUTU" outputclass="Normal" class="- topic/p ">
-         <b class="+ topic/ph hi-d/b ">OPTION 4 POP</b>
-         <b class="+ topic/ph hi-d/b ">FROM:_</b>
-         <b class="+ topic/ph hi-d/b ">__________ TO:______</b>
-         <b class="+ topic/ph hi-d/b ">_____ CPAR COMPLETED:_________</b>
+      <p id="FjLUTU" outputclass="Normal">
+         <b>OPTION 4 POP</b>
+         <b>FROM:_</b>
+         <b>__________ TO:______</b>
+         <b>_____ CPAR COMPLETED:_________</b>
       </p>
-      <p id="gChPlL" outputclass="Normal" class="- topic/p ">(View completed reports in the Past Performance Information Retrieval System-Report Card, available via the Internet at https://www.ppirs.gov.)</p>
+      <p id="gChPlL" outputclass="Normal">(View completed reports in the Past Performance Information Retrieval System-Report Card, available via the Internet at https://www.ppirs.gov.)</p>
    </conbody>
 </concept>

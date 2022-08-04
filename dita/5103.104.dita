@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5103.104"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5103.104</ph> Procurement integrity.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">The Army General Counsel is the Designated Agency Ethics Official (DAEO). The General
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5103.104" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5103.104</ph> Procurement integrity.</title>
+   <conbody>
+      <p>The Army General Counsel is the Designated Agency Ethics Official (DAEO). The General
             Counsel has designated deputy DAEOs (DDAEOs) and has delegated to them the authority to
             act on his behalf concerning procurement integrity matters. The General Counsel has
             authorized DDAEOs to further delegate that authority to subordinate ethics counselors

@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-2"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">3-2.</ph> Use of the GPC for Training and Education</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="aXwhke" outputclass="Normal" class="- topic/p ">a. The GPC shall be used by Training and Education Office personnel, and may be used by CHs, to pay for commercial off-the-shelf training and education up to $25,000 for an individual or planned series of the same training event, activity, or course material - AFARS 5113.270-90(g). GPC training cards must be issued and dedicated solely for this purpose.</p>
-      <p id="UQDgEW" outputclass="Normal" class="- topic/p ">b. The Standard Form (SF)-182 (Request, Authorization, Agreement, Certification of Training and Reimbursement) remains the authorized and required training source document. GPC payment for commercial off-the-shelf training must be accompanied by an SF-182.</p>
-      <p id="mNvHOe" outputclass="Normal" class="- topic/p ">c .GPC training cards are established with a single purchase limit of $25,000. Use of the GPC above the training micro-purchase level of $25,000 constitutes a payment mechanism, not a contracting method. Any use of the GPC above $25,000 as a payment method for commercial services must have a valid underlying contract in which payment can be made using the GPC. Training cards will have all merchant category codes (MCCs) blocked except the following sources of training:</p>
-      <p id="SVoJUM" outputclass="Normal" class="- topic/p ">7392 - Management, Consulting and Public Relations Services</p>
-      <p id="Tkjdas" outputclass="Normal" class="- topic/p ">7399 - Business Services (Not Elsewhere Classified)</p>
-      <p id="jYfaDg" outputclass="Normal" class="- topic/p ">8220 - Colleges, universities, junior colleges, and other professional schools</p>
-      <p id="PPlsRT" outputclass="Normal" class="- topic/p ">8241 - Correspondence schools</p>
-      <p id="MnEjhb" outputclass="Normal" class="- topic/p ">8244 - All business/secondary schools</p>
-      <p id="cboaaL" outputclass="Normal" class="- topic/p ">8249 - Vocational/trade schools</p>
-      <p id="voYmSP" outputclass="Normal" class="- topic/p ">8299 - Schools and Education Services (Not Elsewhere Classified)</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_3-2" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3-2.</ph> Use of the GPC for Training and Education</title>
+   <conbody>
+      <p id="aXwhke" outputclass="Normal">a. The GPC shall be used by Training and Education Office personnel, and may be used by CHs, to pay for commercial off-the-shelf training and education up to $25,000 for an individual or planned series of the same training event, activity, or course material - AFARS 5113.270-90(g). GPC training cards must be issued and dedicated solely for this purpose.</p>
+      <p id="UQDgEW" outputclass="Normal">b. The Standard Form (SF)-182 (Request, Authorization, Agreement, Certification of Training and Reimbursement) remains the authorized and required training source document. GPC payment for commercial off-the-shelf training must be accompanied by an SF-182.</p>
+      <p id="mNvHOe" outputclass="Normal">c .GPC training cards are established with a single purchase limit of $25,000. Use of the GPC above the training micro-purchase level of $25,000 constitutes a payment mechanism, not a contracting method. Any use of the GPC above $25,000 as a payment method for commercial services must have a valid underlying contract in which payment can be made using the GPC. Training cards will have all merchant category codes (MCCs) blocked except the following sources of training:</p>
+      <p id="SVoJUM" outputclass="Normal">7392 - Management, Consulting and Public Relations Services</p>
+      <p id="Tkjdas" outputclass="Normal">7399 - Business Services (Not Elsewhere Classified)</p>
+      <p id="jYfaDg" outputclass="Normal">8220 - Colleges, universities, junior colleges, and other professional schools</p>
+      <p id="PPlsRT" outputclass="Normal">8241 - Correspondence schools</p>
+      <p id="MnEjhb" outputclass="Normal">8244 - All business/secondary schools</p>
+      <p id="cboaaL" outputclass="Normal">8249 - Vocational/trade schools</p>
+      <p id="voYmSP" outputclass="Normal">8299 - Schools and Education Services (Not Elsewhere Classified)</p>
    </conbody>
 </concept>

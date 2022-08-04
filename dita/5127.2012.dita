@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5127.2012"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5127.201-2</ph> Contract clauses.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="FTbHIf" outputclass="List1" class="- topic/p ">(e) Obtain approval to exempt specific United States patents from the patent indemnity clause from:</p>
-      <p id="xDmRdg" outputclass="Normal" class="- topic/p "/>
-      <p id="nildxn98" outputclass="Normal" class="- topic/p ">Commander, US Army Legal Services Agency</p>
-      <p id="wwkTaT" outputclass="Normal" class="- topic/p ">Attn: JALS-RL/IP</p>
-      <p id="dKXTyo" outputclass="Normal" class="- topic/p ">Regulatory Law and Intellectual Property Division</p>
-      <p id="jZAfPm" outputclass="Normal" class="- topic/p ">9275 Gunston Road, Suite 1300</p>
-      <p id="xxYiqk" outputclass="Normal" class="- topic/p ">Fort Belvoir, VA 22060-5546.</p>
-      <p id="b5q6nsrd3" outputclass="Normal" class="- topic/p "/>
-      <p id="mIaEfO" outputclass="Normal" class="- topic/p ">However, the Commander, U.S. Army Materiel Command and designees that have patent counsel may give approval.</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5127.2012" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5127.201-2</ph> Contract clauses.</title>
+   <conbody>
+      <p id="FTbHIf" outputclass="List1">(e) Obtain approval to exempt specific United States patents from the patent indemnity clause from:</p>
+      <p id="xDmRdg" outputclass="Normal"></p>
+      <p id="nildxn98" outputclass="Normal">Commander, US Army Legal Services Agency</p>
+      <p id="wwkTaT" outputclass="Normal">Attn: JALS-RL/IP</p>
+      <p id="dKXTyo" outputclass="Normal">Regulatory Law and Intellectual Property Division</p>
+      <p id="jZAfPm" outputclass="Normal">9275 Gunston Road, Suite 1300</p>
+      <p id="xxYiqk" outputclass="Normal">Fort Belvoir, VA 22060-5546.</p>
+      <p id="b5q6nsrd3" outputclass="Normal"></p>
+      <p id="mIaEfO" outputclass="Normal">However, the Commander, U.S. Army Materiel Command and designees that have patent counsel may give approval.</p>
    </conbody>
 </concept>

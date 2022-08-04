@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5133.1901"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5133.190-1</ph> Bid protest action report.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="skIQRQ" outputclass="Normal" class="- topic/p ">Within 15 calendar days following notification of resolution of a GAO protest, the contracting officer must send a bid protest action report in the format in 5153.303-6 (double spaced between item numbers) to the following addressees:</p>
-      <p id="OxuMMF" outputclass="List1" class="- topic/p ">(a) AMC contracting activities send the report to the addressee in 5101.290(b)(7).</p>
-      <p id="VFfCeV" outputclass="List1" class="- topic/p ">(b) USACE contracting activities send the report to</p>
-      <p id="SHDbUD" outputclass="List1" class="- topic/p "/>
-      <p id="k3ghhvu" outputclass="List1" class="- topic/p ">U.S. Army Corps of Engineers</p>
-      <p id="bRHJrP" outputclass="List1" class="- topic/p ">Attn: CECC-C</p>
-      <p id="mUtibH" outputclass="List1" class="- topic/p ">441 G St., N.W.</p>
-      <p id="EUNFSu" outputclass="List1" class="- topic/p ">Washington, DC 20314-1000.</p>
-      <p id="HgHgtL" outputclass="List1" class="- topic/p "/>
-      <p id="e4rx9chd" outputclass="List1" class="- topic/p ">(c) All other contracting activities send the report to the addressee in 5133.104(a)(3)(i)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">iii</i>).</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.1901" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5133.190-1</ph> Bid protest action report.</title>
+   <conbody>
+      <p id="skIQRQ" outputclass="Normal">Within 15 calendar days following notification of resolution of a GAO protest, the contracting officer must send a bid protest action report in the format in 5153.303-6 (double spaced between item numbers) to the following addressees:</p>
+      <p id="OxuMMF" outputclass="List1">(a) AMC contracting activities send the report to the addressee in 5101.290(b)(7).</p>
+      <p id="VFfCeV" outputclass="List1">(b) USACE contracting activities send the report to</p>
+      <p id="SHDbUD" outputclass="List1"></p>
+      <p id="k3ghhvu" outputclass="List1">U.S. Army Corps of Engineers</p>
+      <p id="bRHJrP" outputclass="List1">Attn: CECC-C</p>
+      <p id="mUtibH" outputclass="List1">441 G St., N.W.</p>
+      <p id="EUNFSu" outputclass="List1">Washington, DC 20314-1000.</p>
+      <p id="HgHgtL" outputclass="List1"></p>
+      <p id="e4rx9chd" outputclass="List1">(c) All other contracting activities send the report to the addressee in 5133.104(a)(3)(i)(<i>1</i>)(<i>iii</i>).</p>
    </conbody>
 </concept>

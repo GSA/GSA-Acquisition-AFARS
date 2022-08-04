@@ -1,1271 +1,1231 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-HH_PAPWSL"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Ctr 2 heading" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">Policy and</ph> PWS Language</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <table colsep="1" rowsep="1" class="- topic/table ">
-         <tgroup cols="12" colsep="1" class="- topic/tgroup ">
-            <colspec colname="1"
-                     colnum="1"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="2"
-                     colnum="2"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="3"
-                     colnum="3"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="4"
-                     colnum="4"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="5"
-                     colnum="5"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="6"
-                     colnum="6"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="7"
-                     colnum="7"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="8"
-                     colnum="8"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="9"
-                     colnum="9"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="10"
-                     colnum="10"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="11"
-                     colnum="11"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <colspec colname="12"
-                     colnum="12"
-                     rowheader="headers"
-                     class="- topic/colspec "/>
-            <tbody class="- topic/tbody ">
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="oaRAuT" class="- topic/p "/>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-HH_PAPWSL" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Ctr 2 heading">
+      <ph props="autonumber">Policy and</ph> PWS Language</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="12" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <colspec colname="10" colnum="10" rowheader="headers" />
+            <colspec colname="11" colnum="11" rowheader="headers" />
+            <colspec colname="12" colnum="12" rowheader="headers" />
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oaRAuT"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vTbykd" class="- topic/p "/>
+                  <entry>
+                     <p id="vTbykd"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cVydTu" class="- topic/p "/>
+                  <entry>
+                     <p id="cVydTu"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BCDdsI" class="- topic/p "/>
+                  <entry>
+                     <p id="BCDdsI"></p>
                   </entry>
-                  <entry nameend="8" namest="5" class="- topic/entry ">
-                     <p id="FYYryB" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Building Blocks</b>
+                  <entry nameend="8" namest="5">
+                     <p id="FYYryB">
+                        <b>Building Blocks</b>
                      </p>
                   </entry>
-                  <entry nameend="11" namest="9" class="- topic/entry ">
-                     <p id="FAINxt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Contract Actions</b>
+                  <entry nameend="11" namest="9">
+                     <p id="FAINxt">
+                        <b>Contract Actions</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HbYLsu" class="- topic/p "/>
+                  <entry>
+                     <p id="HbYLsu"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="gKNziW" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Subject Area</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="gKNziW">
+                        <b>Subject Area</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PtNOyM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Policy</b>
+                  <entry>
+                     <p id="PtNOyM">
+                        <b>Policy</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hKlanZ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Policy Reference/Source (AR, DFARS, AFARS, DOD, etc.)</b>
+                  <entry>
+                     <p id="hKlanZ">
+                        <b>Policy Reference/Source (AR, DFARS, AFARS, DOD, etc.)</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Egunah" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">PWS language</b>
+                  <entry>
+                     <p id="Egunah">
+                        <b>PWS language</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MIwwnt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">1a) Migrating to the Cloud</b>
+                  <entry>
+                     <p id="MIwwnt">
+                        <b>1a) Migrating to the Cloud</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EuHChY" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">1b) New SW Development in the Cloud</b>
+                  <entry>
+                     <p id="EuHChY">
+                        <b>1b) New SW Development in the Cloud</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TtHpFn" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">2) Follow-on contracts related to common services and management</b>
+                  <entry>
+                     <p id="TtHpFn">
+                        <b>2) Follow-on contracts related to common services and management</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sryTYN" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">3) Cloud Hosting, use of Enterprise solutions</b>
+                  <entry>
+                     <p id="sryTYN">
+                        <b>3) Cloud Hosting, use of Enterprise solutions</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CpniQi" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">New Contracts</b>
+                  <entry>
+                     <p id="CpniQi">
+                        <b>New Contracts</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BOqGhG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Orders Against Existing Contracts</b>
+                  <entry>
+                     <p id="BOqGhG">
+                        <b>Orders Against Existing Contracts</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZxOGcb" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Existing Contracts</b>
+                  <entry>
+                     <p id="ZxOGcb">
+                        <b>Existing Contracts</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CfbFTO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">CDRL</b>
+                  <entry>
+                     <p id="CfbFTO">
+                        <b>CDRL</b>
                      </p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ihwUjL" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Cloud</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ihwUjL">
+                        <b>Cloud</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XrZyPb" class="- topic/p ">All commercial cloud usage must be reported into the Army Portfolio Management System (APMS) per data EXORD 009-20</p>
+                  <entry>
+                     <p id="XrZyPb">All commercial cloud usage must be reported into the Army Portfolio Management System (APMS) per data EXORD 009-20</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XCpCRP" class="- topic/p ">EXORD 009-20</p>
+                  <entry>
+                     <p id="XCpCRP">EXORD 009-20</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ImhPwl" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="ImhPwl">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NtZIsf" class="- topic/p "/>
+                  <entry>
+                     <p id="NtZIsf"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GxTuCw" class="- topic/p "/>
+                  <entry>
+                     <p id="GxTuCw"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VvcyiD" class="- topic/p "/>
+                  <entry>
+                     <p id="VvcyiD"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SmXkQZ" class="- topic/p "/>
+                  <entry>
+                     <p id="SmXkQZ"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MxtsLD" class="- topic/p "/>
+                  <entry>
+                     <p id="MxtsLD"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="buCjxh" class="- topic/p "/>
+                  <entry>
+                     <p id="buCjxh"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GktnPx" class="- topic/p "/>
+                  <entry>
+                     <p id="GktnPx"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bXMxvF" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="jkxCXO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Use of Enterprise Services</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JYFupG" class="- topic/p ">All Army systems/applications developed in, migrated to and hosted in the commercial cloud will use cArmy Enterprise common services and data services. The Army will not duplicate common services or data services that are accredited in cArmy, to include the components of the DoD Secure Cloud Computing Architecture (SCCA). If a service is required that is not yet available in cArmy, the Application/System Owner must work with the Enterprise Cloud Management Office (ECMO) before any development of that service occurs (or any dollars are obligated towards the development). A list of the currently available (as of 1 May 2020) services is included in the next tab in this spreadsheet. In the future, a dynamic website will be available that will include up-to-date listing and description of available Enterprise services: www.cloud.army.mil.</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SjJRNq" class="- topic/p ">EXORD 009-20: 3.D.5.G. (U) DIRECT THE ENTERPRISE CLOUD MANAGEMENT OFFICE (ECMO) TO DEVELOP A PLAN TO CONSOLIDATE EXISTING CLOUD INSTANCES TO THE GREATEST POSSIBLE EXTENT, AND WITHOUT SIGNIFICANT IMPACT TO ONGOING OPERATIONS, TO GAIN VISIBILITY AND CONTROL OF ARMY CLOUD MIGRATIONS NLT 01 JAN 2020.</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IqDACU" class="- topic/p ">The contractor must use cArmy Enterprise common services, and data services, and all DoD Secure Cloud Computing Architecture (SCCA) components when developing, migrating to and hosting Army systems/applications in the commercial cloud. A list of the currently available common services is included in the next tab in this spreadsheet. In the future, a dynamic website will be available that will include up-to-date listing and description of available Enterprise services: www.cloud.army.mil</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nhectJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="izLUXq" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qGGlZG" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RcyoTI" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FXEUGy" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tRmQvT" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ktCygu" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RjFsFn" class="- topic/p ">Migration Plan or Strategy to use the common services</p>
+                  <entry>
+                     <p id="bXMxvF"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="ICbxoz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Use of Enterprise Services</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="jkxCXO">
+                        <b>Use of Enterprise Services</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DMvyIm" class="- topic/p ">Existing cloud common services will be consolidated into cArmy as is reasonable over time, per EXORD 009-20. As existing common service contract options expire, mission owners should work with the Enterprise Cloud Management Office (ECMO) to onboard their applications into cArmy and reduce the duplicity of services across the Army.</p>
+                  <entry>
+                     <p id="JYFupG">All Army systems/applications developed in, migrated to and hosted in the commercial cloud will use cArmy Enterprise common services and data services. The Army will not duplicate common services or data services that are accredited in cArmy, to include the components of the DoD Secure Cloud Computing Architecture (SCCA). If a service is required that is not yet available in cArmy, the Application/System Owner must work with the Enterprise Cloud Management Office (ECMO) before any development of that service occurs (or any dollars are obligated towards the development). A list of the currently available (as of 1 May 2020) services is included in the next tab in this spreadsheet. In the future, a dynamic website will be available that will include up-to-date listing and description of available Enterprise services: www.cloud.army.mil.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jVBdoZ" class="- topic/p ">EXORD 009-20: 3.D.5.G. (U) DIRECT THE ENTERPRISE CLOUD MANAGEMENT OFFICE (ECMO) TO DEVELOP A PLAN TO CONSOLIDATE EXISTING CLOUD INSTANCES TO THE GREATEST POSSIBLE EXTENT, AND WITHOUT SIGNIFICANT IMPACT TO ONGOING OPERATIONS, TO GAIN VISIBILITY AND CONTROL OF ARMY CLOUD MIGRATIONS NLT 01 JAN 2020.</p>
+                  <entry>
+                     <p id="SjJRNq">EXORD 009-20: 3.D.5.G. (U) DIRECT THE ENTERPRISE CLOUD MANAGEMENT OFFICE (ECMO) TO DEVELOP A PLAN TO CONSOLIDATE EXISTING CLOUD INSTANCES TO THE GREATEST POSSIBLE EXTENT, AND WITHOUT SIGNIFICANT IMPACT TO ONGOING OPERATIONS, TO GAIN VISIBILITY AND CONTROL OF ARMY CLOUD MIGRATIONS NLT 01 JAN 2020.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EHZkbY" class="- topic/p "/>
+                  <entry>
+                     <p id="IqDACU">The contractor must use cArmy Enterprise common services, and data services, and all DoD Secure Cloud Computing Architecture (SCCA) components when developing, migrating to and hosting Army systems/applications in the commercial cloud. A list of the currently available common services is included in the next tab in this spreadsheet. In the future, a dynamic website will be available that will include up-to-date listing and description of available Enterprise services: www.cloud.army.mil</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QQCmRO" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="egMEiI" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vzCnwO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="nhectJ">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xcUTAq" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JJdqeZ" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZdLPtc" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mwrmpF" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rfVQJR" class="- topic/p ">Catalog or Inventory of common services utilized within the app.</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="UEckBI" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Modernization/Migration</b>
+                  <entry>
+                     <p id="izLUXq">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fkCvHt" class="- topic/p ">The Army will modernize applications applying Cloud Native Design Principles, which will prioritize the use of Software as a Service (SaaS) and Platform as a Service (PaaS) (to include container technology) over Infrastructure as a Service (IaaS) models to reduce toil and overhead of maintaining Information Technology (IT) systems. Use of IaaS will be by exception and at the approval of the Enterprise Cloud Management Office (ECMO). According to the Cloud Native Computing Foundation, “cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, micro-services, immutable infrastructure, and declarative APIs exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.” *</p>
+                  <entry>
+                     <p id="qGGlZG">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RzzXRZ" class="- topic/p ">Army Cloud Plan</p>
+                  <entry>
+                     <p id="RcyoTI">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NlGrEP" class="- topic/p ">The contractor must modernize applications migrating to commercial cloud applying Cloud Native Design Principles and will prioritize use of Software as a Service (SaaS) and Platform as a Service (PaaS) over Infrastructure as a Service (IaaS).</p>
+                  <entry>
+                     <p id="FXEUGy">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZREoEU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Mandatory</b>
-                     </p>
+                  <entry>
+                     <p id="tRmQvT">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Fuhvmm" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="ktCygu">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OJMmyS" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cjyYLW" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rMWqAd" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WcvvTa" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XASxDR" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="cHXfpe" class="- topic/p ">System design document</p>
+                  <entry>
+                     <p id="RjFsFn">Migration Plan or Strategy to use the common services</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="xwfBxB" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Modernization/Migration</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ICbxoz">
+                        <b>Use of Enterprise Services</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WkaUmJ" class="- topic/p ">Legacy systems undergoing modifications to adapt to a service-enabled architecture should design anti-corruption layers** to support the transitional period. Pre-bundled COTS products are excluded.</p>
+                  <entry>
+                     <p id="DMvyIm">Existing cloud common services will be consolidated into cArmy as is reasonable over time, per EXORD 009-20. As existing common service contract options expire, mission owners should work with the Enterprise Cloud Management Office (ECMO) to onboard their applications into cArmy and reduce the duplicity of services across the Army.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iaIUsQ" class="- topic/p ">Army Cloud Plan</p>
+                  <entry>
+                     <p id="jVBdoZ">EXORD 009-20: 3.D.5.G. (U) DIRECT THE ENTERPRISE CLOUD MANAGEMENT OFFICE (ECMO) TO DEVELOP A PLAN TO CONSOLIDATE EXISTING CLOUD INSTANCES TO THE GREATEST POSSIBLE EXTENT, AND WITHOUT SIGNIFICANT IMPACT TO ONGOING OPERATIONS, TO GAIN VISIBILITY AND CONTROL OF ARMY CLOUD MIGRATIONS NLT 01 JAN 2020.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GJPCJw" class="- topic/p ">The contractor must ensure that legacy systems undergoing modifications to adapt to a service-enabled architecture will design anti-corruption layers to support the transitional period.</p>
+                  <entry>
+                     <p id="EHZkbY"></p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sjFHZY" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required except pre-bundled COTS products</b>
+                  <entry>
+                     <p id="QQCmRO">N/A</p>
+                  </entry>
+                  <entry>
+                     <p id="egMEiI">N/A</p>
+                  </entry>
+                  <entry>
+                     <p id="vzCnwO">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZjeqNb" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="xcUTAq">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="kmksux" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="JJdqeZ">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hbSzsg" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="ZdLPtc">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OiNPjc" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="mwrmpF">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rrIWSO" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Ydfnov" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="udaUQx" class="- topic/p ">Architecture Drawing and Description of Solution</p>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="BuLAGJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Software Development</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="klhvly" class="- topic/p ">The Army will build to the highest abstraction of cloud services, where possible, to include SaaS, PaaS, Database Management as a Service, and so forth, in order to accelerate testing, accreditation and fielding to the Army. Use of IaaS will be by exception and at the approval of the Enterprise Cloud Management Office (ECMO).</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TiKXWj" class="- topic/p ">Army Cloud Plan</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UfohLC" class="- topic/p ">The contractor must build to the highest abstraction of cloud services in order to meet functional, technical, performance and cost goals. These services include commercial SaaS, PaaS, Database Management as a Service, and so forth, in order to accelerate testing, accreditation and fielding to the Army.</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mfTVRD" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SekFlE" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RtSpxR" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HMUKsI" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CXsmjq" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ypgadq" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nBGOAw" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jeHQuu" class="- topic/p ">Architecture Drawing and Description of Solution</p>
+                  <entry>
+                     <p id="rfVQJR">Catalog or Inventory of common services utilized within the app.</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="QWoxmL" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Software Development</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="UEckBI">
+                        <b>Modernization/Migration</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hiiSOp" class="- topic/p ">All new software development must use modern software development methodologies (e.g., agile, DevSecOps) to support rapid delivery of standardized, reliable, integrated and secure mission capabilities.</p>
+                  <entry>
+                     <p id="fkCvHt">The Army will modernize applications applying Cloud Native Design Principles, which will prioritize the use of Software as a Service (SaaS) and Platform as a Service (PaaS) (to include container technology) over Infrastructure as a Service (IaaS) models to reduce toil and overhead of maintaining Information Technology (IT) systems. Use of IaaS will be by exception and at the approval of the Enterprise Cloud Management Office (ECMO). According to the Cloud Native Computing Foundation, “cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, micro-services, immutable infrastructure, and declarative APIs exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.” *</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iBQlxF" class="- topic/p ">Army Cloud Plan</p>
+                  <entry>
+                     <p id="RzzXRZ">Army Cloud Plan</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fxcQcp" class="- topic/p ">The contractor must use modern software development methodologies (e.g., agile, DevSecOps) to support rapid delivery of standardized, reliable, integrated and secure mission capabilities.</p>
+                  <entry>
+                     <p id="NlGrEP">The contractor must modernize applications migrating to commercial cloud applying Cloud Native Design Principles and will prioritize use of Software as a Service (SaaS) and Platform as a Service (PaaS) over Infrastructure as a Service (IaaS).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JyOyXz" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Optional</b>
+                  <entry>
+                     <p id="ZREoEU">
+                        <b>Mandatory</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jiLyzJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="Fuhvmm">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XgYziF" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="OJMmyS">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lqqsch" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="cjyYLW">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IBzRTK" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="rMWqAd">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PJnWyR" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="WcvvTa">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xDNRxQ" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="XASxDR">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fftTuD" class="- topic/p ">Software Development Plans</p>
+                  <entry>
+                     <p id="cHXfpe">System design document</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FHOWgA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Software Development</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="xwfBxB">
+                        <b>Modernization/Migration</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NJcJEK" class="- topic/p ">All new software acquisitions should use microservices architecture and automation where technically and economically feasible.</p>
+                  <entry>
+                     <p id="WkaUmJ">Legacy systems undergoing modifications to adapt to a service-enabled architecture should design anti-corruption layers** to support the transitional period. Pre-bundled COTS products are excluded.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hKmalG" class="- topic/p ">Army Cloud Plan</p>
+                  <entry>
+                     <p id="iaIUsQ">Army Cloud Plan</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zEhPuT" class="- topic/p ">The contractor must use microservices architecture and automation where technically and economically feasible.</p>
+                  <entry>
+                     <p id="GJPCJw">The contractor must ensure that legacy systems undergoing modifications to adapt to a service-enabled architecture will design anti-corruption layers to support the transitional period.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ChURRR" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Optional</b>
+                  <entry>
+                     <p id="sjFHZY">
+                        <b>Required except pre-bundled COTS products</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qSgIGy" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="ZjeqNb">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="giDeNS" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="kmksux">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xcfjUd" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="hbSzsg">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rPKAkP" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="OiNPjc">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GQoqub" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="rrIWSO">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eszyaz" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="Ydfnov">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="rrauNC" class="- topic/p ">Software Development Plan and Architecture</p>
+                  <entry>
+                     <p id="udaUQx">Architecture Drawing and Description of Solution</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FOZXan" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Software Development</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="BuLAGJ">
+                        <b>Software Development</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zayzoS" class="- topic/p ">In order to create interoperable, accessible and visible services, all interface information will be published in the Army Enterprise Data Services Catalog (EDSC).</p>
+                  <entry>
+                     <p id="klhvly">The Army will build to the highest abstraction of cloud services, where possible, to include SaaS, PaaS, Database Management as a Service, and so forth, in order to accelerate testing, accreditation and fielding to the Army. Use of IaaS will be by exception and at the approval of the Enterprise Cloud Management Office (ECMO).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MuDQlv" class="- topic/p ">Army Data Plan</p>
+                  <entry>
+                     <p id="TiKXWj">Army Cloud Plan</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="IilnfB" class="- topic/p ">The contractor must comply with publishing all application programming interface (API) information within the Enterprise Data Services Catalog (EDSC)</p>
+                  <entry>
+                     <p id="UfohLC">The contractor must build to the highest abstraction of cloud services in order to meet functional, technical, performance and cost goals. These services include commercial SaaS, PaaS, Database Management as a Service, and so forth, in order to accelerate testing, accreditation and fielding to the Army.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="syhtzJ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="mfTVRD">N/A</p>
+                  </entry>
+                  <entry>
+                     <p id="SekFlE">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qpcVqw" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="RtSpxR">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FxAsvB" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="HMUKsI">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wGSCzl" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="CXsmjq">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uobOLu" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="ypgadq">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eNsvNN" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="nBGOAw">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PZGHDZ" class="- topic/p ">No</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XPPmUz" class="- topic/p ">Plan and Schedule for publishing to EDSC</p>
+                  <entry>
+                     <p id="jeHQuu">Architecture Drawing and Description of Solution</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="vdcJye" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Security</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QWoxmL">
+                        <b>Software Development</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AXlrCj" class="- topic/p ">Reference DoD Instruction 8580.1; each DoD information system is required to have an Information System Security Manager (ISSM) and must implement DoD Risk Management Framework (RMF) governed by DoD Instruction 8510.01, for DoD Information Technology (IT). All cloud instances will inherit RMF controls to the greatest extent allowable by the Authorizing Official.</p>
+                  <entry>
+                     <p id="hiiSOp">All new software development must use modern software development methodologies (e.g., agile, DevSecOps) to support rapid delivery of standardized, reliable, integrated and secure mission capabilities.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TtCaBK" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-1. 2. Impact-level Guidance for Data Migrating to Army-approved Cloud Environments (1 May 2020) 3. Authorization Guidance for IT Capabilities Migrating to Army-approved Cloud Environments. (1 May 2020)</p>
+                  <entry>
+                     <p id="iBQlxF">Army Cloud Plan</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="xkLdEo" class="- topic/p ">The contractor must comply with implementation of the DoD Risk Management Framework (RMF) as governed by DoD Instruction 8510.01, for DoD Information Technology (IT).</p>
+                  <entry>
+                     <p id="fxcQcp">The contractor must use modern software development methodologies (e.g., agile, DevSecOps) to support rapid delivery of standardized, reliable, integrated and secure mission capabilities.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Xgypmp" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="JyOyXz">
+                        <b>Optional</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tXLApe" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="jiLyzJ">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MdhBBd" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="XgYziF">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dIozvG" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="lqqsch">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SEFRcy" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="IBzRTK">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yitCMe" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="PJnWyR">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mkWuKd" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="xDNRxQ">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mgpmJn" class="- topic/p "/>
-                  </entry>
-               </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="CugSSr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Security</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bqpPNi" class="- topic/p ">All Army cloud instances will use Army Future Command (AFC)'s Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center (C5ISR) as their Cybersecurity Service Provider (CSSP). Exceptions can only be granted by the Army Cyber Command (ARCYBER) or the Chief Information Officer (CIO)/G6.</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JGpCNx" class="- topic/p ">New</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yMNDxB" class="- topic/p ">The contractor must work with Army Future Command (AFC)'s Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center (C5ISR) to establish Cyber Security Service Provider (CSSP) services (as required by DoDI 8530 and as described by the DISA Cloud Computing Security Requirements Guide) for Army applications hosted in commercial cloud.</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EpNKXU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mCbKXr" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AHkXkZ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qhPWuI" class="- topic/p ">N/A</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="afkfkT" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qsRweZ" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ObxhUR" class="- topic/p ">Yes</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wpfedH" class="- topic/p "/>
+                  <entry>
+                     <p id="fftTuD">Software Development Plans</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="fBPIYB" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FHOWgA">
+                        <b>Software Development</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="XkyKEs" class="- topic/p ">All new and existing applications, systems, or servicesdeemed non-legacy shall expose their data and functionality through service interfaces (for example, OpenAPI specification). (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-6)</p>
+                  <entry>
+                     <p id="NJcJEK">All new software acquisitions should use microservices architecture and automation where technically and economically feasible.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qWZHtr" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
+                  <entry>
+                     <p id="hKmalG">Army Cloud Plan</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TOzRrX" class="- topic/p ">The contractor must ensure that all new and existing applications, systems, or services deemed non-legacy shall expose their data and functionality through service interfaces (for example, OpenAPI specification).</p>
+                  <entry>
+                     <p id="zEhPuT">The contractor must use microservices architecture and automation where technically and economically feasible.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sBAgEc" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="ChURRR">
+                        <b>Optional</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EClYGm" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="qSgIGy">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QhMGTp" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="giDeNS">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RNoBTH" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="xcfjUd">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bhTvaG" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="rPKAkP">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LqRgmp" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="GQoqub">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HFzyAf" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="eszyaz">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PgvuvD" class="- topic/p "/>
+                  <entry>
+                     <p id="rrauNC">Software Development Plan and Architecture</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="FfWMhe" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FOZXan">
+                        <b>Software Development</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BgogbY" class="- topic/p ">All service interfaces, without exception, must be designed to be consumable from external sources and must plan and design to be able to expose the interface to developers. (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-7)</p>
+                  <entry>
+                     <p id="zayzoS">In order to create interoperable, accessible and visible services, all interface information will be published in the Army Enterprise Data Services Catalog (EDSC).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DgPZnE" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
+                  <entry>
+                     <p id="MuDQlv">Army Data Plan</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PvLaEJ" class="- topic/p ">The contractor must ensure that all service interfaces, without exception be designed to be consumable from external sources and must plan and design to be able to expose the interface to developers.</p>
+                  <entry>
+                     <p id="IilnfB">The contractor must comply with publishing all application programming interface (API) information within the Enterprise Data Services Catalog (EDSC)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lQZMcP" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="syhtzJ">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LOJjqM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="qpcVqw">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pmsCOO" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="FxAsvB">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PCdiqj" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="wGSCzl">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QYniUP" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="uobOLu">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PetdBV" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="eNsvNN">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yTJMfj" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="PZGHDZ">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nswkuW" class="- topic/p "/>
+                  <entry>
+                     <p id="XPPmUz">Plan and Schedule for publishing to EDSC</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VbKKsa" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="vdcJye">
+                        <b>Security</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uYNwro" class="- topic/p ">Metadata about all Army data assets must be registered in the Army Enterprise Data Service Catalog (EDSC) and comply with Dublin Core Metadata Element Sets and International Standards Organization Metadata Registries requirements.(Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-3.)</p>
+                  <entry>
+                     <p id="AXlrCj">Reference DoD Instruction 8580.1; each DoD information system is required to have an Information System Security Manager (ISSM) and must implement DoD Risk Management Framework (RMF) governed by DoD Instruction 8510.01, for DoD Information Technology (IT). All cloud instances will inherit RMF controls to the greatest extent allowable by the Authorizing Official.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BtmXBB" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
+                  <entry>
+                     <p id="TtCaBK">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-1. 2. Impact-level Guidance for Data Migrating to Army-approved Cloud Environments (1 May 2020) 3. Authorization Guidance for IT Capabilities Migrating to Army-approved Cloud Environments. (1 May 2020)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VbNUWN" class="- topic/p ">The contractor must ensure that all Army data assets are registered in the Army Enterprise Data Service Catalog (EDSC) and comply with Dublin Core Metadata Element Sets and International Standards Organization Metadata Registries requirements.</p>
+                  <entry>
+                     <p id="xkLdEo">The contractor must comply with implementation of the DoD Risk Management Framework (RMF) as governed by DoD Instruction 8510.01, for DoD Information Technology (IT).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ysLpjD" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="Xgypmp">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SmMMIh" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="tXLApe">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qHFaHr" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="MdhBBd">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OYpcLu" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="dIozvG">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="Vewfur" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="SEFRcy">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BXmOFP" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="yitCMe">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QsNQWu" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="mkWuKd">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OmbfNi" class="- topic/p "/>
+                  <entry>
+                     <p id="mgpmJn"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="TEdXYG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CugSSr">
+                        <b>Security</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VCwAFY" class="- topic/p ">All Army data sources must be developed with built-in data exchange capabilities. Data mapping must also be implemented to increase efficiency and ease of use of data assets as they are being translated or transformed. At a minimum, programs and initiatives are required to comply with Global Force Management Data Initiative; International Standards for dates; Geopolitical Entities, Names and Codes, Common (GENC); Joint Consultation, Command and Control Exchange Data Model; or Resource Description Framework standards and schemas. (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-4)</p>
+                  <entry>
+                     <p id="bqpPNi">All Army cloud instances will use Army Future Command (AFC)'s Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center (C5ISR) as their Cybersecurity Service Provider (CSSP). Exceptions can only be granted by the Army Cyber Command (ARCYBER) or the Chief Information Officer (CIO)/G6.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="QOLJjL" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
+                  <entry>
+                     <p id="JGpCNx">New</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jrJGSt" class="- topic/p ">The contractor must ensure that All Army data sources are developed with built-in data exchange capabilities. Data mapping must also be implemented to increase efficiency and ease of use of data assets as they are being translated or transformed. At a minimum, programs and initiatives are required to comply with Global Force Management Data Initiative; International Standards for dates; Geopolitical Entities, Names and Codes, Common (GENC); Joint Consultation, Command and Control Exchange Data Model; or Resource Description Framework standards and schemas.</p>
+                  <entry>
+                     <p id="yMNDxB">The contractor must work with Army Future Command (AFC)'s Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance and Reconnaissance Center (C5ISR) to establish Cyber Security Service Provider (CSSP) services (as required by DoDI 8530 and as described by the DISA Cloud Computing Security Requirements Guide) for Army applications hosted in commercial cloud.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AZdANM" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Optional</b>
+                  <entry>
+                     <p id="EpNKXU">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EsjxXI" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="mCbKXr">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dNWcoq" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="AHkXkZ">
+                        <b>Required</b>
+                     </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hIMwUJ" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="qhPWuI">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="gJTXvT" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="afkfkT">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uGWxob" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="qsRweZ">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DbGsMx" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="ObxhUR">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="eoVQuT" class="- topic/p "/>
+                  <entry>
+                     <p id="wpfedH"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="hETQxU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="fBPIYB">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="kmVDbF" class="- topic/p ">Data must be managed across its lifecycle and captured in a data management plan. (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-5)</p>
+                  <entry>
+                     <p id="XkyKEs">All new and existing applications, systems, or servicesdeemed non-legacy shall expose their data and functionality through service interfaces (for example, OpenAPI specification). (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-6)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="aieiJm" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020),</p>
+                  <entry>
+                     <p id="qWZHtr">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oXJcVk" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="TOzRrX">The contractor must ensure that all new and existing applications, systems, or services deemed non-legacy shall expose their data and functionality through service interfaces (for example, OpenAPI specification).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UGuCWc" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="sBAgEc">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fChBRy" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="EClYGm">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EIRZKW" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="QhMGTp">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hlzGPV" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="RNoBTH">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vEXoLm" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="bhTvaG">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="arNNBM" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="LqRgmp">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mvkOew" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="HFzyAf">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="UUaMUn" class="- topic/p ">Data Management Plan</p>
+                  <entry>
+                     <p id="PgvuvD"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="OZOPXy" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FfWMhe">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yZmAFp" class="- topic/p ">All custom software or customized COTS software written by the Army or developed with Army funding will be centrally controlled and made available to all DoD, IC and inter-agency partners within the approved Army source code repositories on the Unclassified, Secret, and Top Secret networks in accordance with Army Directive 2018-26 (Enabling Modernization Through the Management of Intellectual Property) (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-8)</p>
+                  <entry>
+                     <p id="BgogbY">All service interfaces, without exception, must be designed to be consumable from external sources and must plan and design to be able to expose the interface to developers. (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-7)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pLQoIB" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020),</p>
+                  <entry>
+                     <p id="DgPZnE">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BgtKvX" class="- topic/p ">The contractor must utilize government approved centralized source code repositories to store all government funded software development or customization of COTS products.</p>
+                  <entry>
+                     <p id="PvLaEJ">The contractor must ensure that all service interfaces, without exception be designed to be consumable from external sources and must plan and design to be able to expose the interface to developers.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RzuHwT" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="lQZMcP">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SSddPA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="LOJjqM">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LFAXsq" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="pmsCOO">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TEOTQo" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="PCdiqj">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ACMnIj" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="QYniUP">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ImTSDx" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="PetdBV">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="acENvy" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="yTJMfj">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="piotjg" class="- topic/p "/>
+                  <entry>
+                     <p id="nswkuW"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VcLUYt" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VbKKsa">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qviRqW" class="- topic/p ">There will be no other form of Inter-Process communication allowed: no direct linking, no direct reads of another data store, no shared-memory model, and no back-doors whatsoever. The only Inter-Process communication allowed is intra-system data exchanges or service interface calls over the network. All other requests or methods require CIO approval ((Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-9)</p>
+                  <entry>
+                     <p id="uYNwro">Metadata about all Army data assets must be registered in the Army Enterprise Data Service Catalog (EDSC) and comply with Dublin Core Metadata Element Sets and International Standards Organization Metadata Registries requirements.(Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-3.)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZxQzgf" class="- topic/p ">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020),</p>
+                  <entry>
+                     <p id="BtmXBB">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mpahZC" class="- topic/p ">The contractor must ensure that there will be no other form of Inter-Process communication allowed: no direct linking, no direct reads of another data store, no shared-memory model, and no back-doors whatsoever. The only Inter-Process communication allowed is intra-system data exchanges or service interface calls over the network.</p>
+                  <entry>
+                     <p id="VbNUWN">The contractor must ensure that all Army data assets are registered in the Army Enterprise Data Service Catalog (EDSC) and comply with Dublin Core Metadata Element Sets and International Standards Organization Metadata Registries requirements.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SJkiww" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Optional</b>
+                  <entry>
+                     <p id="ysLpjD">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="NecjOQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Mandatory</b>
+                  <entry>
+                     <p id="SmMMIh">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ezITnX" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="qHFaHr">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lmCBmX" class="- topic/p ">N/A</p>
+                  <entry>
+                     <p id="OYpcLu">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bvsFzB" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="Vewfur">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EAwpHo" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="BXmOFP">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LZbfeR" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="QsNQWu">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jxVazq" class="- topic/p "/>
+                  <entry>
+                     <p id="OmbfNi"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VGctHA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">CSP</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="TEdXYG">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LyKoOK" class="- topic/p ">Once available, procurement of all DoD Information Impact Level (IL) 6 and below Cloud Service Provider (CSP) Offerings will use the Army’s Enterprise CSP Reseller contract. Exceptions to this policy include programs funded by Military Intelligence Program (MIP)/National Intelligence Program (NIP) monies. Other exceptions can only be granted by the ECMO. As contract options expire, existing CSP service contracts will also be migrated to the Army’s Enterprise CSP reseller contract.</p>
+                  <entry>
+                     <p id="VCwAFY">All Army data sources must be developed with built-in data exchange capabilities. Data mapping must also be implemented to increase efficiency and ease of use of data assets as they are being translated or transformed. At a minimum, programs and initiatives are required to comply with Global Force Management Data Initiative; International Standards for dates; Geopolitical Entities, Names and Codes, Common (GENC); Joint Consultation, Command and Control Exchange Data Model; or Resource Description Framework standards and schemas. (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-4)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BxmjJy" class="- topic/p ">New</p>
+                  <entry>
+                     <p id="QOLJjL">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OQDpKT" class="- topic/p ">All Cloud Service Offering (CSO) requirements up through DoD Information Impact Level (IL) 6 that are within scope of the Army Enterprise Cloud Contract Vehicle will be purchased off that vehicle.</p>
+                  <entry>
+                     <p id="jrJGSt">The contractor must ensure that All Army data sources are developed with built-in data exchange capabilities. Data mapping must also be implemented to increase efficiency and ease of use of data assets as they are being translated or transformed. At a minimum, programs and initiatives are required to comply with Global Force Management Data Initiative; International Standards for dates; Geopolitical Entities, Names and Codes, Common (GENC); Joint Consultation, Command and Control Exchange Data Model; or Resource Description Framework standards and schemas.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="tMraLG" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required, Once Available</b>
+                  <entry>
+                     <p id="AZdANM">
+                        <b>Optional</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sgQaap" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required, Once Available</b>
+                  <entry>
+                     <p id="EsjxXI">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="adftkx" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required, Once Available</b>
-                     </p>
+                  <entry>
+                     <p id="dNWcoq">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vvSOSx" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required, Once Available</b>
-                     </p>
+                  <entry>
+                     <p id="hIMwUJ">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LbYpjB" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="gJTXvT">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vxyfbv" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="uGWxob">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nNOgBE" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="DbGsMx">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="knxEMc" class="- topic/p "/>
+                  <entry>
+                     <p id="eoVQuT"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="keTjLC" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">CSP</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hETQxU">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ESYKVg" class="- topic/p ">For those CSP Services that exist outside of the Enterprise reseller contract today, the CSP owner must align and integrate their AWS/Azure cloud instances to the cArmy Cost and Utilization Management Tool, to ensure ECMO can view all Army CSP resources and spend.</p>
+                  <entry>
+                     <p id="kmVDbF">Data must be managed across its lifecycle and captured in a data management plan. (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-5)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vDZcsN" class="- topic/p ">New</p>
+                  <entry>
+                     <p id="aieiJm">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020),</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="lqSMWi" class="- topic/p ">The contractor will register all cloud instances into the cArmy cost and utilization management tool with any CSP procurement. Cloud instances will be registered into cArmy's management tool within 15 business days of procurement.</p>
+                  <entry>
+                     <p id="oXJcVk">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DnqBwe" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="UGuCWc">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="EQcxLS" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="fChBRy">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="GdeMOw" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="EIRZKW">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dLWkTX" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="hlzGPV">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="vpfrsX" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="vEXoLm">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LVwAMk" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="arNNBM">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="WCLLSC" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="mvkOew">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="jSJuEl" class="- topic/p "/>
+                  <entry>
+                     <p id="UUaMUn">Data Management Plan</p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="snXPpm" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Data</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="OZOPXy">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="sTZOQw" class="- topic/p ">All data will reside physically within the legal jurisdiction of the United States. If the location of the data is not physically maintained within the legal jurisdiction of the United States, written determination from the Contracting Officer to authorize use of another location is required IAW DFARS 239.7602-2(b).</p>
+                  <entry>
+                     <p id="yZmAFp">All custom software or customized COTS software written by the Army or developed with Army funding will be centrally controlled and made available to all DoD, IC and inter-agency partners within the approved Army source code repositories on the Unclassified, Secret, and Top Secret networks in accordance with Army Directive 2018-26 (Enabling Modernization Through the Management of Intellectual Property) (Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-8)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DItzFg" class="- topic/p ">DFARS 239.7602-2(b)</p>
+                  <entry>
+                     <p id="pLQoIB">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020),</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TSDSzt" class="- topic/p ">The Contractor must maintain all data within the legal jurisdiction of the United States IAW DFARS 239.7602-2(b).</p>
+                  <entry>
+                     <p id="BgtKvX">The contractor must utilize government approved centralized source code repositories to store all government funded software development or customization of COTS products.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="viKClC" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="RzuHwT">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LtnktA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="SSddPA">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FuMbcQ" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="LFAXsq">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="BkPHWp" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="TEOTQo">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CXvPzi" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="ACMnIj">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="HmprPv" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="ImTSDx">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nCfFwT" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="acENvy">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="RSvuOs" class="- topic/p "/>
+                  <entry>
+                     <p id="piotjg"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="dMFQXx" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Security Incident Planning</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VcLUYt">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mUeTxz" class="- topic/p ">The Army must adhere to the DoD Cloud Computing Security Requirements Guide version 1 release 3 (or superseding versions or releases). IAWS DFARS 239.7604</p>
+                  <entry>
+                     <p id="qviRqW">There will be no other form of Inter-Process communication allowed: no direct linking, no direct reads of another data store, no shared-memory model, and no back-doors whatsoever. The only Inter-Process communication allowed is intra-system data exchanges or service interface calls over the network. All other requests or methods require CIO approval ((Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020), Principle DSR-9)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qwZcvW" class="- topic/p ">DoD Cloud Computing Security Requirements Guide (DoD CC SRG) Version 1 Revision 3, Section 6.5.1, IAW DFARS 239.7604</p>
+                  <entry>
+                     <p id="ZxQzgf">Mandatory Implementation of Army Data Standards Services Requirements Memo (10 April 2020),</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bOrTEO" class="- topic/p ">The contractor must adhere to the DoD Cloud Computing Security Requirements Guide version 1 release 3 (or superseding versions or releases). In particular, contractors must provide security incident response plans. Updates to the plans are required on an annual basis or when a significant change occurs to the technical or operational environment.</p>
+                  <entry>
+                     <p id="mpahZC">The contractor must ensure that there will be no other form of Inter-Process communication allowed: no direct linking, no direct reads of another data store, no shared-memory model, and no back-doors whatsoever. The only Inter-Process communication allowed is intra-system data exchanges or service interface calls over the network.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hjPfFA" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="SJkiww">
+                        <b>Optional</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hssuNv" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="NecjOQ">
+                        <b>Mandatory</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="OWgCYq" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="ezITnX">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JFDckj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
-                     </p>
+                  <entry>
+                     <p id="lmCBmX">N/A</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uNNoAx" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="bvsFzB">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mmngeC" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="EAwpHo">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dzRTVl" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="LZbfeR">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="nOFkmp" class="- topic/p "/>
+                  <entry>
+                     <p id="jxVazq"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="VyaQfj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Security</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VGctHA">
+                        <b>CSP</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LjOOIC" class="- topic/p ">Contracts shall only be awarded to a cloud service provider that DISA granted a DoD Provisional Authorization (PA), at the level appropriate to the requirement, to deliver the relevant cloud computing model IAW with the DoD CC SRG.</p>
+                  <entry>
+                     <p id="LyKoOK">Once available, procurement of all DoD Information Impact Level (IL) 6 and below Cloud Service Provider (CSP) Offerings will use the Army’s Enterprise CSP Reseller contract. Exceptions to this policy include programs funded by Military Intelligence Program (MIP)/National Intelligence Program (NIP) monies. Other exceptions can only be granted by the ECMO. As contract options expire, existing CSP service contracts will also be migrated to the Army’s Enterprise CSP reseller contract.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="DciMwJ" class="- topic/p ">DoD Cloud Computing Security Requirements Guide (CC SRG)</p>
+                  <entry>
+                     <p id="BxmjJy">New</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hnNJHD" class="- topic/p ">The Contractor will ensure that the cloud environment fully complies or exceeds the security requirements for level ___in the DoD Cloud Security Model SRG. The Contractor will make the environment accessible for a DoD security team to evaluate the environment prior to the placement of any DoD data in the environment and allow for periodical security reviews of the environment during the performance of this contract.</p>
+                  <entry>
+                     <p id="OQDpKT">All Cloud Service Offering (CSO) requirements up through DoD Information Impact Level (IL) 6 that are within scope of the Army Enterprise Cloud Contract Vehicle will be purchased off that vehicle.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="zLvjft" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="tMraLG">
+                        <b>Required, Once Available</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="wFVisB" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="sgQaap">
+                        <b>Required, Once Available</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="CkFoVl" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="adftkx">
+                        <b>Required, Once Available</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="mBjgkf" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="vvSOSx">
+                        <b>Required, Once Available</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="dDdjcw" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="LbYpjB">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="aLKfeJ" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="vxyfbv">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="qSDnAk" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="nNOgBE">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="VjuoUc" class="- topic/p "/>
+                  <entry>
+                     <p id="knxEMc"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="nLjUxo" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Security</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="keTjLC">
+                        <b>CSP</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="heKfYi" class="- topic/p ">Data must be encrypted at rest and in-transit</p>
+                  <entry>
+                     <p id="ESYKVg">For those CSP Services that exist outside of the Enterprise reseller contract today, the CSP owner must align and integrate their AWS/Azure cloud instances to the cArmy Cost and Utilization Management Tool, to ensure ECMO can view all Army CSP resources and spend.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="pCNnNk" class="- topic/p ">CNSSP 15, AR 25-2</p>
+                  <entry>
+                     <p id="vDZcsN">New</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TuZlyZ" class="- topic/p ">The contractor shall ensure that all data-at-rest and data in-transit is encrypted utilizing NSA-approved encryption.</p>
+                  <entry>
+                     <p id="lqSMWi">The contractor will register all cloud instances into the cArmy cost and utilization management tool with any CSP procurement. Cloud instances will be registered into cArmy's management tool within 15 business days of procurement.</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="oQxXFc" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="DnqBwe">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="AJDCAg" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="EQcxLS">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="TjObIs" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="GdeMOw">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="fTnJEo" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="dLWkTX">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="yLqcUc" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="vpfrsX">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="uxRDHi" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="LVwAMk">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PEAWtj" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="WCLLSC">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="FSflpl" class="- topic/p "/>
+                  <entry>
+                     <p id="jSJuEl"></p>
                   </entry>
                </row>
-               <row rowsep="1" class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p id="rNqbnO" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Cost Management and Reporting</b>
+               <row rowsep="1">
+                  <entry>
+                     <p id="snXPpm">
+                        <b>Data</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="liOMFW" class="- topic/p ">Cost Report (Cost Summary Data Report 1921, 1921-5) and CWBS Dictionary</p>
+                  <entry>
+                     <p id="sTZOQw">All data will reside physically within the legal jurisdiction of the United States. If the location of the data is not physically maintained within the legal jurisdiction of the United States, written determination from the Contracting Officer to authorize use of another location is required IAW DFARS 239.7602-2(b).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="JBsYtK" class="- topic/p ">EXORD 009-20</p>
+                  <entry>
+                     <p id="DItzFg">DFARS 239.7602-2(b)</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZtQPqC" class="- topic/p ">The Contractor shall ensure that all cloud-related costs/price, which include but are not limited to: cost of modernization and migration of applications, Cloud Service Provider (CSP) costs, and cloud Operations and Maintenance (O&amp;M) costs/prices are clearly identified and available for government reporting purposes.</p>
+                  <entry>
+                     <p id="TSDSzt">The Contractor must maintain all data within the legal jurisdiction of the United States IAW DFARS 239.7602-2(b).</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="MFIpsj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="viKClC">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="hQzCEu" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="LtnktA">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="iDKpgU" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="FuMbcQ">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="LsiHvj" class="- topic/p ">
-                        <b class="+ topic/ph hi-d/b ">Required</b>
+                  <entry>
+                     <p id="BkPHWp">
+                        <b>Required</b>
                      </p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="ZUxYEu" class="- topic/p ">Yes</p>
+                  <entry>
+                     <p id="CXvPzi">Yes</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="SpPSZL" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="HmprPv">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="bWXpgv" class="- topic/p ">No</p>
+                  <entry>
+                     <p id="nCfFwT">No</p>
                   </entry>
-                  <entry class="- topic/entry ">
-                     <p id="PMFQXC" class="- topic/p ">Cost/price Report</p>
+                  <entry>
+                     <p id="RSvuOs"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="dMFQXx">
+                        <b>Security Incident Planning</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="mUeTxz">The Army must adhere to the DoD Cloud Computing Security Requirements Guide version 1 release 3 (or superseding versions or releases). IAWS DFARS 239.7604</p>
+                  </entry>
+                  <entry>
+                     <p id="qwZcvW">DoD Cloud Computing Security Requirements Guide (DoD CC SRG) Version 1 Revision 3, Section 6.5.1, IAW DFARS 239.7604</p>
+                  </entry>
+                  <entry>
+                     <p id="bOrTEO">The contractor must adhere to the DoD Cloud Computing Security Requirements Guide version 1 release 3 (or superseding versions or releases). In particular, contractors must provide security incident response plans. Updates to the plans are required on an annual basis or when a significant change occurs to the technical or operational environment.</p>
+                  </entry>
+                  <entry>
+                     <p id="hjPfFA">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="hssuNv">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="OWgCYq">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="JFDckj">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="uNNoAx">Yes</p>
+                  </entry>
+                  <entry>
+                     <p id="mmngeC">No</p>
+                  </entry>
+                  <entry>
+                     <p id="dzRTVl">No</p>
+                  </entry>
+                  <entry>
+                     <p id="nOFkmp"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="VyaQfj">
+                        <b>Security</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="LjOOIC">Contracts shall only be awarded to a cloud service provider that DISA granted a DoD Provisional Authorization (PA), at the level appropriate to the requirement, to deliver the relevant cloud computing model IAW with the DoD CC SRG.</p>
+                  </entry>
+                  <entry>
+                     <p id="DciMwJ">DoD Cloud Computing Security Requirements Guide (CC SRG)</p>
+                  </entry>
+                  <entry>
+                     <p id="hnNJHD">The Contractor will ensure that the cloud environment fully complies or exceeds the security requirements for level ___in the DoD Cloud Security Model SRG. The Contractor will make the environment accessible for a DoD security team to evaluate the environment prior to the placement of any DoD data in the environment and allow for periodical security reviews of the environment during the performance of this contract.</p>
+                  </entry>
+                  <entry>
+                     <p id="zLvjft">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="wFVisB">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="CkFoVl">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="mBjgkf">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="dDdjcw">Yes</p>
+                  </entry>
+                  <entry>
+                     <p id="aLKfeJ">No</p>
+                  </entry>
+                  <entry>
+                     <p id="qSDnAk">No</p>
+                  </entry>
+                  <entry>
+                     <p id="VjuoUc"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="nLjUxo">
+                        <b>Security</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="heKfYi">Data must be encrypted at rest and in-transit</p>
+                  </entry>
+                  <entry>
+                     <p id="pCNnNk">CNSSP 15, AR 25-2</p>
+                  </entry>
+                  <entry>
+                     <p id="TuZlyZ">The contractor shall ensure that all data-at-rest and data in-transit is encrypted utilizing NSA-approved encryption.</p>
+                  </entry>
+                  <entry>
+                     <p id="oQxXFc">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="AJDCAg">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="TjObIs">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="fTnJEo">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="yLqcUc">Yes</p>
+                  </entry>
+                  <entry>
+                     <p id="uxRDHi">No</p>
+                  </entry>
+                  <entry>
+                     <p id="PEAWtj">No</p>
+                  </entry>
+                  <entry>
+                     <p id="FSflpl"></p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="rNqbnO">
+                        <b>Cost Management and Reporting</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="liOMFW">Cost Report (Cost Summary Data Report 1921, 1921-5) and CWBS Dictionary</p>
+                  </entry>
+                  <entry>
+                     <p id="JBsYtK">EXORD 009-20</p>
+                  </entry>
+                  <entry>
+                     <p id="ZtQPqC">The Contractor shall ensure that all cloud-related costs/price, which include but are not limited to: cost of modernization and migration of applications, Cloud Service Provider (CSP) costs, and cloud Operations and Maintenance (O&amp;M) costs/prices are clearly identified and available for government reporting purposes.</p>
+                  </entry>
+                  <entry>
+                     <p id="MFIpsj">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="hQzCEu">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="iDKpgU">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="LsiHvj">
+                        <b>Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="ZUxYEu">Yes</p>
+                  </entry>
+                  <entry>
+                     <p id="SpPSZL">No</p>
+                  </entry>
+                  <entry>
+                     <p id="bWXpgv">No</p>
+                  </entry>
+                  <entry>
+                     <p id="PMFQXC">Cost/price Report</p>
                   </entry>
                </row>
             </tbody>

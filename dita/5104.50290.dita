@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5104.50290"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5104.502-90</ph> Army supplemental policy.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p id="iHLdXp" outputclass="List1" class="- topic/p ">The Assistant Secretary of the Army (Acquisition, Logistics and Technology) on a non-delegable basis, shall ensure that systems, technologies, procedures, and processes used by the agency to conduct electronic commerce follow the guidelines set forth in FAR 4.502 (b) and (c).</p>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.50290" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5104.502-90</ph> Army supplemental policy.</title>
+   <conbody>
+      <p id="iHLdXp" outputclass="List1">The Assistant Secretary of the Army (Acquisition, Logistics and Technology) on a non-delegable basis, shall ensure that systems, technologies, procedures, and processes used by the agency to conduct electronic commerce follow the guidelines set forth in FAR 4.502 (b) and (c).</p>
    </conbody>
 </concept>

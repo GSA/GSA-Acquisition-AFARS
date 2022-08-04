@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-CC-102"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 4" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">CC-102</ph> Applicability.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">This Appendix applies to all elements of the Army that exercise contracting authority
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-CC-102" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">CC-102</ph> Applicability.</title>
+   <conbody>
+      <p>This Appendix applies to all elements of the Army that exercise contracting authority
             emanating from the Army Senior Procurement Executive (SPE) regardless of funding source,
             type of commodity, or service.</p>
    </conbody>

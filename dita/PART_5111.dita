@@ -1,187 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5111"
-          ditaarch:DITAArchVersion="1.3"
-          class="- topic/topic ">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">Part 5111</ph> - Describing Agency Needs</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5111.1.dita#AFARS_Subpart_5111.1"
-                        class="- topic/xref ">Subpart 5111.1 - Selecting and Developing Requirements Documents</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5111" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5111</ph> - Describing Agency Needs</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.1.dita#AFARS_Subpart_5111.1">Subpart 5111.1 - Selecting and Developing Requirements Documents</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.103.dita#AFARS_5111.103"
-                              class="- topic/xref ">5111.103 Market acceptance.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.103.dita#AFARS_5111.103">5111.103 Market acceptance.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106.dita#AFARS_5111.106"
-                              class="- topic/xref ">5111.106 Cloud Requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106.dita#AFARS_5111.106">5111.106 Cloud Requirements.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106_A.dita#AFARS_5111.106_A"
-                              class="- topic/xref ">5111.106 (S-90)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_A.dita#AFARS_5111.106_A">5111.106 (S-90)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106_B.dita#AFARS_5111.106_B"
-                              class="- topic/xref ">5111.106 (S-91)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_B.dita#AFARS_5111.106_B">5111.106 (S-91)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106_C.dita#AFARS_5111.106_C"
-                              class="- topic/xref ">5111.106 (S-92)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_C.dita#AFARS_5111.106_C">5111.106 (S-92)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106_D.dita#AFARS_5111.106_D"
-                              class="- topic/xref ">5111.106 (S-93)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_D.dita#AFARS_5111.106_D">5111.106 (S-93)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106_E.dita#AFARS_5111.106_E"
-                              class="- topic/xref ">5111.106 (S-94)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_E.dita#AFARS_5111.106_E">5111.106 (S-94)</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.106_F.dita#AFARS_5111.106_F"
-                              class="- topic/xref ">5111.106 (S-95)</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.106_F.dita#AFARS_5111.106_F">5111.106 (S-95)</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5111.2.dita#AFARS_Subpart_5111.2"
-                        class="- topic/xref ">Subpart 5111.2 - Using and Maintaining Requirements Documents</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.2.dita#AFARS_Subpart_5111.2">Subpart 5111.2 - Using and Maintaining Requirements Documents</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.274.dita#AFARS_5111.274"
-                              class="- topic/xref ">5111.274 Item identification and valuation requirements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.274.dita#AFARS_5111.274">5111.274 Item identification and valuation requirements.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5111.2742.dita#AFARS_5111.2742"
-                                    class="- topic/xref ">5111.274-2 Policy for item unique identification.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2742.dita#AFARS_5111.2742">5111.274-2 Policy for item unique identification.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5111.2742_A.dita#AFARS_5111.2742_A"
-                                    class="- topic/xref ">5111.274-2 (S-90)</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2742_A.dita#AFARS_5111.2742_A">5111.274-2 (S-90)</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5111.2742_B.dita#AFARS_5111.2742_B"
-                                    class="- topic/xref ">5111.274-2 (S-91)</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2742_B.dita#AFARS_5111.2742_B">5111.274-2 (S-91)</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5111.2746.dita#AFARS_5111.2746"
-                                    class="- topic/xref ">5111.274-6 Contract clauses.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.2746.dita#AFARS_5111.2746">5111.274-6 Contract clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5111.5.dita#AFARS_Subpart_5111.5"
-                        class="- topic/xref ">Subpart 5111.5 - Liquidated Damages</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.5.dita#AFARS_Subpart_5111.5">Subpart 5111.5 - Liquidated Damages</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.501.dita#AFARS_5111.501"
-                              class="- topic/xref ">5111.501 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.501.dita#AFARS_5111.501">5111.501 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5111.6.dita#AFARS_Subpart_5111.6"
-                        class="- topic/xref ">Subpart 5111.6 - Priorities and Allocations</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.6.dita#AFARS_Subpart_5111.6">Subpart 5111.6 - Priorities and Allocations</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.602.dita#AFARS_5111.602"
-                              class="- topic/xref ">5111.602 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.602.dita#AFARS_5111.602">5111.602 General.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="5111.60290.dita#AFARS_5111.60290"
-                                    class="- topic/xref ">5111.602-90 Responsibilities.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5111.60290.dita#AFARS_5111.60290">5111.602-90 Responsibilities.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.603.dita#AFARS_5111.603"
-                              class="- topic/xref ">5111.603 Procedures.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.603.dita#AFARS_5111.603">5111.603 Procedures.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_5111.7.dita#AFARS_Subpart_5111.7"
-                        class="- topic/xref ">Subpart 5111.7 - Variation in Quantity</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5111.7.dita#AFARS_Subpart_5111.7">Subpart 5111.7 - Variation in Quantity</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="5111.703.dita#AFARS_5111.703"
-                              class="- topic/xref ">5111.703 Contract Clauses</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5111.703.dita#AFARS_5111.703">5111.703 Contract Clauses</xref>
                      </p>
                   </li>
                </ul>

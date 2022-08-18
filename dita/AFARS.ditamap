@@ -99,9 +99,16 @@
       <topicref href="Subpart_5103.6.dita" navtitle="Subpart 5103.6 - Contracts with Government Employees or Organizations Owned or Controlled by Them" outputclass="SubPart" props="Subpart 5103.6" base="NoTitle" audience="AFARS_Subpart_5103.6" xtrf="SubPart" xtrc="AFARS_Subpart_5103.6.html" class="- map/topicref ">
          <topicref href="5103.602.dita" navtitle="5103.602 Exceptions." props="5103.602" base="NoTitle" audience="AFARS_5103.602" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5103.602.html" class="- map/topicref " />
       </topicref>
-      <topicref href="Subpart_5103..dita" navtitle="Subpart 5103. - 7 - Voiding and Rescinding Contracts" outputclass="SubPart" props="Subpart 5103." base="NoTitle" audience="AFARS_Subpart_5103." xtrf="SubPart" xtrc="AFARS_Subpart_5103..html" class="- map/topicref ">
-         <topicref href="5103.703.dita" navtitle="5103.703 Authority." props="5103.703" base="NoTitle" audience="AFARS_5103.703" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5103.703.html" class="- map/topicref " />
-         <topicref href="5103.704.dita" navtitle="5103.704 Policy." props="5103.704" base="NoTitle" audience="AFARS_5103.704" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5103.704.html" class="- map/topicref " />
+      <topicref href="Subpart_5103.7.dita"
+         navtitle="Subpart 5103.7 - Voiding and Rescinding Contracts" outputclass="SubPart"
+         props="Subpart 5103." base="NoTitle" audience="AFARS_Subpart_5103." xtrf="SubPart"
+         xtrc="AFARS_Subpart_5103..html" class="- map/topicref ">
+         <topicref href="5103.703.dita" navtitle="5103.703 Authority." props="5103.703"
+            base="NoTitle" audience="AFARS_5103.703" outputclass="subtopic" xtrf="subtopic"
+            xtrc="AFARS_5103.703.html" class="- map/topicref "/>
+         <topicref href="5103.704.dita" navtitle="5103.704 Policy." props="5103.704" base="NoTitle"
+            audience="AFARS_5103.704" outputclass="subtopic" xtrf="subtopic"
+            xtrc="AFARS_5103.704.html" class="- map/topicref "/>
       </topicref>
       <topicref href="Subpart_5103.9.dita" navtitle="Subpart 5103.9 - Whistleblower Protections for Contractor Employees" outputclass="SubPart" props="Subpart 5103.9" base="NoTitle" audience="AFARS_Subpart_5103.9" xtrf="SubPart" xtrc="AFARS_Subpart_5103.9.html" class="- map/topicref ">
          <topicref href="5103.905.dita" navtitle="5103.905 Procedures for investigating complaints." props="5103.905" base="NoTitle" audience="AFARS_5103.905" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5103.905.html" class="- map/topicref " />

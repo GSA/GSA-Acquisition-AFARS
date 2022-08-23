@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 3 heading">
       <ph props="autonumber">Small Business</ph> Participation Proposal</title>
    <conbody>
@@ -43,9 +43,9 @@
          <b>Example:</b> Victory Prop Mgt (WOSB and SDVOSB) performing 2%; and Williams Group (SDB, HubZ and WOSB) performing 3%. Results equate to: SB 5%; SDB 3%; HubZone 3%; WOSB 5%; SDVOSB 2%; VOSB 2%;). SDVOSBs are also VOSBs automatically; however VOSBs are not automatically SDVOSBs.</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="3">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -112,10 +112,10 @@
          <b>Example:</b> If a Small Business qualifies as a WOSB and a SDVOSB, you can add them to each category below in which they qualify.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
             <tbody>
                <row>
                   <entry>

@@ -1,195 +1,417 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-5" xml:lang="en-US">
-    <title outputclass="Heading 1 Subpart">
-        <ph props="autonumber" class="- topic/ph ">CHAPTER 5</ph>:  DEFINITIONS</title>
-    <conbody>
-        <p id="p_OLE_LINK4"><b><i>Affordability </i></b><b><i>Caps </i></b>are the approved cost
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 1 Subpart">
+      <ph props="autonumber">CHAPTER 5</ph>:  DEFINITIONS</title>
+   <conbody>
+      <p id="p_OLE_LINK4">
+         <b>
+            <i>Affordability </i>
+         </b>
+         <b>
+            <i>Caps </i>
+         </b>are the approved cost
             constraints for major systems acquisitions determined by the resources a DoD component
             can allocate, which provide a threshold for procurement and sustainment costs that
             cannot be exceeded. For other procurements, this is the approved funding allocated for a
             given acquisition.</p>
-        <p><b><i>Adverse past performance</i></b> is defined as past performance information that
+      <p>
+         <b>
+            <i>Adverse past performance</i>
+         </b> is defined as past performance information that
             supports a less than satisfactory rating on any evaluation. Adverse past performance
             that must be addressed with Offerors includes unfavorable comments received from sources
             such as those received from respondents from past performance questionnaires or
             interviews that have not been finalized within a formal rating system. A best practice
             can be to discuss adverse past performance which caused a rating to be lowered to
             Satisfactory Confidence.</p>
-        <p id="p__Toc307819182" outputclass="Normal"><b><i>Best Value</i></b><i> </i>is the expected
+      <p id="p__Toc307819182" outputclass="Normal">
+         <b>
+            <i>Best Value</i>
+         </b>
+         <i> </i>is the expected
             outcome of an acquisition that, in the Government’s estimation, provides the greatest
             overall benefit in response to the requirement. </p>
-        <p><b><i>Clarifications</i></b> are limited exchanges between the Government and Offerors
+      <p>
+         <b>
+            <i>Clarifications</i>
+         </b> are limited exchanges between the Government and Offerors
             that may occur when award without discussions is contemplated. </p>
-        <p><b><i>Communications</i></b> are exchanges, between the Government and Offerors, after
+      <p>
+         <b>
+            <i>Communications</i>
+         </b> are exchanges, between the Government and Offerors, after
             receipt of proposals, leading to establishment of the competitive range. </p>
-        <p><b><i>Competitive Range</i></b> is the range of proposals that are most highly rated,
+      <p>
+         <b>
+            <i>Competitive Range</i>
+         </b> is the range of proposals that are most highly rated,
             unless the range is further reduced for efficiency. Discussions will be held only with
             Offerors in the competitive range. See FAR 15.306(c). </p>
-        <p><b><i>Deficiency</i></b> is a material failure of a proposal to meet a Government
+      <p>
+         <b>
+            <i>Deficiency</i>
+         </b> is a material failure of a proposal to meet a Government
             requirement or a combination of significant weaknesses in a proposal that increases the
             risk of unsuccessful contract performance to an unacceptable level. See FAR 15.001. </p>
-        <p outputclass="Normal"><b><i>Discussions</i></b><b><i> </i></b>are exchanges (i.e.,
+      <p outputclass="Normal">
+         <b>
+            <i>Discussions</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>are exchanges (i.e.,
             negotiations) in a competitive environment that are undertaken with the intent of
             allowing the offeror to revise its proposal. Discussions take place after establishment
             of the competitive range. See FAR 15.306(d).</p>
-        <p><b><i>Due Diligence (Industry) </i></b><b><i>–</i></b><b><i> </i></b>The process followed
+      <p>
+         <b>
+            <i>Due Diligence (Industry) </i>
+         </b>
+         <b>
+            <i>–</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>The process followed
             by prospective contractors to fully understand the government requirement in order to
             submit a complete, responsive proposal to the government which will result in a
             successful acquisition. Methods may include such activities as conducting site visits,
             attending industry days, one-on-one sessions with the acquisition teams, pre-proposal
             conferences and responding to draft requests for proposals.</p>
-        <p><b><i>Due Diligence (Government)</i></b>
-            <b>–</b><b> </b>The process followed by the government acquisition team to ensure all
+      <p>
+         <b>
+            <i>Due Diligence (Government)</i>
+         </b>
+         <b>–</b>
+         <b> </b>The process followed by the government acquisition team to ensure all
             prospective contractors are as informed of the government requirement and method of
             acquisition as possible in order to receive a reasonable number of competitive proposals
             from industry. Methods may include such activities as providing for site visits,
             conducting industry days, one-on-one sessions with interested vendors, pre-proposal
             conferences and sending draft requests for proposals to industry.</p>
-        <p><b><i>Evaluation Findings</i></b><b> </b>are the evaluator’s<b> </b>written
+      <p>
+         <b>
+            <i>Evaluation Findings</i>
+         </b>
+         <b> </b>are the evaluator’s<b> </b>written
             observations/judgments regarding the individual merits of the proposal against the RFP
             requirements.</p>
-        <p outputclass="Normal"><b><i>Evaluation</i></b><b><i> </i></b><b><i>Notice </i></b>is the
+      <p outputclass="Normal">
+         <b>
+            <i>Evaluation</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>
+         <b>
+            <i>Notice </i>
+         </b>is the
             PCO’s written notification to the offeror for purposes of clarifications,
             communications, or discussions.</p>
-        <p outputclass="Normal"><b><i>Excesses</i></b><b><i> </i></b>are elements of the proposal
+      <p outputclass="Normal">
+         <b>
+            <i>Excesses</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>are elements of the proposal
             that have exceeded mandatory minimums (in ways that are not integral to the design)
             whose removal and corresponding price decrease may make an Offeror’s proposal more
             competitive. See FAR 15.306(d)(4).</p>
-        <p><b><i>Formal Source S</i></b><b><i>election</i></b> means the source selection process
+      <p>
+         <b>
+            <i>Formal Source S</i>
+         </b>
+         <b>
+            <i>election</i>
+         </b> means the source selection process
             used where someone other than the PCO is the SSA, normally for high dollar value or
             complex acquisitions. </p>
-        <p><b><i>Large Business</i></b><b> </b>means businesses determined other than Small Business
+      <p>
+         <b>
+            <i>Large Business</i>
+         </b>
+         <b> </b>means businesses determined other than Small Business
             based upon industry size standards and/or North American Industry Classification System
             [NAICs]. Includes: Large businesses, State and Local Government and non-profit
             companies. May also include: public utilities, educational institutions, and
             foreign-owned firms.</p>
-        <p><b><i>Lowest Price </i></b><b><i>Technically Acceptable</i></b> is a process used in
+      <p>
+         <b>
+            <i>Lowest Price </i>
+         </b>
+         <b>
+            <i>Technically Acceptable</i>
+         </b> is a process used in
             competitive negotiated contracting where the best value is expected to result from
             selection of the technically acceptable proposal with the lowest evaluated price. See
             FAR 15.101-2. </p>
-        <p><b><i>Minor or Clerical Error</i></b><b> </b>is a minor informality or irregularity that
+      <p>
+         <b>
+            <i>Minor or Clerical Error</i>
+         </b>
+         <b> </b>is a minor informality or irregularity that
             is merely a matter of form and not of substance or a clerical error apparent on its face
             in the proposal. Includes: obvious misplacement of decimal points, incorrect discounts,
             reversal of prices, and misdesignation of units.</p>
-        <p outputclass="Normal"><b><i>Objective (or objective (maximum)</i></b> as used in this
+      <p outputclass="Normal">
+         <b>
+            <i>Objective (or objective (maximum)</i>
+         </b> as used in this
             document) is the value of an attribute that is applicable when a higher level of
             performance delivers significant increased operational effect, or decreased operational
             risk, if it can be delivered below the affordability cap. The objective value is the
             desired operational goal that is achievable but may be at a higher risk in cost,
             schedule, and technology. (For use in VATEP)</p>
-        <p><b><i>Performance Confidence Assessment</i></b> is an evaluation of the likelihood (or
+      <p>
+         <b>
+            <i>Performance Confidence Assessment</i>
+         </b> is an evaluation of the likelihood (or
             Government’s confidence) that the offeror will successfully perform the RFP’s
             requirements; the evaluation is based past performance information. </p>
-        <p><b><i>Probable Cost </i></b>is the government’s best estimate of the costs that a
+      <p>
+         <b>
+            <i>Probable Cost </i>
+         </b>is the government’s best estimate of the costs that a
             contractor will incur in performing a cost-reimbursement contract (FAR 15.404-1(d)
             (2)(i)). The probable cost must be ascertained by making a cost realism analysis during
             the evaluation of each proposal and must be used in making the source selection decision
             for best value.</p>
-        <p><b><i>Program Manager or Requiring Activity</i></b> is the entity responsible for
+      <p>
+         <b>
+            <i>Program Manager or Requiring Activity</i>
+         </b> is the entity responsible for
             providing contract requirements documents within the RFP that communicate those
             requirements to the offeror. </p>
-        <p><b><i>Rating</i></b> is the adjective/color descriptor assigned by the evaluators to the
+      <p>
+         <b>
+            <i>Rating</i>
+         </b> is the adjective/color descriptor assigned by the evaluators to the
             non-Cost/Price Factors and corresponding Subfactors. It represents their conclusions as
             to the quality of the proposal, supported by narrative write-ups identifying the
             associated findings (strengths, weaknesses, deficiencies, risks, and uncertainties). </p>
-        <p><b><i>Recency</i></b>, as it pertains to past performance information, is a measure of
+      <p>
+         <b>
+            <i>Recency</i>
+         </b>, as it pertains to past performance information, is a measure of
             the time that has elapsed since the past performance reference occurred. Recency is
             generally expressed as a time period during which past performance references are
             considered relevant. </p>
-        <p><b><i>Relevancy</i></b>, as it pertains to past performance information, is a measure of
+      <p>
+         <b>
+            <i>Relevancy</i>
+         </b>, as it pertains to past performance information, is a measure of
             the extent of similarity between the service/support effort, complexity, dollar value,
             contract type, and subcontract/teaming or other comparable attributes of past
             performance examples and the source RFP requirements; and a measure of the likelihood
             that the past performance is an indicator of future performance. </p>
-        <p><b><i>Requirements Documents</i></b> are all aspects of the RFP that convey the needs of
+      <p>
+         <b>
+            <i>Requirements Documents</i>
+         </b> are all aspects of the RFP that convey the needs of
             the Government to offerors, including the Statement of Objectives, SOW, PWS, technical
             requirement documents, and system requirement documents. </p>
-        <p><b><i>Risk</i></b>, as it pertains to source selection, is the potential for unsuccessful
+      <p>
+         <b>
+            <i>Risk</i>
+         </b>, as it pertains to source selection, is the potential for unsuccessful
             contract performance. The consideration of risk assesses the degree to which an
             offeror’s proposed approach to achieving the technical factor or subfactor may involve
             risk of disruption of schedule, increased cost or degradation of performance, the need
             for increased Government oversight, and the likelihood of unsuccessful contract
             performance. (For firm-fixed-price contracts, the reference to increased cost may be
             removed from the risk definition.) </p>
-        <p><b><i>Sample Task </i></b>is a hypothetical task that is given to Offerors during source
+      <p>
+         <b>
+            <i>Sample Task </i>
+         </b>is a hypothetical task that is given to Offerors during source
             selection to evaluate their understanding of the work and their ability to perform the
             work. It must be a reasonable representative of the type of work that will be required.
             Some rates used to price the task order must be binding on the contractor for the sample
             to be valid. (Incorporation of binding rates also applies to any live/real task
             order.)</p>
-        <p><b><i>Significant Strength</i></b><b> </b>is an aspect of an Offeror’s proposal that has
+      <p>
+         <b>
+            <i>Significant Strength</i>
+         </b>
+         <b> </b>is an aspect of an Offeror’s proposal that has
             appreciable merit or appreciably exceeds specified performance or capability
             requirements in a way that will be appreciably advantageous to the Government during
             contract performance. </p>
-        <p outputclass="Normal"><b><i>Significant</i></b><b><i> </i></b><b><i>Weakness</i></b><b><i> </i></b>in the proposal is a flaw that
+      <p outputclass="Normal">
+         <b>
+            <i>Significant</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>
+         <b>
+            <i>Weakness</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>in the proposal is a flaw that
             appreciably increases the risk of unsuccessful contract performance. See FAR 15.001.</p>
-        <p><b><i>Source Selection </i></b>is the process used in competitive, negotiated contracting
+      <p>
+         <b>
+            <i>Source Selection </i>
+         </b>is the process used in competitive, negotiated contracting
             to select the proposal that offers the best value to the Government. </p>
-        <p outputclass="Normal"><b><i>Source Selection</i></b><b><i> </i></b><b><i>Advisory
-                    </i></b><b><i>Council</i></b><b><i> </i></b><b><i> </i></b>is a group of senior
+      <p outputclass="Normal">
+         <b>
+            <i>Source Selection</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>
+         <b>
+            <i>Advisory
+                    </i>
+         </b>
+         <b>
+            <i>Council</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>
+         <b>
+            <i> </i>
+         </b>is a group of senior
             Government personnel, appointed by the SSA, that provides counsel during the source
             selection process, prepares the comparative analysis of the SSEB's final evaluation
             results, and makes an award recommendation to the SSA.</p>
-        <p><b><i>Source Selection Authority </i></b>is the official designated to make the source
+      <p>
+         <b>
+            <i>Source Selection Authority </i>
+         </b>is the official designated to make the source
             selection decision. </p>
-        <p><b><i>Source Selection Decision Document </i></b>is the document that reflects the SSA's
+      <p>
+         <b>
+            <i>Source Selection Decision Document </i>
+         </b>is the document that reflects the SSA's
             independent, integrated, comparative assessment and decision. </p>
-        <p><b><i>Source Selection Evaluation Board </i></b>is a group of individuals representing
+      <p>
+         <b>
+            <i>Source Selection Evaluation Board </i>
+         </b>is a group of individuals representing
             the various functional disciplines relevant to the acquisition, and is responsible for
             evaluating proposals against the solicitation criteria. </p>
-        <p outputclass="Normal"><b><i>Source Selection</i></b><b><i> </i></b><b><i>Information</i></b><b><i> </i></b>is information prepared for use by
+      <p outputclass="Normal">
+         <b>
+            <i>Source Selection</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>
+         <b>
+            <i>Information</i>
+         </b>
+         <b>
+            <i> </i>
+         </b>is information prepared for use by
             an agency for the purpose of evaluating a bid or proposal to enter into an agency
             procurement contract, if that information has not been previously made available to the
             public or disclosed publicly. See FAR 2.101 for a listing of source selection
             information.</p>
-        <p><b><i>Source Selection Plan </i></b><b><i> </i></b> is a plan that describes how the
+      <p>
+         <b>
+            <i>Source Selection Plan </i>
+         </b>
+         <b>
+            <i> </i>
+         </b> is a plan that describes how the
             source selection will be organized, how proposals will be evaluated and analyzed, and
             how source(s) will be selected. </p>
-        <p><b><i>Source </i></b><b><i>S</i></b><b><i>election
-                    </i></b><b><i>P</i></b><b><i>rocedures</i></b> are designed to: (1) maximize
+      <p>
+         <b>
+            <i>Source </i>
+         </b>
+         <b>
+            <i>S</i>
+         </b>
+         <b>
+            <i>election
+                    </i>
+         </b>
+         <b>
+            <i>P</i>
+         </b>
+         <b>
+            <i>rocedures</i>
+         </b> are designed to: (1) maximize
             competition; (2) minimize the complexity of the solicitation, evaluation and selection
             process; (3) ensure impartial and comprehensive evaluation of proposals; and (4) ensure
             selection of the source whose proposal is the most advantageous and realistic and whose
             performance is expected best meet the government’s stated requirements.</p>
-        <p><b><i>Source Selection Team </i></b>is a team that is tailored to the unique acquisition,
+      <p>
+         <b>
+            <i>Source Selection Team </i>
+         </b>is a team that is tailored to the unique acquisition,
             tasked with carrying out a source selection. Composition of the team generally consists
             of the SSA, PCO (if different from the SSA), SSAC, SSEB, Advisors, Cost/Price Experts,
             Legal Counsel, Small Business Specialists, and other subject-matter experts. </p>
-        <p><b><i>Standard of Proof </i></b>is the evidence or standard by which the Government
+      <p>
+         <b>
+            <i>Standard of Proof </i>
+         </b>is the evidence or standard by which the Government
             (evaluator) determines whether an Offeror has complied with the Government’s stated
             requirement. </p>
-        <p><b><i>Strength</i></b> is an aspect of an Offeror’s proposal that has merit or exceeds
+      <p>
+         <b>
+            <i>Strength</i>
+         </b> is an aspect of an Offeror’s proposal that has merit or exceeds
             specified performance or capability requirements in a way that will be advantageous to
             the Government during contract performance.</p>
-        <p><b><i>Subjective Tradeoff </i></b>is a source selection process used when it may be in
+      <p>
+         <b>
+            <i>Subjective Tradeoff </i>
+         </b>is a source selection process used when it may be in
             the best interest of the Government to consider award to other than the lowest priced
             Offeror or other than the highest technically rated Offeror but it is not possible to
             place a quantifiable value on proposed performance or capabilities above threshold
             (minimum) requirements (see DOD Source Selection Procedures paragraph 1.3.1.3.</p>
-        <p><b><i>Terms and Conditions Concerns </i></b>are issues related to any of the contract
+      <p>
+         <b>
+            <i>Terms and Conditions Concerns </i>
+         </b>are issues related to any of the contract
             provisions in the RFP.</p>
-        <p outputclass="Normal"><b><i>Threshold (or Threshold (minimum)) as used in this document) </i></b>is the
+      <p outputclass="Normal">
+         <b>
+            <i>Threshold (or Threshold (minimum)) as used in this document) </i>
+         </b>is the
             minimum acceptable value of an attribute that is considered achievable within the
             available cost, schedule, and technology at low-to-moderate risk. Performance below the
             threshold value is not operationally effective or suitable or may not provide an
             improvement over current capabilities. (See also “mandatory minimums” in FAR
             15.306(d)(4).)</p>
-        <p outputclass="Normal"><b><i>Tradeoff Process </i></b>is the competitive negotiation
+      <p outputclass="Normal">
+         <b>
+            <i>Tradeoff Process </i>
+         </b>is the competitive negotiation
             process where the government evaluates both cost/price and non-cost/price factors and
             awards the contract to the offeror proposing the combination of factors which offer the
             best value to the government. The process is appropriate when it is in the government’s
             best interest to consider award to other than the lowest priced offeror or the highest
             technically rated offeror. </p>
-        <p><b><i>Uncertainty </i></b>is any aspect of a non-cost/price factor proposal for which the
+      <p>
+         <b>
+            <i>Uncertainty </i>
+         </b>is any aspect of a non-cost/price factor proposal for which the
             intent of the offer is unclear (e.g. more than one way to interpret the offer or
             inconsistencies in the proposal indicating that there may have been an error, omission,
             or mistake).</p>
-        <p outputclass="Normal"><b><i>Value Adjusted Total Evaluated Price </i></b>is a tradeoff source selection process where the
+      <p outputclass="Normal">
+         <b>
+            <i>Value Adjusted Total Evaluated Price </i>
+         </b>is a tradeoff source selection process where the
             Offeror’s total proposed price may be adjusted based on the “value” placed on better
             performance as identified in the RFP. The SSA must then determine if a higher rated
             technical offer is “worth” the additional cost to the Government.</p>
-        <p><b><i>Weakness</i></b> is a flaw in the proposal that increases the risk of unsuccessful
+      <p>
+         <b>
+            <i>Weakness</i>
+         </b> is a flaw in the proposal that increases the risk of unsuccessful
             contract performance. See FAR 15.001</p>
-    </conbody>
+   </conbody>
 </concept>

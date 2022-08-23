@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5136.2132" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5136.213-2</ph> Presolicitation notices.</title><conbody><p outputclass="List1">(a)  The head of the contracting activity may waive the requirement as stated in FAR 36.213-2(a).  See Appendix GG for further delegation.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5136.2132" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5136.213-2</ph> Presolicitation notices.</title>
+   <conbody>
+      <p outputclass="List1">(a)  The head of the contracting activity may waive the requirement as stated in FAR 36.213-2(a).  See Appendix GG for further delegation.</p>
+   </conbody>
+</concept>

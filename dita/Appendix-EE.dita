@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_Appendix-EE">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> EE</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_Appendix-EE" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">APPENDIX - EE</ph> Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE_DOTAGPCOP.dita#AFARS_Appendix-EE_DOTAGPCOP">DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD
-      OPERATING PROCEDURES</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE_DOTAGPCOP.dita#AFARS_Appendix-EE_DOTAGPCOP">DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD OPERATING PROCEDURES</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-1.dita#AFARS_Appendix-EE_Chapter-1">Chapter 1: The Government Purchase Card Program</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE_Chapter-1.dita#AFARS_Appendix-EE_Chapter-1">Chapter 1: The Government Purchase Card Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -64,8 +60,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-2.dita#AFARS_Appendix-EE_Chapter-2">Chapter 2: Establishing and Maintaining a GPC Account</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE_Chapter-2.dita#AFARS_Appendix-EE_Chapter-2">Chapter 2: Establishing and Maintaining a GPC Account</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -107,8 +102,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-3.dita#AFARS_Appendix-EE_Chapter-3">Chapter 3: Operational Guidance and Procedures</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE_Chapter-3.dita#AFARS_Appendix-EE_Chapter-3">Chapter 3: Operational Guidance and Procedures</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -148,7 +142,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-8.dita#AFARS_Appendix-EE_3-8">3-8. Tax–Exempt Status</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-8.dita#AFARS_Appendix-EE_3-8">3-8. Tax-Exempt Status</xref>
                      </p>
                   </li>
                   <li>
@@ -158,52 +152,44 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-10.dita#AFARS_Appendix-EE_3-10">3-10. Property Accountability</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-10.dita#AFARS_Appendix-EE_3-10">3-10. Property Accountability</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-11.dita#AFARS_Appendix-EE_3-11">3-11. Statement Reconciliation and Certification</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-11.dita#AFARS_Appendix-EE_3-11">3-11. Statement Reconciliation and Certification</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-12.dita#AFARS_Appendix-EE_3-12">3-12. Confirm and Pay</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-12.dita#AFARS_Appendix-EE_3-12">3-12. Confirm and Pay</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-13.dita#AFARS_Appendix-EE_3-13">3-13. File Retention</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-13.dita#AFARS_Appendix-EE_3-13">3-13. File Retention</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-14.dita#AFARS_Appendix-EE_3-14">3-14. Convenience Checks and Foreign Draft Checks</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-14.dita#AFARS_Appendix-EE_3-14">3-14. Convenience Checks and Foreign Draft Checks</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-15.dita#AFARS_Appendix-EE_3-15">3-15. Office Supply Blanket Purchase Agreements (BPAs)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-15.dita#AFARS_Appendix-EE_3-15">3-15. Office Supply Blanket Purchase Agreements (BPAs)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-16.dita#AFARS_Appendix-EE_3-16">3-16. Rebates/Credits</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-16.dita#AFARS_Appendix-EE_3-16">3-16. Rebates/Credits</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-4.dita#AFARS_Appendix-EE_Chapter-4">Chapter 4: Management Controls and Program Oversight</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE_Chapter-4.dita#AFARS_Appendix-EE_Chapter-4">Chapter 4: Management Controls and Program Oversight</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -235,63 +221,52 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-A.dita#AFARS_Appendix-EE-Appendix-A">Appendix A: Best Practices</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-A.dita#AFARS_Appendix-EE-Appendix-A">Appendix A: Best Practices Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-B.dita#AFARS_Appendix-EE-Appendix-B">Appendix B: References</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-B.dita#AFARS_Appendix-EE-Appendix-B">Appendix B: References Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-C.dita#AFARS_Appendix-EE-Appendix-C">Appendix C: Prohibited Purchases</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-C.dita#AFARS_Appendix-EE-Appendix-C">Appendix C: Prohibited Purchases Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-D.dita#AFARS_Appendix-EE-Appendix-D">Appendix D: Department of Defense
-        (DoD) Purchase Card Checklist and Certification Template</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-D.dita#AFARS_Appendix-EE-Appendix-D">Appendix D: Department of Defense (DoD) Purchase Card Checklist and Certification Template Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-E.dita#AFARS_Appendix-EE-Appendix-E">Appendix E: DD Form 577 for Appointing a Certifying Officer </xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-E.dita#AFARS_Appendix-EE-Appendix-E">Appendix E: DD Form 577 for Appointing a Certifying Officer Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-F.dita#AFARS_Appendix-EE-Appendix-F">Appendix F: Sample GPC Appointment Letters</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-F.dita#AFARS_Appendix-EE-Appendix-F">Appendix F: Sample GPC Appointment Letters Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-G.dita#AFARS_Appendix-EE-Appendix-G">Appendix G: Formal Reporting Requirements</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-G.dita#AFARS_Appendix-EE-Appendix-G">Appendix G: Formal Reporting Requirements Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-H.dita#AFARS_Appendix-EE-Appendix-H">Appendix H: Semi–Annual Surveillance Report Template</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-H.dita#AFARS_Appendix-EE-Appendix-H">Appendix H: Semi-Annual Surveillance Report Template Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-I.dita#AFARS_Appendix-EE-Appendix-I">Appendix I: GPC Thresholds</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-I.dita#AFARS_Appendix-EE-Appendix-I">Appendix I: GPC Thresholds Table Of Contents</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-EE-Appendix-J.dita#AFARS_Appendix-EE-Appendix-J">Appendix J: Glossary – Sections I and II</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-EE-Appendix-J.dita#AFARS_Appendix-EE-Appendix-J">Appendix J: Glossary - Sections I and II Table Of Contents</xref>
                </p>
             </li>
          </ul>

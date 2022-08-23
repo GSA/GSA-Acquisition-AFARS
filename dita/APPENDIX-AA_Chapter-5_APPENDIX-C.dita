@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
-      <ph props="autonumber">APPENDIX</ph> C</title>
+      <ph props="autonumber">APPENDIX C</ph> Table Of Contents</title>
    <conbody>
       <p id="LREUrX" outputclass="Ctr normal">
          <b>Lowest Price</b>
@@ -81,8 +81,8 @@
       <p id="kuOpnJ" outputclass="Normal">No matter whether using Tradeoff or LPTA, the focus should always be on identifying the key discriminators based upon market research and the assessment of risk. Risk, as it pertains to source selection, is the potential for unsuccessful contract performance. Increased risk comes with numerous possible complicating factors including:</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -157,7 +157,7 @@
       <p id="sXtpSi" outputclass="Normal">Identifying key discriminators that are linked to the critical requirements where key risks lie is one of the most important steps in the process of determining the right process to achieve best value.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="1" colsep="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -209,8 +209,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -278,10 +278,10 @@
       <p id="terSDer"></p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -343,8 +343,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -440,8 +440,8 @@
       </table>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -514,8 +514,8 @@
       </table>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -610,8 +610,8 @@
       </table>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -694,8 +694,8 @@
          <b>Rating Methodologies.</b> Tradeoff and LPTA each have a unique rating methodology as summarized below.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -840,8 +840,8 @@
       <p id="FzxWMO" outputclass="Normal">It is important to understand and consider the benefits and possible down-sides of each approach in order to ensure you select the one that will help you achieve best value for the customer/program. Below are some of the common concerns.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -927,7 +927,7 @@
       <p id="StXXqC" outputclass="Normal">Below are some general tips and agreed-upon best practices to guide application of LPTA techniques.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="1" colsep="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -1011,9 +1011,9 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
             <thead>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -1124,7 +1124,7 @@
          </b>
       </p>
       <p id="imfDsd">
-         <image  href="Graphics/image7.png" scale="70" />
+         <image href="Graphics/image7.png" scale="70" placement="inline" />
       </p>
       <p id="PaJxSA" outputclass="Normal"></p>
       <p id="nsBjZz" outputclass="Normal">
@@ -1140,11 +1140,11 @@
       <p id="pGjZMK" outputclass="Normal">Use a checklist or evaluation form such as the one below:</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry morerows="1">
@@ -1305,7 +1305,7 @@
       <p id="Wkqjbi" outputclass="Normal"></p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -1330,7 +1330,7 @@
       <p id="3ty5rz01" outputclass="Normal">Evaluation narrative write-up below provides an example of both ‘Acceptable” and “Unacceptable” proposal responses:</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -1346,12 +1346,12 @@
       <p id="7xvl3qo7" outputclass="Normal"></p>
       <table colsep="1" rowsep="1">
          <tgroup cols="6" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
-            <colspec colname="6" colnum="6" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="6" namest="1">

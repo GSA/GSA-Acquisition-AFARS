@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_Appendix-CC-401" xml:lang="en-US">
-    <title outputclass="Heading 4"><ph props="autonumber" class="- topic/ph ">CC-401</ph> Types of Procurement Management Reviews. </title>
-    <conbody>
-        <p>The PMR is a tiered program that includes the following:</p>
-        <p>(a) PMR reviews by the Office of the DASA(P) (ODASA(P)) to Army Headquarters offices for
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-CC-401" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">CC-401</ph> Types of Procurement Management Reviews.</title>
+   <conbody>
+      <p>The PMR is a tiered program that includes the following:</p>
+      <p>(a) PMR reviews by the Office of the DASA(P) (ODASA(P)) to Army Headquarters offices for
             contracting, Army contracting Commands/Activities, and Offices of the Senior Contracting
             Official (OSCOs). OSCOs not directly involved in the execution of contracts will propose
             a subordinate contracting activity for supplemental review.</p>
-        <p>(b) PMR reviews by the HCA to Offices of the Directors of Contracting and other
+      <p>(b) PMR reviews by the HCA to Offices of the Directors of Contracting and other
             subordinate contracting offices.</p>
-        <p>(c) PMR reviews by the Directors of Contracting to subordinate contracting offices.</p>
-        <p>(d) Special assistance, review and assessment, Army-wide, as required.</p>
-    </conbody>
+      <p>(c) PMR reviews by the Directors of Contracting to subordinate contracting offices.</p>
+      <p>(d) Special assistance, review and assessment, Army-wide, as required.</p>
+   </conbody>
 </concept>

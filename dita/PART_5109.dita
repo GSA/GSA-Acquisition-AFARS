@@ -1,188 +1,189 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5109" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5109</ph> Contractor Qualifications</title>
-      <body class="- topic/body ">
-         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">(Revised 30 March 2022)</i></p>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5109.1.dita#AFARS_Subpart_5109.1" class="- topic/xref ">Subpart 5109.1 – Responsible Prospective Contractors</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5109" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5109</ph> - Contractor Qualifications</title>
+      <body>
+         <p>
+            <i>(Revised 30 March 2022)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5109.1.dita#AFARS_Subpart_5109.1">Subpart 5109.1 - Responsible Prospective Contractors</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.103.dita#AFARS_5109.103" class="- topic/xref ">5109.103 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.103.dita#AFARS_5109.103">5109.103 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.104.dita#AFARS_5109.104" class="- topic/xref ">5109.104 Standards.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.104.dita#AFARS_5109.104">5109.104 Standards.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.1045.dita#AFARS_5109.1045" class="- topic/xref ">5109.104-5 Representation and certifications regarding responsibility matters.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.1045.dita#AFARS_5109.1045">5109.104-5 Representation and certifications regarding responsibility matters.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.105.dita#AFARS_5109.105" class="- topic/xref ">5109.105 Procedures.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.105.dita#AFARS_5109.105">5109.105 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.1052.dita#AFARS_5109.1052" class="- topic/xref ">5109.105-2 Determinations and documentation.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.1052.dita#AFARS_5109.1052">5109.105-2 Determinations and documentation.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.108.dita#AFARS_5109.108" class="- topic/xref ">5109.108 Prohibition on contracting with inverted domestic corporations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.108.dita#AFARS_5109.108">5109.108 Prohibition on contracting with inverted domestic corporations.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.1084.dita#AFARS_5109.1084" class="- topic/xref ">5109.108-4 Waiver.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.1084.dita#AFARS_5109.1084">5109.108-4 Waiver.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5109.2.dita#AFARS_Subpart_5109.2" class="- topic/xref ">Subpart 5109.2 – Qualifications Requirements</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5109.2.dita#AFARS_Subpart_5109.2">Subpart 5109.2 - Qualifications Requirements</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.202.dita#AFARS_5109.202" class="- topic/xref ">5109.202 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.202.dita#AFARS_5109.202">5109.202 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.206.dita#AFARS_5109.206" class="- topic/xref ">5109.206 Acquisitions subject to qualification requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.206.dita#AFARS_5109.206">5109.206 Acquisitions subject to qualification requirements.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.2061.dita#AFARS_5109.2061" class="- topic/xref ">5109.206-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.2061.dita#AFARS_5109.2061">5109.206-1 General.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.270.dita#AFARS_5109.270" class="- topic/xref ">5109.270 Aviation and ship critical safety items.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.270.dita#AFARS_5109.270">5109.270 Aviation and ship critical safety items.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.2703.dita#AFARS_5109.2703" class="- topic/xref ">5109.270-3 Policy.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.2703.dita#AFARS_5109.2703">5109.270-3 Policy.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5109.4.dita#AFARS_Subpart_5109.4" class="- topic/xref ">Subpart 5109.4 – Debarment, Suspension, and Ineligibility</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5109.4.dita#AFARS_Subpart_5109.4">Subpart 5109.4 - Debarment, Suspension, and Ineligibility</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.402.dita#AFARS_5109.402" class="- topic/xref ">5109.402 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.402.dita#AFARS_5109.402">5109.402 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.403.dita#AFARS_5109.403" class="- topic/xref ">5109.403 Definitions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.403.dita#AFARS_5109.403">5109.403 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.404.dita#AFARS_5109.404" class="- topic/xref ">5109.404 System for award management exclusions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.404.dita#AFARS_5109.404">5109.404 System for award management exclusions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.405.dita#AFARS_5109.405" class="- topic/xref ">5109.405 Effect of listing.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.405.dita#AFARS_5109.405">5109.405 Effect of listing.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.4051.dita#AFARS_5109.4051" class="- topic/xref ">5109.405-1 Continuation of current contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.4051.dita#AFARS_5109.4051">5109.405-1 Continuation of current contracts.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.4052.dita#AFARS_5109.4052" class="- topic/xref ">5109.405-2 Restrictions on subcontracting.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.406.dita#AFARS_5109.406" class="- topic/xref ">5109.406 Debarment.</xref>
-                     </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.4061.dita#AFARS_5109.4061" class="- topic/xref ">5109.406-1 General.</xref>
-                           </p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.4063.dita#AFARS_5109.4063" class="- topic/xref ">5109.406-3 Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.4052.dita#AFARS_5109.4052">5109.405-2 Restrictions on subcontracting.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.407.dita#AFARS_5109.407" class="- topic/xref ">5109.407 Suspension.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.406.dita#AFARS_5109.406">5109.406 Debarment.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.4071.dita#AFARS_5109.4071" class="- topic/xref ">5109.407-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.4061.dita#AFARS_5109.4061">5109.406-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5109.4073.dita#AFARS_5109.4073" class="- topic/xref ">5109.407-3 Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.4063.dita#AFARS_5109.4063">5109.406-3 Procedures.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.407.dita#AFARS_5109.407">5109.407 Suspension.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.4071.dita#AFARS_5109.4071">5109.407-1 General.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5109.4073.dita#AFARS_5109.4073">5109.407-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5109.5.dita#AFARS_Subpart_5109.5" class="- topic/xref ">Subpart 5109.5 – Organizational and Consultant Conflicts of Interests</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5109.5.dita#AFARS_Subpart_5109.5">Subpart 5109.5 - Organizational and Consultant Conflicts of Interests</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.503.dita#AFARS_5109.503" class="- topic/xref ">5109.503 Waiver.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.503.dita#AFARS_5109.503">5109.503 Waiver.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.504.dita#AFARS_5109.504" class="- topic/xref ">5109.504 Contracting officers responsibilities.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.504.dita#AFARS_5109.504">5109.504 Contracting officers responsibilities.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5109.506.dita#AFARS_5109.506" class="- topic/xref ">5109.506 Procedures.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5109.506.dita#AFARS_5109.506">5109.506 Procedures.</xref>
                      </p>
                   </li>
                </ul>

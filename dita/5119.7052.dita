@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5119.7052" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5119.705-2</ph> Determining the need for a subcontracting plan.</title><conbody><p outputclass="List1">(d)  When FAR 19.705-2(d) applies, contracting officers shall include a notice in Section L or the Instruction to Offerors section of the solicitation to instruct offerors classified as an other than small business when to submit subcontracting plans, whether with their initial proposals or at another time prior to award as determined by the contracting officer.  For information on small business participation proposals, see 5115.304, Evaluation factors and significant subfactors.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5119.7052" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5119.705-2</ph> Determining the need for a subcontracting plan.</title>
+   <conbody>
+      <p outputclass="List1">(d)  When FAR 19.705-2(d) applies, contracting officers shall include a notice in Section L or the Instruction to Offerors section of the solicitation to instruct offerors classified as an other than small business when to submit subcontracting plans, whether with their initial proposals or at another time prior to award as determined by the contracting officer.  For information on small business participation proposals, see 5115.304, Evaluation factors and significant subfactors.</p>
+   </conbody>
+</concept>

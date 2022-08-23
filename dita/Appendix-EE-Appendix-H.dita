@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_Appendix-EE-Appendix-H">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-H" ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 Heading">
-      <ph props="autonumber">Appendix H</ph>: Semi–Annual Surveillance Report Template</title>
+      <ph props="autonumber">Appendix H: Semi-Annual Surveillance Report Template</ph> Table Of Contents</title>
    <conbody>
       <p id="SNyKNZ" outputclass="Normal">MEMORANDUM FOR ARMY LEVEL II A/OPC <i>
             <u>insert Level 2 A/OPC</u>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
-      <ph props="autonumber" class="- topic/ph ">APPENDIX</ph> B</title>
+      <ph props="autonumber">APPENDIX B</ph> Table Of Contents</title>
    <conbody>
       <p id="zLnlPK" outputclass="Ctr normal">
          <b>Tradeoff Source Selection Process:</b>
@@ -72,11 +72,11 @@
          <b>:</b> At the end of the paragraph, “Basis of Award”, insert the following language:This RFP employs the use of Value Adjusted Total Evaluated Price (VATEP) techniques which identifies, in advance, the value placed on above-threshold performance or capabilities in the Air Movement Mission-Range and Payload, Self-Deployment, and/or Cruise Airspeed requirements. The specific VATEP procedures and values for this effort are set forth below:If an offeror’s proposal exceeds the mandatory minimum performance specifications for the Air Movement Mission-Range and Payload, Self-Deployment Mission, and/or Cruise Airspeed requirements set forth in the Air Vehicle technical subfactor, the following VATEP procedures will be applied:An offeror can earn VATEP evaluation credit for meeting performance between the threshold and objective for the Air Movement Mission-Range and Payload and/or Cruise Airspeed requirements. An offeror can also earn VATEP evaluation credit for meeting the objective for the Self-Deployment Mission. The VATEP eligible objectives shall be embodied in the FUA Aircraft and also priced and delivered in Contract Line Item Number (CLIN) X001AA.The offeror’s total evaluated price for CLIN X001AA will be adjusted, for evaluation purposes only, in accordance with the chart below where above-threshold performance has been achieved for any of the three objectives identified. The VATEP objectives must be available on the first aircraft in order to be eligible for VATEP evaluation credit. Risk will not be assessed in VATEP since risk was already assessed in the Air Vehicle subfactor.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -206,7 +206,7 @@
          </li>
       </ul>
       <p id="IvuWtW" outputclass="Normal">
-         <image height="91.65mm" href="Graphics/image3.jpeg" width="165.10mm" />
+         <image height="91.65mm" href="Graphics/image3.jpeg" width="165.10mm" placement="inline" />
       </p>
       <p id="KMErqH" outputclass="Normal">
          <b>Requiremen</b>t: The US Government (USG) is soliciting for a large equipment trailer (LET). The LET has a rated payload of a minimum of 80,000 lbs (40 tons), with an objective payload of 85,000 lbs (42.5 tons). The LET is to be used to transport a variety of equipment. The LET will be employed for use on primary and secondary roads. The payload objective will be used to determine a Value Adjusted Total Evaluated Price (VATEP).</p>
@@ -217,11 +217,11 @@
       <p id="eZNUwp" outputclass="Normal">This RFP employs the use of the Value Adjusted Total Evaluated Price (VATEP) technique, which identifies in advance the value placed on above-threshold performance for the payload requirement. The specific VATEP procedures and value for this effort are set forth below.The Offeror’s total proposed price will be adjusted to arrive at a total evaluated price, for evaluation purposes only, in accordance with the chart below where above-threshold performance has been achieved for the payload requirement. The VATEP objective must be available on the first LET in order to be eligible for VATEP evaluation credit. Risk will not be assessed in VATEP. For each 50 lbs of increased payload, the total evaluated price (TEP) will be reduced by $1,000, for a maximum adjustment to TEP of $100,000. No credit will be provided above the maximum for performance over the objective.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>

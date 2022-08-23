@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_5153.3031">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.3031" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
-      <ph props="autonumber">5153.303-1</ph> Sample contracting officer’s representative (COR) designation.</title>
+      <ph props="autonumber">5153.303-1</ph> Sample contracting officers representative (COR) designation.</title>
    <conbody>
       <p id="CLUjog" outputclass="Normal">
          <b>Subject:</b> Designation of Contracting Officer’s Representative (COR) for Contract (Enter number.).</p>
@@ -45,8 +45,8 @@
       <p id="WNLgft" outputclass="Normal">Receipt of this designation is acknowledged.</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" />
-            <colspec colname="2" colnum="2" colwidth="50*" />
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>

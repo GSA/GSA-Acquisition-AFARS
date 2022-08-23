@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_Appendix-CC-304" xml:lang="en-US">
-    <title outputclass="Heading 4"><ph props="autonumber" class="- topic/ph ">CC-304</ph> Heads of Contracting Activities.</title>
-    <conbody>
-        <p>HCAs shall –</p>
-        <p>(a) Execute the Army PMR program under the direction of the DASA(P) to ensure fulfillment
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-CC-304" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">CC-304</ph> Heads of Contracting Activities.</title>
+   <conbody>
+      <p>HCAs shall –</p>
+      <p>(a) Execute the Army PMR program under the direction of the DASA(P) to ensure fulfillment
             of HCA responsibilities for a responsive and cost-effective contracting system, and
             review contracting compliance with FAR, DFARS, AFARS, Command Supplements, and DA Policy
             consistent with DA PMR objectives and DASA(P) special areas of interest;</p>
-        <p>(b) Designate a senior representative from their staff to act as their representative on
+      <p>(b) Designate a senior representative from their staff to act as their representative on
             the Army’s PMR Advisory Working Group; </p>
-        <p>(c) Provide supplemental staff support as required to conduct DA-level reviews; and</p>
-        <p>(d) Identify and communicate procurement trends, best practices, lessons learned, and
+      <p>(c) Provide supplemental staff support as required to conduct DA-level reviews; and</p>
+      <p>(d) Identify and communicate procurement trends, best practices, lessons learned, and
             information to SAAL-PR.</p>
-    </conbody>
+   </conbody>
 </concept>

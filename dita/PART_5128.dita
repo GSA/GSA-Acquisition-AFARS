@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_PART_5128">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5128</ph> Bonds and Insurance</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5128" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5128</ph> - Bonds and Insurance</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5128.1.dita#AFARS_Subpart_5128.1">Subpart 5128.1 – Bonds and Other Financial Protections</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5128.1.dita#AFARS_Subpart_5128.1">Subpart 5128.1 - Bonds and Other Financial Protections</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -50,7 +49,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5128.2.dita#AFARS_Subpart_5128.2">Subpart 5128.2 – Sureties and Other Security for Bonds</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5128.2.dita#AFARS_Subpart_5128.2">Subpart 5128.2 - Sureties and Other Security for Bonds</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -86,7 +85,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5128.3.dita#AFARS_Subpart_5128.3">Subpart 5128.3 – Insurance</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5128.3.dita#AFARS_Subpart_5128.3">Subpart 5128.3 - Insurance</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -101,7 +100,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5128.307.dita#AFARS_5128.307">5128.307 Insurance under cost–reimbursement contracts.</xref>
+                        <xref outputclass="fm:TOC" href="5128.307.dita#AFARS_5128.307">5128.307 Insurance under cost-reimbursement contracts.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -113,7 +112,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="5128.311.dita#AFARS_5128.311">5128.311 Solicitation provision and contract clause on liability insurance under cost–reimbursement contracts.</xref>
+                        <xref outputclass="fm:TOC" href="5128.311.dita#AFARS_5128.311">5128.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>

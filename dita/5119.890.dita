@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5119.890" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5119.890</ph> Notification of award.</title><conbody><p outputclass="Normal">Immediately after award of any 8(a) contract, the contracting officer must notify the contracting activity small business specialist and the cognizant SBA office.  Notification will include the 8(a) firm’s name, address, CAGE code, a description of the supplies or services, the quantity, dollar value, date of award and contract number.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5119.890" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5119.890</ph> Notification of award.</title>
+   <conbody>
+      <p outputclass="Normal">Immediately after award of any 8(a) contract, the contracting officer must notify the contracting activity small business specialist and the cognizant SBA office.  Notification will include the 8(a) firm’s name, address, CAGE code, a description of the supplies or services, the quantity, dollar value, date of award and contract number.</p>
+   </conbody>
+</concept>

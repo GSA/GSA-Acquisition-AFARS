@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5125.202" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5125.202</ph> Exceptions.</title><conbody><p outputclass="List1">(a)(1)  <i>Impracticable</i><i> or inconsistent with public interest.</i>  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) has delegated to the Deputy Assistant Secretary of the Army (Procurement) and the Head of the Contracting Activity (HCA), United States Army Corps of Engineers (USACE), without power to delegate further, authority to determine that the use of a particular domestic construction material is impracticable.  Determinations that application of the act would be inconsistent with the public interest are reserved for the Assistant Secretary of the Army (Acquisition, Logistics and Technology).  See Appendix GG.</p><p outputclass="List2">(2)  <i>Nonavailability.</i>    For other materials, a nonavailability determination shall be approved at the levels specified in AFARS 5125.103(b)(ii). </p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5125.202" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5125.202</ph> Exceptions.</title>
+   <conbody>
+      <p outputclass="List1">(a)(1)  <i>Impracticable</i>
+         <i> or inconsistent with public interest.</i>  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) has delegated to the Deputy Assistant Secretary of the Army (Procurement) and the Head of the Contracting Activity (HCA), United States Army Corps of Engineers (USACE), without power to delegate further, authority to determine that the use of a particular domestic construction material is impracticable.  Determinations that application of the act would be inconsistent with the public interest are reserved for the Assistant Secretary of the Army (Acquisition, Logistics and Technology).  See Appendix GG.</p>
+      <p outputclass="List2">(2)  <i>Nonavailability.</i>    For other materials, a nonavailability determination shall be approved at the levels specified in AFARS 5125.103(b)(ii). </p>
+   </conbody>
+</concept>

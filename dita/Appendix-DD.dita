@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_Appendix-DD">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> DD</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_Appendix-DD" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">APPENDIX - DD</ph> Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-DD_SPEG.dita#AFARS_Appendix-DD_SPEG">SUBCONTRACTING PLAN EVALUATION GUIDE</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-DD_SPEG.dita#AFARS_Appendix-DD_SPEG">SUBCONTRACTING PLAN EVALUATION GUIDE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-DD_Part_1.dita#AFARS_Appendix-DD_Part_1">Part 1 – Introduction</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-DD_Part_1.dita#AFARS_Appendix-DD_Part_1">Part 1 - Introduction</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -53,8 +50,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-DD_Part_2.dita#AFARS_Appendix-DD_Part_2">Part 2 – Rating System</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-DD_Part_2.dita#AFARS_Appendix-DD_Part_2">Part 2 - Rating System</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -71,8 +67,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-DD_Part_3.dita#AFARS_Appendix-DD_Part_3">Part 3 – Subcontracting Plan Requirements</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-DD_Part_3.dita#AFARS_Appendix-DD_Part_3">Part 3 - Subcontracting Plan Requirements</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>

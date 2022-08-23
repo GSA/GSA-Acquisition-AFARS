@@ -1,163 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5133" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic ">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5133</ph> Protests, Disputes, and Appeals</title>
-      <body class="- topic/body ">
-         <p class="- topic/p "><i class="+ topic/ph hi-d/i ">(Revised 20 May 2022)</i></p>
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="5133.090.dita#AFARS_5133.090" class="- topic/xref ">5133.090 Definition.</xref>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5133" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5133</ph> - Protests, Disputes, and Appeals</title>
+      <body>
+         <p>
+            <i>(Revised 20 May 2022)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5133.090.dita#AFARS_5133.090">5133.090 Definition.</xref>
                </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5133.1.dita#AFARS_Subpart_5133.1" class="- topic/xref ">Subpart 5133.1 – Protests</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5133.1.dita#AFARS_Subpart_5133.1">Subpart 5133.1 - Protests</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.102.dita#AFARS_5133.102" class="- topic/xref ">5133.102 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.102.dita#AFARS_5133.102">5133.102 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.103.dita#AFARS_5133.103" class="- topic/xref ">5133.103 Protests to the agency.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.103.dita#AFARS_5133.103">5133.103 Protests to the agency.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.10390.dita#AFARS_5133.10390" class="- topic/xref ">5133.103-90 Annual agency bid protest report.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.10390.dita#AFARS_5133.10390">5133.103-90 Annual agency bid protest report.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.104.dita#AFARS_5133.104" class="- topic/xref ">5133.104 Protests to GAO.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.104.dita#AFARS_5133.104">5133.104 Protests to GAO.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.170.dita#AFARS_5133.170" class="- topic/xref ">5133.170 Briefing requirement for protested acquisitions valued at $1 billion or more.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.170.dita#AFARS_5133.170">5133.170 Briefing requirement for protested acquisitions valued at $1 billion or more.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.17090.dita#AFARS_5133.17090" class="- topic/xref ">5133.170-90 Procedures.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.17090.dita#AFARS_5133.17090">5133.170-90 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.190.dita#AFARS_5133.190" class="- topic/xref ">5133.190 Reporting and analysis of bid protests.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.190.dita#AFARS_5133.190">5133.190 Reporting and analysis of bid protests.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.1901.dita#AFARS_5133.1901" class="- topic/xref ">5133.190-1 Bid protest action report.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.1901.dita#AFARS_5133.1901">5133.190-1 Bid protest action report.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.1902.dita#AFARS_5133.1902" class="- topic/xref ">5133.190-2 Quarterly bid protest analysis report.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.1902.dita#AFARS_5133.1902">5133.190-2 Quarterly bid protest analysis report.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5133.2.dita#AFARS_Subpart_5133.2" class="- topic/xref ">Subpart 5133.2 – Disputes and Appeals</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5133.2.dita#AFARS_Subpart_5133.2">Subpart 5133.2 - Disputes and Appeals</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.203.dita#AFARS_5133.203" class="- topic/xref ">5133.203 Applicability.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.203.dita#AFARS_5133.203">5133.203 Applicability.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.204.dita#AFARS_5133.204" class="- topic/xref ">5133.204 Policy.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.204.dita#AFARS_5133.204">5133.204 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.212.dita#AFARS_5133.212" class="- topic/xref ">5133.212 Contracting officer’s duties upon appeal.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.212.dita#AFARS_5133.212">5133.212 Contracting officers duties upon appeal.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21290.dita#AFARS_5133.21290" class="- topic/xref ">5133.212-90 Appeal procedures.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21290.dita#AFARS_5133.21290">5133.212-90 Appeal procedures.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21291.dita#AFARS_5133.21291" class="- topic/xref ">5133.212-91 Notice of an appeal.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21291.dita#AFARS_5133.21291">5133.212-91 Notice of an appeal.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21292.dita#AFARS_5133.21292" class="- topic/xref ">5133.212-92 Comprehensive report to the Chief Trial Attorney.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21292.dita#AFARS_5133.21292">5133.212-92 Comprehensive report to the Chief Trial Attorney.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21293.dita#AFARS_5133.21293" class="- topic/xref ">5133.212-93 Review of appeal.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21293.dita#AFARS_5133.21293">5133.212-93 Review of appeal.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21294.dita#AFARS_5133.21294" class="- topic/xref ">5133.212-94 Receipt of complaint.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21294.dita#AFARS_5133.21294">5133.212-94 Receipt of complaint.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21295.dita#AFARS_5133.21295" class="- topic/xref ">5133.212-95 Litigation.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21295.dita#AFARS_5133.21295">5133.212-95 Litigation.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21296.dita#AFARS_5133.21296" class="- topic/xref ">5133.212-96 Disposition.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21296.dita#AFARS_5133.21296">5133.212-96 Disposition.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21297.dita#AFARS_5133.21297" class="- topic/xref ">5133.212-97 Review of ASBCA decisions.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21297.dita#AFARS_5133.21297">5133.212-97 Review of ASBCA decisions.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="5133.21298.dita#AFARS_5133.21298" class="- topic/xref ">5133.212-98 Dispute settlement and judgments, use of the Judgment Fund.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5133.21298.dita#AFARS_5133.21298">5133.212-98 Dispute settlement and judgments, use of the Judgment Fund.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.213.dita#AFARS_5133.213" class="- topic/xref ">5133.213 Obligation to continue performance.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.213.dita#AFARS_5133.213">5133.213 Obligation to continue performance.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.215.dita#AFARS_5133.215" class="- topic/xref ">5133.215 Contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.215.dita#AFARS_5133.215">5133.215 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_5133.90.dita#AFARS_Subpart_5133.90" class="- topic/xref ">Subpart 5133.90 – Grant and Cooperative Agreement Claims, Disputes and Appeals</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5133.90.dita#AFARS_Subpart_5133.90">Subpart 5133.90 - Grant and Cooperative Agreement Claims, Disputes and Appeals</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="5133.9001.dita#AFARS_5133.9001" class="- topic/xref ">5133.9001 Designation of grant appeal authority.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5133.9001.dita#AFARS_5133.9001">5133.9001 Designation of grant appeal authority.</xref>
                      </p>
                   </li>
                </ul>

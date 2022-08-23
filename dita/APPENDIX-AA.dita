@@ -1,266 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_APPENDIX-AA">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> AA</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_APPENDIX-AA" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">APPENDIX - AA</ph> Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_ASSS.dita#AFARS_APPENDIX-AA_ASSS">ARMY SOURCE SELECTION SUPPLEMENT</xref>
+                  <xref outputclass="fm:TOC" href="APPENDIX-AA_ASSS.dita#AFARS_APPENDIX-AA_ASSS">ARMY SOURCE SELECTION SUPPLEMENT</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-1.dita#AFARS_APPENDIX-AA_Chapter-1">CHAPTER 1: PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
+                  <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-1.dita#AFARS_APPENDIX-AA_Chapter-1">CHAPTER 1: PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-1_1-1.dita#AFARS_APPENDIX-AA_Chapter-1_1-1">1.1 Purpose</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-1_1-1.dita#AFARS_APPENDIX-AA_Chapter-1_1-1">1.1 Purpose</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-1_1-2.dita#AFARS_APPENDIX-AA_Chapter-1_1-2">1.2 Applicability and Waivers</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-1_1-2.dita#AFARS_APPENDIX-AA_Chapter-1_1-2">1.2 Applicability and Waivers</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-1_1-3.dita#AFARS_APPENDIX-AA_Chapter-1_1-3">1.3 Best Value Continuum</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-1_1-3.dita#AFARS_APPENDIX-AA_Chapter-1_1-3">1.3 Best Value Continuum</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-1_1-4.dita#AFARS_APPENDIX-AA_Chapter-1_1-4">1.4 Source Selection Team Roles &amp; Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-1_1-4.dita#AFARS_APPENDIX-AA_Chapter-1_1-4">1.4 Source Selection Team Roles &amp; Responsibilities</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-2.dita#AFARS_APPENDIX-AA_Chapter-2">CHAPTER 2: PRESOLICITATION ACTIVITIES</xref>
+                  <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-2.dita#AFARS_APPENDIX-AA_Chapter-2">CHAPTER 2: PRESOLICITATION ACTIVITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-2_2-1.dita#AFARS_APPENDIX-AA_Chapter-2_2-1">2.1 Conduct Acquisition Planning</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-2_2-1.dita#AFARS_APPENDIX-AA_Chapter-2_2-1">2.1 Conduct Acquisition Planning</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-2_2-2.dita#AFARS_APPENDIX-AA_Chapter-2_2-2">2.2 Develop a Source Selection Plan</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-2_2-2.dita#AFARS_APPENDIX-AA_Chapter-2_2-2">2.2 Develop a Source Selection Plan</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-2_2-3.dita#AFARS_APPENDIX-AA_Chapter-2_2-3">2.3 Develop the Request for Proposals</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-2_2-3.dita#AFARS_APPENDIX-AA_Chapter-2_2-3">2.3 Develop the Request for Proposals</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-2_2-4.dita#AFARS_APPENDIX-AA_Chapter-2_2-4">2.4 Release the Request for Proposals – No Army Text</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-2_2-4.dita#AFARS_APPENDIX-AA_Chapter-2_2-4">2.4 Release the Request for Proposals - No Army Text</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-3.dita#AFARS_APPENDIX-AA_Chapter-3">CHAPTER 3: EVALUATION AND DECISION PROCESS</xref>
+                  <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3.dita#AFARS_APPENDIX-AA_Chapter-3">CHAPTER 3: EVALUATION AND DECISION PROCESS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-1.dita#AFARS_APPENDIX-AA_Chapter-3_3-1">3.1 Evaluation Activities</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-1.dita#AFARS_APPENDIX-AA_Chapter-3_3-1">3.1 Evaluation Activities</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-2.dita#AFARS_APPENDIX-AA_Chapter-3_3-2">3.2 Documentation of Initial Evaluation Results</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-2.dita#AFARS_APPENDIX-AA_Chapter-3_3-2">3.2 Documentation of Initial Evaluation Results</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-3.dita#AFARS_APPENDIX-AA_Chapter-3_3-3">3.3 Award Without Discussions</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-3.dita#AFARS_APPENDIX-AA_Chapter-3_3-3">3.3 Award Without Discussions</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-4.dita#AFARS_APPENDIX-AA_Chapter-3_3-4">3.4 Competitive Range Decision Document – No Army Text</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-4.dita#AFARS_APPENDIX-AA_Chapter-3_3-4">3.4 Competitive Range Decision Document - No Army Text</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-5.dita#AFARS_APPENDIX-AA_Chapter-3_3-5">3.5 Discussion Process</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-5.dita#AFARS_APPENDIX-AA_Chapter-3_3-5">3.5 Discussion Process</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-6.dita#AFARS_APPENDIX-AA_Chapter-3_3-6">3.6 Final Proposal Revisions – No Army Text</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-6.dita#AFARS_APPENDIX-AA_Chapter-3_3-6">3.6 Final Proposal Revisions - No Army Text</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-7.dita#AFARS_APPENDIX-AA_Chapter-3_3-7">3.7 Documentation of Final Evaluation Results</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-7.dita#AFARS_APPENDIX-AA_Chapter-3_3-7">3.7 Documentation of Final Evaluation Results</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-8.dita#AFARS_APPENDIX-AA_Chapter-3_3-8">3.8 Conduct and Document the Comparative Analysis</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-8.dita#AFARS_APPENDIX-AA_Chapter-3_3-8">3.8 Conduct and Document the Comparative Analysis</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-9.dita#AFARS_APPENDIX-AA_Chapter-3_3-9">3.9 Best–Value Decision – No Army Text</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-9.dita#AFARS_APPENDIX-AA_Chapter-3_3-9">3.9 Best-Value Decision - No Army Text</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-10.dita#AFARS_APPENDIX-AA_Chapter-3_3-10">3.10Source Selection Decision Document – No Army Text</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-10.dita#AFARS_APPENDIX-AA_Chapter-3_3-10">3.10 Source Selection Decision Document - No Army Text</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-11.dita#AFARS_APPENDIX-AA_Chapter-3_3-11">3.11 Debriefings – See Appendix A</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-11.dita#AFARS_APPENDIX-AA_Chapter-3_3-11">3.11 Debriefings - See Appendix A</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-3_3-12.dita#AFARS_APPENDIX-AA_Chapter-3_3-12">3.12 Integrating Proposal into the Contract</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-3_3-12.dita#AFARS_APPENDIX-AA_Chapter-3_3-12">3.12 Integrating Proposal into the Contract</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-4.dita#AFARS_APPENDIX-AA_Chapter-4">CHAPTER 4:  DOCUMENTATION REQUIREMENTS</xref>
+                  <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-4.dita#AFARS_APPENDIX-AA_Chapter-4">CHAPTER 4: DOCUMENTATION REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-4_4-1.dita#AFARS_APPENDIX-AA_Chapter-4_4-1">4.1 Minimum Requirements – No Army Text</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-4_4-1.dita#AFARS_APPENDIX-AA_Chapter-4_4-1">4.1 Minimum Requirements - No Army Text</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-4_4-2.dita#AFARS_APPENDIX-AA_Chapter-4_4-2">4.2 Electronic Source Selection</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-4_4-2.dita#AFARS_APPENDIX-AA_Chapter-4_4-2">4.2 Electronic Source Selection</xref>
                      </p>
                   </li>
                </ul>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="APPENDIX-AA_Chapter-5.dita#AFARS_APPENDIX-AA_Chapter-5">CHAPTER 5:  DEFINITIONS</xref>
+                  <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5.dita#AFARS_APPENDIX-AA_Chapter-5">CHAPTER 5: DEFINITIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-A.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A">APPENDIX A</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-A.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A">APPENDIX A Table Of Contents</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="APPENDIX-AA_Chapter-5_APPENDIX-A_A-1.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A_A-1">A-1 Debriefing Guide</xref>
+                              <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-A_A-1.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A_A-1">A-1 Debriefing Guide</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-B.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B">APPENDIX B</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-B.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B">APPENDIX B Table Of Contents</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-C.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C">APPENDIX C</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-C.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C">APPENDIX C Table Of Contents</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-D.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D">APPENDIX D</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-D.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D">APPENDIX D Table Of Contents</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="APPENDIX-AA_Chapter-5_APPENDIX-D_OPP.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D_OPP">Oral Presentations and Proposals</xref>
+                              <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-D_OPP.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D_OPP">Oral Presentations and Proposals</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-E.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E">APPENDIX E</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-E.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E">APPENDIX E Table Of Contents</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP">Small Business Participation Proposal</xref>
+                              <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP">Small Business Participation Proposal</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-F.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F">APPENDIX F</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-F.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F">APPENDIX F Table Of Contents</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA">On–Line Reverse Auctions</xref>
+                              <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA">On–Line Reverse Auctions</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="APPENDIX-AA_Chapter-5_APPENDIX-G.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G">APPENDIX G</xref>
+                        <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-G.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G">APPENDIX G Table Of Contents</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC"
-                                    href="APPENDIX-AA_Chapter-5_APPENDIX-G_TS.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G_TS">Templates / Samples</xref>
+                              <xref outputclass="fm:TOC" href="APPENDIX-AA_Chapter-5_APPENDIX-G_TS.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G_TS">Templates / Samples</xref>
                            </p>
                         </li>
                      </ul>

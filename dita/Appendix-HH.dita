@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_Appendix-HH">
-      <title outputclass="Ctr 1 heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> HH</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_Appendix-HH" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Ctr 1 heading">
+         <ph props="autonumber">APPENDIX - HH</ph> Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-HH_PAPWSL.dita#AFARS_Appendix-HH_PAPWSL">Policy and PWS Language</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-HH_PAPWSL.dita#AFARS_Appendix-HH_PAPWSL">Policy and PWS Language</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-HH_CADS.dita#AFARS_Appendix-HH_CADS">Common and Data Services</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-HH_CADS.dita#AFARS_Appendix-HH_CADS">Common and Data Services</xref>
                </p>
             </li>
             <li>

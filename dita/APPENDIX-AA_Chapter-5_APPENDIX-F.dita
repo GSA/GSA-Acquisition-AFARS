@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F" xml:lang="en-US">
-    <title outputclass="heading 2 Ctr">
-        <ph props="autonumber" class="- topic/ph " >APPENDIX</ph> F</title>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="heading 2 Ctr">
+      <ph props="autonumber">APPENDIX F</ph> Table Of Contents</title>
 </concept>

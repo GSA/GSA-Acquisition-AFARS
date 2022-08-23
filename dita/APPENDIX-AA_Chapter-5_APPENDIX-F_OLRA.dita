@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 3 heading">
       <ph props="autonumber">On–Line Reverse</ph> Auctions</title>
    <conbody>
@@ -16,7 +16,7 @@
       <p id="iMJtwE" outputclass="Normal">A reverse auction is simply the opposite of a traditional auction. In a traditional auction, the seller offers an item for sale and multiple potential buyers submit sequentially higher bids for the item. Conversely, in a reverse auction, there are multiple sellers of items that compete for the business of a single buyer. During this competition the sellers ultimately drive the price of the item down.</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -24,7 +24,7 @@
                         <b>ON-LINE REVERSE AUCTION TOOLS ARE BEST USED FOR:</b>
                      </p>
                      <p id="ererImg" outputclass=" Ctr">
-                        <image height="72px" href="Graphics/image8.png" width="100px" />
+                        <image height="72px" href="Graphics/image8.png" width="100px" placement="inline" />
                      </p>
                      <ul>
                         <li id="DNfkmk">

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_PART_5112">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5112</ph> Acquisition of Commercial Items</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5112" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5112</ph> - Acquisition of Commercial Items</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5112.1.dita#AFARS_Subpart_5112.1">Subpart 5112.1 – Acquisition of Commercial Items – General</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5112.1.dita#AFARS_Subpart_5112.1">Subpart 5112.1 - Acquisition of Commercial Items - General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -21,7 +20,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5112.2.dita#AFARS_Subpart_5112.2">Subpart 5112.2 – Special Requirements for the Acquisition of Commercial Items</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5112.2.dita#AFARS_Subpart_5112.2">Subpart 5112.2 - Special Requirements for the Acquisition of Commercial Items</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -38,7 +37,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5112.3.dita#AFARS_Subpart_5112.3">Subpart 5112.3 – Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5112.3.dita#AFARS_Subpart_5112.3">Subpart 5112.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -55,7 +54,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5112.70.dita#AFARS_Subpart_5112.70">Subpart 5112.70 – Limitation on Conversion of Procurement from Commercial Acquisition Procedures</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5112.70.dita#AFARS_Subpart_5112.70">Subpart 5112.70 - Limitation on Conversion of Procurement from Commercial Acquisition Procedures</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

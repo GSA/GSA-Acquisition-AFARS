@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_Chapter-2_2-2">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-2_2-2" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">2.2</ph> Develop a Source Selection Plan</title>
    <conbody>
@@ -14,7 +14,7 @@
       <p id="KBqOvS" outputclass="Normal">From this point, the acquisition team must apply prudent business judgement to add other evaluation factors, subfactors, and elements that are important to selecting the most advantageous proposal(s). The number of factors and subfactors should be kept to the absolute minimum required to effectively assess the proposals. The use of more factors than needed to conduct the evaluation can complicate and extend the process while providing no additional value, and dilute the meaningful discriminators. Limiting factors also serves to reduce the evaluation oversight span-of-control responsibilities of the SSEB leadership, SSA/SSAC, PCO and legal counsel, thereby permitting more focused oversight on the remaining (and most important) factors/subfactors and reducing the likelihood of evaluation errors.</p>
       <p id="aZDKpb" outputclass="Normal">Common evaluation factors are cost/price, technical, past performance, and small business participation. Additionally, as appropriate, you may have other evaluation factors and/or may use one or more levels of subfactors. The standard Army naming convention for the various levels is: Evaluation Factor, Subfactor, and Element.</p>
       <p id="dwsdsQ" outputclass="Normal">
-         <image href="Graphics/image6.png" outputclass="Right" scale="60" />
+         <image href="Graphics/image6.png" outputclass="Right" scale="60" placement="inline" />
       </p>
       <p id="vFQMFE" outputclass="Ctr normal">
          <i>Figure 2-1: Sample Evaluation Factor Structure</i>
@@ -29,7 +29,7 @@
       <p id="eTfHuP" outputclass="Normal">Once the RFP is issued, the factors and subfactors give the offerors insight into the significant considerations the Government will use in selecting the best value proposal and help them to understand the source selection process. Carefully consider whether minimum “go/no go” or “pass/fail” entry-gates, can be included. When used properly, this use of entry-gate criteria can streamline the evaluation process significantly.</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -111,7 +111,7 @@
       </p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
             <tbody>
                <row>
                   <entry>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_Appendix-EE_1-7">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_1-7" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">1-7.</ph> Program Organization, Roles and Responsibilities</title>
    <conbody>
       <p id="FKVcjz" outputclass="Normal">The general roles and responsibilities of the participants in the purchase card program are presented in the references listed in paragraph 1-4 and the following: AFARS 5113.201, Chapter 2 and Appendix A of the DOD Government Charge Card Guidebook; Volume 1, Part 4, Chapter 4500 of the Treasury Financial Manual; Office of Management and Budget (OMB) Circular 123, Appendix B Revised, Chapters 4.3, 4.4, and 4.8; 31 U.S.C. §3528 “Responsibilities and Relief from Liability of Certifying Officials; DOD Financial Management Regulation (DOD FMR) Volume 5, Chapter 33 “Departmental Accountable Officials, Certifying Officers and Review Officials”, and DOD FMR Volume 10, Chapter 23, paragraph 2303 and 2304.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="3" namest="1">

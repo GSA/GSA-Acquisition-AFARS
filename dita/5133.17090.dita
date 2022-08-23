@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5133.17090" xml:lang="en-US"><title outputclass="Heading 3"><ph props="autonumber">5133.170-90</ph> Procedures.</title><conbody><p outputclass="List1">(a)  Within 10 days of receipt of a protest, provide an initial, written notification of the protest via email to the Office of the DASA(P) and furnish a copy to the SCO, field attorney and trial attorney.  The initial notification shall be in the form of a briefing and shall include the following items:</p><p outputclass="List2">(1)  Buying activity and contracting officer with phone number and email address.</p><p outputclass="List2">(2)  Protester and counsel.</p><p outputclass="List2">(3)  Protest number and date filed.</p><p outputclass="List2">(4)  Protest forum (GAO or Court of Federal Claims).</p><p outputclass="List2">(5)  Description of the protested acquisition, estimated dollar value and whether it is a pre- or post-award protest.</p><p outputclass="List2">(6)  Summary of protest allegations.</p><p outputclass="List2">(7)  Status of the stay or stop work order.</p><p outputclass="List2">(8)  Anticipated date of protest resolution.</p><p outputclass="List2">(9)  Any other information deemed appropriate.</p><p outputclass="List2">(10)  Attach a copy of the protest.</p><p outputclass="List1">(b)  After the contracting officer formulates the agency response, he/she may provide more detailed information relating to the position that the agency will take before filing the agency report in the protest action.</p><p outputclass="List1">(c)  If required, the contracting officer shall schedule a formal briefing on the protest with the DASA(P) or Defense Procurement and Acquisition Policy subsequent to the submission of the follow-up information.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.17090" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5133.170-90</ph> Procedures.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Within 10 days of receipt of a protest, provide an initial, written notification of the protest via email to the Office of the DASA(P) and furnish a copy to the SCO, field attorney and trial attorney.  The initial notification shall be in the form of a briefing and shall include the following items:</p>
+      <p outputclass="List2">(1)  Buying activity and contracting officer with phone number and email address.</p>
+      <p outputclass="List2">(2)  Protester and counsel.</p>
+      <p outputclass="List2">(3)  Protest number and date filed.</p>
+      <p outputclass="List2">(4)  Protest forum (GAO or Court of Federal Claims).</p>
+      <p outputclass="List2">(5)  Description of the protested acquisition, estimated dollar value and whether it is a pre- or post-award protest.</p>
+      <p outputclass="List2">(6)  Summary of protest allegations.</p>
+      <p outputclass="List2">(7)  Status of the stay or stop work order.</p>
+      <p outputclass="List2">(8)  Anticipated date of protest resolution.</p>
+      <p outputclass="List2">(9)  Any other information deemed appropriate.</p>
+      <p outputclass="List2">(10)  Attach a copy of the protest.</p>
+      <p outputclass="List1">(b)  After the contracting officer formulates the agency response, he/she may provide more detailed information relating to the position that the agency will take before filing the agency report in the protest action.</p>
+      <p outputclass="List1">(c)  If required, the contracting officer shall schedule a formal briefing on the protest with the DASA(P) or Defense Procurement and Acquisition Policy subsequent to the submission of the follow-up information.</p>
+   </conbody>
+</concept>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_AppendixBB-103" xml:lang="en-US">
-    <title outputclass="Heading 4"><ph props="autonumber">BB–103</ph> Additional Instructions for Contingency Contracting
-        Functions Outside the Contiguous United States. </title>
-    <conbody>
-        <p outputclass="Normal">Questions in this checklist should be used by office
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_AppendixBB-103" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">BB–103</ph> Additional Instructions for Contingency Contracting        Functions Outside the Contiguous United States.</title>
+   <conbody>
+      <p outputclass="Normal">Questions in this checklist should be used by office
             chiefs/directors who are deployed into a theater of operations and are supporting
             contingency missions. The term “contingency contracting” means contracting support
             provided in response to a declared contingency operation in accordance with 10 USC
@@ -20,5 +20,5 @@
             office chief/director. In addition, information obtained using the checklist will be
             addressed in the SCO’s annual statement of assurance as prescribed by Army Regulation
             11-2.</p>
-    </conbody>
+   </conbody>
 </concept>

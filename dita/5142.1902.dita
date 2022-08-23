@@ -1,3 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5142.1902" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5142.190-2</ph> Tracking of contract audit report recommendations.</title><conbody><p outputclass="List1">(a)  Centrally track all contract audit reports from request for audit through receipt, resolution and disposition.  Each contracting or contract administration office, including satellite offices such as Government-owned contractor-operated, shall establish a single entity for requesting, receiving and tracking all audit reports.  Provide the activity name, address, attention symbol, point of contact and telephone number of the single entity to the contract administration services office and Defense Contract Audit Agency regions involved.</p><p outputclass="List1">(b)  Centrally track and report audit report data in accordance with DoDI 7640.2.  Maintain a file for each audit report and include in each file the following information:</p><p outputclass="List2">(1)  Report number.</p><p outputclass="List2">(2)  Activity address code.</p><p outputclass="List2">(3)  Issuing agency.</p><p outputclass="List2">(4)  Date of report.</p><p outputclass="List2">(5)  Contractor name.</p><p outputclass="List2">(6)  Contract number(s).</p><p outputclass="List2">(7)  Organization responsible for disposition.</p><p outputclass="List2">(8)  Contracting officer responsible for disposition.</p><p outputclass="List2">(9)  Total amount subjected to audit.</p><p outputclass="List2">(10)  Total questioned costs.</p><p outputclass="List1">(c)  For reportable audit reports, the central files shall also include the following information:</p><p outputclass="List2">(1)  Type(s) of recommendations contained in report.  Use the codes in DoDI 7640.2.</p><p outputclass="List2">(2)  Target date of resolution.</p><p outputclass="List2">(3)  Actual date of resolution.</p><p outputclass="List2">(4)  Target date for disposition.</p><p outputclass="List2">(5)  Date of final decision (if any) of contracting officer.</p><p outputclass="List2">(6)  Date of filing with Armed Services Board of Contract Appeals or court (if any) and docket or case number.</p><p outputclass="List2">(7)  Disposition results in terms of questioned costs sustained.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5142.1902" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5142.190-2</ph> Tracking of contract audit report recommendations.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Centrally track all contract audit reports from request for audit through receipt, resolution and disposition.  Each contracting or contract administration office, including satellite offices such as Government-owned contractor-operated, shall establish a single entity for requesting, receiving and tracking all audit reports.  Provide the activity name, address, attention symbol, point of contact and telephone number of the single entity to the contract administration services office and Defense Contract Audit Agency regions involved.</p>
+      <p outputclass="List1">(b)  Centrally track and report audit report data in accordance with DoDI 7640.2.  Maintain a file for each audit report and include in each file the following information:</p>
+      <p outputclass="List2">(1)  Report number.</p>
+      <p outputclass="List2">(2)  Activity address code.</p>
+      <p outputclass="List2">(3)  Issuing agency.</p>
+      <p outputclass="List2">(4)  Date of report.</p>
+      <p outputclass="List2">(5)  Contractor name.</p>
+      <p outputclass="List2">(6)  Contract number(s).</p>
+      <p outputclass="List2">(7)  Organization responsible for disposition.</p>
+      <p outputclass="List2">(8)  Contracting officer responsible for disposition.</p>
+      <p outputclass="List2">(9)  Total amount subjected to audit.</p>
+      <p outputclass="List2">(10)  Total questioned costs.</p>
+      <p outputclass="List1">(c)  For reportable audit reports, the central files shall also include the following information:</p>
+      <p outputclass="List2">(1)  Type(s) of recommendations contained in report.  Use the codes in DoDI 7640.2.</p>
+      <p outputclass="List2">(2)  Target date of resolution.</p>
+      <p outputclass="List2">(3)  Actual date of resolution.</p>
+      <p outputclass="List2">(4)  Target date for disposition.</p>
+      <p outputclass="List2">(5)  Date of final decision (if any) of contracting officer.</p>
+      <p outputclass="List2">(6)  Date of filing with Armed Services Board of Contract Appeals or court (if any) and docket or case number.</p>
+      <p outputclass="List2">(7)  Disposition results in terms of questioned costs sustained.</p>
+   </conbody>
+</concept>

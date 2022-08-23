@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_Appendix-EE-Appendix-G">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-G" ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 Heading">
-      <ph props="autonumber">Appendix G</ph>: Formal Reporting Requirements</title>
+      <ph props="autonumber">Appendix G: Formal Reporting Requirements</ph> Table Of Contents</title>
    <conbody>
       <p id="tGbspS">1. Surveillance program results are prepared by each Level 3 A/OPC and provided to the Army Level 2 A/OPC no later than April 21st and October 21st. The report identifies data collected during the two previous quarters of the fiscal year.</p>
       <p id="YIXEyi">2. A list of the number of waivers to the Army Standard Span of Control that have been requested (broken down to CH to BO, 300 accounts per Level 4 A/OPC, and so on), and the disposition of these requests, must be reported.</p>
@@ -14,10 +14,10 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -97,11 +97,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -209,11 +209,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -390,11 +390,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -477,11 +477,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -669,11 +669,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" />
-            <colspec colname="2" colnum="2" />
-            <colspec colname="3" colnum="3" />
-            <colspec colname="4" colnum="4" />
-            <colspec colname="5" colnum="5" />
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>

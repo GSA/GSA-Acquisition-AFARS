@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_AppendixBB">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> BB</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_AppendixBB" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">APPENDIX - BB</ph> Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="AppendixBB_MCEVC.dita#AFARS_AppendixBB_MCEVC">MANAGEMENT CONTROL EVALUATION CHECKLISTS</xref>
+                  <xref outputclass="fm:TOC" href="AppendixBB_MCEVC.dita#AFARS_AppendixBB_MCEVC">MANAGEMENT CONTROL EVALUATION CHECKLISTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AppendixBB_Part_1.dita#AFARS_AppendixBB_Part_1">Part 1 – General</xref>
+                        <xref outputclass="fm:TOC" href="AppendixBB_Part_1.dita#AFARS_AppendixBB_Part_1">Part 1 - General</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -36,16 +33,14 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="AppendixBB-103.dita#AFARS_AppendixBB-103">BB–103 Additional Instructions for Contingency Contracting
-        Functions Outside the Contiguous United States. </xref>
+                              <xref outputclass="fm:TOC" href="AppendixBB-103.dita#AFARS_AppendixBB-103">BB–103 Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="AppendixBB_Part_2.dita#AFARS_AppendixBB_Part_2">Part 2 – Contracting Test Questions</xref>
+                        <xref outputclass="fm:TOC" href="AppendixBB_Part_2.dita#AFARS_AppendixBB_Part_2">Part 2 - Contracting Test Questions</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>

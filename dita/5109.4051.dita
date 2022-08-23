@@ -1,3 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="AFARS_5109.4051" xml:lang="en-US"><title outputclass="Heading 4"><ph props="autonumber">5109.405-1</ph> Continuation of current contracts.</title><conbody><p outputclass="List1">(a)  Orders placed under a requirements contract may create a situation in which a contract continues notwithstanding the debarment, suspension, or proposed debarment of a contractor.  Army contracting officers shall make decisions regarding whether to terminate a contract and the type of contract termination action, if any, only after review by command contracting and technical personnel, and by legal counsel to ensure the propriety of the proposed action in compliance with federal law and regulation.</p><p outputclass="List1">(b)  See 5109.405(a) for procedures on obtaining the agency head determination.</p></conbody></concept>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5109.4051" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5109.405-1</ph> Continuation of current contracts.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Orders placed under a requirements contract may create a situation in which a contract continues notwithstanding the debarment, suspension, or proposed debarment of a contractor.  Army contracting officers shall make decisions regarding whether to terminate a contract and the type of contract termination action, if any, only after review by command contracting and technical personnel, and by legal counsel to ensure the propriety of the proposed action in compliance with federal law and regulation.</p>
+      <p outputclass="List1">(b)  See 5109.405(a) for procedures on obtaining the agency head determination.</p>
+   </conbody>
+</concept>

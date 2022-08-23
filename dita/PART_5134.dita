@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_PART_5134">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5134</ph> Major System Acquisition</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5134" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5134</ph> - Major System Acquisition</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5134.0.dita#AFARS_Subpart_5134.0">Subpart 5134.0 – General</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5134.0.dita#AFARS_Subpart_5134.0">Subpart 5134.0 - General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -21,12 +20,12 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5134.2.dita#AFARS_Subpart_5134.2">Subpart 5134.2 – Earned Value Management System</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5134.2.dita#AFARS_Subpart_5134.2">Subpart 5134.2 - Earned Value Management System</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Subpart_5134.70.dita#AFARS_Subpart_5134.70">Subpart 5134.70 —Acquisition of Major Weapon Systems as Commercial Items</xref>
+                        <xref outputclass="fm:TOC" href="Subpart_5134.70.dita#AFARS_Subpart_5134.70">Subpart 5134.70 - Acquisition of Major Weapon Systems as Commercial Items</xref>
                      </p>
                   </li>
                   <li>

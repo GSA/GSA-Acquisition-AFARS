@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_Appendix-CC">
-      <title outputclass="1 heading Ctr" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – APPENDIX</ph> CC</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_Appendix-CC" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">APPENDIX - CC</ph> Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-CC_APMRP.dita#AFARS_Appendix-CC_APMRP">Army Procurement Management Review Program</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-CC_APMRP.dita#AFARS_Appendix-CC_APMRP">Army Procurement Management Review Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-CC_Part_1.dita#AFARS_Appendix-CC_Part_1">Part 1 – Introduction</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-CC_Part_1.dita#AFARS_Appendix-CC_Part_1">Part 1 - Introduction</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -26,23 +23,19 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="Appendix-CC-101.dita#AFARS_Appendix-CC-101">CC-101 Mission
-        and Objectives.</xref>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-101.dita#AFARS_Appendix-CC-101">CC-101 Mission and Objectives.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="Appendix-CC-102.dita#AFARS_Appendix-CC-102">CC-102
-        Applicability.</xref>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-102.dita#AFARS_Appendix-CC-102">CC-102 Applicability.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-CC_Part_2.dita#AFARS_Appendix-CC_Part_2">Part 2 – PMR Policy and
-        Philosophy</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-CC_Part_2.dita#AFARS_Appendix-CC_Part_2">Part 2 - PMR Policy and Philosophy</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -59,26 +52,22 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-CC_Part_3.dita#AFARS_Appendix-CC_Part_3">Part 3 – Responsibilities</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-CC_Part_3.dita#AFARS_Appendix-CC_Part_3">Part 3 - Responsibilities</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="Appendix-CC-301.dita#AFARS_Appendix-CC-301">CC-301 Assistant Secretary of the Army (Acquisition, Logistics
-        and Technology) (ASA(ALT)).</xref>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-301.dita#AFARS_Appendix-CC-301">CC-301 Assistant Secretary of the Army (Acquisition, Logistics and Technology) (ASA(ALT)).</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="Appendix-CC-302.dita#AFARS_Appendix-CC-302">CC-302 Deputy Assistant Secretary of the Army for Procurement
-        (DASA(P)).</xref>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-302.dita#AFARS_Appendix-CC-302">CC-302 Deputy Assistant Secretary of the Army for Procurement (DASA(P)).</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="Appendix-CC-303.dita#AFARS_Appendix-CC-303">CC-303 Directorate of Review and Oversight, Office of the
-        DASA(P).</xref>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-303.dita#AFARS_Appendix-CC-303">CC-303 Directorate of Review and Oversight, Office of the DASA(P).</xref>
                            </p>
                         </li>
                         <li>
@@ -90,8 +79,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-CC_Part_4.dita#AFARS_Appendix-CC_Part_4">Part 4 – Procedures</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-CC_Part_4.dita#AFARS_Appendix-CC_Part_4">Part 4 - Procedures</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -101,7 +89,7 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="Appendix-CC-401.dita#AFARS_Appendix-CC-401">CC-401 Types of Procurement Management Reviews. </xref>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-401.dita#AFARS_Appendix-CC-401">CC-401 Types of Procurement Management Reviews.</xref>
                            </p>
                         </li>
                         <li>

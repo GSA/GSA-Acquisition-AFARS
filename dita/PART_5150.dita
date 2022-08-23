@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_PART_5150">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5150</ph> Extraordinary Contractual Actions and the Safety Act</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5150" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5150</ph> - Extraordinary Contractual Actions and the Safety Act</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5150.1.dita#AFARS_Subpart_5150.1">Subpart 5150.1 – Extraordinary Contractual Actions</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5150.1.dita#AFARS_Subpart_5150.1">Subpart 5150.1 - Extraordinary Contractual Actions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
-<concept id="AFARS_Appendix-EE-Appendix-C">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-C" ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 Heading">
-      <ph props="autonumber">Appendix C</ph>: Prohibited Purchases</title>
+      <ph props="autonumber">Appendix C: Prohibited Purchases</ph> Table Of Contents</title>
    <conbody>
       <p id="NljzuT" outputclass="Normal">This section identifies prohibited transactions. CHs should first contact local authorities (e.g., Legal, RM, Level 3 or Level 4 A/OPC) prior to purchasing any items that seem questionable or may have the appearance of being inappropriate. Contact the Level 2 A/OPC through the ASAALT central mailbox for further guidance if necessary. The following list, which is not all-inclusive, identifies some services and supplies that are prohibited from purchase with the GPC (this list also applies to convenience checks):</p>
       <p id="eoAJoM">a. Items purchased for other than official Government use.</p>

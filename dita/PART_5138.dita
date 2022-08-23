@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_PART_5138">
-      <title outputclass="Heading 1" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5138</ph> Federal Supply Schedule Contracting</title>
-      <body/>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5138" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="Heading 1">
+         <ph props="autonumber">Part 5138</ph> - Federal Supply Schedule Contracting</title>
+      <body></body>
    </topic>
 </dita>

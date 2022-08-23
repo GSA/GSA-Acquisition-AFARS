@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_PART_5122">
-      <title outputclass="1 Heading" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">AFARS – PART 5122</ph> Application of Labor Laws to Government Acquisitions</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_PART_5122" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5122</ph> - Application of Labor Laws to Government Acquisitions</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -14,7 +13,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.1.dita#AFARS_Subpart_5122.1">Subpart 5122.1 – Basic Labor Policies</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.1.dita#AFARS_Subpart_5122.1">Subpart 5122.1 - Basic Labor Policies</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -55,7 +54,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.3.dita#AFARS_Subpart_5122.3">Subpart 5122.3 – Contract Work Hours and Safety Standards Act</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.3.dita#AFARS_Subpart_5122.3">Subpart 5122.3 - Contract Work Hours and Safety Standards Act</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -67,7 +66,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.4.dita#AFARS_Subpart_5122.4">Subpart 5122.4 – Labor Standards for Contracts Involving Construction</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.4.dita#AFARS_Subpart_5122.4">Subpart 5122.4 - Labor Standards for Contracts Involving Construction</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -103,7 +102,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.8.dita#AFARS_Subpart_5122.8">Subpart 5122.8 – Equal Employment Opportunity</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.8.dita#AFARS_Subpart_5122.8">Subpart 5122.8 - Equal Employment Opportunity</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -120,7 +119,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.13.dita#AFARS_Subpart_5122.13">Subpart 5122.13 – Equal Opportunity for Veterans</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.13.dita#AFARS_Subpart_5122.13">Subpart 5122.13 - Equal Opportunity for Veterans</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -132,7 +131,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.14.dita#AFARS_Subpart_5122.14">Subpart 5122.14 – Employment of Workers With Disabilities</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.14.dita#AFARS_Subpart_5122.14">Subpart 5122.14 - Employment of Workers With Disabilities</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -144,7 +143,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.15.dita#AFARS_Subpart_5122.15">Subpart 5122.15 – Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.15.dita#AFARS_Subpart_5122.15">Subpart 5122.15 - Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -156,7 +155,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.16.dita#AFARS_Subpart_5122.16">Subpart 5122.16 – Notification of Employee Rights Under the National Labor Relations Act</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.16.dita#AFARS_Subpart_5122.16">Subpart 5122.16 - Notification of Employee Rights Under the National Labor Relations Act</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -168,7 +167,7 @@
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5122.17.dita#AFARS_Subpart_5122.17">Subpart 5122.17 – Combating Trafficking in Persons</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5122.17.dita#AFARS_Subpart_5122.17">Subpart 5122.17 - Combating Trafficking in Persons</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

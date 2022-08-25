@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.802" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5104.802"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5104.802</ph> Contract files.</title>
    <conbody>
@@ -8,9 +12,13 @@
       <p outputclass="List3">(i) The Paperless Contract File (PCF) module shall be used to store, access, and route documents necessary to manage the acquisition process for review and approval.  Contracting officers shall ensure that the PCF contains all appropriate contract documents.  If the contract document is maintained within the Procurement Integrated Enterprise Environment (PIEE, <xref href="https://wawf.eb.mil/" scope="external" format="html">
             <u>https://wawf.eb.mil/</u>
          </xref>) or the Federal Procurement Data System-Next Generation (FPDS-NG)), then that system is the official system of record; contracting officers should not duplicate the document and file it in the PCF.</p>
-      <p>Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)-2.</xref>
+      <p>Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
+               format="html"
+               scope="external">AFARS PGI 5104.802(f)(i)-2.</xref>
       </p>
-      <p>Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)-1.</xref>
+      <p>Follow procedures at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
+               format="html"
+               scope="external">AFARS PGI 5104.802(f)(i)-1.</xref>
       </p>
       <p outputclass="List2">(1) The Army Cabinet Index folder structure shall be used
       when filing documents in PCF to ensure standardization throughout Army contract files. See
@@ -21,9 +29,13 @@
       <p outputclass="List2">(3) Milestone Tracking shall be used to forecast and document dates for
       initiation and completion of key documents and milestones. The VCE tool identifies the
       mandatory data fields based on specific criteria for the acquisition. </p>
-      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)(3)-1.</xref>
+      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
+               format="html"
+               scope="external">AFARS PGI 5104.802(f)(i)(3)-1.</xref>
       </p>
-      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx" format="html" scope="external">AFARS PGI 5104.802(f)(i)(3)-2.</xref>
+      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5104.aspx"
+               format="html"
+               scope="external">AFARS PGI 5104.802(f)(i)(3)-2.</xref>
       </p>
       <p outputclass="List2">(4) Mission Partner/Requirement Owner Functionality shall be used by
       requirements owners to create cabinets and submit documents to contracting organizations.

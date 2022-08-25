@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_1-7" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE_1-7"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">1-7.</ph> Program Organization, Roles and Responsibilities</title>
    <conbody>
       <p id="FKVcjz" outputclass="Normal">The general roles and responsibilities of the participants in the purchase card program are presented in the references listed in paragraph 1-4 and the following: AFARS 5113.201, Chapter 2 and Appendix A of the DOD Government Charge Card Guidebook; Volume 1, Part 4, Chapter 4500 of the Treasury Financial Manual; Office of Management and Budget (OMB) Circular 123, Appendix B Revised, Chapters 4.3, 4.4, and 4.8; 31 U.S.C. §3528 “Responsibilities and Relief from Liability of Certifying Officials; DOD Financial Management Regulation (DOD FMR) Volume 5, Chapter 33 “Departmental Accountable Officials, Certifying Officers and Review Officials”, and DOD FMR Volume 10, Chapter 23, paragraph 2303 and 2304.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -55,7 +58,7 @@
                      <p id="mAoNdj">Army Command (ACOM) or equivalent</p>
                   </entry>
                   <entry>
-                     <p id="yuVxKI"></p>
+                     <p id="yuVxKI"/>
                      <ul>
                         <li id="tnTtro">
                            <p id="2yzbelbs">ACOM or equivalent organization must possess Head of Contracting Activity authority and the SCO designates a Level 3 A/OPC and alternate</p>
@@ -67,7 +70,7 @@
                            <p id="qm3ei57r">The SCO’s management responsibility for the GPC program may be delegated to the CCO.</p>
                         </li>
                      </ul>
-                     <p id="NjEFIp"></p>
+                     <p id="NjEFIp"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -78,13 +81,13 @@
                      <p id="UFoSCM">Installation or equivalent</p>
                   </entry>
                   <entry>
-                     <p id="miFQXS"></p>
+                     <p id="miFQXS"/>
                      <ul>
                         <li id="BufATu">
                            <p id="oqzk5no6">The installation or equivalent organization’s CCO designates a contracting staff member as the Level 4 A/OPC - The Level 4 A/OPC reports to the Level 3 A/OPC as required</p>
                         </li>
                      </ul>
-                     <p id="HnDxyV"></p>
+                     <p id="HnDxyV"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -96,7 +99,7 @@
                      <p id="GasTyz">Alternate BO</p>
                   </entry>
                   <entry>
-                     <p id="lTVFIZ"></p>
+                     <p id="lTVFIZ"/>
                      <ul>
                         <li id="UtGjQF">
                            <p id="3z803o86">BO appointed by COC - may be delegated to Level 4 A/OPC - see sample letter in Appendix F</p>
@@ -108,7 +111,7 @@
                            <p id="eja4jpfl">BO monitors and approves CH purchases and certifies billing statements</p>
                         </li>
                      </ul>
-                     <p id="tfvkqP"></p>
+                     <p id="tfvkqP"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -119,7 +122,7 @@
                      <p id="DqQLOZ">Cardholder</p>
                   </entry>
                   <entry>
-                     <p id="DvnixY"></p>
+                     <p id="DvnixY"/>
                      <ul>
                         <li id="JhNyLr">
                            <p id="ahvvtsla">Individual issued the GPC or convenience checks</p>
@@ -131,13 +134,13 @@
                            <p id="4ssr46g">CH must acknowledge authority and duties by signing appointment letter</p>
                         </li>
                      </ul>
-                     <p id="mljljy"></p>
+                     <p id="mljljy"/>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="LOiUEG" outputclass="Normal"></p>
+      <p id="LOiUEG" outputclass="Normal"/>
       <p id="5erts8x" outputclass="Normal">a. <b>Level</b>
          <b>2</b>
          <b>– A/OPC</b>
@@ -150,7 +153,7 @@
       <p id="vLffgs" outputclass="Normal">(5) serving as a liaison with Army organizations, the Servicing Bank, the PCPMO, and GSA; and,</p>
       <p id="KUvKhH" outputclass="Normal">(6) <ph>managing and implementing technical enhancements (developing, testing and deployment of GPC hardware/software/networking systems enhancements).</ph>
       </p>
-      <p id="qgrlyiq7" outputclass="Normal"></p>
+      <p id="qgrlyiq7" outputclass="Normal"/>
       <p id="CdnZWZ" outputclass="Normal">b. <b>Level 3 – A/OPC duties:</b> Alternate Level 3 A/OPC duties are the same as the Primary Level 3 A/OPC.</p>
       <p id="sgsljX" outputclass="Normal">(1) implementing, administering, and monitoring the ACOM GPC program subject to DOD and Army policies;</p>
       <p id="jywsDs" outputclass="Normal">(2) serving as a liaison with Army Headquarters, the Servicing Bank, ACOM staff, and field organizations;</p>
@@ -169,7 +172,7 @@
       <p id="GGBVos" outputclass="Normal">(15) responding to all data calls timely and with concise, current data;</p>
       <p id="kMtegz" outputclass="Normal">(16) overseeing Level 4 A/OPC program controls, including BO account reviews, semi-annual surveillance, etc; and,</p>
       <p id="vcGhQW" outputclass="Normal">(17) Manage agent numbers: periodically assess the ongoing need for agent numbers.</p>
-      <p id="g5gebnqw" outputclass="Normal"></p>
+      <p id="g5gebnqw" outputclass="Normal"/>
       <p id="nNQAiN" outputclass="Normal">c. <b>Level</b>
          <b>4</b>
          <b>-</b>
@@ -201,7 +204,7 @@
       <p id="QUdFjQ" outputclass="Normal">(16) conducting an annual review of each assigned BO’s records and procedures ensuring a minimum representative sample size review of 25% of all transactions;</p>
       <p id="kOBXqa" outputclass="Normal">(17) reviewing transactions and buying logs within four months of newly appointed CHs; and,</p>
       <p id="jlJcvx" outputclass="Normal">(18) processing requests for user identifications and passwords for the Servicing Bank’s Electronic Access System (EAS).</p>
-      <p id="79mvbh0y" outputclass="Normal"></p>
+      <p id="79mvbh0y" outputclass="Normal"/>
       <p id="mTUMLi" outputclass="Normal">d. <b>Level</b>
          <b>5</b>
          <b>–</b>
@@ -227,7 +230,7 @@
       <p id="FvQMNI" outputclass="Normal">(18) ensuring adequate funding exists prior to approving the purchase;</p>
       <p id="TzXoOX" outputclass="Normal">(19) working with the bank to resolve payment issues; and,</p>
       <p id="DolQZC" outputclass="Normal">(20) performing an annual review of CH files using the checklist in Appendix D, Section 2 (separate review from the mandatory annual A/OPC review of BOs)</p>
-      <p id="dlexjp3" outputclass="Normal"></p>
+      <p id="dlexjp3" outputclass="Normal"/>
       <p id="NVPQrz" outputclass="Normal">e. <b>Level</b>
          <b>6</b>
          <b>–</b>
@@ -265,7 +268,7 @@
       <p id="dtvzJY" outputclass="Normal">(22) ensuring all pilferable and other vulnerable property receipts are provided to the supporting Property Book Officer (PBO) within five working days to enable the PBO to establish accountability and asset-safeguarding controls by recording the asset in the property control system records;</p>
       <p id="BDNwvp" outputclass="Normal">(23) notifying the BO prior to departure, when you are on leave or travel and are not available to promptly sign and forward the CH statement of account. Forward all sales receipts and credit vouchers to the BO; and,</p>
       <p id="YSBqiz" outputclass="Normal">(24) providing to the BO upon departure the disposition of CH records and transfer all CH records to the BO with all statements, supporting documentation, receipts, logs.</p>
-      <p id="e30h1rlp" outputclass="Normal"></p>
+      <p id="e30h1rlp" outputclass="Normal"/>
       <p id="mxsWNi" outputclass="Normal">f. <b>Resource Managers</b>
          <b>(RMs)</b> fund GPC purchases using the General Fund Enterprise Business System (GFEBS), and in the case of organizations on legacy systems, continue to use the “bulk” method in lieu of creating and citing unique accounting classifications for each individual GPC purchase. The bulk funding method requires a periodic (monthly, bimonthly, quarterly, or annually) fund reservation, through obligation, equal to the anticipated purchases for that period. Bulk funds may be assigned as a single line of accounting to each CH account to cover anticipated GPC purchases for a specified period. The Resource Manager’s duties:</p>
       <p id="TfyOum" outputclass="Normal">(1) Provide a system of positive funds control by coordinating credit and cycle limits with the BO and Level 4 A/OPC;</p>
@@ -277,14 +280,14 @@
       <p id="sSixMs" outputclass="Normal">(7) assisting the Level 4 A/OPC with the surveillance of assigned accounts;</p>
       <p id="NmaOVt" outputclass="Normal">(8) monitoring GFEBS daily to identify account payment issues to prevent and resolve GPC payment delinquencies, correct Intermediate Document (IDOC) errors, and provide payment information upon request; and,</p>
       <p id="wHztRt" outputclass="Normal">(9) providing guidance and training to installation RMs, certifying officials, and cardholders on GFEBS processes.</p>
-      <p id="e80t3gf" outputclass="Normal"></p>
+      <p id="e80t3gf" outputclass="Normal"/>
       <p id="fJlyac" outputclass="Normal">g. <b>Defense Finance and Accounting Service (DFAS)</b> duties:</p>
       <p id="XLcGXa" outputclass="Normal">(1) maintaining the DD Form 577 for certifying officials;</p>
       <p id="OuhJsw" outputclass="Normal">(2) receiving and processing EDI transaction sets 821, Obligation Files; and 810, invoice files, and notifying the responsible installation or activity when the corresponding files are not received;</p>
       <p id="hUGOYn" outputclass="Normal">(3) notifying the installation/activity, within one day, of rejects and interest penalties assessed to individual accounts (confirm-does this happen);</p>
       <p id="pPbIOf" outputclass="Normal">(4) receiving and processing requests for manual payments; for example, bank system rejects and non-EDI accounts; and,</p>
       <p id="YwnJUy" outputclass="Normal">(5) assisting in resolving GPC payment issues.</p>
-      <p id="swwfijy" outputclass="Normal"></p>
+      <p id="swwfijy" outputclass="Normal"/>
       <p id="GyAqFP" outputclass="Normal">h. <b>Property Book Officer</b> duties:</p>
       <p id="todUYR" outputclass="Normal">(1) Ensuring established property control and accountability procedures are developed and disseminated to all personnel who are entrusted with the acquisition of Army property and equipment;</p>
       <p id="Twdkzp" outputclass="Normal">(2) Assisting the A/OPC in review of the purchase card account to ensure that property accountability procedures are being followed;</p>

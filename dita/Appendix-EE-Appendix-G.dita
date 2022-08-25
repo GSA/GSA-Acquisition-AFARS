@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-G" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE-Appendix-G"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 Heading">
       <ph props="autonumber">Appendix G: Formal Reporting Requirements</ph> Table Of Contents</title>
    <conbody>
@@ -14,10 +17,10 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -97,11 +100,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -137,16 +140,16 @@
                      <p id="VUlOcX">A. Total Number of Waiver Requests</p>
                   </entry>
                   <entry>
-                     <p id="cTwnes"></p>
+                     <p id="cTwnes"/>
                   </entry>
                   <entry>
-                     <p id="npwMyr"></p>
+                     <p id="npwMyr"/>
                   </entry>
                   <entry>
-                     <p id="PyjYxp"></p>
+                     <p id="PyjYxp"/>
                   </entry>
                   <entry>
-                     <p id="wQWJNo"></p>
+                     <p id="wQWJNo"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -154,16 +157,16 @@
                      <p id="TNxcsj">A1. Total Number of Waivers Approved</p>
                   </entry>
                   <entry>
-                     <p id="TOFgtn"></p>
+                     <p id="TOFgtn"/>
                   </entry>
                   <entry>
-                     <p id="iaYSbf"></p>
+                     <p id="iaYSbf"/>
                   </entry>
                   <entry>
-                     <p id="smijiy"></p>
+                     <p id="smijiy"/>
                   </entry>
                   <entry>
-                     <p id="PDdawY"></p>
+                     <p id="PDdawY"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -171,16 +174,16 @@
                      <p id="lWMooR">A2. Total Number of Waivers Disapproved</p>
                   </entry>
                   <entry>
-                     <p id="hgGMJI"></p>
+                     <p id="hgGMJI"/>
                   </entry>
                   <entry>
-                     <p id="LNIhhj"></p>
+                     <p id="LNIhhj"/>
                   </entry>
                   <entry>
-                     <p id="gAVxIV"></p>
+                     <p id="gAVxIV"/>
                   </entry>
                   <entry>
-                     <p id="rhTrwB"></p>
+                     <p id="rhTrwB"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -188,16 +191,16 @@
                      <p id="IVbOpI">B. Number of Open but Inactive Accounts (more than 3 months)</p>
                   </entry>
                   <entry>
-                     <p id="evqCBI"></p>
+                     <p id="evqCBI"/>
                   </entry>
                   <entry>
-                     <p id="glijPE"></p>
+                     <p id="glijPE"/>
                   </entry>
                   <entry>
-                     <p id="GhoPTl"></p>
+                     <p id="GhoPTl"/>
                   </entry>
                   <entry>
-                     <p id="nfsTfC"></p>
+                     <p id="nfsTfC"/>
                   </entry>
                </row>
             </tbody>
@@ -209,11 +212,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -250,16 +253,16 @@
                      <p id="aHWYPC">1</p>
                   </entry>
                   <entry>
-                     <p id="QfvHVK"></p>
+                     <p id="QfvHVK"/>
                   </entry>
                   <entry>
-                     <p id="VZgvqc"></p>
+                     <p id="VZgvqc"/>
                   </entry>
                   <entry>
-                     <p id="ucDIzy"></p>
+                     <p id="ucDIzy"/>
                   </entry>
                   <entry>
-                     <p id="ZxgayF"></p>
+                     <p id="ZxgayF"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -267,16 +270,16 @@
                      <p id="HFsJHh">2</p>
                   </entry>
                   <entry>
-                     <p id="idGVPx"></p>
+                     <p id="idGVPx"/>
                   </entry>
                   <entry>
-                     <p id="tNOgrX"></p>
+                     <p id="tNOgrX"/>
                   </entry>
                   <entry>
-                     <p id="WypQkf"></p>
+                     <p id="WypQkf"/>
                   </entry>
                   <entry>
-                     <p id="hEqWQf"></p>
+                     <p id="hEqWQf"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -284,16 +287,16 @@
                      <p id="aJJCaz">3</p>
                   </entry>
                   <entry>
-                     <p id="jekmhS"></p>
+                     <p id="jekmhS"/>
                   </entry>
                   <entry>
-                     <p id="wqupEu"></p>
+                     <p id="wqupEu"/>
                   </entry>
                   <entry>
-                     <p id="SzGVhq"></p>
+                     <p id="SzGVhq"/>
                   </entry>
                   <entry>
-                     <p id="BimvUZ"></p>
+                     <p id="BimvUZ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -301,16 +304,16 @@
                      <p id="FtNtIT">4</p>
                   </entry>
                   <entry>
-                     <p id="nfQJZq"></p>
+                     <p id="nfQJZq"/>
                   </entry>
                   <entry>
-                     <p id="HhGYAQ"></p>
+                     <p id="HhGYAQ"/>
                   </entry>
                   <entry>
-                     <p id="QOatat"></p>
+                     <p id="QOatat"/>
                   </entry>
                   <entry>
-                     <p id="aSEwAo"></p>
+                     <p id="aSEwAo"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -318,16 +321,16 @@
                      <p id="aKurcj">5</p>
                   </entry>
                   <entry>
-                     <p id="dozggB"></p>
+                     <p id="dozggB"/>
                   </entry>
                   <entry>
-                     <p id="pGtMOX"></p>
+                     <p id="pGtMOX"/>
                   </entry>
                   <entry>
-                     <p id="XhNvmk"></p>
+                     <p id="XhNvmk"/>
                   </entry>
                   <entry>
-                     <p id="FYHBCz"></p>
+                     <p id="FYHBCz"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -335,16 +338,16 @@
                      <p id="DKJOdL">6</p>
                   </entry>
                   <entry>
-                     <p id="nHrzoi"></p>
+                     <p id="nHrzoi"/>
                   </entry>
                   <entry>
-                     <p id="DQlPMw"></p>
+                     <p id="DQlPMw"/>
                   </entry>
                   <entry>
-                     <p id="tRTtBa"></p>
+                     <p id="tRTtBa"/>
                   </entry>
                   <entry>
-                     <p id="YmSFqs"></p>
+                     <p id="YmSFqs"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -352,16 +355,16 @@
                      <p id="kqOvTT">7</p>
                   </entry>
                   <entry>
-                     <p id="pzFCkl"></p>
+                     <p id="pzFCkl"/>
                   </entry>
                   <entry>
-                     <p id="QmsSQI"></p>
+                     <p id="QmsSQI"/>
                   </entry>
                   <entry>
-                     <p id="zjAxQl"></p>
+                     <p id="zjAxQl"/>
                   </entry>
                   <entry>
-                     <p id="PfqkfI"></p>
+                     <p id="PfqkfI"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -369,32 +372,32 @@
                      <p id="jjMVYz">8</p>
                   </entry>
                   <entry>
-                     <p id="vfqunP"></p>
+                     <p id="vfqunP"/>
                   </entry>
                   <entry>
-                     <p id="CLbKzq"></p>
+                     <p id="CLbKzq"/>
                   </entry>
                   <entry>
-                     <p id="VsAjdz"></p>
+                     <p id="VsAjdz"/>
                   </entry>
                   <entry>
-                     <p id="ghMCRw"></p>
+                     <p id="ghMCRw"/>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="wFRaNk" outputclass="Normal"></p>
+      <p id="wFRaNk" outputclass="Normal"/>
       <p id="4umdebj" outputclass="Ctr normal">
          <b>Inactivity</b>
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -430,16 +433,16 @@
                      <p id="tPEKEb">A. Total Number of Open but Inactive accounts</p>
                   </entry>
                   <entry>
-                     <p id="YtGvHG"></p>
+                     <p id="YtGvHG"/>
                   </entry>
                   <entry>
-                     <p id="GWxFBa"></p>
+                     <p id="GWxFBa"/>
                   </entry>
                   <entry>
-                     <p id="njZVRl"></p>
+                     <p id="njZVRl"/>
                   </entry>
                   <entry>
-                     <p id="PummQT"></p>
+                     <p id="PummQT"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -447,22 +450,22 @@
                      <p id="qiGOuY">B. Number of Open but Inactive Accounts (more than 3 months)</p>
                   </entry>
                   <entry>
-                     <p id="XtEpps"></p>
+                     <p id="XtEpps"/>
                   </entry>
                   <entry>
-                     <p id="SjvsUL"></p>
+                     <p id="SjvsUL"/>
                   </entry>
                   <entry>
-                     <p id="tfnrQG"></p>
+                     <p id="tfnrQG"/>
                   </entry>
                   <entry>
-                     <p id="kvytJM"></p>
+                     <p id="kvytJM"/>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="pQkGeS" outputclass="Normal"></p>
+      <p id="pQkGeS" outputclass="Normal"/>
       <p id="on1gx903" outputclass="Ctr normal">
          <b>Detailed Inactivity Report</b>
       </p>
@@ -477,11 +480,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -509,155 +512,155 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="ivekMp"></p>
+                     <p id="ivekMp"/>
                   </entry>
                   <entry>
-                     <p id="MyRtrj"></p>
+                     <p id="MyRtrj"/>
                   </entry>
                   <entry>
-                     <p id="AZTcmB"></p>
+                     <p id="AZTcmB"/>
                   </entry>
                   <entry>
-                     <p id="zuftur"></p>
+                     <p id="zuftur"/>
                   </entry>
                   <entry>
-                     <p id="lNDNBD"></p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="rXnSLg"></p>
-                  </entry>
-                  <entry>
-                     <p id="OvBdJE"></p>
-                  </entry>
-                  <entry>
-                     <p id="eNcZQq"></p>
-                  </entry>
-                  <entry>
-                     <p id="ZvYkWc"></p>
-                  </entry>
-                  <entry>
-                     <p id="OIkQwI"></p>
+                     <p id="lNDNBD"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="FqdAjS"></p>
+                     <p id="rXnSLg"/>
                   </entry>
                   <entry>
-                     <p id="IPDifv"></p>
+                     <p id="OvBdJE"/>
                   </entry>
                   <entry>
-                     <p id="AFPjjk"></p>
+                     <p id="eNcZQq"/>
                   </entry>
                   <entry>
-                     <p id="cNSaui"></p>
+                     <p id="ZvYkWc"/>
                   </entry>
                   <entry>
-                     <p id="CgBRaH"></p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="KgPGat"></p>
-                  </entry>
-                  <entry>
-                     <p id="kKrMrN"></p>
-                  </entry>
-                  <entry>
-                     <p id="vMfgDO"></p>
-                  </entry>
-                  <entry>
-                     <p id="HSPefU"></p>
-                  </entry>
-                  <entry>
-                     <p id="RWzEKn"></p>
+                     <p id="OIkQwI"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="YJtqXS"></p>
+                     <p id="FqdAjS"/>
                   </entry>
                   <entry>
-                     <p id="LZiJaV"></p>
+                     <p id="IPDifv"/>
                   </entry>
                   <entry>
-                     <p id="OkebnN"></p>
+                     <p id="AFPjjk"/>
                   </entry>
                   <entry>
-                     <p id="dQLVdg"></p>
+                     <p id="cNSaui"/>
                   </entry>
                   <entry>
-                     <p id="pjpExa"></p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="AGqIZu"></p>
-                  </entry>
-                  <entry>
-                     <p id="jLVoVY"></p>
-                  </entry>
-                  <entry>
-                     <p id="KCCLyt"></p>
-                  </entry>
-                  <entry>
-                     <p id="QUiCOL"></p>
-                  </entry>
-                  <entry>
-                     <p id="dYQIvu"></p>
+                     <p id="CgBRaH"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="MwEAuz"></p>
+                     <p id="KgPGat"/>
                   </entry>
                   <entry>
-                     <p id="opEOQD"></p>
+                     <p id="kKrMrN"/>
                   </entry>
                   <entry>
-                     <p id="pWppEP"></p>
+                     <p id="vMfgDO"/>
                   </entry>
                   <entry>
-                     <p id="RTeTFC"></p>
+                     <p id="HSPefU"/>
                   </entry>
                   <entry>
-                     <p id="vROFMy"></p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="kCQorg"></p>
-                  </entry>
-                  <entry>
-                     <p id="ZjuKOS"></p>
-                  </entry>
-                  <entry>
-                     <p id="TQoLhr"></p>
-                  </entry>
-                  <entry>
-                     <p id="cyZnsw"></p>
-                  </entry>
-                  <entry>
-                     <p id="sMezWk"></p>
+                     <p id="RWzEKn"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="iFMPJm"></p>
+                     <p id="YJtqXS"/>
                   </entry>
                   <entry>
-                     <p id="vcNnLb"></p>
+                     <p id="LZiJaV"/>
                   </entry>
                   <entry>
-                     <p id="jmWsDo"></p>
+                     <p id="OkebnN"/>
                   </entry>
                   <entry>
-                     <p id="JaSfFt"></p>
+                     <p id="dQLVdg"/>
                   </entry>
                   <entry>
-                     <p id="xTrJfv"></p>
+                     <p id="pjpExa"/>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="AGqIZu"/>
+                  </entry>
+                  <entry>
+                     <p id="jLVoVY"/>
+                  </entry>
+                  <entry>
+                     <p id="KCCLyt"/>
+                  </entry>
+                  <entry>
+                     <p id="QUiCOL"/>
+                  </entry>
+                  <entry>
+                     <p id="dYQIvu"/>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MwEAuz"/>
+                  </entry>
+                  <entry>
+                     <p id="opEOQD"/>
+                  </entry>
+                  <entry>
+                     <p id="pWppEP"/>
+                  </entry>
+                  <entry>
+                     <p id="RTeTFC"/>
+                  </entry>
+                  <entry>
+                     <p id="vROFMy"/>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="kCQorg"/>
+                  </entry>
+                  <entry>
+                     <p id="ZjuKOS"/>
+                  </entry>
+                  <entry>
+                     <p id="TQoLhr"/>
+                  </entry>
+                  <entry>
+                     <p id="cyZnsw"/>
+                  </entry>
+                  <entry>
+                     <p id="sMezWk"/>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="iFMPJm"/>
+                  </entry>
+                  <entry>
+                     <p id="vcNnLb"/>
+                  </entry>
+                  <entry>
+                     <p id="jmWsDo"/>
+                  </entry>
+                  <entry>
+                     <p id="JaSfFt"/>
+                  </entry>
+                  <entry>
+                     <p id="xTrJfv"/>
                   </entry>
                </row>
             </tbody>
@@ -669,11 +672,11 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -712,16 +715,16 @@
                      <p id="NJZWZR">A. Total Number of Level 4 A/OPC Programs Inspected</p>
                   </entry>
                   <entry>
-                     <p id="wRvaAm"></p>
+                     <p id="wRvaAm"/>
                   </entry>
                   <entry>
-                     <p id="QDIRxv"></p>
+                     <p id="QDIRxv"/>
                   </entry>
                   <entry>
-                     <p id="cdbMls"></p>
+                     <p id="cdbMls"/>
                   </entry>
                   <entry>
-                     <p id="XDicAy"></p>
+                     <p id="XDicAy"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -729,16 +732,16 @@
                      <p id="IANHQW">B. Number of BO Accounts under Level 3</p>
                   </entry>
                   <entry>
-                     <p id="nuYCww"></p>
+                     <p id="nuYCww"/>
                   </entry>
                   <entry>
-                     <p id="ORhgCo"></p>
+                     <p id="ORhgCo"/>
                   </entry>
                   <entry>
-                     <p id="qAeCYj"></p>
+                     <p id="qAeCYj"/>
                   </entry>
                   <entry>
-                     <p id="ZDMjqi"></p>
+                     <p id="ZDMjqi"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -746,16 +749,16 @@
                      <p id="KbyEjO">C. Number of BO Accounts reviewed</p>
                   </entry>
                   <entry>
-                     <p id="OzooQX"></p>
+                     <p id="OzooQX"/>
                   </entry>
                   <entry>
-                     <p id="oeIupO"></p>
+                     <p id="oeIupO"/>
                   </entry>
                   <entry>
-                     <p id="QKkmPe"></p>
+                     <p id="QKkmPe"/>
                   </entry>
                   <entry>
-                     <p id="aQIplq"></p>
+                     <p id="aQIplq"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -763,16 +766,16 @@
                      <p id="QAuCLW">D. Number of transactions reviewed</p>
                   </entry>
                   <entry>
-                     <p id="VbpOcB"></p>
+                     <p id="VbpOcB"/>
                   </entry>
                   <entry>
-                     <p id="MGCDAv"></p>
+                     <p id="MGCDAv"/>
                   </entry>
                   <entry>
-                     <p id="APSHqh"></p>
+                     <p id="APSHqh"/>
                   </entry>
                   <entry>
-                     <p id="fZhxBJ"></p>
+                     <p id="fZhxBJ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -780,48 +783,48 @@
                      <p id="PqnYjR">E. Number of formal reports issued to COC</p>
                   </entry>
                   <entry>
-                     <p id="NMuxcA"></p>
+                     <p id="NMuxcA"/>
                   </entry>
                   <entry>
-                     <p id="xHIqYE"></p>
+                     <p id="xHIqYE"/>
                   </entry>
                   <entry>
-                     <p id="WWACTj"></p>
+                     <p id="WWACTj"/>
                   </entry>
                   <entry>
-                     <p id="GgXZYS"></p>
+                     <p id="GgXZYS"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry nameend="5" namest="1">
                      <p id="KqsToS">F. Summary of Repetitive, or Systemic Weaknesses by Activity</p>
                      <p id="gaCVkm">Explicitly state by activity where no repetitive problems or systemic weaknesses were found during the review period.</p>
-                     <p id="a2l3rz3s"></p>
-                     <p id="1vxhnw7"></p>
-                     <p id="xjr5ify"></p>
-                     <p id="no339sq"></p>
-                     <p id="zusqqg3l"></p>
-                     <p id="g2tdkqvi"></p>
+                     <p id="a2l3rz3s"/>
+                     <p id="1vxhnw7"/>
+                     <p id="xjr5ify"/>
+                     <p id="no339sq"/>
+                     <p id="zusqqg3l"/>
+                     <p id="g2tdkqvi"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry nameend="5" namest="1">
                      <p id="HSPkpi">G. Summary of Adverse Actions by Activity</p>
-                     <p id="ufvzg89b"></p>
-                     <p id="c2bens0s"></p>
-                     <p id="xpygjnpo"></p>
-                     <p id="k35lb366"></p>
-                     <p id="dxylk2sd"></p>
+                     <p id="ufvzg89b"/>
+                     <p id="c2bens0s"/>
+                     <p id="xpygjnpo"/>
+                     <p id="k35lb366"/>
+                     <p id="dxylk2sd"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry nameend="5" namest="1">
                      <p id="UgJKPq">H. Exceptional GPC Programs or Performance</p>
-                     <p id="ey1lbipk"></p>
-                     <p id="azkfx46g"></p>
-                     <p id="6hm79bto"></p>
-                     <p id="zo1puckd"></p>
-                     <p id="xqqr4g4d"></p>
+                     <p id="ey1lbipk"/>
+                     <p id="azkfx46g"/>
+                     <p id="6hm79bto"/>
+                     <p id="zo1puckd"/>
+                     <p id="xqqr4g4d"/>
                   </entry>
                </row>
             </tbody>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5101.60190" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.60190"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5101.601-90</ph> Department of the Army contracting authorities and responsibilities.</title>
    <conbody>
@@ -11,7 +15,9 @@
             (CM) reforms, and promotes habitual customer relationships that leverage subject matter
             expertise to achieve greater contracting outcomes. The list of unique contracting
             authorities set forth in paragraph (b) is not all-inclusive and will continue to update
-            as CM initiatives evolve. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx" format="html" scope="external">AFARS PGI 5101.601-90-1</xref> for Guidance for Alignment of
+            as CM initiatives evolve. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external">AFARS PGI 5101.601-90-1</xref> for Guidance for Alignment of
             Contracting Activities to Categories.Additionally, the authorities described in
             paragraph (b), sub-paragraphs (2-4), do not apply to contingency requirement, and
             contracting operations outside the continental United States and overseas. </p>

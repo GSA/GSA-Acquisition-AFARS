@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_4-1" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE_4-1"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">4-1.</ph> Management Controls</title>
    <conbody>
@@ -19,7 +22,9 @@
       <p id="ZFfvmO" outputclass="List2">(7) <b>Exercise/Maintain Authorization Controls:</b> Appropriate spending limits and Merchant Category Code (MCC) access are tailored to each CH account. Spending limits and MCC access should reflect historical buying patterns/trends.</p>
       <p id="MRrHSD" outputclass="List2">(8) <b>Systems Access Security:</b> Appropriate safeguards must be in place to control issuance and safeguarding of access credentials to the EAS.</p>
       <p id="WJocDB" outputclass="List2">(9) <b>Available Funding Integrity:</b> Certified lines of accounting (LOAs) must be traceable through disbursement. All changes to LOAs must be documented and certified.</p>
-      <p id="ogBzBR" outputclass="List2">(10) <b>Invoice Integrity:</b> An electronic certification process ensures the original electronic invoice is traceable from the vendor through the certification and entitlement processes and retained in a Government record. Should the original invoice submitted by the contractor be in paper form, the Certifying Officer shall determine if the invoice is proper for payment and affix his/her signature in accordance with the governing provisions of the <xref format="pdf" href="http://comptroller.defense.gov/fmr/05/05_33.pdf" scope="external">
+      <p id="ogBzBR" outputclass="List2">(10) <b>Invoice Integrity:</b> An electronic certification process ensures the original electronic invoice is traceable from the vendor through the certification and entitlement processes and retained in a Government record. Should the original invoice submitted by the contractor be in paper form, the Certifying Officer shall determine if the invoice is proper for payment and affix his/her signature in accordance with the governing provisions of the <xref format="pdf"
+               href="http://comptroller.defense.gov/fmr/05/05_33.pdf"
+               scope="external">
             <u>DoDFMR</u>
          </xref>. If appropriate, the Certifying Officer makes any required “pen and ink” changes on the original invoice to reallocate the payment to different funding lines from those reflected on the original invoice. The Certifying Officer determines whether these changes are proper and affix his/her signature with the standard certification language on the original paper invoice.</p>
    </conbody>

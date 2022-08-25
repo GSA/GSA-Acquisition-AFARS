@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-2_2-3" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-2_2-3"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">2.3</ph> Develop the Request for Proposals</title>
    <conbody>
@@ -45,11 +48,11 @@
       <p id="McObkX" outputclass="Normal">You may find it beneficial to develop a matrix that correlates the RFP sections and content to ensure consistency. Figure 2-4 illustrates how the key documents and evaluation standards map to one another and shows the recommended sequencing for document preparation. Provide industry with a copy of the matrix (make it part of the solicitation) as a reference tool to aid in proposal preparation. You may also consider including a column for offerors to complete in the tracking matrix (as shown in Figure 2-4), denoting where in their proposal the requirement is addressed. This approach promotes understanding of the linkage within the solicitation, explains how all parts of the proposal will be used in the evaluation process, and enables a crosswalk for both the government and offerors to ensure all requirements have been addressed.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -61,7 +64,7 @@
                      <p id="JqKcVi">
                         <b>EVALUATION FACTORS, SUBFACTORS EVALUATION AND SUBMISSION INFORMATION</b>
                      </p>
-                     <p id="TuVotq"></p>
+                     <p id="TuVotq"/>
                   </entry>
                   <entry>
                      <p id="YDwQiF">
@@ -126,7 +129,7 @@
                      <p id="kVyomp">The offeror will describe its approach to software modification and explain how the software will accommodate open architecture, conforms to ISO-9000-3, tracks accurately, and maintains reliability.</p>
                   </entry>
                   <entry>
-                     <p id="GWKYvK"></p>
+                     <p id="GWKYvK"/>
                   </entry>
                </row>
             </tbody>
@@ -135,7 +138,7 @@
       <p id="BmTEle" outputclass="Ctr normal">
          <i>Figure 2-4 Requirements to RFP to Proposal Tracking Matrix</i>
       </p>
-      <p id="OrIFEG" outputclass="Normal"></p>
+      <p id="OrIFEG" outputclass="Normal"/>
       <p id="rjDqKu" outputclass="Normal">
          <b>
             <i>Avoid</i>
@@ -471,7 +474,7 @@
          </b> an authorized method of expressing the relative importance of evaluation factors and subfactors (see AFARS 5115.304(b)(2)(B)).</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
             <tbody>
                <row>
                   <entry>

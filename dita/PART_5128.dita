@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
-   <topic id="AFARS_PART_5128" ditaarch:DITAArchVersion="1.3">
-      <title outputclass="1 Heading">
-         <ph props="autonumber">Part 5128</ph> - Bonds and Insurance</title>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5128">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5128</ph> - Bonds and Insurance</title>
       <body>
          <ul otherprops="TOC">
             <li>
@@ -62,9 +63,9 @@
                         <xref outputclass="fm:TOC" href="5128.203.dita#AFARS_5128.203">5128.203 Acceptability of individual sureties.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised August 4, 2022">
                            <p>
-                              <xref outputclass="fm:TOC" href="5128.2037.dita#AFARS_5128.2037">5128.203-7 Exclusion of individual sureties.</xref>
+                              <xref outputclass="fm:TOC" href="5128.2035.dita#AFARS_5128.2035">5128.203-5 Exclusion of individual sureties.</xref>
                            </p>
                         </li>
                      </ul>

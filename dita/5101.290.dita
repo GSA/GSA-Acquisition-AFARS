@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5101.290" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.290"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5101.290</ph> Routing documents and mailing addresses.</title>
    <conbody>
@@ -13,13 +16,17 @@
       <p id="mPWffU">103 Army Pentagon</p>
       <p id="YbSmLa">Room 2D528</p>
       <p id="ActfOy">Washington, DC 20310-0103.</p>
-      <p id="pojlXu">The email address is <xref format="mailto" href="mailto:usarmy.pentagon.hqda-asa-alt.list.dasa-p-primary-staff@mail.mil" scope="external">
+      <p id="pojlXu">The email address is <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-asa-alt.list.dasa-p-primary-staff@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-asa-alt.list.dasa-p-primary-staff@mail.mil</u>
          </xref>.</p>
       <p id="hcqIzZ" outputclass="List2">(2)(i) For the Office of the Deputy Assistant Secretary of the Army (Procurement), use the following:</p>
       <p id="trCuVm">Office of the Deputy Assistant Secretary of the Army (Procurement)</p>
       <p id="oCaBit">
-         <xref format="mailto" href="mailto:usarmy.pentagon.hqda-asa-alt.list.zp-current-operations@mail.mil" scope="external">
+         <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-asa-alt.list.zp-current-operations@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-asa-alt.list.zp-current-operations@mail.mil</u>
          </xref>)</p>
       <p id="kLDzHo">Zachary Taylor Building – 5th Floor</p>
@@ -27,13 +34,19 @@
       <p id="tzqYIY" outputclass="Text Body">Arlington, VA 22202.</p>
       <p id="lHQjug" outputclass="Text Body">The email addresses for the directorates appear in paragraph (2)(ii). Submit document packages requiring HQDA review, coordination, and/or approval via the TMT.</p>
       <p id="CLpjtZ" outputclass="List3">(ii) Specify the directorate and email address within paragraph (2)(i) as follows:</p>
-      <p id="xqYhrS" outputclass="List4">(A) SAAL-ZP-PP Procurement Policy, <xref format="mailto" href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-zp-pp@mail.mil" scope="external">
+      <p id="xqYhrS" outputclass="List4">(A) SAAL-ZP-PP Procurement Policy, <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-zp-pp@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-asa-alt.list.saal-zp-pp@mail.mil</u>
          </xref>.</p>
-      <p id="nNZRsJ" outputclass="List4">(B) SAAL-ZP-PS Procurement Support, <xref format="mailto" href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil" scope="external">
+      <p id="nNZRsJ" outputclass="List4">(B) SAAL-ZP-PS Procurement Support, <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil</u>
          </xref>.</p>
-      <p id="LckMJd" outputclass="List4">(C) SAAL-ZP-PE Procurement Systems, <xref format="mailto" href="mailto:usarmy.pentagon.hqda-asa-alt.saal-zp-pe@mail.mil" scope="external">
+      <p id="LckMJd" outputclass="List4">(C) SAAL-ZP-PE Procurement Systems, <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-asa-alt.saal-zp-pe@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-asa-alt.saal-zp-pe@mail.mil</u>
          </xref>.</p>
       <p id="iGQXYU" outputclass="List2">(3) For the Office of the Assistant Secretary of the Army (Financial Management and Comptroller), use the following:</p>

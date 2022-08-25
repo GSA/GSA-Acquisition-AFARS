@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5117.9001" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5117.9001"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5117.9001</ph> Definitions.</title>
    <conbody>
       <p>As used in this subpart –</p>
-      <p>“Coefficient” means a numerical factor that represents costs (generally indirect costs) not considered to be included in “Unit Price Book” unit prices (e.g., general and administrative and other overhead costs, insurance costs, bonding and alternative payment protection costs, protective clothing, equipment rental, sales tax and compliance with tax laws, and also contractor’s profit).  Contingencies such as changes in wage rates and the effect of inflation in option years are also covered in the coefficient when Economic Price Adjustment is not used.  Coefficients proposed by offerors are multiplied times the unit prices in the Unit Price Book to price a job or project on individual orders.  The coefficient(s) proposed by the offeror and accepted by the Government are incorporated in the JOC.  <i>[AFARS Revision #15, dated February 17, 2005]</i>
-      </p>
-      <p>“Job order contract” means an indefinite-delivery, indefinite-quantity contract which is awarded on the basis of full and open competition and effective competition and is used to execute sustainment, restoration and modernization projects at installation (post, camp, or station) level.  The JOC includes a comprehensive collection of detailed repair, maintenance and minor construction task descriptions or specifications, units of measure and pre-established unit prices for each of these discrete tasks.  Each project or job ordered under a JOC is normally comprised of a number of pre-described and pre-priced tasks.  <i>[AFARS Revision #15, dated February 17, 2005]</i>
-      </p>
-      <p>“Non-pre-priced task or item” means a necessary, but incidental, part of a job or project ordered or to be ordered under a JOC that is not susceptible to unit pricing using the pre-priced tasks in the Unit Price Book or database incorporated in the JOC.  The coefficient developed for a pre-priced task or item must not be applied to a non-pre-priced task or item.</p>
-      <p>“Unit Price Book” means the compilation of sustainment, restoration, and modernization tasks, associated units of measure and unit prices that are used in job order solicitations and JOC.  JOC unit prices include direct material, labor and equipment costs, but not indirect costs or profits which are addressed in the coefficient(s).  Depending upon the source of the data base used, the Unit Price Base (UPB) may contain from 25,000-90,000 line items. <i> [AFARS Revision #15, dated February 17, 2005]</i>
-      </p>
+      <p outputclass="List1" rev="Revised August 4, 2022">“JOC Price Book” (JOCPB) means the
+         compilation of repair, maintenance, and minor construction tasks, associated units of
+         measure and unit prices that are used in job order solicitations and a JOC. JOC unit prices
+         include direct material, labor and equipment costs, but not indirect costs or profits which
+         are addressed in the coefficient(s). The use of labor-only line items is appropriate for
+         use when proper internal controls are in place and incidental to construction. Labor line
+         items are not to provide services, typically performed under a separate service or
+         requirements contract. The JOCPB reflects the current local costs in detail for
+         construction tasks expected to be performed in the geographical area of the base contract
+         with the primary use of developing a detailed line item price. For CONUS, the JOCPB shall
+         be developed using commercially available pricing tools to ensure consistent and
+         comprehensive pricing of tasks unless the contracting officer determines the use of a
+         commercially available pricing tool is not in the best interest of the government. </p>
+      <p outputclass="List1" rev="Revised August 4, 2022">“Coefficient” means a numerical factor
+         that represents costs (generally indirect costs) not included in JOCPB unit prices (e.g.,
+         general and administrative and other overhead costs, insurance costs, bonding and
+         alternative payment protection costs, protective clothing,</p>
    </conbody>
 </concept>

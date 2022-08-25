@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5115.4041" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5115.4041"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5115.404-1</ph> Proposal analysis techniques.</title>
    <conbody>
       <p id="bOiLSc" outputclass="Normal">(a) General.</p>
       <p id="djAVwF" outputclass="List3">(i)(A)(iv) The head of the contracting activity shall make
          the decision as stated in DFARS PGI 215.404-1(a)(i)(A)(iv) and in accordance with AFARS
-            <xref href="5115.403390.dita" outputclass="fm:ParaNumOnly" />. See
-            <xref format="aspx" href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx" scope="external">
+            <xref href="5115.403390.dita" outputclass="fm:ParaNumOnly"/>. See
+            <xref format="aspx"
+               href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+               scope="external">
             <u>Appendix GG</u>
          </xref> for further delegation.</p>
    </conbody>

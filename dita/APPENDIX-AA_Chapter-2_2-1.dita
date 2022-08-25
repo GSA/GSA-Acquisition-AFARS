@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-2_2-1" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-2_2-1"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">2.1</ph> Conduct Acquisition Planning</title>
    <conbody>
@@ -33,7 +36,7 @@
             <i>Peer Reviews.</i>
          </b> See AFARS 5101.170 for Preaward peer reviews. Planning, and including realistic time allowances, for all requisite reviews when establishing milestone schedules is essential to the success of your acquisition.</p>
       <p id="OeFKNG" outputclass="Normal">
-         <u></u>
+         <u/>
       </p>
       <p id="wKPbcs" outputclass="Text Body">
          <b>Market Research.</b> Market research is a continuous process and directly influences how the acquisition strategy and source selection process is shaped. (Reference DOD Source Selection Procedures 2.1.2 and AFARS 5110.002).</p>

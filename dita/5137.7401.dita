@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5137.7401" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5137.7401"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5137.7401</ph> Policy.</title>
    <conbody>
-      <p outputclass="Normal">(c)  The head of the contracting activity makes the determination at DFARS 237.7401(c).  See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx" scope="external" format="aspx">
+      <p outputclass="Normal">(c)  The head of the contracting activity makes the determination at DFARS 237.7401(c).  See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+               scope="external"
+               format="aspx">
             <u>Appendix GG</u>
          </xref> for further delegation.</p>
    </conbody>

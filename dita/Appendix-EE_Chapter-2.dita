@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_Chapter-2" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE_Chapter-2"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 heading Ctr Subpart">
       <ph props="autonumber">Chapter 2</ph>: Establishing and Maintaining a GPC Account</title>
    <conbody>
-      <p id="wer543"></p>
+      <p id="wer543"/>
    </conbody>
 </concept>

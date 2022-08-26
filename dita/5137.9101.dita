@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5137.9101" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5137.9101"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5137.9101</ph> Policy.</title>
    <conbody>
       <p id="dEpmWB" outputclass="Normal">(a) Contracting officers shall ensure that the requirement to report contractor manpower is included in all contracts, task/delivery orders and modifications. The cognizant contracting officer shall include a separate line item in Section B of the contract to allow for payment in compliance with this requirement.</p>
       <p id="BlHDgt">
-         <b>(b) Report all services contracts that meet the threshold outlined in FAR 4.1703 – Reporting Requirements. The list of contracts for which reporting is not applicable is located on the Assistant Secretary of the Army Manpower and Reserve Affairs (ASA(M&amp;RA)) website <xref format="pdf" href="http://www.asamra.army.mil/scra/documents/ServicesContractApprovalForm.pdf" scope="external">
+         <b>(b) Report all services contracts that meet the threshold outlined in FAR 4.1703 – Reporting Requirements. The list of contracts for which reporting is not applicable is located on the Assistant Secretary of the Army Manpower and Reserve Affairs (ASA(M&amp;RA)) website <xref format="pdf"
+                  href="http://www.asamra.army.mil/scra/documents/ServicesContractApprovalForm.pdf"
+                  scope="external">
                <u>http://www.asamra.army.mil/scra/documents/ServicesContractApprovalForm.pdf</u>
             </xref>.</b>
       </p>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.3032" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5153.3032"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5153.303-2</ph> Sample ordering officer appointment.</title>
    <conbody>
@@ -46,14 +49,14 @@
       <p id="XeWJOh" outputclass="List1">5. <b>
             <i>Acknowledgement of Receipt.</i>
          </b> You are required to acknowledge receipt of this appointment on the duplicate copy and return it to the contracting officer. Your signature also serves as certification that you have read and understand the contents of DoD 5500.7-R. The original copy of this designation should be retained for your file.</p>
-      <p id="KELzZu" outputclass="Ctr"></p>
+      <p id="KELzZu" outputclass="Ctr"/>
       <p id="nZVPYv" outputclass="Ctr">Signature Block Of</p>
       <p id="bRIwty" outputclass="Ctr">Appointing Authority</p>
       <p id="owUPMQ" outputclass="Normal">Receipt of this appointment is acknowledged.</p>
       <table colsep="0" frame="none" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row>
                   <entry>Name: ___________________(Print or type)</entry>

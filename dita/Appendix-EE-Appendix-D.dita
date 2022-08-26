@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-D" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE-Appendix-D"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 1">
       <ph props="autonumber">Appendix D: Department of Defense
  (DoD) Purchase Card Checklist and Certification Template</ph> Table Of Contents</title>
@@ -24,8 +28,13 @@
             simulation, and other). Answers that indicate deficiencies must be explained and
             corrective action indicated in supporting documentation. </p>
       <p outputclass="Normal">
-         <xref href="http://www.acq.osd.mil/dpap/pdi/pc/docs/DOD_PCPO_GPC_Review_Best-Practice_Checklist_2012.07.26_(editable).docx" scope="external" format="docx">
-            <image href="Graphics/appendix_ee_image1.png" width="4.23mm" height="4.23mm" placement="inline">
+         <xref href="http://www.acq.osd.mil/dpap/pdi/pc/docs/DOD_PCPO_GPC_Review_Best-Practice_Checklist_2012.07.26_(editable).docx"
+               scope="external"
+               format="docx">
+            <image href="Graphics/appendix_ee_image1.png"
+                   width="4.23mm"
+                   height="4.23mm"
+                   placement="inline">
                <alt>Graphics/appendix_ee_image1.png</alt>
             </image>
             <ph>
@@ -34,7 +43,9 @@
          </xref> for the Department of Defense (DoD)
             Purchase Card Policy Office (PCPO) Government Purchase Card (GPC) Review Best Practice
             Checklist (July 2012). </p>
-      <p outputclass="Normal">The checklist is located at: <xref href="http://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html" scope="external" format="html">
+      <p outputclass="Normal">The checklist is located at: <xref href="http://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html"
+               scope="external"
+               format="html">
             <u>http://www.acq.osd.mil/dpap/pdi/pc/policy_documents.html</u>
          </xref>
       </p>

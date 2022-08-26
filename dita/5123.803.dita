@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5123.803" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5123.803"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5123.803</ph> Policy.</title>
    <conbody>
@@ -12,12 +15,12 @@
       </p>
       <p id="KetuMH" outputclass="List3">(i) For contracts administered by the Army, the contracting officer must obtain an evaluation and written determination of the suitability of proposed substitutes for ozone-depleting substances from the organization in (1)(i).</p>
       <p id="ixhXhL" outputclass="List3">(ii) The written determination must be based on a certification by a technical representative of the</p>
-      <p id="ax5j4qmg" outputclass="List3"></p>
+      <p id="ax5j4qmg" outputclass="List3"/>
       <p id="CBqfZX" outputclass="List3">Environmental Support Office</p>
       <p id="vlUXNX" outputclass="List3">Headquarters, Department of the Army</p>
       <p id="NxTuJR" outputclass="List3">2800 Crystal Drive, 5th Floor</p>
       <p id="pnImLE" outputclass="List3">Arlington, VA 22202-3911,</p>
-      <p id="3d7jqbnq" outputclass="List3"></p>
+      <p id="3d7jqbnq" outputclass="List3"/>
       <p id="HrnEYJ" outputclass="List3">in coordination with the requiring activity. Elevate any dispute concerning what constitutes a suitable substitute through the requiring activity’s leadership to the Army Acquisition Executive for a final decision.</p>
    </conbody>
 </concept>

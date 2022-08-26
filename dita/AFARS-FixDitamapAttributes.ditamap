@@ -4,7 +4,7 @@
 <map title="Army Federal Acquisition Regulation Supplement"
      outputclass="dod">
    <title outputclass="Title">AFARS</title>
-   <topicref navtitle="Volume X - Parts xxxx to xxxx"
+   <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
              outputclass="subtopic"
              props="NoTitle"
@@ -15,22 +15,22 @@
       <topicref navtitle="Army Federal Acquisition Regulation    Supplement"
                 href="Cover_1.dita"
                 props="NoTitle"
-                audience="Cover_1"
+                audience="Cover_1s"
                 otherprops="NoProp"
                 base="NoTitle"
                 outputclass="subtopic"
                 xtrf="subtopic"
-                xtrc="Cover_1.html"/>
+                xtrc="Cover_1s.html"/>
    </topicref>
    <topicref href="PART_5101.dita"
-             navtitle="AFARS – PART 5101 Federal Acquisition Regulation System"
+             navtitle="Part 5101 - Federal Acquisition Regulation System"
              outputclass="Part"
              props="Part 5101"
              base="NoTitle"
              audience="AFARS__PART_5101"
              xtrf="Part">
       <topicref href="Subpart_5101.1.dita"
-                navtitle="Subpart 5101.1 – Purpose, Authority, Issuance"
+                navtitle="Subpart 5101.1 - Purpose, Authority, Issuance"
                 outputclass="SubPart"
                 props="Subpart 5101.1"
                 base="NoTitle"
@@ -64,15 +64,15 @@
          </topicref>
          <topicref href="5101.108.dita"
                    navtitle="5101.108 FAR conventions."
-                   props="5101.108"
+                   props="5101.108FARconventions."
                    base="NoTitle"
                    audience="AFARS_5101.108"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5101.108.html"/>
          <topicref href="5101.108_A.dita"
-                   navtitle="5101.108        (b)(S–90) Introduction of delegations matrix at Appendix GG and instructions for use."
-                   props=""
+                   navtitle="5101.108        (b)(S-90) Introduction of delegations matrix at Appendix GG and instructions for use."
+                   props="5101.108bS-90IntroductionofdelegationsmatrixatAppendixGGandinstructionsforuse."
                    base="NoTitle"
                    audience="AFARS_5101.108_A"
                    outputclass="subtopic"
@@ -88,7 +88,7 @@
                    xtrc="AFARS_5101.170.html"/>
       </topicref>
       <topicref href="Subpart_5101.2.dita"
-                navtitle="Subpart 5101.2 – Administration"
+                navtitle="Subpart 5101.2 - Administration"
                 outputclass="SubPart"
                 props="Subpart 5101.2"
                 base="NoTitle"
@@ -105,7 +105,7 @@
                    xtrc="AFARS_5101.290.html"/>
       </topicref>
       <topicref href="Subpart_5101.3.dita"
-                navtitle="Subpart 5101.3 – Agency Acquisition Regulations"
+                navtitle="Subpart 5101.3 - Agency Acquisition Regulations"
                 outputclass="SubPart"
                 props="Subpart 5101.3"
                 base="NoTitle"
@@ -147,7 +147,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5101.4.dita"
-                navtitle="Subpart 5101.4 – Deviations From the FAR"
+                navtitle="Subpart 5101.4 - Deviations From the FAR"
                 outputclass="SubPart"
                 props="Subpart 5101.4"
                 base="NoTitle"
@@ -190,7 +190,7 @@
                    xtrc="AFARS_5101.404.html"/>
       </topicref>
       <topicref href="Subpart_5101.5.dita"
-                navtitle="Subpart 5101.5 – Agency and Public Participation"
+                navtitle="Subpart 5101.5 - Agency and Public Participation"
                 outputclass="SubPart"
                 props="Subpart 5101.5"
                 base="NoTitle"
@@ -207,7 +207,7 @@
                    xtrc="AFARS_5101.5012.html"/>
       </topicref>
       <topicref href="Subpart_5101.6.dita"
-                navtitle="Subpart 5101.6 – Career Development, Contracting Authority and Responsibilities"
+                navtitle="Subpart 5101.6 - Career Development, Contracting Authority and Responsibilities"
                 outputclass="SubPart"
                 props="Subpart 5101.6"
                 base="NoTitle"
@@ -263,7 +263,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5101.602290.html"/>
             <topicref href="5101.602291.dita"
-                      navtitle="5101.602-2-91 Contracting officer’s representative appointments."
+                      navtitle="5101.602-2-91 Contracting officers representative appointments."
                       props="5101.602-2-91"
                       base="NoTitle"
                       audience="AFARS_5101.602291"
@@ -377,7 +377,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5101.693.html">
             <topicref href="5101.69490.dita"
-                      navtitle="5101.694-90 Program or Project–specific Senior contracting official."
+                      navtitle="5101.694-90 Program or Project-specific Senior contracting official."
                       props="5101.694-90"
                       base="NoTitle"
                       audience="AFARS_5101.69490"
@@ -387,7 +387,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5101.7.dita"
-                navtitle="Subpart 5101.7 – Determinations and Findings"
+                navtitle="Subpart 5101.7 - Determinations and Findings"
                 outputclass="SubPart"
                 props="Subpart 5101.7"
                 base="NoTitle"
@@ -404,7 +404,7 @@
                    xtrc="AFARS_5101.707.html"/>
       </topicref>
       <topicref href="Subpart_5101.90.dita"
-                navtitle="Subpart 5101.90 – Nonappropriated Funds"
+                navtitle="Subpart 5101.90 - Nonappropriated Funds"
                 outputclass="SubPart"
                 props="Subpart 5101.90"
                 base="NoTitle"
@@ -429,7 +429,7 @@
                    xtrc="AFARS_5101.9002.html"/>
       </topicref>
       <topicref href="Subpart_5101.91.dita"
-                navtitle="Subpart 5101.91 – Authority to Award and Administer Grants, Cooperative Agreements, Technology Investment Agreements, and Other Transactions"
+                navtitle="Subpart 5101.91 - Authority to Award and Administer Grants, Cooperative Agreements, Technology Investment Agreements, and Other Transactions"
                 outputclass="SubPart"
                 props="Subpart 5101.91"
                 base="NoTitle"
@@ -448,13 +448,13 @@
    </topicref>
    <topicref href="PART_5102.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5102 Definitions of Words and Terms"
+             navtitle="Part 5102 - Definitions of Words and Terms"
              props="Part 5102"
              base="NoTitle"
              audience="AFARS_PART_5102"
              xtrf="Part">
       <topicref href="Subpart_5102.1.dita"
-                navtitle="Subpart 5102.1 – Definitions"
+                navtitle="Subpart 5102.1 - Definitions"
                 outputclass="SubPart"
                 props="Subpart 5102.1"
                 base="NoTitle"
@@ -473,13 +473,13 @@
    </topicref>
    <topicref href="PART_5103.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5103 Improper Business Practices and Personal Conflicts of Interest"
+             navtitle="Part 5103 - Improper Business Practices and Personal Conflicts of Interest"
              props="Part 5103"
              base="NoTitle"
              audience="AFARS_PART_5103"
              xtrf="Part">
       <topicref href="Subpart_5103.1.dita"
-                navtitle="Subpart 5103.1 – Safeguards"
+                navtitle="Subpart 5103.1 - Safeguards"
                 outputclass="SubPart"
                 props="Subpart 5103.1"
                 base="NoTitle"
@@ -511,7 +511,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5103.1045.html"/>
             <topicref href="5103.1046.dita"
-                      navtitle="5103.104-6 Ethics advisory opinions regarding prohibitions on a former official’s acceptance of compensation from a contractor."
+                      navtitle="5103.104-6 Ethics advisory opinions regarding prohibitions on a former officials acceptance of compensation from a contractor."
                       props="5103.104-6"
                       base="NoTitle"
                       audience="AFARS_5103.1046"
@@ -546,7 +546,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5103.2.dita"
-                navtitle="Subpart 5103.2 – Contractor Gratuities to Government Personnel"
+                navtitle="Subpart 5103.2 - Contractor Gratuities to Government Personnel"
                 outputclass="SubPart"
                 props="Subpart 5103.2"
                 base="NoTitle"
@@ -579,7 +579,7 @@
                    xtrc="AFARS_5103.204.html"/>
       </topicref>
       <topicref href="Subpart_5103.6.dita"
-                navtitle="Subpart 5103.6 – Contracts with Government Employees or Organizations Owned or Controlled by Them"
+                navtitle="Subpart 5103.6 - Contracts with Government Employees or Organizations Owned or Controlled by Them"
                 outputclass="SubPart"
                 props="Subpart 5103.6"
                 base="NoTitle"
@@ -595,14 +595,14 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5103.602.html"/>
       </topicref>
-      <topicref href="Subpart_5103..dita"
-                navtitle="Subpart 5103. 7 – Voiding and Rescinding Contracts"
+      <topicref href="Subpart_5103.7.dita"
+                navtitle="Subpart 5103.7 - Voiding and Rescinding Contracts"
                 outputclass="SubPart"
-                props="Subpart 5103."
+                props="Subpart 5103.7"
                 base="NoTitle"
-                audience="AFARS_Subpart_5103."
+                audience="AFARS_Subpart_5103.7"
                 xtrf="SubPart"
-                xtrc="AFARS_Subpart_5103..html">
+                xtrc="AFARS_Subpart_5103.7.html">
          <topicref href="5103.703.dita"
                    navtitle="5103.703 Authority."
                    props="5103.703"
@@ -621,7 +621,7 @@
                    xtrc="AFARS_5103.704.html"/>
       </topicref>
       <topicref href="Subpart_5103.9.dita"
-                navtitle="Subpart 5103.9 – Whistleblower Protections for Contractor Employees"
+                navtitle="Subpart 5103.9 - Whistleblower Protections for Contractor Employees"
                 outputclass="SubPart"
                 props="Subpart 5103.9"
                 base="NoTitle"
@@ -646,7 +646,7 @@
                    xtrc="AFARS_5103.906.html"/>
       </topicref>
       <topicref href="Subpart_5103.10.dita"
-                navtitle="Subpart 5103.10 – Contractor Code of Business Ethics and Conduct"
+                navtitle="Subpart 5103.10 - Contractor Code of Business Ethics and Conduct"
                 outputclass="SubPart"
                 props="Subpart 5103.10"
                 base="NoTitle"
@@ -664,14 +664,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5104.dita"
-             navtitle="AFARS – PART 5104 Administrative Matters"
+             navtitle="Part 5104 - Administrative Matters"
              outputclass="Part"
              props="Part 5104"
              base="NoTitle"
              audience="AFARS_PART_5104"
              xtrf="Part">
       <topicref href="Subpart_5104.1.dita"
-                navtitle="Subpart 5104.1 – Contract Execution"
+                navtitle="Subpart 5104.1 - Contract Execution"
                 outputclass="SubPart"
                 props="Subpart 5104.1"
                 base="NoTitle"
@@ -688,7 +688,7 @@
                    xtrc="AFARS_5104.103.html"/>
       </topicref>
       <topicref href="Subpart_5104.2.dita"
-                navtitle="Subpart 5104.2 – Contract Distribution"
+                navtitle="Subpart 5104.2 - Contract Distribution"
                 outputclass="SubPart"
                 props="Subpart 5104.2"
                 base="NoTitle"
@@ -713,7 +713,7 @@
                    xtrc="AFARS_5104.202.html"/>
       </topicref>
       <topicref href="Subpart_5104.4.dita"
-                navtitle="Subpart 5104.4 – Safeguarding Classified Information Within Industry"
+                navtitle="Subpart 5104.4 - Safeguarding Classified Information Within Industry"
                 outputclass="SubPart"
                 props="Subpart 5104.4"
                 base="NoTitle"
@@ -738,7 +738,7 @@
                    xtrc="AFARS_5104.403.html"/>
       </topicref>
       <topicref href="Subpart_5104.5.dita"
-                navtitle="Subpart 5104.5 – Electronic Commerce in Contracting"
+                navtitle="Subpart 5104.5 - Electronic Commerce in Contracting"
                 outputclass="SubPart"
                 props="Subpart 5104.5"
                 base="NoTitle"
@@ -764,7 +764,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5104.6.dita"
-                navtitle="Subpart 5104.6 – Contract Reporting"
+                navtitle="Subpart 5104.6 - Contract Reporting"
                 outputclass="SubPart"
                 props="Subpart 5104.6"
                 base="NoTitle"
@@ -781,7 +781,7 @@
                    xtrc="AFARS_5104.604.html"/>
       </topicref>
       <topicref href="Subpart_5104.8.dita"
-                navtitle="Subpart 5104.8 – Government Contract Files"
+                navtitle="Subpart 5104.8 - Government Contract Files"
                 outputclass="SubPart"
                 props="Subpart 5104.8"
                 base="NoTitle"
@@ -823,7 +823,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5104.9.dita"
-                navtitle="Subpart 5104.9 – Taxpayer Identification Number Information"
+                navtitle="Subpart 5104.9 - Taxpayer Identification Number Information"
                 outputclass="SubPart"
                 props="Subpart 5104.9"
                 base="NoTitle"
@@ -840,7 +840,7 @@
                    xtrc="AFARS_5104.903.html"/>
       </topicref>
       <topicref href="Subpart_5104.71.dita"
-                navtitle="Subpart 5104.71 – Uniform Contract Line Item Numbering System"
+                navtitle="Subpart 5104.71 - Uniform Contract Line Item Numbering System"
                 outputclass="SubPart"
                 props="Subpart 5104.71"
                 base="NoTitle"
@@ -857,7 +857,7 @@
                    xtrc="AFARS_5104.710390.html"/>
       </topicref>
       <topicref href="Subpart_5104.73.dita"
-                navtitle="Subpart 5104.73—Safeguarding Covered Defense Information and Cyber Incident Reporting"
+                navtitle="Subpart 5104.73 - Safeguarding Covered Defense Information and Cyber Incident Reporting"
                 outputclass="SubPart"
                 props="Subpart 5104.73"
                 base="NoTitle"
@@ -865,7 +865,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5104.73.html">
          <topicref href="5104.7304.dita"
-                   navtitle="5104.7304 Solicitation provisions and contract clauses."
+                   navtitle="5104.7304 Solicitation provisions and        contract clauses."
                    props="5104.7304"
                    base="NoTitle"
                    audience="AFARS_5104.7304"
@@ -876,13 +876,13 @@
    </topicref>
    <topicref href="PART_5105.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5105 Publicizing Contract Actions"
+             navtitle="Part 5105 - Publicizing Contract Actions"
              props="Part 5105"
              base="NoTitle"
              audience="AFARS_PART_5105"
              xtrf="Part">
       <topicref href="Subpart_5105.1.dita"
-                navtitle="Subpart 5105.1 – Dissemination of Information"
+                navtitle="Subpart 5105.1 - Dissemination of Information"
                 outputclass="SubPart"
                 props="Subpart 5105.1"
                 base="NoTitle"
@@ -907,7 +907,7 @@
                    xtrc="AFARS_5105.102.html"/>
       </topicref>
       <topicref href="Subpart_5105.3.dita"
-                navtitle="Subpart 5105.3 – Synopses of Contract Awards"
+                navtitle="Subpart 5105.3 - Synopses of Contract Awards"
                 outputclass="SubPart"
                 props="Subpart 5105.3"
                 base="NoTitle"
@@ -924,7 +924,7 @@
                    xtrc="AFARS_5105.303.html"/>
       </topicref>
       <topicref href="Subpart_5105.4.dita"
-                navtitle="Subpart 5105.4 – Release of Information"
+                navtitle="Subpart 5105.4 - Release of Information"
                 outputclass="SubPart"
                 props="Subpart 5105.4"
                 base="NoTitle"
@@ -948,7 +948,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5105.403.html"/>
          <topicref href="5105.404.dita"
-                   navtitle="5105.404 Release of long–range acquisition estimates."
+                   navtitle="5105.404 Release of long-range acquisition estimates."
                    props="5105.404"
                    base="NoTitle"
                    audience="AFARS_5105.404"
@@ -966,7 +966,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5105.5.dita"
-                navtitle="Subpart 5105.5 – Paid Advertisments"
+                navtitle="Subpart 5105.5 - Paid Advertisments"
                 outputclass="SubPart"
                 props="Subpart 5105.5"
                 base="NoTitle"
@@ -984,14 +984,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5106.dita"
-             navtitle="AFARS – PART 5106 Competition Requirements"
+             navtitle="Part 5106 - Competition Requirements"
              outputclass="Part"
              props="Part 5106"
              base="NoTitle"
              audience="AFARS_PART_5106"
              xtrf="Part">
       <topicref href="Subpart_5106.2.dita"
-                navtitle="Subpart 5106.2 – Full and Open Competition After Exclusion of Sources"
+                navtitle="Subpart 5106.2 - Full and Open Competition After Exclusion of Sources"
                 outputclass="SubPart"
                 props="Subpart 5106.2"
                 base="NoTitle"
@@ -1008,7 +1008,7 @@
                    xtrc="AFARS_5106.202.html"/>
       </topicref>
       <topicref href="Subpart_5106.3.dita"
-                navtitle="Subpart 5106.3 – Other Than Full and Open Competition"
+                navtitle="Subpart 5106.3 - Other Than Full and Open Competition"
                 outputclass="SubPart"
                 props="Subpart 5106.3"
                 base="NoTitle"
@@ -1115,7 +1115,7 @@
                    xtrc="AFARS_5106.304.html"/>
       </topicref>
       <topicref href="Subpart_5106.5.dita"
-                navtitle="Subpart 5106.5 – Advocates for Competition"
+                navtitle="Subpart 5106.5 - Advocates for Competition"
                 outputclass="SubPart"
                 props="Subpart 5106.5"
                 base="NoTitle"
@@ -1150,14 +1150,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5107.dita"
-             navtitle="AFARS – PART 5107 Acquisition Planning"
+             navtitle="Part 5107 - Acquisition Planning"
              outputclass="Part"
              props="Part 5107"
              base="NoTitle"
              audience="AFARS_PART_5107"
              xtrf="Part">
       <topicref href="Subpart_5107.1.dita"
-                navtitle="Subpart 5107.1 – Acquisition Plans"
+                navtitle="Subpart 5107.1 - Acquisition Plans"
                 outputclass="SubPart"
                 props="Subpart 5107.1"
                 base="NoTitle"
@@ -1165,7 +1165,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.1.html">
          <topicref href="5107.103.dita"
-                   navtitle="5107.103   Agency-head responsibilities."
+                   navtitle="5107.103 Agency-head        responsibilities."
                    props="5107.103"
                    base="NoTitle"
                    audience="AFARS_5107.103"
@@ -1173,7 +1173,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.103.html"/>
          <topicref href="5107.10390.dita"
-                   navtitle="5107.103-90   Acquisition plan approvals."
+                   navtitle="5107.103-90 Acquisition plan        approvals."
                    props="5107.103-90"
                    base="NoTitle"
                    audience="AFARS_5107.10390"
@@ -1181,7 +1181,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.10390.html"/>
          <topicref href="5107.104.dita"
-                   navtitle="5107.104   General procedures."
+                   navtitle="5107.104 General procedures."
                    props="5107.104"
                    base="NoTitle"
                    audience="AFARS_5107.104"
@@ -1189,7 +1189,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.104.html"/>
          <topicref href="5107.105.dita"
-                   navtitle="5107.105   Contents of written acquisition plans."
+                   navtitle="5107.105 Contents of written acquisition        plans."
                    props="5107.105"
                    base="NoTitle"
                    audience="AFARS_5107.105"
@@ -1197,7 +1197,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.105.html"/>
          <topicref href="5107.107.dita"
-                   navtitle="5107.107   Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling."
+                   navtitle="5107.107 Additional requirements for        acquisitions involving consolidation, bundling, or substantial bundling."
                    props="5107.107"
                    base="NoTitle"
                    audience="AFARS_5107.107"
@@ -1205,7 +1205,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.107.html"/>
          <topicref href="5107.1072.dita"
-                   navtitle="5107.107-2   Consolidation."
+                   navtitle="5107.107-2 Consolidation."
                    props="5107.107-2"
                    base="NoTitle"
                    audience="AFARS_5107.1072"
@@ -1222,7 +1222,7 @@
                    xtrc="AFARS_5107.1075.html"/>
       </topicref>
       <topicref href="Subpart_5107.2.dita"
-                navtitle="Subpart 5107.2 – Planning for the Purchase of Supplies in Economic Quantities"
+                navtitle="Subpart 5107.2 - Planning for the Purchase of Supplies in Economic Quantities"
                 outputclass="SubPart"
                 props="Subpart 5107.2"
                 base="NoTitle"
@@ -1230,7 +1230,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.2.html">
          <topicref href="5107.204.dita"
-                   navtitle="5107.204   Responsibilities of contracting officers."
+                   navtitle="5107.204 Responsibilities of contracting        officers."
                    props="5107.204"
                    base="NoTitle"
                    audience="AFARS_5107.204"
@@ -1239,7 +1239,7 @@
                    xtrc="AFARS_5107.204.html"/>
       </topicref>
       <topicref href="Subpart_5107.3.dita"
-                navtitle="Subpart 5107.3 – Contractor Versus Government Performance"
+                navtitle="Subpart 5107.3 - Contractor Versus Government Performance"
                 outputclass="SubPart"
                 props="Subpart 5107.3"
                 base="NoTitle"
@@ -1247,7 +1247,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.3.html">
          <topicref href="5107.302.dita"
-                   navtitle="5107.302   Policy."
+                   navtitle="5107.302  Policy."
                    props="5107.302"
                    base="NoTitle"
                    audience="AFARS_5107.302"
@@ -1256,7 +1256,7 @@
                    xtrc="AFARS_5107.302.html"/>
       </topicref>
       <topicref href="Subpart_5107.4.dita"
-                navtitle="Subpart 5107.4 – Equipment Lease or Purchase"
+                navtitle="Subpart 5107.4 - Equipment Lease or Purchase"
                 outputclass="SubPart"
                 props="Subpart 5107.4"
                 base="NoTitle"
@@ -1264,7 +1264,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.4.html">
          <topicref href="5107.470.dita"
-                   navtitle="5107.470   Statutory requirements."
+                   navtitle="5107.470 Statutory requirements."
                    props="5107.470"
                    base="NoTitle"
                    audience="AFARS_5107.470"
@@ -1273,7 +1273,7 @@
                    xtrc="AFARS_5107.470.html"/>
       </topicref>
       <topicref href="Subpart_5107.5.dita"
-                navtitle="Subpart 5107.5 – Inherently Governmental Functions"
+                navtitle="Subpart 5107.5 - Inherently Governmental Functions"
                 outputclass="SubPart"
                 props="Subpart 5107.5"
                 base="NoTitle"
@@ -1281,7 +1281,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.5.html">
          <topicref href="5107.503.dita"
-                   navtitle="5107.503   Policy."
+                   navtitle="5107.503  Policy."
                    props="5107.503"
                    base="NoTitle"
                    audience="AFARS_5107.503"
@@ -1290,7 +1290,7 @@
                    xtrc="AFARS_5107.503.html"/>
       </topicref>
       <topicref href="Subpart_5107.90.dita"
-                navtitle="Subpart 5107.90 – Independent Government Estimates"
+                navtitle="Subpart 5107.90 - Independent Government Estimates"
                 outputclass="SubPart"
                 props="Subpart 5107.90"
                 base="NoTitle"
@@ -1298,7 +1298,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.90.html">
          <topicref href="5107.9000.dita"
-                   navtitle="5107.9000   Scope."
+                   navtitle="5107.9000  Scope."
                    props="5107.9000"
                    base="NoTitle"
                    audience="AFARS_5107.9000"
@@ -1306,7 +1306,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.9000.html"/>
          <topicref href="5107.9001.dita"
-                   navtitle="5107.9001   Definitions."
+                   navtitle="5107.9001  Definitions."
                    props="5107.9001"
                    base="NoTitle"
                    audience="AFARS_5107.9001"
@@ -1314,7 +1314,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.9001.html"/>
          <topicref href="5107.9002.dita"
-                   navtitle="5107.9002   Policy."
+                   navtitle="5107.9002  Policy."
                    props="5107.9002"
                    base="NoTitle"
                    audience="AFARS_5107.9002"
@@ -1323,7 +1323,7 @@
                    xtrc="AFARS_5107.9002.html"/>
       </topicref>
       <topicref href="Subpart_5107.91.dita"
-                navtitle="Subpart 5107.91 – Integrating Antiterrorism and Operations Security"
+                navtitle="Subpart 5107.91 - Integrating Antiterrorism and Operations Security"
                 outputclass="SubPart"
                 props="Subpart 5107.91"
                 base="NoTitle"
@@ -1331,7 +1331,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5107.91.html">
          <topicref href="5107.9100.dita"
-                   navtitle="5107.9100  Scope."
+                   navtitle="5107.9100 Scope."
                    props="5107.9100"
                    base="NoTitle"
                    audience="AFARS_5107.9100"
@@ -1339,7 +1339,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5107.9100.html">
             <topicref href="5107.9101.dita"
-                      navtitle="5107.9101   Policy."
+                      navtitle="5107.9101  Policy."
                       props="5107.9101"
                       base="NoTitle"
                       audience="AFARS_5107.9101"
@@ -1351,13 +1351,13 @@
    </topicref>
    <topicref href="PART_5108.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5108 Required Sources of Supplies and Services"
+             navtitle="Part 5108 - Required Sources of Supplies and Services"
              props="Part 5108"
              base="NoTitle"
              audience="AFARS_PART_5108"
              xtrf="Part">
       <topicref href="Subpart_5108.4.dita"
-                navtitle="Subpart 5108.4 – Federal Supply Schedules"
+                navtitle="Subpart 5108.4 - Federal Supply Schedules"
                 outputclass="SubPart"
                 props="Subpart 5108.4"
                 base="NoTitle"
@@ -1398,7 +1398,7 @@
                    xtrc="AFARS_5108.4056.html"/>
       </topicref>
       <topicref href="Subpart_5108.8.dita"
-                navtitle="Subpart 5108.8 – Acquisition of Printing and Related Supplies"
+                navtitle="Subpart 5108.8 - Acquisition of Printing and Related Supplies"
                 outputclass="SubPart"
                 props="Subpart 5108.8"
                 base="NoTitle"
@@ -1415,7 +1415,7 @@
                    xtrc="AFARS_5108.802.html"/>
       </topicref>
       <topicref href="Subpart_5108.11.dita"
-                navtitle="Subpart 5108.11 – Leasing of Motor Vehicles"
+                navtitle="Subpart 5108.11 - Leasing of Motor Vehicles"
                 outputclass="SubPart"
                 props="Subpart 5108.11"
                 base="NoTitle"
@@ -1432,7 +1432,7 @@
                    xtrc="AFARS_5108.1102.html"/>
       </topicref>
       <topicref href="Subpart_5108.70.dita"
-                navtitle="Subpart 5108.70 – Coordinated Acquisition"
+                navtitle="Subpart 5108.70 - Coordinated Acquisition"
                 outputclass="SubPart"
                 props="Subpart 5108.70"
                 base="NoTitle"
@@ -1448,7 +1448,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5108.7002.html"/>
          <topicref href="5108.700290.dita"
-                   navtitle="5108.7002-90 Non–standard ammunition."
+                   navtitle="5108.7002-90 Non-standard ammunition."
                    props="5108.7002-90"
                    base="NoTitle"
                    audience="AFARS_5108.700290"
@@ -1457,7 +1457,7 @@
                    xtrc="AFARS_5108.700290.html"/>
       </topicref>
       <topicref href="Subpart_5108.74.dita"
-                navtitle="Subpart 5108.74 – Enterprise Software Agreements"
+                navtitle="Subpart 5108.74 - Enterprise Software Agreements"
                 outputclass="SubPart"
                 props="Subpart 5108.74"
                 base="NoTitle"
@@ -1482,7 +1482,7 @@
                    xtrc="AFARS_5108.7403.html"/>
       </topicref>
       <topicref href="Subpart_5108.90.dita"
-                navtitle="Subpart 5108.90 – Civil Confinement of Military Absentees and Deserters"
+                navtitle="Subpart 5108.90 - Civil Confinement of Military Absentees and Deserters"
                 outputclass="SubPart"
                 props="Subpart 5108.90"
                 base="NoTitle"
@@ -1507,7 +1507,7 @@
                    xtrc="AFARS_5108.9001.html"/>
       </topicref>
       <topicref href="Subpart_5108.91.dita"
-                navtitle="Subpart 5108.91 – Video Productions"
+                navtitle="Subpart 5108.91 - Video Productions"
                 outputclass="SubPart"
                 props="Subpart 5108.91"
                 base="NoTitle"
@@ -1532,7 +1532,7 @@
                    xtrc="AFARS_5108.9101.html"/>
       </topicref>
       <topicref href="Subpart_5108.92.dita"
-                navtitle="Subpart 5108.92 – Army Continuing Education System Contracts"
+                navtitle="Subpart 5108.92 - Army Continuing Education System Contracts"
                 outputclass="SubPart"
                 props="Subpart 5108.92"
                 base="NoTitle"
@@ -1573,7 +1573,7 @@
                    xtrc="AFARS_5108.9203.html"/>
       </topicref>
       <topicref href="Subpart_5108.93.dita"
-                navtitle="Subpart 5108.93 – Training With Commercial Firms"
+                navtitle="Subpart 5108.93 - Training With Commercial Firms"
                 outputclass="SubPart"
                 props="Subpart 5108.93"
                 base="NoTitle"
@@ -1598,7 +1598,7 @@
                    xtrc="AFARS_5108.9301.html"/>
       </topicref>
       <topicref href="Subpart_5108.94.dita"
-                navtitle="Subpart 5108.94 – Foreign Language Support"
+                navtitle="Subpart 5108.94 - Foreign Language Support"
                 outputclass="SubPart"
                 props="Subpart 5108.94"
                 base="NoTitle"
@@ -1632,14 +1632,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5109.dita"
-             navtitle="AFARS – PART 5109 Contractor Qualifications"
+             navtitle="Part 5109 - Contractor Qualifications"
              outputclass="Part"
              props="Part 5109"
              base="NoTitle"
              audience="AFARS_PART_5109"
              xtrf="Part">
       <topicref href="Subpart_5109.1.dita"
-                navtitle="Subpart 5109.1 – Responsible Prospective Contractors"
+                navtitle="Subpart 5109.1 - Responsible Prospective Contractors"
                 outputclass="SubPart"
                 props="Subpart 5109.1"
                 base="NoTitle"
@@ -1707,7 +1707,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5109.2.dita"
-                navtitle="Subpart 5109.2 – Qualifications Requirements"
+                navtitle="Subpart 5109.2 - Qualifications Requirements"
                 outputclass="SubPart"
                 props="Subpart 5109.2"
                 base="NoTitle"
@@ -1758,7 +1758,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5109.4.dita"
-                navtitle="Subpart 5109.4 – Debarment, Suspension, and Ineligibility"
+                navtitle="Subpart 5109.4 - Debarment, Suspension, and Ineligibility"
                 outputclass="SubPart"
                 props="Subpart 5109.4"
                 base="NoTitle"
@@ -1866,7 +1866,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5109.5.dita"
-                navtitle="Subpart 5109.5 – Organizational and Consultant Conflicts of Interests"
+                navtitle="Subpart 5109.5 - Organizational and Consultant Conflicts of Interests"
                 outputclass="SubPart"
                 props="Subpart 5109.5"
                 base="NoTitle"
@@ -1900,7 +1900,7 @@
       </topicref>
    </topicref>
    <topicref href="PART_5110.dita"
-             navtitle="AFARS – PART 5110 Market Research"
+             navtitle="Part 5110 - Market Research"
              outputclass="Part"
              props="Part 5110"
              base="NoTitle"
@@ -1916,14 +1916,14 @@
                 xtrc="AFARS_5110.002.html"/>
    </topicref>
    <topicref href="PART_5111.dita"
-             navtitle="AFARS – PART 5111 Describing Agency Needs"
+             navtitle="Part 5111 - Describing Agency Needs"
              outputclass="Part"
              props="Part 5111"
              base="NoTitle"
              audience="AFARS_PART_5111"
              xtrf="Part">
       <topicref href="Subpart_5111.1.dita"
-                navtitle="Subpart 5111.1 – Selecting and Developing Requirements Documents"
+                navtitle="Subpart 5111.1 - Selecting and Developing Requirements Documents"
                 outputclass="SubPart"
                 props="Subpart 5111.1"
                 base="NoTitle"
@@ -1940,55 +1940,55 @@
                    xtrc="AFARS_5111.103.html"/>
          <topicref href="5111.106.dita"
                    navtitle="5111.106 Cloud Requirements."
-                   props="5111.106"
+                   props="5111.106CloudRequirements."
                    base="NoTitle"
                    audience="AFARS_5111.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5111.106.html"/>
          <topicref href="5111.106_A.dita"
-                   navtitle="5111.106 (S–90)"
-                   props="5111.106"
+                   navtitle="5111.106 (S-90)"
+                   props="5111.106S-90"
                    base="NoTitle"
                    audience="AFARS_5111.106_A"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5111.106_A.html"/>
          <topicref href="5111.106_B.dita"
-                   navtitle="5111.106 (S–91)"
-                   props="5111.106"
+                   navtitle="5111.106 (S-91)"
+                   props="5111.106S-91"
                    base="NoTitle"
                    audience="AFARS_5111.106_B"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5111.106_B.html"/>
          <topicref href="5111.106_C.dita"
-                   navtitle="5111.106 (S–92)"
-                   props="5111.106"
+                   navtitle="5111.106 (S-92)"
+                   props="5111.106S-92"
                    base="NoTitle"
                    audience="AFARS_5111.106_C"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5111.106_C.html"/>
          <topicref href="5111.106_D.dita"
-                   navtitle="5111.106 (S–93)"
-                   props="5111.106"
+                   navtitle="5111.106 (S-93)"
+                   props="5111.106S-93"
                    base="NoTitle"
                    audience="AFARS_5111.106_D"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5111.106_D.html"/>
          <topicref href="5111.106_E.dita"
-                   navtitle="5111.106 (S–94)"
-                   props="5111.106"
+                   navtitle="5111.106 (S-94)"
+                   props="5111.106S-94"
                    base="NoTitle"
                    audience="AFARS_5111.106_E"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5111.106_E.html"/>
          <topicref href="5111.106_F.dita"
-                   navtitle="5111.106 (S–95)"
-                   props="5111.106"
+                   navtitle="5111.106 (S-95)"
+                   props="5111.106S-95"
                    base="NoTitle"
                    audience="AFARS_5111.106_F"
                    outputclass="subtopic"
@@ -1996,7 +1996,7 @@
                    xtrc="AFARS_5111.106_F.html"/>
       </topicref>
       <topicref href="Subpart_5111.2.dita"
-                navtitle="Subpart 5111.2 – Using and Maintaining Requirements Documents"
+                navtitle="Subpart 5111.2 - Using and Maintaining Requirements Documents"
                 outputclass="SubPart"
                 props="Subpart 5111.2"
                 base="NoTitle"
@@ -2013,23 +2013,23 @@
                    xtrc="AFARS_5111.274.html">
             <topicref href="5111.2742.dita"
                       navtitle="5111.274-2 Policy for item unique identification."
-                      props="5111.274-2"
+                      props="5111.274-2Policyforitemuniqueidentification."
                       base="NoTitle"
                       audience="AFARS_5111.2742"
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5111.2742.html"/>
             <topicref href="5111.2742_A.dita"
-                      navtitle="5111.274-2 (S–90)"
-                      props="5111.274-2"
+                      navtitle="5111.274-2 (S-90)"
+                      props="5111.274-2S-90"
                       base="NoTitle"
                       audience="AFARS_5111.2742_A"
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5111.2742_A.html"/>
             <topicref href="5111.2742_B.dita"
-                      navtitle="5111.274-2 (S–91)"
-                      props="5111.274-2"
+                      navtitle="5111.274-2 (S-91)"
+                      props="5111.274-2S-91"
                       base="NoTitle"
                       audience="AFARS_5111.2742_B"
                       outputclass="subtopic"
@@ -2046,7 +2046,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5111.5.dita"
-                navtitle="Subpart 5111.5 – Liquidated Damages"
+                navtitle="Subpart 5111.5 - Liquidated Damages"
                 outputclass="SubPart"
                 props="Subpart 5111.5"
                 base="NoTitle"
@@ -2063,7 +2063,7 @@
                    xtrc="AFARS_5111.501.html"/>
       </topicref>
       <topicref href="Subpart_5111.6.dita"
-                navtitle="Subpart 5111.6 – Priorities and Allocations"
+                navtitle="Subpart 5111.6 - Priorities and Allocations"
                 outputclass="SubPart"
                 props="Subpart 5111.6"
                 base="NoTitle"
@@ -2097,7 +2097,7 @@
                    xtrc="AFARS_5111.603.html"/>
       </topicref>
       <topicref href="Subpart_5111.7.dita"
-                navtitle="Subpart 5111.7 —Variation in Quantity"
+                navtitle="Subpart 5111.7 - Variation in Quantity"
                 outputclass="SubPart"
                 props="Subpart 5111.7"
                 base="NoTitle"
@@ -2116,13 +2116,13 @@
    </topicref>
    <topicref href="PART_5112.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5112 Acquisition of Commercial Items"
+             navtitle="Part 5112 - Acquisition of Commercial Items"
              props="Part 5112"
              base="NoTitle"
              audience="AFARS_PART_5112"
              xtrf="Part">
       <topicref href="Subpart_5112.1.dita"
-                navtitle="Subpart 5112.1 – Acquisition of Commercial Items – General"
+                navtitle="Subpart 5112.1 - Acquisition of Commercial Items - General"
                 outputclass="SubPart"
                 props="Subpart 5112.1"
                 base="NoTitle"
@@ -2139,7 +2139,7 @@
                    xtrc="AFARS_5112.102.html"/>
       </topicref>
       <topicref href="Subpart_5112.2.dita"
-                navtitle="Subpart 5112.2 – Special Requirements for the Acquisition of Commercial Items"
+                navtitle="Subpart 5112.2 - Special Requirements for the Acquisition of Commercial Items"
                 outputclass="SubPart"
                 props="Subpart 5112.2"
                 base="NoTitle"
@@ -2164,7 +2164,7 @@
                    xtrc="AFARS_5112.272.html"/>
       </topicref>
       <topicref href="Subpart_5112.3.dita"
-                navtitle="Subpart 5112.3 – Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
+                navtitle="Subpart 5112.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
                 outputclass="SubPart"
                 props="Subpart 5112.3"
                 base="NoTitle"
@@ -2189,7 +2189,7 @@
                    xtrc="AFARS_5112.302.html"/>
       </topicref>
       <topicref href="Subpart_5112.70.dita"
-                navtitle="Subpart 5112.70 – Limitation on Conversion of Procurement from Commercial Acquisition Procedures"
+                navtitle="Subpart 5112.70 - Limitation on Conversion of Procurement from Commercial Acquisition Procedures"
                 outputclass="SubPart"
                 props="Subpart 5112.70"
                 base="NoTitle"
@@ -2208,13 +2208,13 @@
    </topicref>
    <topicref href="PART_5113.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5113 Simplified Acquisition Procedures"
+             navtitle="Part 5113 - Simplified Acquisition Procedures"
              props="Part 5113"
              base="NoTitle"
              audience="AFARS_PART_5113"
              xtrf="Part">
       <topicref href="Subpart_5113.2.dita"
-                navtitle="Subpart 5113.2 – Actions At or Below the Micro–Purchase Threshold"
+                navtitle="Subpart 5113.2 - Actions At or Below the Micro-Purchase Threshold"
                 outputclass="SubPart"
                 props="Subpart 5113.2"
                 base="NoTitle"
@@ -2248,7 +2248,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5113.3.dita"
-                navtitle="Subpart 5113.3 – Simplified Acquisition Methods"
+                navtitle="Subpart 5113.3 - Simplified Acquisition Methods"
                 outputclass="SubPart"
                 props="Subpart 5113.3"
                 base="NoTitle"
@@ -2330,7 +2330,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5113.3053.html"/>
             <topicref href="5113.30690.dita"
-                      navtitle="5113.306-90 Standard form 44, purchase order – invoice – voucher."
+                      navtitle="5113.306-90 Standard form 44, purchase order - invoice - voucher."
                       props="5113.306-90"
                       base="NoTitle"
                       audience="AFARS_5113.30690"
@@ -2340,7 +2340,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5113.5.dita"
-                navtitle="Subpart 5113.5 – Simplified Procedures for Certain Commercial Items"
+                navtitle="Subpart 5113.5 - Simplified Procedures for Certain Commercial Items"
                 outputclass="SubPart"
                 props="Subpart 5113.5"
                 base="NoTitle"
@@ -2358,14 +2358,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5114.dita"
-             navtitle="AFARS – PART 5114 Sealed Bidding"
+             navtitle="Part 5114 - Sealed Bidding"
              outputclass="Part"
              props="Part 5114"
              base="NoTitle"
              audience="AFARS_PART_5114"
              xtrf="Part">
       <topicref href="Subpart_5114.2.dita"
-                navtitle="Subpart 5114.2 – Solicitation of Bids"
+                navtitle="Subpart 5114.2 - Solicitation of Bids"
                 outputclass="SubPart"
                 props="Subpart 5114.2"
                 base="NoTitle"
@@ -2391,7 +2391,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5114.4.dita"
-                navtitle="Subpart 5114.4 – Opening of Bids and Award of Contract"
+                navtitle="Subpart 5114.4 - Opening of Bids and Award of Contract"
                 outputclass="SubPart"
                 props="Subpart 5114.4"
                 base="NoTitle"
@@ -2443,7 +2443,7 @@
       </topicref>
    </topicref>
    <topicref href="PART_5115.dita"
-             navtitle="AFARS – Part 5115 Contracting by Negotiation"
+             navtitle="Part 5115 - Contracting by Negotiation"
              outputclass="Part"
              props="Part 5115"
              base="NoTitle"
@@ -2466,7 +2466,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_5115.001.html"/>
       <topicref href="Subpart_5115.2.dita"
-                navtitle="Subpart 5115.2 – Solicitation and Receipt of Proposals and Information"
+                navtitle="Subpart 5115.2 - Solicitation and Receipt of Proposals and Information"
                 outputclass="SubPart"
                 props="Subpart 5115.2"
                 base="NoTitle"
@@ -2491,7 +2491,7 @@
                    xtrc="AFARS_5115.204.html"/>
       </topicref>
       <topicref href="Subpart_5115.3.dita"
-                navtitle="Subpart 5115.3 – Source Selection"
+                navtitle="Subpart 5115.3 - Source Selection"
                 outputclass="SubPart"
                 props="Subpart 5115.3"
                 base="NoTitle"
@@ -2572,7 +2572,7 @@
                    xtrc="AFARS_5115.3715.html"/>
       </topicref>
       <topicref href="Subpart_5115.4.dita"
-                navtitle="Subpart 5115.4 – Contract Pricing"
+                navtitle="Subpart 5115.4 - Contract Pricing"
                 outputclass="SubPart"
                 props="Subpart 5115.4"
                 base="NoTitle"
@@ -2668,7 +2668,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5115.4073.html"/>
          <topicref href="5115.4074.dita"
-                   navtitle="5115.407-4 Should–cost review."
+                   navtitle="5115.407-4 Should-cost review."
                    props="5115.407-4"
                    base="NoTitle"
                    audience="AFARS_5115.4074"
@@ -2677,7 +2677,7 @@
                    xtrc="AFARS_5115.4074.html"/>
       </topicref>
       <topicref href="Subpart_5115.6.dita"
-                navtitle="Subpart 5115.6 – Unsolicited Proposals"
+                navtitle="Subpart 5115.6 - Unsolicited Proposals"
                 outputclass="SubPart"
                 props="Subpart 5115.6"
                 base="NoTitle"
@@ -2703,14 +2703,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5116.dita"
-             navtitle="AFARS – PART 5116 Types of Contracts"
+             navtitle="Part 5116 - Types of Contracts"
              outputclass="Part"
              props="Part 5116"
              base="NoTitle"
              audience="AFARS_PART_5116"
              xtrf="Part">
       <topicref href="Subpart_5116.1.dita"
-                navtitle="Subpart 5116.1 – Selecting Contract Types"
+                navtitle="Subpart 5116.1 - Selecting Contract Types"
                 outputclass="SubPart"
                 props="Subpart 5116.1"
                 base="NoTitle"
@@ -2735,7 +2735,7 @@
                    xtrc="AFARS_5116.103.html"/>
       </topicref>
       <topicref href="Subpart_5116.2.dita"
-                navtitle="Subpart 5116.2 – Fixed–Price Contracts"
+                navtitle="Subpart 5116.2 - Fixed-Price Contracts"
                 outputclass="SubPart"
                 props="Subpart 5116.2"
                 base="NoTitle"
@@ -2743,7 +2743,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5116.2.html">
          <topicref href="5116.203.dita"
-                   navtitle="5116.203 Fixed–price contracts with economic price adjustment."
+                   navtitle="5116.203 Fixed-price contracts with economic price adjustment."
                    props="5116.203"
                    base="NoTitle"
                    audience="AFARS_5116.203"
@@ -2761,7 +2761,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5116.3.dita"
-                navtitle="Subpart 5116.3 – Cost–Reimbursement Contracts"
+                navtitle="Subpart 5116.3 - Cost-Reimbursement Contracts"
                 outputclass="SubPart"
                 props="Subpart 5116.3"
                 base="NoTitle"
@@ -2786,7 +2786,7 @@
                       xtrc="AFARS_5116.3013.html"/>
          </topicref>
          <topicref href="5116.306.dita"
-                   navtitle="5116.306 Cost–plus–fixed–fee contracts."
+                   navtitle="5116.306 Cost-plus-fixed-fee contracts."
                    props="5116.306"
                    base="NoTitle"
                    audience="AFARS_5116.306"
@@ -2795,7 +2795,7 @@
                    xtrc="AFARS_5116.306.html"/>
       </topicref>
       <topicref href="Subpart_5116.4.dita"
-                navtitle="Subpart 5116.4 – Incentive Contracts"
+                navtitle="Subpart 5116.4 - Incentive Contracts"
                 outputclass="SubPart"
                 props="Subpart 5116.4"
                 base="NoTitle"
@@ -2811,7 +2811,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5116.401.html"/>
          <topicref href="5116.405.dita"
-                   navtitle="5116.405 Cost–reimbursement incentive contracts."
+                   navtitle="5116.405 Cost-reimbursement incentive contracts."
                    props="5116.405"
                    base="NoTitle"
                    audience="AFARS_5116.405"
@@ -2819,7 +2819,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5116.405.html">
             <topicref href="5116.4051.dita"
-                      navtitle="5116.405-1 Cost–plus–incentive–fee contracts."
+                      navtitle="5116.405-1 Cost-plus-incentive-fee contracts."
                       props="5116.405-1"
                       base="NoTitle"
                       audience="AFARS_5116.4051"
@@ -2827,7 +2827,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5116.4051.html"/>
             <topicref href="5116.4052.dita"
-                      navtitle="5116.405-2 Cost–plus–award–fee contracts."
+                      navtitle="5116.405-2 Cost-plus-award-fee contracts."
                       props="5116.405-2"
                       base="NoTitle"
                       audience="AFARS_5116.4052"
@@ -2837,7 +2837,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5116.5.dita"
-                navtitle="Subpart 5116.5 – Indefinite–Delivery Contracts"
+                navtitle="Subpart 5116.5 - Indefinite-Delivery Contracts"
                 outputclass="SubPart"
                 props="Subpart 5116.5"
                 base="NoTitle"
@@ -2845,7 +2845,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5116.5.html">
          <topicref href="5116.504.dita"
-                   navtitle="5116.504 – Indefinite Quantity Contracts."
+                   navtitle="5116.504 - Indefinite Quantity Contracts."
                    props="5116.504"
                    base="NoTitle"
                    audience="AFARS_5116.504"
@@ -2871,7 +2871,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5116.6.dita"
-                navtitle="Subpart 5116.6 – Time–and–Materials, Labor–Hour, and Letter Contracts"
+                navtitle="Subpart 5116.6 - Time-and-Materials, Labor-Hour, and Letter Contracts"
                 outputclass="SubPart"
                 props="Subpart 5116.6"
                 base="NoTitle"
@@ -2907,13 +2907,13 @@
    </topicref>
    <topicref href="PART_5117.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5117 Special Contracting Methods"
+             navtitle="Part 5117 - Special Contracting Methods"
              props="Part 5117"
              base="NoTitle"
              audience="AFARS_PART_5117"
              xtrf="Part">
       <topicref href="Subpart_5117.1.dita"
-                navtitle="Subpart 5117.1 – Multi–Year Contracting"
+                navtitle="Subpart 5117.1 - Multi-Year Contracting"
                 outputclass="SubPart"
                 props="Subpart 5117.1"
                 base="NoTitle"
@@ -2969,7 +2969,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5117.108.html"/>
          <topicref href="5117.171.dita"
-                   navtitle="5117.171 Multi–year contracts for services."
+                   navtitle="5117.171 Multi-year contracts for services."
                    props="5117.171"
                    base="NoTitle"
                    audience="AFARS_5117.171"
@@ -2977,7 +2977,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5117.171.html"/>
          <topicref href="5117.172.dita"
-                   navtitle="5117.172 Multi–year contracts for supplies."
+                   navtitle="5117.172 Multi-year contracts for supplies."
                    props="5117.172"
                    base="NoTitle"
                    audience="AFARS_5117.172"
@@ -2985,7 +2985,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5117.172.html"/>
          <topicref href="5117.174.dita"
-                   navtitle="5117.174 Multi–year contracts for electricity from renewable energy sources."
+                   navtitle="5117.174 Multi-year contracts for electricity from renewable energy sources."
                    props="5117.174"
                    base="NoTitle"
                    audience="AFARS_5117.174"
@@ -2994,7 +2994,7 @@
                    xtrc="AFARS_5117.174.html"/>
       </topicref>
       <topicref href="Subpart_5117.2.dita"
-                navtitle="Subpart 5117.2 – Options"
+                navtitle="Subpart 5117.2 - Options"
                 outputclass="SubPart"
                 props="Subpart 5117.2"
                 base="NoTitle"
@@ -3035,7 +3035,7 @@
                    xtrc="AFARS_5117.290.html"/>
       </topicref>
       <topicref href="Subpart_5117.5.dita"
-                navtitle="Subpart 5117.5 – Interagency Acquisitions"
+                navtitle="Subpart 5117.5 - Interagency Acquisitions"
                 outputclass="SubPart"
                 props="Subpart 5117.5"
                 base="NoTitle"
@@ -3049,26 +3049,27 @@
                    audience="AFARS_5117.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.502.html"/>
-         <topicref href="5117.5021.dita"
-                   navtitle="5117.502-1 General."
-                   props="5117.502-1"
-                   base="NoTitle"
-                   audience="AFARS_5117.5021"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.5021.html"/>
-         <topicref href="5117.5022.dita"
-                   navtitle="5117.502-2 The Economy Act."
-                   props="5117.502-2"
-                   base="NoTitle"
-                   audience="AFARS_5117.5022"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.5022.html"/>
+                   xtrc="AFARS_5117.502.html">
+            <topicref href="5117.5021.dita"
+                      navtitle="5117.502-1 General."
+                      props="5117.502-1"
+                      base="NoTitle"
+                      audience="AFARS_5117.5021"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.5021.html"/>
+            <topicref href="5117.5022.dita"
+                      navtitle="5117.502-2 The Economy Act."
+                      props="5117.502-2"
+                      base="NoTitle"
+                      audience="AFARS_5117.5022"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.5022.html"/>
+         </topicref>
       </topicref>
       <topicref href="Subpart_5117.7.dita"
-                navtitle="Subpart 5117.7 – Interagency Acquisitions:  Acquisitions by Nondefense Agencies on Behalf of the Department of Defense"
+                navtitle="Subpart 5117.7 - Interagency Acquisitions:  Acquisitions by Nondefense Agencies on Behalf of the Department of Defense"
                 outputclass="SubPart"
                 props="Subpart 5117.7"
                 base="NoTitle"
@@ -3093,7 +3094,7 @@
                    xtrc="AFARS_5117.770.html"/>
       </topicref>
       <topicref href="Subpart_5117.74.dita"
-                navtitle="Subpart 5117.74 – Undefinitized Contract Actions"
+                navtitle="Subpart 5117.74 - Undefinitized Contract Actions"
                 outputclass="SubPart"
                 props="Subpart 5117.74"
                 base="NoTitle"
@@ -3134,7 +3135,7 @@
                    xtrc="AFARS_5117.74046.html"/>
       </topicref>
       <topicref href="Subpart_5117.75.dita"
-                navtitle="Subpart 5117.75 – Acquisition of Replenishment Parts"
+                navtitle="Subpart 5117.75 - Acquisition of Replenishment Parts"
                 outputclass="SubPart"
                 props="Subpart 5117.75"
                 base="NoTitle"
@@ -3151,7 +3152,7 @@
                    xtrc="AFARS_5117.7504.html"/>
       </topicref>
       <topicref href="Subpart_5117.90.dita"
-                navtitle="Subpart 5117.90 – Job Order Contracts"
+                navtitle="Subpart 5117.90 - Job Order Contracts"
                 outputclass="SubPart"
                 props="Subpart 5117.90"
                 base="NoTitle"
@@ -3189,23 +3190,16 @@
                    audience="AFARS_5117.9003"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9003.html"/>
-         <topicref href="5117.90031.dita"
-                   navtitle="5117.9003-1 Characteristics."
-                   props="5117.9003-1"
-                   base="NoTitle"
-                   audience="AFARS_5117.90031"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.90031.html"/>
-         <topicref href="5117.90033.dita"
-                   navtitle="5117.9003-3 Planning and coordination."
-                   props="5117.9003-3"
-                   base="NoTitle"
-                   audience="AFARS_5117.90033"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.90033.html"/>
+                   xtrc="AFARS_5117.9003.html">
+            <topicref href="5117.90031.dita"
+                      navtitle="5117.9003-1 Characteristics."
+                      props="5117.9003-1"
+                      base="NoTitle"
+                      audience="AFARS_5117.90031"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90031.html"/>
+         </topicref>
          <topicref href="5117.9004.dita"
                    navtitle="5117.9004 Procedures."
                    props="5117.9004"
@@ -3213,33 +3207,34 @@
                    audience="AFARS_5117.9004"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9004.html"/>
-         <topicref href="5117.90041.dita"
-                   navtitle="5117.9004-1 Presolicitation."
-                   props="5117.9004-1"
-                   base="NoTitle"
-                   audience="AFARS_5117.90041"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.90041.html"/>
-         <topicref href="5117.90042.dita"
-                   navtitle="5117.9004-2 Solicitation."
-                   props="5117.9004-2"
-                   base="NoTitle"
-                   audience="AFARS_5117.90042"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.90042.html"/>
-         <topicref href="5117.90043.dita"
-                   navtitle="5117.9004-3 Ordering."
-                   props="5117.9004-3"
-                   base="NoTitle"
-                   audience="AFARS_5117.90043"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.90043.html"/>
+                   xtrc="AFARS_5117.9004.html">
+            <topicref href="5117.90041.dita"
+                      navtitle="5117.9004-1 Presolicitation."
+                      props="5117.9004-1"
+                      base="NoTitle"
+                      audience="AFARS_5117.90041"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90041.html"/>
+            <topicref href="5117.90042.dita"
+                      navtitle="5117.9004-2 Solicitation."
+                      props="5117.9004-2"
+                      base="NoTitle"
+                      audience="AFARS_5117.90042"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90042.html"/>
+            <topicref href="5117.90043.dita"
+                      navtitle="5117.9004-3 Ordering."
+                      props="5117.9004-3"
+                      base="NoTitle"
+                      audience="AFARS_5117.90043"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90043.html"/>
+         </topicref>
          <topicref href="5117.9005.dita"
-                   navtitle="5117.9005 Contract administration."
+                   navtitle="5117.9005 JOC ordering officers."
                    props="5117.9005"
                    base="NoTitle"
                    audience="AFARS_5117.9005"
@@ -3247,40 +3242,24 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5117.9005.html"/>
          <topicref href="5117.9006.dita"
-                   navtitle="5117.9006 JOC ordering officers."
+                   navtitle="5117.9006 Contracting officer responsibilities."
                    props="5117.9006"
                    base="NoTitle"
                    audience="AFARS_5117.9006"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5117.9006.html"/>
-         <topicref href="5117.9007.dita"
-                   navtitle="5117.9007 Contracting officer responsibilities."
-                   props="5117.9007"
-                   base="NoTitle"
-                   audience="AFARS_5117.9007"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.9007.html"/>
-         <topicref href="5117.9008.dita"
-                   navtitle="5117.9008 Internal controls."
-                   props="5117.9008"
-                   base="NoTitle"
-                   audience="AFARS_5117.9008"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5117.9008.html"/>
       </topicref>
    </topicref>
    <topicref href="PART_5118.dita"
-             navtitle="AFARS – PART 5118 Emergency Acquisitions"
+             navtitle="Part 5118 - Emergency Acquisitions"
              outputclass="Part"
              props="Part 5118"
              base="NoTitle"
              audience="AFARS_PART_5118"
              xtrf="Part">
       <topicref href="Subpart_5118.1.dita"
-                navtitle="Subpart 5118.1 – Available Acquisition Flexibilities"
+                navtitle="Subpart 5118.1 - Available Acquisition Flexibilities"
                 outputclass="SubPart"
                 props="Subpart 5118.1"
                 base="NoTitle"
@@ -3297,7 +3276,7 @@
                    xtrc="AFARS_5118.170.html"/>
       </topicref>
       <topicref href="Subpart_5118.2.dita"
-                navtitle="Subpart 5118.2 – Emergency Acquisition Flexibilities"
+                navtitle="Subpart 5118.2 - Emergency Acquisition Flexibilities"
                 outputclass="SubPart"
                 props="Subpart 5118.2"
                 base="NoTitle"
@@ -3305,7 +3284,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5118.2.html">
          <topicref href="5118.201.dita"
-                   navtitle="5118.201 Head of contracting activity determinations."
+                   navtitle="5118.201 Contingency operation."
                    props="5118.201"
                    base="NoTitle"
                    audience="AFARS_5118.201"
@@ -3313,7 +3292,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5118.201.html"/>
          <topicref href="5118.271.dita"
-                   navtitle="5118.271 Contingency operation."
+                   navtitle="5118.271 Head of contracting activity        determinations."
                    props="5118.271"
                    base="NoTitle"
                    audience="AFARS_5118.271"
@@ -3323,14 +3302,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5119.dita"
-             navtitle="AFARS – PART 5119 Small Business Programs"
+             navtitle="Part 5119 - Small Business Programs"
              outputclass="Part"
              props="Part 5119"
              base="NoTitle"
              audience="AFARS_PART_5119"
              xtrf="Part">
       <topicref href="Subpart_5119.2.dita"
-                navtitle="Subpart 5119.2 – Policies"
+                navtitle="Subpart 5119.2 - Policies"
                 outputclass="SubPart"
                 props="Subpart 5119.2"
                 base="NoTitle"
@@ -3364,7 +3343,7 @@
                    xtrc="AFARS_5119.203.html"/>
       </topicref>
       <topicref href="Subpart_5119.5.dita"
-                navtitle="Subpart 5119.5 – Set–Asides for Small Business"
+                navtitle="Subpart 5119.5 - Set-Asides for Small Business"
                 outputclass="SubPart"
                 props="Subpart 5119.5"
                 base="NoTitle"
@@ -3380,7 +3359,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5119.502.html">
             <topicref href="5119.5023.dita"
-                      navtitle="5119.502-3 Partial set–asides."
+                      navtitle="5119.502-3 Partial set-asides."
                       props="5119.502-3"
                       base="NoTitle"
                       audience="AFARS_5119.5023"
@@ -3397,7 +3376,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5119.505.html"/>
          <topicref href="5119.506.dita"
-                   navtitle="5119.506 Withdrawing or modifying small business set–asides."
+                   navtitle="5119.506 Withdrawing or modifying small business set-asides."
                    props="5119.506"
                    base="NoTitle"
                    audience="AFARS_5119.506"
@@ -3406,7 +3385,7 @@
                    xtrc="AFARS_5119.506.html"/>
       </topicref>
       <topicref href="Subpart_5119.6.dita"
-                navtitle="Subpart 5119.6 Certificates of Competency and Determinations of Responsibility"
+                navtitle="Subpart 5119.6 - Certificates of Competency and Determinations of Responsibility"
                 outputclass="SubPart"
                 props="Subpart 5119.6"
                 base="NoTitle"
@@ -3432,7 +3411,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5119.7.dita"
-                navtitle="Subpart 5119.7 – The Small Business Subcontracting Program"
+                navtitle="Subpart 5119.7 - The Small Business Subcontracting Program"
                 outputclass="SubPart"
                 props="Subpart 5119.7"
                 base="NoTitle"
@@ -3482,7 +3461,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5119.8.dita"
-                navtitle="Subpart 5119.8 – Contracting with the Small Business Administration (The 8(a) Program)"
+                navtitle="Subpart 5119.8 - Contracting with the Small Business Administration (The 8(a) Program)"
                 outputclass="SubPart"
                 props="Subpart 5119.8"
                 base="NoTitle"
@@ -3565,7 +3544,7 @@
                    xtrc="AFARS_5119.890.html"/>
       </topicref>
       <topicref href="Subpart_5119.13.dita"
-                navtitle="Subpart 5119.13 – Historically Underutilized Business Zone (HUBZone) Program"
+                navtitle="Subpart 5119.13 - Historically Underutilized Business Zone (HUBZone) Program"
                 outputclass="SubPart"
                 props="Subpart 5119.13"
                 base="NoTitle"
@@ -3573,7 +3552,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5119.13.html">
          <topicref href="5119.1305.dita"
-                   navtitle="5119.1305 HUBZone set–aside procedures."
+                   navtitle="5119.1305 HUBZone set-aside procedures."
                    props="5119.1305"
                    base="NoTitle"
                    audience="AFARS_5119.1305"
@@ -3582,7 +3561,7 @@
                    xtrc="AFARS_5119.1305.html"/>
       </topicref>
       <topicref href="Subpart_5119.14.dita"
-                navtitle="Subpart 5119.14 – Service–Disabled Veteran–Owned Small Business Procurement Program"
+                navtitle="Subpart 5119.14 - Service-Disabled Veteran-Owned Small Business Procurement Program"
                 outputclass="SubPart"
                 props="Subpart 5119.14"
                 base="NoTitle"
@@ -3590,7 +3569,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5119.14.html">
          <topicref href="5119.1405.dita"
-                   navtitle="5119.1405 Service–disabled veteran–owned small business set–aside procedures."
+                   navtitle="5119.1405 Service-disabled veteran-owned small business set-aside procedures."
                    props="5119.1405"
                    base="NoTitle"
                    audience="AFARS_5119.1405"
@@ -3600,14 +3579,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5120.dita"
-             navtitle="AFARS – PART 5120"
+             navtitle="Part 5120 - Reserved"
              outputclass="Part"
              props="Part 5120"
              base="NoTitle"
              audience="AFARS_PART_5120"
              xtrf="Part"/>
    <topicref href="PART_5121.dita"
-             navtitle="AFARS – PART 5121"
+             navtitle="Part 5121 - Reserved"
              outputclass="Part"
              props="Part 5121"
              base="NoTitle"
@@ -3615,7 +3594,7 @@
              xtrf="Part"/>
    <topicref href="PART_5122.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5122 Application of Labor Laws to Government Acquisitions"
+             navtitle="Part 5122 - Application of Labor Laws to Government Acquisitions"
              props="Part 5122"
              base="NoTitle"
              audience="AFARS_PART_5122"
@@ -3629,7 +3608,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_5122.001.html"/>
       <topicref href="Subpart_5122.1.dita"
-                navtitle="Subpart 5122.1 – Basic Labor Policies"
+                navtitle="Subpart 5122.1 - Basic Labor Policies"
                 outputclass="SubPart"
                 props="Subpart 5122.1"
                 base="NoTitle"
@@ -3688,7 +3667,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5122.3.dita"
-                navtitle="Subpart 5122.3 – Contract Work Hours and Safety Standards Act"
+                navtitle="Subpart 5122.3 - Contract Work Hours and Safety Standards Act"
                 outputclass="SubPart"
                 props="Subpart 5122.3"
                 base="NoTitle"
@@ -3705,7 +3684,7 @@
                    xtrc="AFARS_5122.302.html"/>
       </topicref>
       <topicref href="Subpart_5122.4.dita"
-                navtitle="Subpart 5122.4 – Labor Standards for Contracts Involving Construction"
+                navtitle="Subpart 5122.4 - Labor Standards for Contracts Involving Construction"
                 outputclass="SubPart"
                 props="Subpart 5122.4"
                 base="NoTitle"
@@ -3756,7 +3735,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5122.8.dita"
-                navtitle="Subpart 5122.8 – Equal Employment Opportunity"
+                navtitle="Subpart 5122.8 - Equal Employment Opportunity"
                 outputclass="SubPart"
                 props="Subpart 5122.8"
                 base="NoTitle"
@@ -3781,7 +3760,7 @@
                    xtrc="AFARS_5122.807.html"/>
       </topicref>
       <topicref href="Subpart_5122.13.dita"
-                navtitle="Subpart 5122.13 – Equal Opportunity for Veterans"
+                navtitle="Subpart 5122.13 - Equal Opportunity for Veterans"
                 outputclass="SubPart"
                 props="Subpart 5122.13"
                 base="NoTitle"
@@ -3798,7 +3777,7 @@
                    xtrc="AFARS_5122.1305.html"/>
       </topicref>
       <topicref href="Subpart_5122.14.dita"
-                navtitle="Subpart 5122.14 – Employment of Workers With Disabilities"
+                navtitle="Subpart 5122.14 - Employment of Workers With Disabilities"
                 outputclass="SubPart"
                 props="Subpart 5122.14"
                 base="NoTitle"
@@ -3815,7 +3794,7 @@
                    xtrc="AFARS_5122.1403.html"/>
       </topicref>
       <topicref href="Subpart_5122.15.dita"
-                navtitle="Subpart 5122.15 – Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor"
+                navtitle="Subpart 5122.15 - Prohibition of Acquisition of Products Produced by Forced or Indentured Child Labor"
                 outputclass="SubPart"
                 props="Subpart 5122.15"
                 base="NoTitle"
@@ -3832,7 +3811,7 @@
                    xtrc="AFARS_5122.1503.html"/>
       </topicref>
       <topicref href="Subpart_5122.16.dita"
-                navtitle="Subpart 5122.16 – Notification of Employee Rights Under the National Labor Relations Act"
+                navtitle="Subpart 5122.16 - Notification of Employee Rights Under the National Labor Relations Act"
                 outputclass="SubPart"
                 props="Subpart 5122.16"
                 base="NoTitle"
@@ -3849,7 +3828,7 @@
                    xtrc="AFARS_5122.1604.html"/>
       </topicref>
       <topicref href="Subpart_5122.17.dita"
-                navtitle="Subpart 5122.17 – Combating Trafficking in Persons"
+                navtitle="Subpart 5122.17 - Combating Trafficking in Persons"
                 outputclass="SubPart"
                 props="Subpart 5122.17"
                 base="NoTitle"
@@ -3876,13 +3855,13 @@
    </topicref>
    <topicref href="PART_5123.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5123 Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug–Free Workplace"
+             navtitle="Part 5123 - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace"
              props="Part 5123"
              base="NoTitle"
              audience="AFARS_PART_5123"
              xtrf="Part">
       <topicref href="Subpart_5123.1.dita"
-                navtitle="Subpart 5123.1 – Sustainable Acquisition Policy"
+                navtitle="Subpart 5123.1 - Sustainable Acquisition Policy"
                 outputclass="SubPart"
                 props="Subpart 5123.1"
                 base="NoTitle"
@@ -3907,7 +3886,7 @@
                    xtrc="AFARS_5123.105.html"/>
       </topicref>
       <topicref href="Subpart_5123.2.dita"
-                navtitle="Subpart 5123.2 – Energy and Water Efficiency and Renewable Energy"
+                navtitle="Subpart 5123.2 - Energy and Water Efficiency and Renewable Energy"
                 outputclass="SubPart"
                 props="Subpart 5123.2"
                 base="NoTitle"
@@ -3923,7 +3902,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5123.204.html"/>
          <topicref href="5123.205.dita"
-                   navtitle="5123.205 Energy–savings performance contracts."
+                   navtitle="5123.205 Energy-savings performance contracts."
                    props="5123.205"
                    base="NoTitle"
                    audience="AFARS_5123.205"
@@ -3932,7 +3911,7 @@
                    xtrc="AFARS_5123.205.html"/>
       </topicref>
       <topicref href="Subpart_5123.3.dita"
-                navtitle="Subpart 5123.3 – Hazardous Material Identification and Material Safety Data"
+                navtitle="Subpart 5123.3 - Hazardous Material Identification and Material Safety Data"
                 outputclass="SubPart"
                 props="Subpart 5123.3"
                 base="NoTitle"
@@ -3966,7 +3945,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5123.8.dita"
-                navtitle="Subpart 5123.8 – Ozone–Depleting Substances"
+                navtitle="Subpart 5123.8 - Ozone-Depleting Substances"
                 outputclass="SubPart"
                 props="Subpart 5123.8"
                 base="NoTitle"
@@ -3983,7 +3962,7 @@
                    xtrc="AFARS_5123.803.html"/>
       </topicref>
       <topicref href="Subpart_5123.9.dita"
-                navtitle="Subpart 5123.9 – Contractor Compliance With Environmental Management Systems"
+                navtitle="Subpart 5123.9 - Contractor Compliance With Environmental Management Systems"
                 outputclass="SubPart"
                 props="Subpart 5123.9"
                 base="NoTitle"
@@ -4002,13 +3981,13 @@
    </topicref>
    <topicref href="PART_5124.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5124 Protection of Privacy and Freedom of Information"
+             navtitle="Part 5124 - Protection of Privacy and Freedom of Information"
              props="Part 5124"
              base="NoTitle"
              audience="AFARS_PART_5124"
              xtrf="Part">
       <topicref href="Subpart_5124.1.dita"
-                navtitle="Subpart 5124.1 – Protection of Individual Privacy"
+                navtitle="Subpart 5124.1 - Protection of Individual Privacy"
                 outputclass="SubPart"
                 props="Subpart 5124.1"
                 base="NoTitle"
@@ -4025,7 +4004,7 @@
                    xtrc="AFARS_5124.103.html"/>
       </topicref>
       <topicref href="Subpart_5124.2.dita"
-                navtitle="Subpart 5124.2 – Freedom of Information Act"
+                navtitle="Subpart 5124.2 - Freedom of Information Act"
                 outputclass="SubPart"
                 props="Subpart 5124.2"
                 base="NoTitle"
@@ -4043,14 +4022,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5125.dita"
-             navtitle="AFARS – PART 5125 Foreign Acquisition"
+             navtitle="Part 5125 - Foreign Acquisition"
              outputclass="Part"
              props="Part 5125"
              base="NoTitle"
              audience="AFARS_PART_5125"
              xtrf="Part">
       <topicref href="Subpart_5125.1.dita"
-                navtitle="Subpart 5125.1 – Buy American – Supplies"
+                navtitle="Subpart 5125.1 - Buy American - Supplies"
                 outputclass="SubPart"
                 props="Subpart 5125.1"
                 base="NoTitle"
@@ -4075,7 +4054,7 @@
                    xtrc="AFARS_5125.105.html"/>
       </topicref>
       <topicref href="Subpart_5125.2.dita"
-                navtitle="Subpart 5125.2 – Buy American – Construction Materials"
+                navtitle="Subpart 5125.2 - Buy American - Construction Materials"
                 outputclass="SubPart"
                 props="Subpart 5125.2"
                 base="NoTitle"
@@ -4099,7 +4078,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5125.204.html"/>
          <topicref href="Subpart_5125.4.dita"
-                   navtitle="Subpart 5125.4- Trade Agreements"
+                   navtitle="Subpart 5125.4- - Trade Agreements"
                    outputclass="SubPart"
                    props="Subpart 5125.4-"
                    base="NoTitle"
@@ -4116,7 +4095,7 @@
                    xtrc="AFARS_5125.403.html"/>
       </topicref>
       <topicref href="Subpart_5125.6.dita"
-                navtitle="Subpart 5125.6 – American Recovery and Reinvestment Act––Buy American Statute––Construction Materials"
+                navtitle="Subpart 5125.6 - American Recovery and Reinvestment Act--Buy American Statute--Construction Materials"
                 outputclass="SubPart"
                 props="Subpart 5125.6"
                 base="NoTitle"
@@ -4133,13 +4112,24 @@
                    xtrc="AFARS_5125.603.html"/>
       </topicref>
       <topicref href="Subpart_5125.8.dita"
-                navtitle="Subpart 5125.8 – Other International Agreements and Coordination"
+                navtitle="Subpart 5125.8 - Other International Agreements and Coordination"
                 outputclass="SubPart"
                 props="Subpart 5125.8"
                 base="NoTitle"
                 audience="AFARS_Subpart_5125.8"
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5125.8.html">
+         <topicref href="5125.802.dita"
+                   props="5125.802"
+                   outputclass="subtopic"
+                   audience="AFARS_5125.802"
+                   xtrc="AFARS_5125.802.html">
+            <topicref href="5125.80271.dita"
+                      props="5125.802-71"
+                      outputclass="subtopic"
+                      audience="AFARS_5125.80271"
+                      xtrc="AFARS_5125.80271.html"/>
+         </topicref>
          <topicref href="5125.870.dita"
                    navtitle="5125.870 Contracting with Canadian contractors."
                    props="5125.870"
@@ -4176,7 +4166,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5125.9.dita"
-                navtitle="Subpart 5125.9 – Customs and Duties"
+                navtitle="Subpart 5125.9 - Customs and Duties"
                 outputclass="SubPart"
                 props="Subpart 5125.9"
                 base="NoTitle"
@@ -4193,7 +4183,7 @@
                    xtrc="AFARS_5125.903.html"/>
       </topicref>
       <topicref href="Subpart_5125.10.dita"
-                navtitle="Subpart 5125.10 – Additional Foreign Acquisition Regulations"
+                navtitle="Subpart 5125.10 - Additional Foreign Acquisition Regulations"
                 outputclass="SubPart"
                 props="Subpart 5125.10"
                 base="NoTitle"
@@ -4210,7 +4200,7 @@
                    xtrc="AFARS_5125.1001.html"/>
       </topicref>
       <topicref href="Subpart_5125.70.dita"
-                navtitle="Subpart 5125.70 – Authorization Acts, Appropriations Acts, and Other Statutory Restrictions on Foreign Acquisitions"
+                navtitle="Subpart 5125.70 - Authorization Acts, Appropriations Acts, and Other Statutory Restrictions on Foreign Acquisitions"
                 outputclass="SubPart"
                 props="Subpart 5125.70"
                 base="NoTitle"
@@ -4226,7 +4216,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5125.7000.html">
             <topicref href="5125.700090.dita"
-                      navtitle="5125.7000-90 Applicability to utilize a non–Army contracting activity."
+                      navtitle="5125.7000-90 Applicability to utilize a non-Army contracting activity."
                       props="5125.7000-90"
                       base="NoTitle"
                       audience="AFARS_5125.700090"
@@ -4267,14 +4257,6 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5125.70033.html"/>
-            <topicref href="5125.70034.dita"
-                      navtitle="5125.7003-4 One–time waiver."
-                      props="5125.7003-4"
-                      base="NoTitle"
-                      audience="AFARS_5125.70034"
-                      outputclass="subtopic"
-                      xtrf="subtopic"
-                      xtrc="AFARS_5125.70034.html"/>
          </topicref>
          <topicref href="5125.7008.dita"
                    navtitle="5125.7008 Waiver of restrictions of 10 U.S.C. 2534."
@@ -4286,7 +4268,7 @@
                    xtrc="AFARS_5125.7008.html"/>
       </topicref>
       <topicref href="Subpart_5125.73.dita"
-                navtitle="Subpart 5125.73 – Acquisitions for Foreign Military Sales"
+                navtitle="Subpart 5125.73 - Acquisitions for Foreign Military Sales"
                 outputclass="SubPart"
                 props="Subpart 5125.73"
                 base="NoTitle"
@@ -4302,7 +4284,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5125.7301.html">
             <topicref href="5125.73011.dita"
-                      navtitle="5125.7301-1 Requirement to use firm–fixed–price contracts."
+                      navtitle="5125.7301-1 Requirement to use firm-fixed-price contracts."
                       props="5125.7301-1"
                       base="NoTitle"
                       audience="AFARS_5125.73011"
@@ -4312,7 +4294,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5125.77.dita"
-                navtitle="Subpart 5125.77 – Acquisitions in Support of Operations in Afghanistan"
+                navtitle="Subpart 5125.77 - Acquisitions in Support of Operations in Afghanistan"
                 outputclass="SubPart"
                 props="Subpart 5125.77"
                 base="NoTitle"
@@ -4340,20 +4322,20 @@
    </topicref>
    <topicref href="PART_5126.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5126 Other Socioeconomic Programs"
+             navtitle="Part 5126 - Other Socioeconomic Programs"
              props="Part 5126"
              base="NoTitle"
              audience="AFARS_PART_5126"
              xtrf="Part"/>
    <topicref href="PART_5127.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5127 Patents, Data, and Copyrights"
+             navtitle="Part 5127 - Patents, Data, and Copyrights"
              props="Part 5127"
              base="NoTitle"
              audience="AFARS_PART_5127"
              xtrf="Part">
       <topicref href="Subpart_5127.2.dita"
-                navtitle="Subpart 5127.2 – Patents and Copyrights"
+                navtitle="Subpart 5127.2 - Patents and Copyrights"
                 outputclass="SubPart"
                 props="Subpart 5127.2"
                 base="NoTitle"
@@ -4396,7 +4378,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5127.3.dita"
-                navtitle="Subpart 5127.3 – Patent Rights Under Government Contracts"
+                navtitle="Subpart 5127.3 - Patent Rights Under Government Contracts"
                 outputclass="SubPart"
                 props="Subpart 5127.3"
                 base="NoTitle"
@@ -4421,7 +4403,7 @@
                    xtrc="AFARS_5127.304.html"/>
       </topicref>
       <topicref href="Subpart_5127.6.dita"
-                navtitle="Subpart 5127.6 – Foreign License and Technical Assistance Agreements"
+                navtitle="Subpart 5127.6 - Foreign License and Technical Assistance Agreements"
                 outputclass="SubPart"
                 props="Subpart 5127.6"
                 base="NoTitle"
@@ -4447,7 +4429,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5127.70.dita"
-                navtitle="Subpart 5127.70 – Infringement Claims, Licenses, and Assignments"
+                navtitle="Subpart 5127.70 - Infringement Claims, Licenses, and Assignments"
                 outputclass="SubPart"
                 props="Subpart 5127.70"
                 base="NoTitle"
@@ -4481,7 +4463,7 @@
                    xtrc="AFARS_5127.7011.html"/>
       </topicref>
       <topicref href="Subpart_5127.71.dita"
-                navtitle="Subpart 5127.71 – Rights in Technical Data"
+                navtitle="Subpart 5127.71 - Rights in Technical Data"
                 outputclass="SubPart"
                 props="Subpart 5127.71"
                 base="NoTitle"
@@ -4515,7 +4497,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5127.72.dita"
-                navtitle="Subpart 5127.72 – Rights In Computer Software and Computer Software Documentation"
+                navtitle="Subpart 5127.72 - Rights In Computer Software and Computer Software Documentation"
                 outputclass="SubPart"
                 props="Subpart 5127.72"
                 base="NoTitle"
@@ -4542,14 +4524,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5128.dita"
-             navtitle="AFARS – PART 5128 Bonds and Insurance"
+             navtitle="Part 5128 - Bonds and Insurance"
              outputclass="Part"
              props="Part 5128"
              base="NoTitle"
              audience="AFARS_PART_5128"
              xtrf="Part">
       <topicref href="Subpart_5128.1.dita"
-                navtitle="Subpart 5128.1 – Bonds and Other Financial Protections"
+                navtitle="Subpart 5128.1 - Bonds and Other Financial Protections"
                 outputclass="SubPart"
                 props="Subpart 5128.1"
                 base="NoTitle"
@@ -4608,7 +4590,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5128.2.dita"
-                navtitle="Subpart 5128.2 – Sureties and Other Security for Bonds"
+                navtitle="Subpart 5128.2 - Sureties and Other Security for Bonds"
                 outputclass="SubPart"
                 props="Subpart 5128.2"
                 base="NoTitle"
@@ -4631,14 +4613,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5128.203.html">
-            <topicref href="5128.2037.dita"
-                      navtitle="5128.203-7 Exclusion of individual sureties."
-                      props="5128.203-7"
+            <topicref href="5128.2035.dita"
+                      navtitle="5128.203-5 Exclusion of individual sureties."
+                      props="5128.203-5"
                       base="NoTitle"
-                      audience="AFARS_5128.2037"
+                      audience="AFARS_5128.2035"
                       outputclass="subtopic"
                       xtrf="subtopic"
-                      xtrc="AFARS_5128.2037.html"/>
+                      xtrc="AFARS_5128.2035.html"/>
          </topicref>
          <topicref href="5128.204.dita"
                    navtitle="5128.204 Alternatives in lieu of corporate or individual sureties."
@@ -4659,7 +4641,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5128.3.dita"
-                navtitle="Subpart 5128.3 – Insurance"
+                navtitle="Subpart 5128.3 - Insurance"
                 outputclass="SubPart"
                 props="Subpart 5128.3"
                 base="NoTitle"
@@ -4683,7 +4665,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5128.305.html"/>
          <topicref href="5128.307.dita"
-                   navtitle="5128.307 Insurance under cost–reimbursement contracts."
+                   navtitle="5128.307 Insurance under cost-reimbursement contracts."
                    props="5128.307"
                    base="NoTitle"
                    audience="AFARS_5128.307"
@@ -4700,7 +4682,7 @@
                       xtrc="AFARS_5128.3071.html"/>
          </topicref>
          <topicref href="5128.311.dita"
-                   navtitle="5128.311 Solicitation provision and contract clause on liability insurance under cost–reimbursement contracts."
+                   navtitle="5128.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts."
                    props="5128.311"
                    base="NoTitle"
                    audience="AFARS_5128.311"
@@ -4727,14 +4709,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5129.dita"
-             navtitle="AFARS – PART 5129 Taxes"
+             navtitle="Part 5129 - Taxes"
              outputclass="Part"
              props="Part 5129"
              base="NoTitle"
              audience="AFARS_PART_5129"
              xtrf="Part">
       <topicref href="Subpart_5129.1.dita"
-                navtitle="Subpart 5129.1 – General"
+                navtitle="Subpart 5129.1 - General"
                 outputclass="SubPart"
                 props="Subpart 5129.1"
                 base="NoTitle"
@@ -4751,7 +4733,7 @@
                    xtrc="AFARS_5129.101.html"/>
       </topicref>
       <topicref href="Subpart_5129.2.dita"
-                navtitle="Subpart 5129.2 – Federal Excise Taxes"
+                navtitle="Subpart 5129.2 - Federal Excise Taxes"
                 outputclass="SubPart"
                 props="Subpart 5129.2"
                 base="NoTitle"
@@ -4768,7 +4750,7 @@
                    xtrc="AFARS_5129.201.html"/>
       </topicref>
       <topicref href="Subpart_5129.3.dita"
-                navtitle="Subpart 5129.3 – State and Local Taxes"
+                navtitle="Subpart 5129.3 - State and Local Taxes"
                 outputclass="SubPart"
                 props="Subpart 5129.3"
                 base="NoTitle"
@@ -4787,13 +4769,13 @@
    </topicref>
    <topicref href="PART_5130.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5130 Cost Accounting Standards Administration"
+             navtitle="Part 5130 - Cost Accounting Standards Administration"
              props="Part 5130"
              base="NoTitle"
              audience="AFARS_PART_5130"
              xtrf="Part">
       <topicref href="Subpart_5130.2.dita"
-                navtitle="Subpart 5130.2 – CAS Program Requirements"
+                navtitle="Subpart 5130.2 - CAS Program Requirements"
                 outputclass="SubPart"
                 props="Subpart 5130.2"
                 base="NoTitle"
@@ -4838,13 +4820,13 @@
    </topicref>
    <topicref href="PART_5131.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5131 Contract Cost Principles and Procedures"
+             navtitle="Part 5131 - Contract Cost Principles and Procedures"
              props="Part 5131"
              base="NoTitle"
              audience="AFARS_PART_5131"
              xtrf="Part">
       <topicref href="Subpart_5131.2.dita"
-                navtitle="Subpart 5131.2 – Contracts with Commercial Organizations"
+                navtitle="Subpart 5131.2 - Contracts with Commercial Organizations"
                 outputclass="SubPart"
                 props="Subpart 5131.2"
                 base="NoTitle"
@@ -4871,7 +4853,7 @@
       </topicref>
    </topicref>
    <topicref href="PART_5132.dita"
-             navtitle="AFARS – PART 5132 Contract Financing"
+             navtitle="Part 5132 - Contract Financing"
              outputclass="Part"
              props="Part 5132"
              base="NoTitle"
@@ -4882,8 +4864,8 @@
                 props="5132.006"
                 base="NoTitle"
                 audience="AFARS_5132.006"
-                outputclass="subtopic"
-                xtrf="No"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_5132.006.html">
          <topicref href="5132.0061.dita"
                    navtitle="5132.006-1 General."
@@ -4919,7 +4901,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_5132.007.html"/>
       <topicref href="Subpart_5132.1.dita"
-                navtitle="Subpart 5132.1 – Non–Commercial Item Purchase Financing"
+                navtitle="Subpart 5132.1 - Non-Commercial Item Purchase Financing"
                 outputclass="SubPart"
                 props="Subpart 5132.1"
                 base="NoTitle"
@@ -4927,7 +4909,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5132.1.html">
          <topicref href="5132.111.dita"
-                   navtitle="5132.111 Contract clauses for non–commercial purchases."
+                   navtitle="5132.111 Contract clauses for non-commercial purchases."
                    props="5132.111"
                    base="NoTitle"
                    audience="AFARS_5132.111"
@@ -4944,7 +4926,7 @@
                    xtrc="AFARS_5132.114.html"/>
       </topicref>
       <topicref href="Subpart_5132.2.dita"
-                navtitle="Subpart 5132.2 – Commercial Item Purchase Financing"
+                navtitle="Subpart 5132.2 - Commercial Item Purchase Financing"
                 outputclass="SubPart"
                 props="Subpart 5132.2"
                 base="NoTitle"
@@ -4978,7 +4960,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5132.4.dita"
-                navtitle="Subpart 5132.4 Advance Payments for Non–Commercial Items"
+                navtitle="Subpart 5132.4 - Advance Payments for Non-Commercial Items"
                 outputclass="SubPart"
                 props="Subpart 5132.4"
                 base="NoTitle"
@@ -5003,7 +4985,7 @@
                    xtrc="AFARS_5132.407.html"/>
       </topicref>
       <topicref href="Subpart_5132.5.dita"
-                navtitle="Subpart 5132.5 – Progress Payments Based on Costs"
+                navtitle="Subpart 5132.5 - Progress Payments Based on Costs"
                 outputclass="SubPart"
                 props="Subpart 5132.5"
                 base="NoTitle"
@@ -5029,7 +5011,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5132.6.dita"
-                navtitle="Subpart 5132.6 – Contract Debts"
+                navtitle="Subpart 5132.6 - Contract Debts"
                 outputclass="SubPart"
                 props="Subpart 5132.6"
                 base="NoTitle"
@@ -5045,7 +5027,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5132.606.html"/>
          <topicref href="5132.607.dita"
-                   navtitle="5132.607  Installment payments and deferment of collection."
+                   navtitle="5132.607 Installment payments and        deferment of collection."
                    props="5132.607"
                    base="NoTitle"
                    audience="AFARS_5132.607"
@@ -5053,7 +5035,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5132.607.html">
             <topicref href="5132.6072.dita"
-                      navtitle="5132.6072 Deferment of collection."
+                      navtitle="5132.607-2 Deferment of collection."
                       props="5132.607-2"
                       base="NoTitle"
                       audience="AFARS_5132.6072"
@@ -5071,7 +5053,7 @@
                    xtrc="AFARS_5132.671.html"/>
       </topicref>
       <topicref href="Subpart_5132.7.dita"
-                navtitle="Subpart 5132.7 – Contract Funding"
+                navtitle="Subpart 5132.7 - Contract Funding"
                 outputclass="SubPart"
                 props="Subpart 5132.7"
                 base="NoTitle"
@@ -5088,7 +5070,7 @@
                    xtrc="AFARS_5132.702.html"/>
       </topicref>
       <topicref href="Subpart_5132.8.dita"
-                navtitle="Subpart 5132.8 – Assignment of Claims"
+                navtitle="Subpart 5132.8 - Assignment of Claims"
                 outputclass="SubPart"
                 props="Subpart 5132.8"
                 base="NoTitle"
@@ -5105,7 +5087,7 @@
                    xtrc="AFARS_5132.803.html"/>
       </topicref>
       <topicref href="Subpart_5132.9.dita"
-                navtitle="Subpart 5132.9 – Prompt Payment"
+                navtitle="Subpart 5132.9 - Prompt Payment"
                 outputclass="SubPart"
                 props="Subpart 5132.9"
                 base="NoTitle"
@@ -5138,7 +5120,7 @@
                    xtrc="AFARS_5132.906.html"/>
       </topicref>
       <topicref href="Subpart_5132.11.dita"
-                navtitle="Subpart 5132.11 – Electronic Funds Transfer"
+                navtitle="Subpart 5132.11 - Electronic Funds Transfer"
                 outputclass="SubPart"
                 props="Subpart 5132.11"
                 base="NoTitle"
@@ -5155,7 +5137,7 @@
                    xtrc="AFARS_5132.1106.html"/>
       </topicref>
       <topicref href="Subpart_5132.71.dita"
-                navtitle="Subpart 5132.71 – Levies on Contract Payments"
+                navtitle="Subpart 5132.71 - Levies on Contract Payments"
                 outputclass="SubPart"
                 props="Subpart 5132.71"
                 base="NoTitle"
@@ -5174,7 +5156,7 @@
    </topicref>
    <topicref href="PART_5133.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5133 Protests, Disputes, and Appeals"
+             navtitle="Part 5133 - Protests, Disputes, and Appeals"
              props="Part 5133"
              base="NoTitle"
              audience="AFARS_PART_5133"
@@ -5188,7 +5170,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_5133.090.html"/>
       <topicref href="Subpart_5133.1.dita"
-                navtitle="Subpart 5133.1 – Protests"
+                navtitle="Subpart 5133.1 - Protests"
                 outputclass="SubPart"
                 props="Subpart 5133.1"
                 base="NoTitle"
@@ -5272,7 +5254,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5133.2.dita"
-                navtitle="Subpart 5133.2 – Disputes and Appeals"
+                navtitle="Subpart 5133.2 - Disputes and Appeals"
                 outputclass="SubPart"
                 props="Subpart 5133.2"
                 base="NoTitle"
@@ -5296,7 +5278,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5133.204.html"/>
          <topicref href="5133.212.dita"
-                   navtitle="5133.212 Contracting officer’s duties upon appeal."
+                   navtitle="5133.212 Contracting officers duties upon appeal."
                    props="5133.212"
                    base="NoTitle"
                    audience="AFARS_5133.212"
@@ -5394,7 +5376,7 @@
                    xtrc="AFARS_5133.215.html"/>
       </topicref>
       <topicref href="Subpart_5133.90.dita"
-                navtitle="Subpart 5133.90 – Grant and Cooperative Agreement Claims, Disputes and Appeals"
+                navtitle="Subpart 5133.90 - Grant and Cooperative Agreement Claims, Disputes and Appeals"
                 outputclass="SubPart"
                 props="Subpart 5133.90"
                 base="NoTitle"
@@ -5412,14 +5394,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5134.dita"
-             navtitle="AFARS – PART 5134 Major System Acquisition"
+             navtitle="Part 5134 - Major System Acquisition"
              outputclass="Part"
              props="Part 5134"
              base="NoTitle"
              audience="AFARS_PART_5134"
              xtrf="Part">
       <topicref href="Subpart_5134.0.dita"
-                navtitle="Subpart 5134.0 – General"
+                navtitle="Subpart 5134.0 - General"
                 outputclass="SubPart"
                 props="Subpart 5134.0"
                 base="NoTitle"
@@ -5436,7 +5418,7 @@
                    xtrc="AFARS_5134.003.html"/>
       </topicref>
       <topicref href="Subpart_5134.2.dita"
-                navtitle="Subpart 5134.2 – Earned Value Management System"
+                navtitle="Subpart 5134.2 - Earned Value Management System"
                 outputclass="SubPart"
                 props="Subpart 5134.2"
                 base="NoTitle"
@@ -5444,7 +5426,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5134.2.html">
          <topicref href="Subpart_5134.70.dita"
-                   navtitle="Subpart 5134.70 —Acquisition of Major Weapon Systems as Commercial Items"
+                   navtitle="Subpart 5134.70 - Acquisition of Major Weapon Systems as Commercial Items"
                    outputclass="SubPart"
                    props="Subpart 5134.70"
                    base="NoTitle"
@@ -5463,7 +5445,7 @@
    </topicref>
    <topicref href="PART_5135.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5135 Research and Development Contracting"
+             navtitle="Part 5135 - Research and Development Contracting"
              props="Part 5135"
              base="NoTitle"
              audience="AFARS_PART_5135"
@@ -5481,8 +5463,8 @@
                 props="5135.014"
                 base="NoTitle"
                 audience="AFARS_5135.014"
-                outputclass="subtopic"
-                xtrf="No"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_5135.014.html">
          <topicref href="5135.01490.dita"
                    navtitle="5135.014-90 Special requirements for research and development contracts."
@@ -5498,8 +5480,8 @@
                 props="5135.015"
                 base="NoTitle"
                 audience="AFARS_5135.015"
-                outputclass="subtopic"
-                xtrf="No"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_5135.015.html">
          <topicref href="5135.01570.dita"
                    navtitle="5135.015-70 Special use allowances for research facilities acquired by educational institutions."
@@ -5515,8 +5497,8 @@
                 props="5135.070"
                 base="NoTitle"
                 audience="AFARS_5135.070"
-                outputclass="subtopic"
-                xtrf="No"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_5135.070.html">
          <topicref href="5135.0701.dita"
                    navtitle="5135.070-1 Indemnification under research and development contracts."
@@ -5530,13 +5512,13 @@
    </topicref>
    <topicref href="PART_5136.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5136 Construction and Architect–Engineer Contracts"
+             navtitle="Part 5136 - Construction and Architect-Engineer Contracts"
              props="Part 5136"
              base="NoTitle"
              audience="AFARS_PART_5136"
              xtrf="Part">
       <topicref href="Subpart_5136.2.dita"
-                navtitle="Subpart 5136.2 – Special Aspects of Contracting for Construction"
+                navtitle="Subpart 5136.2 - Special Aspects of Contracting for Construction"
                 outputclass="SubPart"
                 props="Subpart 5136.2"
                 base="NoTitle"
@@ -5561,7 +5543,7 @@
                       xtrc="AFARS_5136.290.html"/>
          </topicref>
          <topicref href="5136.208.dita"
-                   navtitle="5136.208 Concurrent performance of firm–fixed–price and other types of construction contracts."
+                   navtitle="5136.208 Concurrent performance of firm-fixed-price and other types of construction contracts."
                    props="5136.208"
                    base="NoTitle"
                    audience="AFARS_5136.208"
@@ -5569,7 +5551,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5136.208.html"/>
          <topicref href="5136.209.dita"
-                   navtitle="5136.209 Construction contracts with architect–engineer firms."
+                   navtitle="5136.209 Construction contracts with architect-engineer firms."
                    props="5136.209"
                    base="NoTitle"
                    audience="AFARS_5136.209"
@@ -5611,7 +5593,7 @@
                    xtrc="AFARS_5136.272.html"/>
       </topicref>
       <topicref href="Subpart_5136.3.dita"
-                navtitle="Subpart 5136.3 – Two–Phase Design–Build Selection Procedures"
+                navtitle="Subpart 5136.3 - Two-Phase Design-Build Selection Procedures"
                 outputclass="SubPart"
                 props="Subpart 5136.3"
                 base="NoTitle"
@@ -5619,7 +5601,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5136.3.html">
          <topicref href="5136.301.dita"
-                   navtitle="5136.301 Use of two–phase design–build selection procedures."
+                   navtitle="5136.301 Use of two-phase design-build selection procedures."
                    props="5136.301"
                    base="NoTitle"
                    audience="AFARS_5136.301"
@@ -5628,7 +5610,7 @@
                    xtrc="AFARS_5136.301.html"/>
       </topicref>
       <topicref href="Subpart_5136.5.dita"
-                navtitle="Subpart 5136.5 – Contract Clauses"
+                navtitle="Subpart 5136.5 - Contract Clauses"
                 outputclass="SubPart"
                 props="Subpart 5136.5"
                 base="NoTitle"
@@ -5645,7 +5627,7 @@
                    xtrc="AFARS_5136.570.html"/>
       </topicref>
       <topicref href="Subpart_5136.6.dita"
-                navtitle="Subpart 5136.6 – Architect–Engineer Services"
+                navtitle="Subpart 5136.6 - Architect-Engineer Services"
                 outputclass="SubPart"
                 props="Subpart 5136.6"
                 base="NoTitle"
@@ -5661,7 +5643,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5136.601.html">
             <topicref href="5136.60190.dita"
-                      navtitle="5136.601-90 Authority for architect–engineer contracting."
+                      navtitle="5136.601-90 Authority for architect-engineer contracting."
                       props="5136.601-90"
                       base="NoTitle"
                       audience="AFARS_5136.60190"
@@ -5686,7 +5668,7 @@
                       xtrc="AFARS_5136.601390.html"/>
          </topicref>
          <topicref href="5136.602.dita"
-                   navtitle="5136.602 Selection of firms for architect–engineer contracts."
+                   navtitle="5136.602 Selection of firms for architect-engineer contracts."
                    props="5136.602"
                    base="NoTitle"
                    audience="AFARS_5136.602"
@@ -5746,14 +5728,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5137.dita"
-             navtitle="AFARS – PART 5137 Service Contracting"
+             navtitle="Part 5137 - Service Contracting"
              outputclass="Part"
              props="Part 5137"
              base="NoTitle"
              audience="AFARS_PART_5137"
              xtrf="Part">
       <topicref href="Subpart_5137.1.dita"
-                navtitle="Subpart 5137.1 – Service Contracts – General"
+                navtitle="Subpart 5137.1 - Service Contracts - General"
                 outputclass="SubPart"
                 props="Subpart 5137.1"
                 base="NoTitle"
@@ -5810,7 +5792,7 @@
                    xtrc="AFARS_5137.1702.html"/>
       </topicref>
       <topicref href="Subpart_5137.2.dita"
-                navtitle="Subpart 5137.2 – Advisory and Assistance Services"
+                navtitle="Subpart 5137.2 - Advisory and Assistance Services"
                 outputclass="SubPart"
                 props="Subpart 5137.2"
                 base="NoTitle"
@@ -5827,7 +5809,7 @@
                    xtrc="AFARS_5137.204.html"/>
       </topicref>
       <topicref href="Subpart_5137.5.dita"
-                navtitle="Subpart 5137.5 – Management Oversight of Service Contracts"
+                navtitle="Subpart 5137.5 - Management Oversight of Service Contracts"
                 outputclass="SubPart"
                 props="Subpart 5137.5"
                 base="NoTitle"
@@ -5835,7 +5817,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5137.5.html">
          <topicref href="5137.503.dita"
-                   navtitle="5137.503 Agency–head responsibilities."
+                   navtitle="5137.503 Agency-head responsibilities."
                    props="5137.503"
                    base="NoTitle"
                    audience="AFARS_5137.503"
@@ -5900,7 +5882,7 @@
                    xtrc="AFARS_5137.5907.html"/>
       </topicref>
       <topicref href="Subpart_5137.72.dita"
-                navtitle="Subpart 5137.72 – Educational Service Agreements"
+                navtitle="Subpart 5137.72 - Educational Service Agreements"
                 outputclass="SubPart"
                 props="Subpart 5137.72"
                 base="NoTitle"
@@ -5957,7 +5939,7 @@
                    xtrc="AFARS_5137.720494.html"/>
       </topicref>
       <topicref href="Subpart_5137.74.dita"
-                navtitle="Subpart 5137.74 – Services at Installations Being Closed"
+                navtitle="Subpart 5137.74 - Services at Installations Being Closed"
                 outputclass="SubPart"
                 props="Subpart 5137.74"
                 base="NoTitle"
@@ -5974,7 +5956,7 @@
                    xtrc="AFARS_5137.7401.html"/>
       </topicref>
       <topicref href="Subpart_5137.90.dita"
-                navtitle="Subpart 5137.90 – Security Clearances and Identification for Contractor Personnel"
+                navtitle="Subpart 5137.90 - Security Clearances and Identification for Contractor Personnel"
                 outputclass="SubPart"
                 props="Subpart 5137.90"
                 base="NoTitle"
@@ -5991,7 +5973,7 @@
                    xtrc="AFARS_5137.9001.html"/>
       </topicref>
       <topicref href="Subpart_5137.91.dita"
-                navtitle="Subpart 5137.91 – Accounting for Contract Services"
+                navtitle="Subpart 5137.91 - Accounting for Contract Services"
                 outputclass="SubPart"
                 props="Subpart 5137.91"
                 base="NoTitle"
@@ -6010,20 +5992,20 @@
    </topicref>
    <topicref href="PART_5138.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5138 Federal Supply Schedule Contracting"
+             navtitle="Part 5138 - Federal Supply Schedule Contracting"
              props="Part 5138"
              base="NoTitle"
              audience="AFARS_PART_5138"
              xtrf="Part"/>
    <topicref href="PART_5139.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5139 Acquisition of Information Technology"
+             navtitle="Part 5139 - Acquisition of Information Technology"
              props="Part 5139"
              base="NoTitle"
              audience="AFARS_PART_5139"
              xtrf="Part">
       <topicref href="Subpart_5139.1.dita"
-                navtitle="Subpart 5139.1 – General"
+                navtitle="Subpart 5139.1 - General"
                 outputclass="SubPart"
                 props="Subpart 5139.1"
                 base="NoTitle"
@@ -6049,7 +6031,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5139.74.dita"
-                navtitle="Subpart 5139.74 – Telecommunications Services"
+                navtitle="Subpart 5139.74 - Telecommunications Services"
                 outputclass="SubPart"
                 props="Subpart 5139.74"
                 base="NoTitle"
@@ -6066,7 +6048,7 @@
                    xtrc="AFARS_5139.7402.html"/>
       </topicref>
       <topicref href="Subpart_5139.76.dita"
-                navtitle="Subpart 5139.76 – Cloud Computing"
+                navtitle="Subpart 5139.76 - Cloud Computing"
                 outputclass="SubPart"
                 props="Subpart 5139.76"
                 base="NoTitle"
@@ -6084,7 +6066,7 @@
       </topicref>
    </topicref>
    <topicref href="PART_5140.dita"
-             navtitle="AFARS – PART 5140"
+             navtitle="Part 5140 - Reserved"
              outputclass="Part"
              props="Part 5140"
              base="NoTitle"
@@ -6092,13 +6074,13 @@
              xtrf="Part"/>
    <topicref href="PART_5141.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5141 Acquisition of Utility Services"
+             navtitle="Part 5141 - Acquisition of Utility Services"
              props="Part 5141"
              base="NoTitle"
              audience="AFARS_PART_5141"
              xtrf="Part">
       <topicref href="Subpart_5141.1.dita"
-                navtitle="Subpart 5141.1 – General"
+                navtitle="Subpart 5141.1 - General"
                 outputclass="SubPart"
                 props="Subpart 5141.1"
                 base="NoTitle"
@@ -6115,7 +6097,7 @@
                    xtrc="AFARS_5141.102.html"/>
       </topicref>
       <topicref href="Subpart_5141.2.dita"
-                navtitle="Subpart 5141.2 – Acquiring Utility Services"
+                navtitle="Subpart 5141.2 - Acquiring Utility Services"
                 outputclass="SubPart"
                 props="Subpart 5141.2"
                 base="NoTitle"
@@ -6134,13 +6116,13 @@
    </topicref>
    <topicref href="PART_5142.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5142 Contract Administration and Audit Services"
+             navtitle="Part 5142 - Contract Administration and Audit Services"
              props="Part 5142"
              base="NoTitle"
              audience="AFARS_PART_5142"
              xtrf="Part">
       <topicref href="Subpart_5142.1.dita"
-                navtitle="Subpart 5142.1 – Contract Audit Services"
+                navtitle="Subpart 5142.1 - Contract Audit Services"
                 outputclass="SubPart"
                 props="Subpart 5142.1"
                 base="NoTitle"
@@ -6148,7 +6130,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5142.1.html">
          <topicref href="5142.190.dita"
-                   navtitle="5142.190 Follow–up on contract audit reports."
+                   navtitle="5142.190 Follow-up on contract audit reports."
                    props="5142.190"
                    base="NoTitle"
                    audience="AFARS_5142.190"
@@ -6190,7 +6172,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5142.2.dita"
-                navtitle="Subpart 5142.2 – Contract Administration Services"
+                navtitle="Subpart 5142.2 - Contract Administration Services"
                 outputclass="SubPart"
                 props="Subpart 5142.2"
                 base="NoTitle"
@@ -6207,7 +6189,7 @@
                    xtrc="AFARS_5142.202.html"/>
       </topicref>
       <topicref href="Subpart_5142.3.dita"
-                navtitle="Subpart 5142.3 – Contract Administration Office Functions"
+                navtitle="Subpart 5142.3 - Contract Administration Office Functions"
                 outputclass="SubPart"
                 props="Subpart 5142.3"
                 base="NoTitle"
@@ -6224,7 +6206,7 @@
                    xtrc="AFARS_5142.302.html"/>
       </topicref>
       <topicref href="Subpart_5142.6.dita"
-                navtitle="Subpart 5142.6 – Corporate Administrative Contracting Officer"
+                navtitle="Subpart 5142.6 - Corporate Administrative Contracting Officer"
                 outputclass="SubPart"
                 props="Subpart 5142.6"
                 base="NoTitle"
@@ -6241,7 +6223,7 @@
                    xtrc="AFARS_5142.602.html"/>
       </topicref>
       <topicref href="Subpart_5142.7.dita"
-                navtitle="Subpart 5142.7 – Indirect Cost Rates"
+                navtitle="Subpart 5142.7 - Indirect Cost Rates"
                 outputclass="SubPart"
                 props="Subpart 5142.7"
                 base="NoTitle"
@@ -6267,7 +6249,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5142.15.dita"
-                navtitle="Subpart 5142.15 – Contractor Performance Information"
+                navtitle="Subpart 5142.15 - Contractor Performance Information"
                 outputclass="SubPart"
                 props="Subpart 5142.15"
                 base="NoTitle"
@@ -6301,7 +6283,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5142.71.dita"
-                navtitle="Subpart 5142.71 – Voluntary Refunds"
+                navtitle="Subpart 5142.71 - Voluntary Refunds"
                 outputclass="SubPart"
                 props="Subpart 5142.71"
                 base="NoTitle"
@@ -6319,14 +6301,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5143.dita"
-             navtitle="AFARS – PART 5143 Contract Modifications"
+             navtitle="Part 5143 - Contract Modifications"
              outputclass="Part"
              props="Part 5143"
              base="NoTitle"
              audience="AFARS_PART_5143"
              xtrf="Part">
       <topicref href="Subpart_5143.2.dita"
-                navtitle="Subpart 5143.2 – Change Orders"
+                navtitle="Subpart 5143.2 - Change Orders"
                 outputclass="SubPart"
                 props="Subpart 5143.2"
                 base="NoTitle"
@@ -6370,13 +6352,13 @@
    </topicref>
    <topicref href="PART_5144.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5144 Subcontracting Policies and Procedures"
+             navtitle="Part 5144 - Subcontracting Policies and Procedures"
              props="Part 5144"
              base="NoTitle"
              audience="AFARS_PART_5144"
              xtrf="Part">
       <topicref href="Subpart_5144.3.dita"
-                navtitle="Subpart 5144.3 – Contractors Purchasing System Reviews"
+                navtitle="Subpart 5144.3 - Contractors Purchasing System Reviews"
                 outputclass="SubPart"
                 props="Subpart 5144.3"
                 base="NoTitle"
@@ -6394,14 +6376,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5145.dita"
-             navtitle="AFARS – PART 5145 Government Property"
+             navtitle="Part 5145 - Government Property"
              outputclass="Part"
              props="Part 5145"
              base="NoTitle"
              audience="AFARS_PART_5145"
              xtrf="Part">
       <topicref href="Subpart_5145.1.dita"
-                navtitle="Subpart 5145.1 – General"
+                navtitle="Subpart 5145.1 - General"
                 outputclass="SubPart"
                 props="Subpart 5145.1"
                 base="NoTitle"
@@ -6426,7 +6408,7 @@
                    xtrc="AFARS_5145.190.html"/>
       </topicref>
       <topicref href="Subpart_5145.3.dita"
-                navtitle="Subpart 5145.3 – Authorizing the Use and Rental of Government Property"
+                navtitle="Subpart 5145.3 - Authorizing the Use and Rental of Government Property"
                 outputclass="SubPart"
                 props="Subpart 5145.3"
                 base="NoTitle"
@@ -6451,7 +6433,7 @@
                    xtrc="AFARS_5145.390.html"/>
       </topicref>
       <topicref href="Subpart_5145.5.dita"
-                navtitle="Subpart 5145.5 – Support Government Property Administration"
+                navtitle="Subpart 5145.5 - Support Government Property Administration"
                 outputclass="SubPart"
                 props="Subpart 5145.5"
                 base="NoTitle"
@@ -6459,7 +6441,7 @@
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5145.5.html">
          <topicref href="5145.57090.dita"
-                   navtitle="5145.570-90 Storage at the Government’s expense."
+                   navtitle="5145.570-90 Storage at the Governments expense."
                    props="5145.570-90"
                    base="NoTitle"
                    audience="AFARS_5145.57090"
@@ -6469,14 +6451,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5146.dita"
-             navtitle="AFARS – PART 5146 Quality Assurance"
+             navtitle="Part 5146 - Quality Assurance"
              outputclass="Part"
              props="Part 5146"
              base="NoTitle"
              audience="AFARS_PART_5146"
              xtrf="Part">
       <topicref href="Subpart_5146.5.dita"
-                navtitle="Subpart 5146.5 – Acceptance"
+                navtitle="Subpart 5146.5 - Acceptance"
                 outputclass="SubPart"
                 props="Subpart 5146.5"
                 base="NoTitle"
@@ -6501,7 +6483,7 @@
                    xtrc="AFARS_5146.503.html"/>
       </topicref>
       <topicref href="Subpart_5146.7.dita"
-                navtitle="Subpart 5146.7 – Warranties"
+                navtitle="Subpart 5146.7 - Warranties"
                 outputclass="SubPart"
                 props="Subpart 5146.7"
                 base="NoTitle"
@@ -6519,21 +6501,21 @@
       </topicref>
    </topicref>
    <topicref href="PART_5147.dita"
-             navtitle="AFARS – PART 5147 Transportation"
+             navtitle="Part 5147 - Transportation"
              outputclass="Part"
              props="Part 5147"
              base="NoTitle"
              audience="AFARS_PART_5147"
              xtrf="Part"/>
    <topicref href="PART_5148.dita"
-             navtitle="AFARS – PART 5148 Value Engineering"
+             navtitle="Part 5148 - Value Engineering"
              outputclass="Part"
              props="Part 5148"
              base="NoTitle"
              audience="AFARS_PART_5148"
              xtrf="Part">
       <topicref href="Subpart_5148.1.dita"
-                navtitle="Subpart 5148.1 – Policies and Procedures"
+                navtitle="Subpart 5148.1 - Policies and Procedures"
                 outputclass="SubPart"
                 props="Subpart 5148.1"
                 base="NoTitle"
@@ -6567,7 +6549,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5148.2.dita"
-                navtitle="Subpart 5148.2 – Contract Clauses"
+                navtitle="Subpart 5148.2 - Contract Clauses"
                 outputclass="SubPart"
                 props="Subpart 5148.2"
                 base="NoTitle"
@@ -6593,14 +6575,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5149.dita"
-             navtitle="AFARS – PART 5149 Termination of Contracts"
+             navtitle="Part 5149 - Termination of Contracts"
              outputclass="Part"
              props="Part 5149"
              base="NoTitle"
              audience="AFARS_PART_5149"
              xtrf="Part">
       <topicref href="Subpart_5149.1.dita"
-                navtitle="Subpart 5149.1 – General Principles"
+                navtitle="Subpart 5149.1 - General Principles"
                 outputclass="SubPart"
                 props="Subpart 5149.1"
                 base="NoTitle"
@@ -6642,7 +6624,7 @@
                    xtrc="AFARS_5149.107.html"/>
       </topicref>
       <topicref href="Subpart_5149.4.dita"
-                navtitle="Subpart 5149.4 – Termination for Default"
+                navtitle="Subpart 5149.4 - Termination for Default"
                 outputclass="SubPart"
                 props="Subpart 5149.4"
                 base="NoTitle"
@@ -6658,7 +6640,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5149.401.html"/>
          <topicref href="5149.402.dita"
-                   navtitle="5149.402 Termination of fixed–price contracts for default."
+                   navtitle="5149.402 Termination of fixed-price contracts for default."
                    props="5149.402"
                    base="NoTitle"
                    audience="AFARS_5149.402"
@@ -6676,7 +6658,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5149.5.dita"
-                navtitle="Subpart 5149.5 – Contract Termination Clauses"
+                navtitle="Subpart 5149.5 - Contract Termination Clauses"
                 outputclass="SubPart"
                 props="Subpart 5149.5"
                 base="NoTitle"
@@ -6702,7 +6684,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5149.70.dita"
-                navtitle="Subpart 5149.70 – Special Termination Requirements"
+                navtitle="Subpart 5149.70 - Special Termination Requirements"
                 outputclass="SubPart"
                 props="Subpart 5149.70"
                 base="NoTitle"
@@ -6729,13 +6711,13 @@
    </topicref>
    <topicref href="PART_5150.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5150 Extraordinary Contractual Actions and the Safety Act"
+             navtitle="Part 5150 - Extraordinary Contractual Actions and the Safety Act"
              props="Part 5150"
              base="NoTitle"
              audience="AFARS_PART_5150"
              xtrf="Part">
       <topicref href="Subpart_5150.1.dita"
-                navtitle="Subpart 5150.1 – Extraordinary Contractual Actions"
+                navtitle="Subpart 5150.1 - Extraordinary Contractual Actions"
                 outputclass="SubPart"
                 props="Subpart 5150.1"
                 base="NoTitle"
@@ -6805,20 +6787,20 @@
    </topicref>
    <topicref href="PART_5151.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5151 Use of Government Sources by Contractors"
+             navtitle="Part 5151 - Use of Government Sources by Contractors"
              props="Part 5151"
              base="NoTitle"
              audience="AFARS_PART_5151"
              xtrf="Part"/>
    <topicref href="PART_5152.dita"
              outputclass="Part"
-             navtitle="AFARS – PART 5152 Solicitation Provisions and Contract Clauses"
+             navtitle="Part 5152 - Solicitation Provisions and Contract Clauses"
              props="Part 5152"
              base="NoTitle"
              audience="AFARS_PART_5152"
              xtrf="Part">
       <topicref href="Subpart_5152.1.dita"
-                navtitle="Subpart 5152.1 – Instructions for Using Provisions and Clauses"
+                navtitle="Subpart 5152.1 - Instructions for Using Provisions and Clauses"
                 outputclass="SubPart"
                 props="Subpart 5152.1"
                 base="NoTitle"
@@ -6835,7 +6817,7 @@
                    xtrc="AFARS_5152.101.html"/>
       </topicref>
       <topicref href="Subpart_5152.2.dita"
-                navtitle="Subpart 5152.2 – Texts of Provisions and Clauses"
+                navtitle="Subpart 5152.2 - Texts of Provisions and Clauses"
                 outputclass="SubPart"
                 props="Subpart 5152.2"
                 base="NoTitle"
@@ -6859,7 +6841,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5152.2119001.html"/>
          <topicref href="5152.2379000.dita"
-                   navtitle="5152.237-9000 Adjustments to Contractor’s Coefficient for Option Years (Job Order Contracts)."
+                   navtitle="5152.237-9000 Adjustments to Contractors Coefficient for Option Years (Job Order Contracts)."
                    props="5152.237-9000"
                    base="NoTitle"
                    audience="AFARS_5152.2379000"
@@ -6877,14 +6859,14 @@
       </topicref>
    </topicref>
    <topicref href="PART_5153.dita"
-             navtitle="AFARS – PART 5153 Forms"
+             navtitle="Part 5153 - Forms"
              outputclass="Part"
              props="Part 5153"
              base="NoTitle"
              audience="AFARS_PART_5153"
              xtrf="Part">
       <topicref href="Subpart_5153.2.dita"
-                navtitle="Subpart 5153.2 – Prescription of Forms"
+                navtitle="Subpart 5153.2 - Prescription of Forms"
                 outputclass="SubPart"
                 props="Subpart 5153.2"
                 base="NoTitle"
@@ -6900,7 +6882,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5153.201.html">
             <topicref href="5153.20190.dita"
-                      navtitle="5153.201-90 Sample contracting officer’s representative designation letter."
+                      navtitle="5153.201-90 Sample contracting officers representative designation letter."
                       props="5153.201-90"
                       base="NoTitle"
                       audience="AFARS_5153.20190"
@@ -7035,7 +7017,7 @@
          </topicref>
       </topicref>
       <topicref href="Subpart_5153.3.dita"
-                navtitle="Subpart 5153.3 – Illustration of Forms"
+                navtitle="Subpart 5153.3 - Illustration of Forms"
                 outputclass="SubPart"
                 props="Subpart 5153.3"
                 base="NoTitle"
@@ -7051,7 +7033,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_5153.303.html">
             <topicref href="5153.3031.dita"
-                      navtitle="5153.303-1 Sample contracting officer’s representative (COR) designation."
+                      navtitle="5153.303-1 Sample contracting officers representative (COR) designation."
                       props="5153.303-1"
                       base="NoTitle"
                       audience="AFARS_5153.3031"
@@ -7134,7 +7116,7 @@
       </topicref>
    </topicref>
    <topicref href="APPENDIX-AA.dita"
-             navtitle="AFARS – APPENDIX AA"
+             navtitle="APPENDIX - AA Table Of Contents"
              props="APPENDIX - AA"
              outputclass="Part"
              base="NoTitle"
@@ -7222,7 +7204,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_APPENDIX-AA_Chapter-2_2-3.html"/>
          <topicref href="APPENDIX-AA_Chapter-2_2-4.dita"
-                   navtitle="2.4 Release the Request for Proposals – No Army Text"
+                   navtitle="2.4 Release the Request for Proposals - No Army Text"
                    props="2.4"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-2_2-4"
@@ -7263,7 +7245,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_APPENDIX-AA_Chapter-3_3-3.html"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-4.dita"
-                   navtitle="3.4 Competitive Range Decision Document – No Army Text"
+                   navtitle="3.4 Competitive Range Decision Document - No Army Text"
                    props="3.4"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-4"
@@ -7279,7 +7261,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_APPENDIX-AA_Chapter-3_3-5.html"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-6.dita"
-                   navtitle="3.6 Final Proposal Revisions – No Army Text"
+                   navtitle="3.6 Final Proposal Revisions - No Army Text"
                    props="3.6"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-6"
@@ -7303,7 +7285,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_APPENDIX-AA_Chapter-3_3-8.html"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-9.dita"
-                   navtitle="3.9 Best–Value Decision – No Army Text"
+                   navtitle="3.9 Best-Value Decision - No Army Text"
                    props="3.9"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-9"
@@ -7311,7 +7293,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_APPENDIX-AA_Chapter-3_3-9.html"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-10.dita"
-                   navtitle="3.10Source Selection Decision Document – No Army Text"
+                   navtitle="3.10 Source Selection Decision Document - No Army Text"
                    props="3.10"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-10"
@@ -7319,7 +7301,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_APPENDIX-AA_Chapter-3_3-10.html"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-11.dita"
-                   navtitle="3.11 Debriefings – See Appendix A"
+                   navtitle="3.11 Debriefings - See Appendix A"
                    props="3.11"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-11"
@@ -7344,7 +7326,7 @@
                 props="CHAPTER 4"
                 xtrc="AFARS_APPENDIX-AA_Chapter-4.html">
          <topicref href="APPENDIX-AA_Chapter-4_4-1.dita"
-                   navtitle="4.1 Minimum Requirements – No Army Text"
+                   navtitle="4.1 Minimum Requirements - No Army Text"
                    props="4.1"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-4_4-1"
@@ -7369,7 +7351,7 @@
                 props="CHAPTER 5"
                 xtrc="AFARS_APPENDIX-AA_Chapter-5.html">
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-A.dita"
-                   navtitle="APPENDIX A"
+                   navtitle="APPENDIX A Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A"
                    outputclass="subtopic"
@@ -7386,7 +7368,7 @@
                       xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A_A-1.html"/>
          </topicref>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-B.dita"
-                   navtitle="APPENDIX B"
+                   navtitle="APPENDIX B Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B"
                    outputclass="subtopic"
@@ -7394,7 +7376,7 @@
                    props="APPENDIX B"
                    xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B.html"/>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-C.dita"
-                   navtitle="APPENDIX C"
+                   navtitle="APPENDIX C Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C"
                    outputclass="subtopic"
@@ -7402,7 +7384,7 @@
                    props="APPENDIX C"
                    xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C.html"/>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-D.dita"
-                   navtitle="APPENDIX D"
+                   navtitle="APPENDIX D Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D"
                    outputclass="subtopic"
@@ -7419,7 +7401,7 @@
                       xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D_OPP.html"/>
          </topicref>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-E.dita"
-                   navtitle="APPENDIX E"
+                   navtitle="APPENDIX E Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E"
                    outputclass="subtopic"
@@ -7436,7 +7418,7 @@
                       xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP.html"/>
          </topicref>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-F.dita"
-                   navtitle="APPENDIX F"
+                   navtitle="APPENDIX F Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F"
                    outputclass="subtopic"
@@ -7453,7 +7435,7 @@
                       xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA.html"/>
          </topicref>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-G.dita"
-                   navtitle="APPENDIX G"
+                   navtitle="APPENDIX G Table Of Contents"
                    base="NoTitle"
                    audience="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G"
                    outputclass="subtopic"
@@ -7472,7 +7454,7 @@
       </topicref>
    </topicref>
    <topicref href="AppendixBB.dita"
-             navtitle="AFARS – APPENDIX BB"
+             navtitle="APPENDIX - BB Table Of Contents"
              outputclass="Part"
              props="APPENDIX - BB"
              base="NoTitle"
@@ -7487,8 +7469,8 @@
                 props="MANAGEMENT CONTROL"
                 xtrc="AFARS_AppendixBB_MCEVC.html">
          <topicref href="AppendixBB_Part_1.dita"
-                   navtitle="Part 1 – General"
-                   props="Part 1"
+                   navtitle="Part 1 - General"
+                   props="Part1-General"
                    base="NoTitle"
                    audience="AFARS_AppendixBB_Part_1"
                    outputclass="subtopic"
@@ -7519,7 +7501,7 @@
                       props="BB–102"
                       xtrc="AFARS_AppendixBB-102.html"/>
             <topicref href="AppendixBB-103.dita"
-                      navtitle="BB–103 Additional Instructions for Contingency Contracting         Functions Outside the Contiguous United States."
+                      navtitle="BB–103 Additional Instructions for Contingency Contracting        Functions Outside the Contiguous United States."
                       base="NoTitle"
                       audience="AFARS_AppendixBB-103"
                       outputclass="subtopic"
@@ -7528,8 +7510,8 @@
                       xtrc="AFARS_AppendixBB-103.html"/>
          </topicref>
          <topicref href="AppendixBB_Part_2.dita"
-                   navtitle="Part 2 – Contracting Test Questions"
-                   props="Part 2"
+                   navtitle="Part 2 - Contracting Test Questions"
+                   props="Part2-ContractingTestQuestions"
                    base="NoTitle"
                    audience="AFARS_AppendixBB_Part_2"
                    outputclass="subtopic"
@@ -7579,7 +7561,7 @@
       </topicref>
    </topicref>
    <topicref href="Appendix-CC.dita"
-             navtitle="AFARS – APPENDIX CC"
+             navtitle="APPENDIX - CC Table Of Contents"
              outputclass="Part"
              props="APPENDIX - CC"
              base="NoTitle"
@@ -7594,8 +7576,8 @@
                 props="Army Procurement"
                 xtrc="AFARS_Appendix-CC_APMRP.html">
          <topicref href="Appendix-CC_Part_1.dita"
-                   navtitle="Part 1 – Introduction"
-                   props="Part 1"
+                   navtitle="Part 1 - Introduction"
+                   props="Part1-Introduction"
                    base="NoTitle"
                    audience="AFARS_Appendix-CC_Part_1"
                    outputclass="subtopic"
@@ -7610,7 +7592,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_Appendix-CC-100.html"/>
             <topicref href="Appendix-CC-101.dita"
-                      navtitle="CC-101 Mission         and Objectives."
+                      navtitle="CC-101 Mission        and Objectives."
                       props="CC-101"
                       base="NoTitle"
                       audience="AFARS_Appendix-CC-101"
@@ -7618,7 +7600,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_Appendix-CC-101.html"/>
             <topicref href="Appendix-CC-102.dita"
-                      navtitle="CC-102         Applicability."
+                      navtitle="CC-102 Applicability."
                       props="CC-102"
                       base="NoTitle"
                       audience="AFARS_Appendix-CC-102"
@@ -7627,8 +7609,8 @@
                       xtrc="AFARS_Appendix-CC-102.html"/>
          </topicref>
          <topicref href="Appendix-CC_Part_2.dita"
-                   navtitle="Part 2 – PMR Policy and         Philosophy"
-                   props="Part 2"
+                   navtitle="Part 2 - PMR Policy and        Philosophy"
+                   props="Part2-PMRPolicyandPhilosophy"
                    base="NoTitle"
                    audience="AFARS_Appendix-CC_Part_2"
                    outputclass="subtopic"
@@ -7652,15 +7634,15 @@
                       xtrc="AFARS_Appendix-CC-201.html"/>
          </topicref>
          <topicref href="Appendix-CC_Part_3.dita"
-                   navtitle="Part 3 – Responsibilities"
-                   props="Part 3"
+                   navtitle="Part 3 - Responsibilities"
+                   props="Part3-Responsibilities"
                    base="NoTitle"
                    audience="AFARS_Appendix-CC_Part_3"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_Appendix-CC_Part_3.html">
             <topicref href="Appendix-CC-301.dita"
-                      navtitle="CC-301 Assistant Secretary of the Army (Acquisition, Logistics         and Technology) (ASA(ALT))."
+                      navtitle="CC-301 Assistant Secretary of the Army (Acquisition, Logistics        and Technology) (ASA(ALT))."
                       props="CC-301"
                       base="NoTitle"
                       audience="AFARS_Appendix-CC-301"
@@ -7668,7 +7650,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_Appendix-CC-301.html"/>
             <topicref href="Appendix-CC-302.dita"
-                      navtitle="CC-302 Deputy Assistant Secretary of the Army for Procurement         (DASA(P))."
+                      navtitle="CC-302 Deputy Assistant Secretary of the Army for Procurement        (DASA(P))."
                       props="CC-302"
                       base="NoTitle"
                       audience="AFARS_Appendix-CC-302"
@@ -7676,7 +7658,7 @@
                       xtrf="subtopic"
                       xtrc="AFARS_Appendix-CC-302.html"/>
             <topicref href="Appendix-CC-303.dita"
-                      navtitle="CC-303 Directorate of Review and Oversight, Office of the         DASA(P)."
+                      navtitle="CC-303 Directorate of Review and Oversight, Office of the        DASA(P)."
                       props="CC-303"
                       base="NoTitle"
                       audience="AFARS_Appendix-CC-303"
@@ -7693,7 +7675,7 @@
                       xtrc="AFARS_Appendix-CC-304.html"/>
          </topicref>
          <topicref href="Appendix-CC_Part_4.dita"
-                   navtitle="Part 4 – Procedures"
+                   navtitle="Part 4 - Procedures"
                    props="Part 4"
                    base="NoTitle"
                    audience="AFARS_Appendix-CC_Part_4"
@@ -7752,7 +7734,7 @@
       </topicref>
    </topicref>
    <topicref href="Appendix-DD.dita"
-             navtitle="AFARS – APPENDIX DD"
+             navtitle="APPENDIX - DD Table Of Contents"
              outputclass="Part"
              props="APPENDIX - DD"
              base="NoTitle"
@@ -7767,8 +7749,8 @@
                 props="SUBCONTRACTING PLAN"
                 xtrc="AFARS_Appendix-DD_SPEG.html">
          <topicref href="Appendix-DD_Part_1.dita"
-                   navtitle="Part 1 – Introduction"
-                   props="Part 1"
+                   navtitle="Part 1 - Introduction"
+                   props="Part1-Introduction"
                    base="NoTitle"
                    audience="AFARS_Appendix-DD_Part_1"
                    outputclass="subtopic"
@@ -7824,8 +7806,8 @@
                       xtrc="AFARS_Appendix-DD-105.html"/>
          </topicref>
          <topicref href="Appendix-DD_Part_2.dita"
-                   navtitle="Part 2 – Rating System"
-                   props="Part 2"
+                   navtitle="Part 2 - Rating System"
+                   props="Part2-RatingSystem"
                    base="NoTitle"
                    audience="AFARS_Appendix-DD_Part_2"
                    outputclass="subtopic"
@@ -7849,8 +7831,8 @@
                       xtrc="AFARS_Appendix-DD-202.html"/>
          </topicref>
          <topicref href="Appendix-DD_Part_3.dita"
-                   navtitle="Part 3 – Subcontracting Plan Requirements"
-                   props="Part 3"
+                   navtitle="Part 3 - Subcontracting Plan Requirements"
+                   props="Part3-SubcontractingPlanRequirements"
                    base="NoTitle"
                    audience="AFARS_Appendix-DD_Part_3"
                    outputclass="subtopic"
@@ -7868,19 +7850,19 @@
       </topicref>
    </topicref>
    <topicref href="Appendix-EE.dita"
-             navtitle="AFARS – APPENDIX EE"
+             navtitle="APPENDIX - EE Table Of Contents"
              outputclass="Part"
              props="APPENDIX - EE"
              base="NoTitle"
              audience="AFARS_Appendix-EE"
              xtrf="Part">
       <topicref href="Appendix-EE_DOTAGPCOP.dita"
-                navtitle="DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD       OPERATING PROCEDURES"
+                navtitle="DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD      OPERATING PROCEDURES"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE_DOTAGPCOP"
                 outputclass="subtopic"
                 xtrf="subtopic"
-                props="DEPARTMENT OF"
+                props="DEPARTMENTOFTHEARMYGOVERNMENTPURCHASECARDOPERATINGPROCEDURES"
                 xtrc="AFARS_Appendix-EE_DOTAGPCOP.html"/>
       <topicref href="Appendix-EE_Chapter-1.dita"
                 navtitle="Chapter 1: The Government Purchase Card Program"
@@ -8085,7 +8067,7 @@
                    xtrf="subtopic"
                    xtrc="AFARS_Appendix-EE_3-7.html"/>
          <topicref href="Appendix-EE_3-8.dita"
-                   navtitle="3-8. Tax–Exempt Status"
+                   navtitle="3-8. Tax-Exempt Status"
                    props="3-8."
                    base="NoTitle"
                    audience="AFARS_Appendix-EE_3-8"
@@ -8207,7 +8189,7 @@
                    xtrc="AFARS_Appendix-EE_4-5.html"/>
       </topicref>
       <topicref href="Appendix-EE-Appendix-A.dita"
-                navtitle="Appendix A: Best Practices"
+                navtitle="Appendix A: Best Practices Table Of Contents"
                 props="Appendix A: Best Practices"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-A"
@@ -8215,7 +8197,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-A.html"/>
       <topicref href="Appendix-EE-Appendix-B.dita"
-                navtitle="Appendix B: References"
+                navtitle="Appendix B: References Table Of Contents"
                 props="Appendix B: References"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-B"
@@ -8223,7 +8205,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-B.html"/>
       <topicref href="Appendix-EE-Appendix-C.dita"
-                navtitle="Appendix C: Prohibited Purchases"
+                navtitle="Appendix C: Prohibited Purchases Table Of Contents"
                 props="Appendix C: Prohibited Purchases"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-C"
@@ -8231,7 +8213,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-C.html"/>
       <topicref href="Appendix-EE-Appendix-D.dita"
-                navtitle="Appendix D: Department of Defense         (DoD) Purchase Card Checklist and Certification Template"
+                navtitle="Appendix D: Department of Defense  (DoD) Purchase Card Checklist and Certification Template Table Of Contents"
                 props="Appendix D: Department of Defense  (DoD) Purchase Card Checklist and Certification Template"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-D"
@@ -8239,7 +8221,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-D.html"/>
       <topicref href="Appendix-EE-Appendix-E.dita"
-                navtitle="Appendix E: DD Form 577 for Appointing a Certifying Officer"
+                navtitle="Appendix E: DD Form 577 for Appointing a Certifying Officer Table Of Contents"
                 props="Appendix E: DD Form 577 for Appointing a Certifying Officer"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-E"
@@ -8247,7 +8229,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-E.html"/>
       <topicref href="Appendix-EE-Appendix-F.dita"
-                navtitle="Appendix F: Sample GPC Appointment Letters"
+                navtitle="Appendix F: Sample GPC Appointment Letters Table Of Contents"
                 props="Appendix F: Sample GPC Appointment Letters"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-F"
@@ -8255,7 +8237,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-F.html"/>
       <topicref href="Appendix-EE-Appendix-G.dita"
-                navtitle="Appendix G: Formal Reporting Requirements"
+                navtitle="Appendix G: Formal Reporting Requirements Table Of Contents"
                 props="Appendix G: Formal Reporting Requirements"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-G"
@@ -8263,7 +8245,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-G.html"/>
       <topicref href="Appendix-EE-Appendix-H.dita"
-                navtitle="Appendix H: Semi–Annual Surveillance Report Template"
+                navtitle="Appendix H: Semi-Annual Surveillance Report Template Table Of Contents"
                 props="Appendix H: Semi-Annual Surveillance Report Template"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-H"
@@ -8271,7 +8253,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-H.html"/>
       <topicref href="Appendix-EE-Appendix-I.dita"
-                navtitle="Appendix I: GPC Thresholds"
+                navtitle="Appendix I: GPC Thresholds Table Of Contents"
                 props="Appendix I: GPC Thresholds"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-I"
@@ -8279,7 +8261,7 @@
                 xtrf="subtopic"
                 xtrc="AFARS_Appendix-EE-Appendix-I.html"/>
       <topicref href="Appendix-EE-Appendix-J.dita"
-                navtitle="Appendix J: Glossary – Sections I and II"
+                navtitle="Appendix J: Glossary - Sections I and II Table Of Contents"
                 props="Appendix J: Glossary - Sections I and II"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-J"
@@ -8288,30 +8270,37 @@
                 xtrc="AFARS_Appendix-EE-Appendix-J.html"/>
    </topicref>
    <topicref href="Appendix-FF.dita"
-             navtitle="AFARS – APPENDIX FF"
+             navtitle="APPENDIX - FF Table Of Contents"
              outputclass="Part"
              props="APPENDIX - FF"
              base="NoTitle"
              audience="AFARS_Appendix-FF"
              xtrf="Part">
       <topicref href="Appendix-FF_DOTRPFCONC.dita"
-                navtitle="DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD       CLAUSES"
+                navtitle="DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD      CLAUSES"
                 base="NoTitle"
                 audience="AFARS_Appendix-FF_DOTRPFCONC"
                 outputclass="subtopic"
                 xtrf="subtopic"
-                props="DEPARTMENT OF"
+                props="DEPARTMENTOFTHEARMYPLANFORCONTROLOFNONSTANDARDCLAUSES"
                 xtrc="AFARS_Appendix-FF_DOTRPFCONC.html"/>
    </topicref>
    <topicref href="Appendix-GG.dita"
-             navtitle="AFARS – APPENDIX GG"
+             navtitle="APPENDIX - GG Table Of Contents"
              props="APPENDIX - GG"
              outputclass="Part"
              base="NoTitle"
              audience="AFARS_Appendix-GG"
-             xtrf="Part"/>
+             xtrf="Part">
+      <topicref href="Appendix-GG_Apendix-GG.dita"
+                props="Apendix GG"
+                outputclass="subtopic"
+                navtitle="Apendix GG"
+                audience="AFARS_Appendix-GG_Apendix-GG"
+                xtrc="AFARS_Appendix-GG_Apendix-GG.html"/>
+   </topicref>
    <topicref href="Appendix-HH.dita"
-             navtitle="AFARS – APPENDIX HH"
+             navtitle="APPENDIX - HH Table Of Contents"
              props="APPENDIX - HH"
              outputclass="Part"
              base="NoTitle"

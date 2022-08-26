@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5101.6032" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.6032"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5101.603-2</ph> Selection.</title>
    <conbody>
-      <p>The HCA will establish criteria and procedures to ensure that prospective contracting officers with authority to award or administer contracts for amounts above the simplified acquisition threshold, have the knowledge and experience to effectively and efficiently support their customers and successfully fulfill their fiduciary responsibilities as required by DFARS 201.603-2 and 10 U.S.C. 1724.  The HCA shall follow the policy set forth in the Contracting Officer Warranting Program Version 6.&#xa0; The policy is available in the Warranting tile on https://procurement.army.mil (PAM) at <xref href="https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/Army%20Warranting%20Program%20v6%20%20Sep%202020.pdf" scope="external" format="pdf">
+      <p>The HCA will establish criteria and procedures to ensure that prospective contracting officers with authority to award or administer contracts for amounts above the simplified acquisition threshold, have the knowledge and experience to effectively and efficiently support their customers and successfully fulfill their fiduciary responsibilities as required by DFARS 201.603-2 and 10 U.S.C. 1724.  The HCA shall follow the policy set forth in the Contracting Officer Warranting Program Version 6.  The policy is available in the Warranting tile on https://procurement.army.mil (PAM) at <xref href="https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/Army%20Warranting%20Program%20v6%20%20Sep%202020.pdf"
+               scope="external"
+               format="pdf">
             <u>https://spcs3.kc.army.mil/asaalt/zp/doccenter/Documents/Army%20Warranting%20Program%20v6%20%20Sep%202020.pdf</u>
          </xref>.  </p>
    </conbody>

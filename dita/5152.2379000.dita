@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5152.2379000" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5152.2379000"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5152.237-9000</ph> Adjustments to Contractors Coefficient for Option Years (Job Order Contracts).</title>
    <conbody>
@@ -20,13 +23,13 @@
       <p id="YsStIX" outputclass="List4">I = Change Factor (% increase or decrease from base to option year)</p>
       <p id="LPzSvb" outputclass="List2">The Index Factor, I, shall be computed according to the following equation:</p>
       <p id="XNBkOg" outputclass="List6">I = (BCIN/BCIC) - 1</p>
-      <p id="8zmcogs" outputclass="List6"></p>
+      <p id="8zmcogs" outputclass="List6"/>
       <p id="UXsMFq" outputclass="Normal">Where:</p>
-      <p id="mo7dond" outputclass="Normal"></p>
+      <p id="mo7dond" outputclass="Normal"/>
       <p id="izBqAU" outputclass="Normal">BCIN is the Building Cost Index, published in the most current issue of ENR at the time of award of the option period.</p>
       <p id="gMHVJV" outputclass="Normal">BCIC is the Building Cost Index, as published in the ENR on the date of the award of the contract. The BCIC is ______, based on the award date of __________.</p>
       <p id="GEHAWc" outputclass="Normal">If the BCI or the ENR ceases to be published, the parties shall agree on substitute indices.</p>
-      <p id="hCORKA" outputclass="Normal"></p>
+      <p id="hCORKA" outputclass="Normal"/>
       <p id="g769cyma" outputclass="Normal">EXAMPLE: For the base year of a contract the coefficient is 1.10. The cost to the government for a line item whose cost is $100.00 is 1.10 x $100.00 = $110.00.</p>
       <p id="MDznhZ" outputclass="Normal">OPTION YEAR 1. For the first option year the coefficient will be adjusted as follows:</p>
       <p id="wJRUjb" outputclass="List4">I = (BCIN/BCIC) -1</p>

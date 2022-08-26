@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.204" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5133.204"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5133.204</ph> Policy.</title>
    <conbody>
@@ -18,25 +21,29 @@
       <p id="aVnBGk" outputclass="List2">(7) The issue is amenable to a disposition that will fully resolve the matter quickly and with a high probability of finality, including procedures under Rules 11 and 12 of the Rules of the Armed Services Board of Contract Appeals (ASBCA).</p>
       <p id="INSMCG" outputclass="List2">(8) The anticipated transaction costs of ADR in money and time materially exceed the anticipated transaction costs of litigation.</p>
       <p id="UTagKg" outputclass="List2">(9) The dispute involves one or more credible allegations or indications of fraud, gross mismanagement, abuse of official authority, or violation of federal or state criminal laws.</p>
-      <p id="XtaMYI" outputclass="List2">(10) Any other specific reason why the contracting officer determines ADR is inappropriate. Sole reliance on this provision to find ADR inappropriate must be approved by the cognizant senior contracting official (SCO), or higher authority. Forward a copy of any decision based on this provision, with supporting rationale, to the Army Dispute Resolution Specialist at <xref format="mailto" href="mailto:usarmy.pentagon.hqda-ogc.mbx.adr@mail.mil" scope="external">
+      <p id="XtaMYI" outputclass="List2">(10) Any other specific reason why the contracting officer determines ADR is inappropriate. Sole reliance on this provision to find ADR inappropriate must be approved by the cognizant senior contracting official (SCO), or higher authority. Forward a copy of any decision based on this provision, with supporting rationale, to the Army Dispute Resolution Specialist at <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-ogc.mbx.adr@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-ogc.mbx.adr@mail.mil</u>
          </xref>. Include the name, telephone number and email address of the point of contact for the decision.</p>
       <p id="JiVQgZ" outputclass="List1">(d) The contracting officer, legal advisor, attorney of record, or other official responsible for procurement ADR matters within the cognizant interested organization(s) may contact the Army ADR Program Office in the Office of the Army General Counsel (SAGC-ADR) for advice and guidance on ADR processes, strategies, and other informal dispute resolution matters. Send correspondence to:</p>
-      <p id="sfHyDT" outputclass="Normal"></p>
+      <p id="sfHyDT" outputclass="Normal"/>
       <p id="8qqzvi4d" outputclass="Normal">Department of the Army General Counsel</p>
       <p id="XVhPRp" outputclass="Normal">ADR Program Office (SAGC-ADR)</p>
       <p id="kGXmUr" outputclass="Normal">104 Army Pentagon</p>
       <p id="mfCWiy" outputclass="Normal">Washington DC 20310-0104;</p>
-      <p id="LMgtib" outputclass="Normal"></p>
-      <p id="dlcepjxd" outputclass="Normal">by fax to 703-614-8073; or by email to: <xref format="mailto" href="mailto:usarmy.pentagon.hqda-ogc.mbx.adr@mail.mil" scope="external">
+      <p id="LMgtib" outputclass="Normal"/>
+      <p id="dlcepjxd" outputclass="Normal">by fax to 703-614-8073; or by email to: <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-ogc.mbx.adr@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-ogc.mbx.adr@mail.mil</u>
          </xref>. Ensure appropriate coordination through command channels before contacting SAGC-ADR directly for assistance under this section. USACE contracting activities may also contact</p>
-      <p id="wHuqMV" outputclass="Normal"></p>
+      <p id="wHuqMV" outputclass="Normal"/>
       <p id="k7lwshxo" outputclass="Normal">U.S. Army Corps of Engineers</p>
       <p id="pzVVzj" outputclass="Normal">Attn: CECC-C Alternative Dispute Resolution Specialist</p>
       <p id="boEeyO" outputclass="Normal">441 G St., N.W.</p>
       <p id="kFpxyZ" outputclass="Normal">Washington, DC 20314-1000,</p>
-      <p id="anWSeH" outputclass="Normal"></p>
+      <p id="anWSeH" outputclass="Normal"/>
       <p id="hohsgxvx" outputclass="Normal">for dispute resolution guidance.</p>
       <p id="pMdQCX" outputclass="List1">(e) Appeals filed with the ASBCA are eligible for ADR consideration, consistent with the Chief Trial Attorney’s authority over litigation of all ASBCA matters. Apply the reasons in paragraph (c) of this section when considering whether to participate in ADR. All decisions whether to participate in ADR for any issue in controversy are within the Chief Trial Attorney’s discretion, and are not subject to appeal.</p>
    </conbody>

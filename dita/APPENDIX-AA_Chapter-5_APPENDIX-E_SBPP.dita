@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 3 heading">
       <ph props="autonumber">Small Business</ph> Participation Proposal</title>
    <conbody>
@@ -43,9 +46,9 @@
          <b>Example:</b> Victory Prop Mgt (WOSB and SDVOSB) performing 2%; and Williams Group (SDB, HubZ and WOSB) performing 3%. Results equate to: SB 5%; SDB 3%; HubZone 3%; WOSB 5%; SDVOSB 2%; VOSB 2%;). SDVOSBs are also VOSBs automatically; however VOSBs are not automatically SDVOSBs.</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="3">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row>
                   <entry>
@@ -105,21 +108,21 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="QWqKYW" outputclass="Normal"></p>
+      <p id="QWqKYW" outputclass="Normal"/>
       <p id="ECevZp">
          <b>(d)</b> Identify the Prime Offeror and type of service/supply that the Prime Offeror will provide. Then list each of the intended subcontractors and principal supplies/services to be provided by that subcontractor. Provide the Commercial and Government Entity (CAGE) code for the Prime and each intended subcontractor. Also, provide the anticipated NAICS codes(s) that the Prime Offeror believes best describes the product or services being acquired by its subcontracts with each intended subcontractor. Small business Primes and small business subcontractors that qualify as small businesses in multiple small business categories should be listed in each applicable small business category.</p>
       <p id="YshkpW" outputclass="Ctr normal">
          <b>Example:</b> If a Small Business qualifies as a WOSB and a SDVOSB, you can add them to each category below in which they qualify.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
             <tbody>
                <row>
                   <entry>
-                     <p id="dUltpM"></p>
+                     <p id="dUltpM"/>
                   </entry>
                   <entry>
                      <p id="LqLkdp">Name of Company</p>
@@ -263,11 +266,11 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="DnRjHt"></p>
+      <p id="DnRjHt"/>
       <p id="vnuyIm">Notes:</p>
       <p id="sPxARp">(1) Pursuant to Sections 8(d) of the Small Business Act, a business is considered small for Government procurements if it does not exceed the size standard for the NAICS code that the prime contractor believes best describes the product or services being acquired. In other words, the size of the prime’s suppliers is determined by the applicable NAICS code of their joint venture, teaming partner, or subcontract, which may or may not be the same NAICS code as the one for your prime contract with the Government.</p>
       <p id="lVUQiM">
          <b>(e)</b> Describe the extent of commitment to use small businesses (e.g., what types of commitments, if any, are in place for this specific acquisition either – small business prime, written contract, verbal, enforceable, non-enforceable, joint venturing, mentor-protégé, etc.) Provide documentation regarding commitments to small business for this effort. Copies of such agreements should be provided as part of your small business participation plan and will not count against the page limitation for this volume.</p>
-      <p id="p__APPENDIX_J" outputclass="Normal"></p>
+      <p id="p__APPENDIX_J" outputclass="Normal"/>
    </conbody>
 </concept>

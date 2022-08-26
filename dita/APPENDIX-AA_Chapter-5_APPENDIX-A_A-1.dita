@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A_A-1" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A_A-1"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">A-1</ph> Debriefing Guide</title>
    <conbody>
@@ -26,13 +29,13 @@
       <p id="THSJZo">Figure A-1 below provides a comprehensive side-by-side comparison of the requirements for preaward and postaward debriefings.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
-                     <p id="OkceTz"></p>
+                     <p id="OkceTz"/>
                   </entry>
                   <entry>
                      <p id="LPAmoq">
@@ -103,7 +106,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="xfgnjn"></p>
+                     <p id="xfgnjn"/>
                      <ul>
                         <li id="BAHsXD">
                            <p id="x06j5pu">Number of offerors</p>
@@ -125,10 +128,10 @@
                         </li>
                      </ul>
                      <p id="bZxWph">Information prohibited from disclosure by FAR 24.202 or information exempt from release under the FOIA (5)</p>
-                     <p id="oJdape"></p>
+                     <p id="oJdape"/>
                   </entry>
                   <entry>
-                     <p id="FbFzhG"></p>
+                     <p id="FbFzhG"/>
                      <ul>
                         <li id="OLoACX">
                            <p id="eaqgnqth">Point-by-point comparisons of a debriefed offeror’s proposal with other proposals. (The ratings of a debriefed offeror and the awardee may be disclosed to the subfactor level without violating this principle.)</p>
@@ -137,12 +140,12 @@
                            <p id="lbf11tvj">Information prohibited from disclosure by FAR 24.202, or information exempt from release under the FOIA. (5)</p>
                         </li>
                      </ul>
-                     <p id="FAZqyU"></p>
+                     <p id="FAZqyU"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="icncFn"></p>
+                     <p id="icncFn"/>
                   </entry>
                   <entry nameend="3" namest="2">
                      <p id="HtTPIA">
@@ -163,7 +166,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="agEvlN"></p>
+                     <p id="agEvlN"/>
                      <ul>
                         <li id="lnzshd">
                            <p id="2arqwngn">The agency’s evaluation of significant elements in the offeror’s proposal (6);</p>
@@ -175,10 +178,10 @@
                            <p id="83xyjqxf">Reasonable responses to relevant questions about whether source selection procedures contained in the RFP, applicable regulations, and other applicable authorities were followed in the process of eliminating the Offeror from the competition.</p>
                         </li>
                      </ul>
-                     <p id="dxfaEd"></p>
+                     <p id="dxfaEd"/>
                   </entry>
                   <entry>
-                     <p id="dBqkOL"></p>
+                     <p id="dBqkOL"/>
                      <ul>
                         <li id="ksDiwI">
                            <p id="efapoom">The Government’s evaluation of the significant weaknesses, weaknesses, or deficiencies in the offeror’s proposal, if applicable;</p>
@@ -202,7 +205,7 @@
                            <p id="fdz00b5">Other information, as appropriate.</p>
                         </li>
                      </ul>
-                     <p id="HQzxZM"></p>
+                     <p id="HQzxZM"/>
                   </entry>
                </row>
             </tbody>

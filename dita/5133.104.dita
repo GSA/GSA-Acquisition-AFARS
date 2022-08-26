@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.104" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5133.104"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5133.104</ph> Protests to GAO.</title>
    <conbody outputclass="List6">
@@ -59,7 +62,9 @@
          any congressional interest in the protest. After legal review, the HQAMC, Office of Command
          Counsel, will forward the request, with the D&amp;F, in accordance with agency procedures
          to the HCA. (See Override of Competition in Contracting Act (CICA) Stays: A Guidebook,
-         which is available via the Internet at <xref href="https://www.jagcnet.army.mil/Sites%5C%5Ccontractandfiscallaw.nsf/0/9DE4D2C744ABFC3F85257B42004536AC/$File/CICA%20Override%20Guidebook%20_June%2008_.pdf" format="html" scope="external">https://www.jagcnet.army.mil/Sites%5C%5Ccontractandfiscallaw.nsf/0/9DE4D2C744ABFC3F85257B42004536AC/$File/CICA%20Override%20Guidebook%20_June%2008_.pdf</xref>
+         which is available via the Internet at <xref href="https://www.jagcnet.army.mil/Sites%5C%5Ccontractandfiscallaw.nsf/0/9DE4D2C744ABFC3F85257B42004536AC/$File/CICA%20Override%20Guidebook%20_June%2008_.pdf"
+               format="html"
+               scope="external">https://www.jagcnet.army.mil/Sites%5C%5Ccontractandfiscallaw.nsf/0/9DE4D2C744ABFC3F85257B42004536AC/$File/CICA%20Override%20Guidebook%20_June%2008_.pdf</xref>
       </p>
       <p outputclass="List4">(C) Within three days after the contracting office receives
          notification of the protest, the HCA may endorse the request for approval and

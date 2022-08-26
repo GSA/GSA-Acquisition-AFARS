@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5108.9402" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5108.9402"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5108.9402</ph> Policy.</title>
    <conbody>
@@ -8,7 +11,9 @@
       <p id="yTDjSx" outputclass="List1">(b)(1) If the contracting officer contemplates using a non-INSCOM-administered contract to procure foreign language support, the contracting officer shall send an exception request to the following address no later than 90 days prior to the proposed contract award:</p>
       <p id="rWJFdF">USARMY Pentagon HQDA DCS G-2 List Foreign Language Office</p>
       <p id="FRZEEs">
-         <xref format="mailto" href="mailto:usarmy.pentagon.hqda-dcs-g-2.list.foreign-language-office@mail.mil" scope="external">
+         <xref format="mailto"
+               href="mailto:usarmy.pentagon.hqda-dcs-g-2.list.foreign-language-office@mail.mil"
+               scope="external">
             <u>usarmy.pentagon.hqda-dcs-g-2.list.foreign-language-office@mail.mil</u>
          </xref>.</p>
       <p id="jWSMly" outputclass="List2">(2) At a minimum, the request for exception shall include –</p>

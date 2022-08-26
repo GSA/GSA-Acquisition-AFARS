@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
       <ph props="autonumber">APPENDIX C</ph> Table Of Contents</title>
    <conbody>
@@ -18,7 +21,7 @@
          </b>
       </p>
       <p id="lUWWQI" outputclass="Normal">The purpose of this Appendix is to assist acquisition professionals in making sound decisions for determining whether to use a Tradeoff or LPTA source selection process to obtain best value. LPTA is an available source selection approach. However, a lack of understanding of when it is an appropriate choice may result in misapplication of this process. This Appendix includes “side-by-side” comparisons of LPTA vs. Tradeoff characteristics, methodologies, common concerns associated with each, tips and best practices.</p>
-      <p id="p_references" outputclass="Normal"></p>
+      <p id="p_references" outputclass="Normal"/>
       <p id="OwFoon" outputclass="Normal">
          <b>
             <i>C-2 References</i>
@@ -81,8 +84,8 @@
       <p id="kuOpnJ" outputclass="Normal">No matter whether using Tradeoff or LPTA, the focus should always be on identifying the key discriminators based upon market research and the assessment of risk. Risk, as it pertains to source selection, is the potential for unsuccessful contract performance. Increased risk comes with numerous possible complicating factors including:</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -157,7 +160,7 @@
       <p id="sXtpSi" outputclass="Normal">Identifying key discriminators that are linked to the critical requirements where key risks lie is one of the most important steps in the process of determining the right process to achieve best value.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="1" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -178,7 +181,7 @@
                      </p>
                      <p id="iAXhFT">
                         <b>
-                           <u></u>
+                           <u/>
                         </b>
                      </p>
                      <p id="zDVhjR" outputclass=" Ctr">
@@ -209,8 +212,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -253,7 +256,7 @@
                      <p id="okWZih">Evaluate and compare factors in addition to cost or price.</p>
                   </entry>
                   <entry>
-                     <p id="HqYeSc"></p>
+                     <p id="HqYeSc"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -275,13 +278,13 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="terSDer"></p>
+      <p id="terSDer"/>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -343,8 +346,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -440,8 +443,8 @@
       </table>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -514,8 +517,8 @@
       </table>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -610,8 +613,8 @@
       </table>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -684,7 +687,7 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="EQnEtz" outputclass="Normal"></p>
+      <p id="EQnEtz" outputclass="Normal"/>
       <p id="RpDSbB" outputclass="Normal">
          <b>
             <i>C-7 Rating Methodologies</i>
@@ -694,8 +697,8 @@
          <b>Rating Methodologies.</b> Tradeoff and LPTA each have a unique rating methodology as summarized below.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -840,8 +843,8 @@
       <p id="FzxWMO" outputclass="Normal">It is important to understand and consider the benefits and possible down-sides of each approach in order to ensure you select the one that will help you achieve best value for the customer/program. Below are some of the common concerns.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -927,7 +930,7 @@
       <p id="StXXqC" outputclass="Normal">Below are some general tips and agreed-upon best practices to guide application of LPTA techniques.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="1" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
@@ -1000,7 +1003,7 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="QnXHHM" outputclass="Normal"></p>
+      <p id="QnXHHM" outputclass="Normal"/>
       <p id="iQSsbo" outputclass="Normal">
          <b>
             <i>C-10</i>
@@ -1011,9 +1014,9 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <thead>
                <row rowsep="1">
                   <entry nameend="3" namest="1">
@@ -1117,16 +1120,16 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="HAkLKf" outputclass="Normal"></p>
+      <p id="HAkLKf" outputclass="Normal"/>
       <p id="jdXooB" outputclass="Normal">
          <b>
             <i>C-11 Flow Chart For Selection of Best Value Methodology</i>
          </b>
       </p>
       <p id="imfDsd">
-         <image href="Graphics/image7.png" scale="70" placement="inline" />
+         <image href="Graphics/image7.png" scale="70" placement="inline"/>
       </p>
-      <p id="PaJxSA" outputclass="Normal"></p>
+      <p id="PaJxSA" outputclass="Normal"/>
       <p id="nsBjZz" outputclass="Normal">
          <b>
             <i>C-12 LPTA – Sample Evaluator Write-Up</i>
@@ -1140,11 +1143,11 @@
       <p id="pGjZMK" outputclass="Normal">Use a checklist or evaluation form such as the one below:</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="5" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry morerows="1">
@@ -1173,10 +1176,10 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="tJhZtg"></p>
+                     <p id="tJhZtg"/>
                   </entry>
                   <entry>
-                     <p id="tJhdZtg"></p>
+                     <p id="tJhdZtg"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1234,15 +1237,15 @@
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="aKxIBF"></p>
+                     <p id="aKxIBF"/>
                   </entry>
                   <entry nameend="5" namest="2">
-                     <p id="RIkcAj"></p>
+                     <p id="RIkcAj"/>
                   </entry>
                </row>
                <row rowsep="1">
                   <entry>
-                     <p id="UwHYgL"></p>
+                     <p id="UwHYgL"/>
                   </entry>
                   <entry>
                      <p id="MTZLaX">
@@ -1255,7 +1258,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="dNwWDs"></p>
+                     <p id="dNwWDs"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1265,13 +1268,13 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="yiTjnm"></p>
+                     <p id="yiTjnm"/>
                   </entry>
                   <entry nameend="4" namest="3">
-                     <p id="LxpMyD"></p>
+                     <p id="LxpMyD"/>
                   </entry>
                   <entry>
-                     <p id="KkZrxk"></p>
+                     <p id="KkZrxk"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1281,10 +1284,10 @@
                      </p>
                   </entry>
                   <entry nameend="5" namest="2">
-                     <p id="qHWRyR"></p>
-                     <p id="QOSsCA"></p>
-                     <p id="Qshdjj"></p>
-                     <p id="slqfyX"></p>
+                     <p id="qHWRyR"/>
+                     <p id="QOSsCA"/>
+                     <p id="Qshdjj"/>
+                     <p id="slqfyX"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1302,10 +1305,10 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="Wkqjbi" outputclass="Normal"></p>
+      <p id="Wkqjbi" outputclass="Normal"/>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
             <tbody>
                <row>
                   <entry>
@@ -1315,7 +1318,7 @@
                      <p id="VCglAY">
                         <b>To receive an acceptable rating, the offeror must demonstrate all of the below items:</b>
                      </p>
-                     <p id="m3ysp10w"></p>
+                     <p id="m3ysp10w"/>
                      <p id="zzggw0x">a. The system must be transportable by a two person carry.</p>
                      <p id="lvs6j64">b. The system must be setup, broken down and operated by one person.</p>
                      <p id="7xl4n1sh">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
@@ -1326,11 +1329,11 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="ezieeth" outputclass="Normal"></p>
+      <p id="ezieeth" outputclass="Normal"/>
       <p id="3ty5rz01" outputclass="Normal">Evaluation narrative write-up below provides an example of both ‘Acceptable” and “Unacceptable” proposal responses:</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
             <tbody>
                <row>
                   <entry>
@@ -1343,15 +1346,15 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="7xvl3qo7" outputclass="Normal"></p>
+      <p id="7xvl3qo7" outputclass="Normal"/>
       <table colsep="1" rowsep="1">
          <tgroup cols="6" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
-            <colspec colname="5" colnum="5" rowheader="headers" />
-            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
+            <colspec colname="5" colnum="5" rowheader="headers"/>
+            <colspec colname="6" colnum="6" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry nameend="6" namest="1">
@@ -1419,19 +1422,19 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="EmNPVa"></p>
+                     <p id="EmNPVa"/>
                   </entry>
                   <entry>
-                     <p id="zSNFlV"></p>
+                     <p id="zSNFlV"/>
                   </entry>
                   <entry>
-                     <p id="OUaVPO"></p>
+                     <p id="OUaVPO"/>
                   </entry>
                   <entry>
-                     <p id="bnMoPU"></p>
+                     <p id="bnMoPU"/>
                   </entry>
                   <entry>
-                     <p id="yaGvHF"></p>
+                     <p id="yaGvHF"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1439,19 +1442,19 @@
                      <p id="zkkmTN">1.1. Key Personnel Professional Qualifications</p>
                   </entry>
                   <entry>
-                     <p id="xOeNDU"></p>
+                     <p id="xOeNDU"/>
                   </entry>
                   <entry>
-                     <p id="kRKqsA"></p>
+                     <p id="kRKqsA"/>
                   </entry>
                   <entry>
-                     <p id="DThhXx"></p>
+                     <p id="DThhXx"/>
                   </entry>
                   <entry>
-                     <p id="TlWAdB"></p>
+                     <p id="TlWAdB"/>
                   </entry>
                   <entry>
-                     <p id="YoPXQy"></p>
+                     <p id="YoPXQy"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1459,19 +1462,19 @@
                      <p id="TjUpvF">1.2 Technical Certifications</p>
                   </entry>
                   <entry>
-                     <p id="JMCXdX"></p>
+                     <p id="JMCXdX"/>
                   </entry>
                   <entry>
-                     <p id="vTAiuR"></p>
+                     <p id="vTAiuR"/>
                   </entry>
                   <entry>
-                     <p id="JjGlNV"></p>
+                     <p id="JjGlNV"/>
                   </entry>
                   <entry>
-                     <p id="oQEslG"></p>
+                     <p id="oQEslG"/>
                   </entry>
                   <entry>
-                     <p id="mbCiDb"></p>
+                     <p id="mbCiDb"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1479,19 +1482,19 @@
                      <p id="tcBQOw">1.3 Onsite Courseware Acceptance</p>
                   </entry>
                   <entry>
-                     <p id="FJsjUN"></p>
+                     <p id="FJsjUN"/>
                   </entry>
                   <entry>
-                     <p id="hyLKgr"></p>
+                     <p id="hyLKgr"/>
                   </entry>
                   <entry>
-                     <p id="wjLVQi"></p>
+                     <p id="wjLVQi"/>
                   </entry>
                   <entry>
-                     <p id="UPjCxh"></p>
+                     <p id="UPjCxh"/>
                   </entry>
                   <entry>
-                     <p id="IKiPom"></p>
+                     <p id="IKiPom"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1499,19 +1502,19 @@
                      <p id="rtBDye">1.4 Onsite Training Course</p>
                   </entry>
                   <entry>
-                     <p id="OLfcPD"></p>
+                     <p id="OLfcPD"/>
                   </entry>
                   <entry>
-                     <p id="EKOpuE"></p>
+                     <p id="EKOpuE"/>
                   </entry>
                   <entry>
-                     <p id="zYOVPH"></p>
+                     <p id="zYOVPH"/>
                   </entry>
                   <entry>
-                     <p id="DwaZpB"></p>
+                     <p id="DwaZpB"/>
                   </entry>
                   <entry>
-                     <p id="ACcELf"></p>
+                     <p id="ACcELf"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1519,19 +1522,19 @@
                      <p id="cdXJSF">1.5 Electronic Classroom Upgrade</p>
                   </entry>
                   <entry>
-                     <p id="GRgLrL"></p>
+                     <p id="GRgLrL"/>
                   </entry>
                   <entry>
-                     <p id="iafIqx"></p>
+                     <p id="iafIqx"/>
                   </entry>
                   <entry>
-                     <p id="JFEvop"></p>
+                     <p id="JFEvop"/>
                   </entry>
                   <entry>
-                     <p id="gZgOfp"></p>
+                     <p id="gZgOfp"/>
                   </entry>
                   <entry>
-                     <p id="uTQEHU"></p>
+                     <p id="uTQEHU"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1541,19 +1544,19 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="mmQxLN"></p>
+                     <p id="mmQxLN"/>
                   </entry>
                   <entry>
-                     <p id="nBRmjB"></p>
+                     <p id="nBRmjB"/>
                   </entry>
                   <entry>
-                     <p id="tkuSoi"></p>
+                     <p id="tkuSoi"/>
                   </entry>
                   <entry>
-                     <p id="rXRNsG"></p>
+                     <p id="rXRNsG"/>
                   </entry>
                   <entry>
-                     <p id="VoeNGQ"></p>
+                     <p id="VoeNGQ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1561,19 +1564,19 @@
                      <p id="INNiIg">2.1 Integrated Master Schedule (IMS)</p>
                   </entry>
                   <entry>
-                     <p id="tQbHKj"></p>
+                     <p id="tQbHKj"/>
                   </entry>
                   <entry>
-                     <p id="fFfWpU"></p>
+                     <p id="fFfWpU"/>
                   </entry>
                   <entry>
-                     <p id="agEhvu"></p>
+                     <p id="agEhvu"/>
                   </entry>
                   <entry>
-                     <p id="WiYtoQ"></p>
+                     <p id="WiYtoQ"/>
                   </entry>
                   <entry>
-                     <p id="HMQPUQ"></p>
+                     <p id="HMQPUQ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1581,19 +1584,19 @@
                      <p id="RkkkjQ">2.2 Computer-Based Training Development Schedule/Plan</p>
                   </entry>
                   <entry>
-                     <p id="jfSLUu"></p>
+                     <p id="jfSLUu"/>
                   </entry>
                   <entry>
-                     <p id="HcyrMU"></p>
+                     <p id="HcyrMU"/>
                   </entry>
                   <entry>
-                     <p id="MFDdMl"></p>
+                     <p id="MFDdMl"/>
                   </entry>
                   <entry>
-                     <p id="hpbPPq"></p>
+                     <p id="hpbPPq"/>
                   </entry>
                   <entry>
-                     <p id="IDQxHd"></p>
+                     <p id="IDQxHd"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1601,19 +1604,19 @@
                      <p id="QzVdhK">2.3 Electronic Classroom Upgrade Schedule / Plan</p>
                   </entry>
                   <entry>
-                     <p id="BDSQni"></p>
+                     <p id="BDSQni"/>
                   </entry>
                   <entry>
-                     <p id="NJQLec"></p>
+                     <p id="NJQLec"/>
                   </entry>
                   <entry>
-                     <p id="PteXmR"></p>
+                     <p id="PteXmR"/>
                   </entry>
                   <entry>
-                     <p id="ZLmiJp"></p>
+                     <p id="ZLmiJp"/>
                   </entry>
                   <entry>
-                     <p id="PPCbyV"></p>
+                     <p id="PPCbyV"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1623,19 +1626,19 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="jubdcV"></p>
+                     <p id="jubdcV"/>
                   </entry>
                   <entry>
-                     <p id="xPltRe"></p>
+                     <p id="xPltRe"/>
                   </entry>
                   <entry>
-                     <p id="AiMLNg"></p>
+                     <p id="AiMLNg"/>
                   </entry>
                   <entry>
-                     <p id="UWVXTN"></p>
+                     <p id="UWVXTN"/>
                   </entry>
                   <entry>
-                     <p id="nbxyLl"></p>
+                     <p id="nbxyLl"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1643,19 +1646,19 @@
                      <p id="DuPfOe">3.1 Manning Chart Provided</p>
                   </entry>
                   <entry>
-                     <p id="RShBuB"></p>
+                     <p id="RShBuB"/>
                   </entry>
                   <entry>
-                     <p id="vEdvor"></p>
+                     <p id="vEdvor"/>
                   </entry>
                   <entry>
-                     <p id="eCtNGV"></p>
+                     <p id="eCtNGV"/>
                   </entry>
                   <entry>
-                     <p id="corMiC"></p>
+                     <p id="corMiC"/>
                   </entry>
                   <entry>
-                     <p id="VPbDmR"></p>
+                     <p id="VPbDmR"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1663,19 +1666,19 @@
                      <p id="sruAwS">3.2 Labor categories to perform courseware and electronic classroom requirements. Minimum labor categories include Instructional Systems Specialists, Graphic Artists, Programmers, Computer Specialists and/or Engineers and Subject Matter Experts..</p>
                   </entry>
                   <entry>
-                     <p id="JFpgeB"></p>
+                     <p id="JFpgeB"/>
                   </entry>
                   <entry>
-                     <p id="ZkWOaz"></p>
+                     <p id="ZkWOaz"/>
                   </entry>
                   <entry>
-                     <p id="eXSdgl"></p>
+                     <p id="eXSdgl"/>
                   </entry>
                   <entry>
-                     <p id="wpUxpF"></p>
+                     <p id="wpUxpF"/>
                   </entry>
                   <entry>
-                     <p id="DcGvgJ"></p>
+                     <p id="DcGvgJ"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1685,19 +1688,19 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="gvusot"></p>
+                     <p id="gvusot"/>
                   </entry>
                   <entry>
-                     <p id="ZdqFpU"></p>
+                     <p id="ZdqFpU"/>
                   </entry>
                   <entry>
-                     <p id="zIdWCT"></p>
+                     <p id="zIdWCT"/>
                   </entry>
                   <entry>
-                     <p id="PIBEdl"></p>
+                     <p id="PIBEdl"/>
                   </entry>
                   <entry>
-                     <p id="eFdkSI"></p>
+                     <p id="eFdkSI"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1705,19 +1708,19 @@
                      <p id="adLOnF">4.1 Classified Information Security Requirements</p>
                   </entry>
                   <entry>
-                     <p id="YhIACY"></p>
+                     <p id="YhIACY"/>
                   </entry>
                   <entry>
-                     <p id="KqLHJx"></p>
+                     <p id="KqLHJx"/>
                   </entry>
                   <entry>
-                     <p id="dZCRfj"></p>
+                     <p id="dZCRfj"/>
                   </entry>
                   <entry>
-                     <p id="rUbxyK"></p>
+                     <p id="rUbxyK"/>
                   </entry>
                   <entry>
-                     <p id="RjUYof"></p>
+                     <p id="RjUYof"/>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1727,19 +1730,19 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="sVzusy"></p>
+                     <p id="sVzusy"/>
                   </entry>
                   <entry>
-                     <p id="xjEWIJ"></p>
+                     <p id="xjEWIJ"/>
                   </entry>
                   <entry>
-                     <p id="FMobPp"></p>
+                     <p id="FMobPp"/>
                   </entry>
                   <entry>
-                     <p id="nGaOJo"></p>
+                     <p id="nGaOJo"/>
                   </entry>
                   <entry>
-                     <p id="nhvXjN"></p>
+                     <p id="nhvXjN"/>
                   </entry>
                </row>
             </tbody>

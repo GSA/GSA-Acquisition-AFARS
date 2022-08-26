@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5142.150390" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5142.150390"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5142.1503-90</ph> Policy.</title>
    <conbody>
       <p outputclass="List1">(a)  The CPARS AOs are as follows:</p>
       <table frame="all" rowsep="1" colsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="col1" colwidth="120.45pt" rowheader="headers" />
-            <colspec colname="col2" colwidth="196.75pt" rowheader="headers" />
+            <colspec colname="col1" colwidth="120.45pt" rowheader="headers"/>
+            <colspec colname="col2" colwidth="196.75pt" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry valign="middle">

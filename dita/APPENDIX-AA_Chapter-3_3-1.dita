@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_APPENDIX-AA_Chapter-3_3-1" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_APPENDIX-AA_Chapter-3_3-1"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">3.1</ph> Evaluation Activities</title>
    <conbody>
@@ -49,13 +52,13 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
-                     <p id="p__Toc307819137"></p>
+                     <p id="p__Toc307819137"/>
                      <p id="LFQrSg">
                         <b>TAB</b>
                      </p>
@@ -64,7 +67,7 @@
                      <p id="FQWiEV">
                         <b>TECHNICAL PROPOSAL</b>
                      </p>
-                     <p id="mMdcPd"></p>
+                     <p id="mMdcPd"/>
                   </entry>
                   <entry>
                      <p id="qfGvUU">
@@ -219,7 +222,7 @@
          <b>
             <i>Step 9: Prepare a Summary SSEB Evaluation Report –</i>
          </b> The final step is for the SSEB Chairperson to prepare a summary report for each proposal that includes the evaluated price, the rating for each evaluation factor and subfactor, and a discussion of the associated findings (strengths, weaknesses, deficiencies, risks, and uncertainties). A Summary SSEB Evaluation Report must be prepared at each stage of the process: initial, interim, and final evaluations.</p>
-      <p id="p__Hlt498326626" outputclass="Normal"></p>
+      <p id="p__Hlt498326626" outputclass="Normal"/>
       <p id="rDNiXA" outputclass="Normal">
          <b>
             <i>
@@ -230,14 +233,14 @@
       <p id="KFnAUf" outputclass="Normal">Figure 3-2 below provides a side-by-side comparison of what price analysis, cost analysis, and cost realism analysis should consist of and when they must be used. For detailed instructions and professional guidance on how to conduct these analyses, refer to FAR 15.4, and the Army Cost and Price Portal on the ODASA(P) Procurement.Army.Mil Knowledge Management Portal.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
-                     <p id="WhiENP"></p>
+                     <p id="WhiENP"/>
                   </entry>
                   <entry>
                      <p id="XWbcTV">
@@ -399,7 +402,7 @@
             <p id="AJMQLj">The agency has an obligation to consider information that has a bearing on an offeror’s past performance, if the SST is aware of (or should have been aware of) the information. For example, an agency may not ignore contract performance by an offeror involving the same agency, the same services, and/or the same PCO, simply because an agency official fails to complete the necessary assessments or documentation. Consult legal counsel on how to address this type of information.</p>
          </li>
       </ul>
-      <p id="aLQWar"></p>
+      <p id="aLQWar"/>
       <p id="idJkaa">
          <b>
             <i>Addressing Adverse Past Performance Information.</i>
@@ -455,14 +458,14 @@
          </b>.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="4" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers" />
-            <colspec colname="2" colnum="2" rowheader="headers" />
-            <colspec colname="3" colnum="3" rowheader="headers" />
-            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <colspec colname="4" colnum="4" rowheader="headers"/>
             <tbody>
                <row rowsep="1">
                   <entry>
-                     <p id="HxAfDn"></p>
+                     <p id="HxAfDn"/>
                   </entry>
                   <entry>
                      <p id="ZfhBPb">
@@ -539,7 +542,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="pcwkKW"></p>
+                     <p id="pcwkKW"/>
                      <ul>
                         <li id="aCuojX">
                            <p id="gSrPXK">Relevance of an offeror’s past performance</p>
@@ -551,10 +554,10 @@
                            <p id="qNivRp">Resolution of minor or clerical errors</p>
                         </li>
                      </ul>
-                     <p id="eeywHN"></p>
+                     <p id="eeywHN"/>
                   </entry>
                   <entry>
-                     <p id="xaFGXw"></p>
+                     <p id="xaFGXw"/>
                      <ul>
                         <li id="dKWLPI">
                            <p id="IZUEGN">Address issues that must be explored to determine whether a proposal should be placed in the competitive range</p>
@@ -569,7 +572,7 @@
                            <p id="PSuwkR">Adverse past performance information</p>
                         </li>
                      </ul>
-                     <p id="stlFyB"></p>
+                     <p id="stlFyB"/>
                   </entry>
                   <entry>
                      <p id="XYTYmt">Examples of potential discussion topics include the identification of all evaluated deficiencies, significant weaknesses, weaknesses, and any adverse past performance information to which the offeror has not yet had an opportunity to respond.</p>

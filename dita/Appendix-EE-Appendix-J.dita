@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-J" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-EE-Appendix-J"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 Heading">
       <ph props="autonumber">Appendix J: Glossary - Sections I and II</ph> Table Of Contents</title>
    <conbody>
@@ -230,7 +233,7 @@
          <b>Accountable Official (AO)</b> -A member of DOD, military or civilian personnel, designated in writing and not otherwise accountable under applicable law, who provides source information, data, or service (such as an RO, a CH, and an Automated Information System Administrator) to a reviewing or disbursing official in support of the payment process. The AO has pecuniary liability for erroneous payments resulting from his/her negligent actions.</p>
       <p id="RBLvAs" outputclass="Normal">
          <b>Accountable Property</b> - Army Regulation 735-5 - A term used to identify property recorded in a formal property management or accounting system. Accountable property includes all property purchased, leased (capital leases), or otherwise obtained having a unit acquisition cost of $5,000 or more (land, regardless of cost), and items that are sensitive. Sensitive items require a high degree of protection and control due to statutory requirements or regulations, such as narcotics and drug abuse items; precious metals; items which are of a high value, highly technical, or a hazardous nature; and small arms, ammunition, explosives, and demolition material or classified (See Volume 10, Table 61 of DOD 4100.39-M reference (k)). Additional and/or separate records or other record keeping instruments shall be established for management purposes, or when otherwise required by law, policy, regulation, or agency direction, including, but not limited to pilferable items. Pilferable items have a ready resale value or application to personal possession and are, therefore, especially subject to theft. Screening by the Property Book Officer (PBO) is required to determine the accounting requirements of the purchased property. The installation PBO provides guidance on specific local property accountability procedures to the A/OPC, BOs, and CHs related to GPC purchases.</p>
-      <p id="p_1" outputclass="Normal"></p>
+      <p id="p_1" outputclass="Normal"/>
       <p id="KzFrvq" outputclass="Normal">
          <b>Agency/Organization Program Coordinator (A/OPC)</b> - A Government employee responsible for the implementation and execution of his/her agency/organization</p>
       <p id="cLVVau" outputclass="Normal">Appendix J: Glossary (continued)</p>
@@ -342,7 +345,11 @@
       <p id="opAIJq" outputclass="Normal">
          <b>Purchase Card Online System (PCOLS)</b> - a DOD-wide, DOD-operated data mining electronic system that Government Purchase Card (GPC) participants use to improve the management and accountability of their GPC Program organizations. It is comprised of five web-enabled automated tools: Enterprise Monitoring and Management of Accounts (EMMA); Authorization, Issuance and Maintenance (AIM); Data Mining (DM); Risk Assessment (RA); and PCOLS Reporting.</p>
       <p id="TqOcqU" outputclass="Normal">
-         <b>Receipt</b> - A receipt is a written record of a transaction documenting proof of payment. The receipt acts as the title to the property obtained in the exchange. A receipt is a legal document which serves as a permanent record of the transaction that can be used to support financial records (i.e. billing official invoice). Internet shopping has led to the creation of <xref format="html" href="http://www.wisegeek.com/what-is-electronic-cash.htm" scope="external">electronic</xref> receipts. Many online businesses provide the cardholder with the option of printing a receipt of the transaction as soon as the payment is approved. In addition, the vendor may provide the cardholder with an <xref format="html" href="http://www.wisegeek.com/what-is-email.htm" scope="external">email</xref> copy of the receipt. The receipt includes basic information about the nature of the sale. This essential detail includes the date of the transaction, a list of the prices of the items purchased, subtotal, applicable taxes, and a final total. Some receipts will provide unit prices and extended prices when multiple units of the same item are purchased, as well as a detailed description of each item.</p>
+         <b>Receipt</b> - A receipt is a written record of a transaction documenting proof of payment. The receipt acts as the title to the property obtained in the exchange. A receipt is a legal document which serves as a permanent record of the transaction that can be used to support financial records (i.e. billing official invoice). Internet shopping has led to the creation of <xref format="html"
+               href="http://www.wisegeek.com/what-is-electronic-cash.htm"
+               scope="external">electronic</xref> receipts. Many online businesses provide the cardholder with the option of printing a receipt of the transaction as soon as the payment is approved. In addition, the vendor may provide the cardholder with an <xref format="html"
+               href="http://www.wisegeek.com/what-is-email.htm"
+               scope="external">email</xref> copy of the receipt. The receipt includes basic information about the nature of the sale. This essential detail includes the date of the transaction, a list of the prices of the items purchased, subtotal, applicable taxes, and a final total. Some receipts will provide unit prices and extended prices when multiple units of the same item are purchased, as well as a detailed description of each item.</p>
       <p id="QRGljY" outputclass="Normal">
          <b>Required or</b>
          <b>M</b>

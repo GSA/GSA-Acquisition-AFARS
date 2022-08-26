@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_AppendixBB-201" ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_AppendixBB-201"
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">BB-201</ph> Event Cycle 2: Presolicitation.</title>
    <conbody>
@@ -68,6 +71,10 @@
       </p>
       <p id="tYXWsz" outputclass="List2">a. Are solicitation notices publicized through the Government point of entry, or determination for exception executed (FAR 5.201, FAR 5.202, FAR 5.301, and AFARS 5104.502)?</p>
       <p id="ZvjoZI" outputclass="List2">b. Are justifications and approvals for other than full an open competition posted with solicitations, as applicable (FAR 6.305, FAR 8.405-6(a)(2), and FAR 16.505(b)(2)(ii)(D)?</p>
-      <p id="oRGBhW" outputclass="List2">c. When using competitive procedures, if a solicitation allowed fewer than 30 days for receipt of offers and resulted in only one offer, are contracting officers resoliciting requirements for an additional period of at least 30 days, except as provided in (DFARS <xref format="html" href="http://www.acq.osd.mil/dpap/dars/dfars/html/current/215_3.htm" scope="external">215.371-4</xref>, DFARS <xref format="html" href="http://www.acq.osd.mil/dpap/dars/dfars/html/current/215_3.htm" scope="external">215.371-5</xref>, and DFARS 205.203)?</p>
+      <p id="oRGBhW" outputclass="List2">c. When using competitive procedures, if a solicitation allowed fewer than 30 days for receipt of offers and resulted in only one offer, are contracting officers resoliciting requirements for an additional period of at least 30 days, except as provided in (DFARS <xref format="html"
+               href="http://www.acq.osd.mil/dpap/dars/dfars/html/current/215_3.htm"
+               scope="external">215.371-4</xref>, DFARS <xref format="html"
+               href="http://www.acq.osd.mil/dpap/dars/dfars/html/current/215_3.htm"
+               scope="external">215.371-5</xref>, and DFARS 205.203)?</p>
    </conbody>
 </concept>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5112.102"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5112.102</ph> Applicability.</title>
+   <conbody>
+      <p outputclass="List1">(a)(ii)(B)  The head of the contracting activity shall perform the duties under DFARS 212.102(a)(ii)(B).  See Appendix GG for further delegation.</p>
+      <p outputclass="List1">(f)  The head of the contracting activity has the authority to make the determination as described in FAR 12.102(f).  See Appendix GG for further delegation.</p>
+   </conbody>
+</concept>

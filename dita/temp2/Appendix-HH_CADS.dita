@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-HH_CADS"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Ctr 2 heading">
+      <ph props="autonumber">Common and</ph> Data Services</title>
+   <conbody>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="3" colsep="1">
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="3" colnum="3" rowheader="headers"/>
+            <tbody>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FEBiGe"/>
+                  </entry>
+                  <entry>
+                     <p id="qFtCrZ">
+                        <b>Service Name</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="qktDKD">
+                        <b>Service Description</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hHTeSD">1</p>
+                  </entry>
+                  <entry>
+                     <p id="FkhaGr">Operating System Vulnerability Scanning</p>
+                  </entry>
+                  <entry>
+                     <p id="pdSmWo">Operating System vulnerability scanning service (e.g., Assured Compliance Assessment Solution [ACAS])</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="PpBqYH">2</p>
+                  </entry>
+                  <entry>
+                     <p id="HADnQu">IP Address Management</p>
+                  </entry>
+                  <entry>
+                     <p id="UFGXNX">Planning, tracking, and managing the Internet Protocol (IP) address space used in the cloud environment</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="sVPqDj">3</p>
+                  </entry>
+                  <entry>
+                     <p id="USUDjQ">Virtual Datacenter Security Stack (VDSS)</p>
+                  </entry>
+                  <entry>
+                     <p id="yTCGlB">All VDSS components and services (e.g. Web Application Firewall, Reverse Proxy, etc.) listed in DISA cloud SRG and SCCA documents, and DoD enclave protection firewall</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="AWBduJ">4</p>
+                  </entry>
+                  <entry>
+                     <p id="TFPHQA">Key Management</p>
+                  </entry>
+                  <entry>
+                     <p id="vKTAXh">PKI certificate signing, administration, and key management</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="LDGhAN">5</p>
+                  </entry>
+                  <entry>
+                     <p id="BniLBS">Network Infrastructure Management and Monitoring</p>
+                  </entry>
+                  <entry>
+                     <p id="DYnnqX">Monitor, manage, and alert on events related to network utilization and availability</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="KXWbQo">6</p>
+                  </entry>
+                  <entry>
+                     <p id="kDeBES">DDos Protection Service</p>
+                  </entry>
+                  <entry>
+                     <p id="AuXKYa">Protects applications in the cloud environment from Distributed Denial of Service (DDoS) attacks</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="QUGltw">7</p>
+                  </entry>
+                  <entry>
+                     <p id="NeQXsB">DNS Hosting, Caching, Recursion</p>
+                  </entry>
+                  <entry>
+                     <p id="HhUKLt">DNS lookup for cloud-based applications and hierarchical DNS management delegated to mission owners</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hpZMRA">8</p>
+                  </entry>
+                  <entry>
+                     <p id="VgryVl">PKI Cert Validation</p>
+                  </entry>
+                  <entry>
+                     <p id="jhFmMf">Online Certificate Status Protocol (OCSP) responder to validate if PKI certificates are valid or revoked</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ZbaPQR">9</p>
+                  </entry>
+                  <entry>
+                     <p id="sDWDDM">Network Time</p>
+                  </entry>
+                  <entry>
+                     <p id="YScuVK">Cybersecurity mandated accurate time source for DoD systems hosted in the cloud</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="hErstC">10</p>
+                  </entry>
+                  <entry>
+                     <p id="FqMxzq">Patch Management</p>
+                  </entry>
+                  <entry>
+                     <p id="dATRqs">Patch repositories for common operating system patch files.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oqkoEK">11</p>
+                  </entry>
+                  <entry>
+                     <p id="ePMrtz">SMTP Relay</p>
+                  </entry>
+                  <entry>
+                     <p id="vcxsYx">Simple Mail Transport Protocol (SMTP) based email relay</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="HnlchO">12</p>
+                  </entry>
+                  <entry>
+                     <p id="RcDVtF">Enterprise Directory Services</p>
+                  </entry>
+                  <entry>
+                     <p id="NlvAxB">Privileged administrative user and non-person entity Identity, Credential, and Access Management (ICAM) (e.g., Active Directory [AD], Lightweight Directory Access Protocol [LDAP])</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="SfPCsh">13</p>
+                  </entry>
+                  <entry>
+                     <p id="wCjtwk">Federated Access Management</p>
+                  </entry>
+                  <entry>
+                     <p id="deRmlS">User Identity, Credential, and Access Management (ICAM) (e.g., EAMS-A, SAML Services)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="XRihfZ">14</p>
+                  </entry>
+                  <entry>
+                     <p id="wxANZb">Secure File Transfer Service (SFTP)</p>
+                  </entry>
+                  <entry>
+                     <p id="clnBeX">Securely transfer large files to the cloud environment</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="qTULlm">15</p>
+                  </entry>
+                  <entry>
+                     <p id="cMjsiz">Notification Services</p>
+                  </entry>
+                  <entry>
+                     <p id="PZJQAU">Alerting and notification (e.g., Short Message Service [SMS])</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WXnenY">16</p>
+                  </entry>
+                  <entry>
+                     <p id="GRPLPd">Endpoint Monitoring</p>
+                  </entry>
+                  <entry>
+                     <p id="BTlJaB">Protects computing endpoints from malware and other cyber security threats (e.g., Host Based Security Service [HBSS])</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="adqyjj">17</p>
+                  </entry>
+                  <entry>
+                     <p id="XQeyHW">Remote Privileged Access</p>
+                  </entry>
+                  <entry>
+                     <p id="cSSnyU">Secure administrative access from the Internet or DODIN to DoD servers in secure cloud enclaves.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JLfBOJ">18</p>
+                  </entry>
+                  <entry>
+                     <p id="xSMZVi">Centralized Logging/Auditing</p>
+                  </entry>
+                  <entry>
+                     <p id="dgUnUv">Consolidated aggregation point for receiving and storing logs from systems and applications in the cloud environment</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="ptLxZN">19</p>
+                  </entry>
+                  <entry>
+                     <p id="UolehW">Security Information and Event Management (SIEM) and Log Analytics</p>
+                  </entry>
+                  <entry>
+                     <p id="nKBSmC">Identifies and categorizes security related incidents and events</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="uyeKNp">20</p>
+                  </entry>
+                  <entry>
+                     <p id="VqsDsQ">Data Dissemination Service</p>
+                  </entry>
+                  <entry>
+                     <p id="QkYrOh">Accelerates and consolidates data for transfer utilizing secure network tunnels.</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="MERuDU">21</p>
+                  </entry>
+                  <entry>
+                     <p id="GKifcf">Code Repository</p>
+                  </entry>
+                  <entry>
+                     <p id="ZzhSQM">Code repository for source code configuration management to support a software factory</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="RvDTjP">22</p>
+                  </entry>
+                  <entry>
+                     <p id="YENQRI">STIG Compliant Virtual Server Templates</p>
+                  </entry>
+                  <entry>
+                     <p id="SYvDCx">A library which stores DISA Security Technical Implementation Guide (STIG) compliant virtual machine template images</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="pkstkg">23</p>
+                  </entry>
+                  <entry>
+                     <p id="eNQbYE">License/Software Management</p>
+                  </entry>
+                  <entry>
+                     <p id="vPLnAM">Operating System (OS) level license management</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="FKaGWP">24</p>
+                  </entry>
+                  <entry>
+                     <p id="uGaDMR">Asset Management Services</p>
+                  </entry>
+                  <entry>
+                     <p id="XfjEUl">Discover and track assets such as resources, licensed software, etc. within the cloud environment</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="WPKPhE">25</p>
+                  </entry>
+                  <entry>
+                     <p id="oJeciN">Cross Domain Solution (CDS)</p>
+                  </entry>
+                  <entry>
+                     <p id="vZZDvT">Automatically move appropriately vetted files between security classification levels</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="pRcPRi">26</p>
+                  </entry>
+                  <entry>
+                     <p id="vmWgez">CSSP Services</p>
+                  </entry>
+                  <entry>
+                     <p id="eVTBGK">Standardized tools &amp; processes to meet cloud cyber security requirements; <i>primarily provided by C5ISR to</i>
+                        <i>cArmy</i>
+                        <i>tenants. Collaboration with</i>
+                        <i>cArmy</i>
+                        <i>cloud services ops team</i>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="mjWkMf">27</p>
+                  </entry>
+                  <entry>
+                     <p id="aUsIop">Continuous Integration / Continuous Delivery/Deployment (CI/CD) Tools</p>
+                  </entry>
+                  <entry>
+                     <p id="IimrDm">Tools to enable the CI/CD pipeline (e.g., tools similar to the capabilities provided in DI2E.net)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="oQtIud">28</p>
+                  </entry>
+                  <entry>
+                     <p id="msUvDk">Enterprise Data Catalog and Service Registry</p>
+                  </entry>
+                  <entry>
+                     <p id="YuBtCD">Data and service listing for data and service management and automated data processing</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="prrkfK">29</p>
+                  </entry>
+                  <entry>
+                     <p id="NzLoku">Container Platform</p>
+                  </entry>
+                  <entry>
+                     <p id="pjRIrJ">Enabling container runtime services (e.g., container orchestration)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="NKkcXL">30</p>
+                  </entry>
+                  <entry>
+                     <p id="eOZxjh">Budget and Cost Management</p>
+                  </entry>
+                  <entry>
+                     <p id="Njhxpy">Provides cloud cost and budget information to mission owners</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="GZBqzS">31</p>
+                  </entry>
+                  <entry>
+                     <p id="YkGRcF">Resource Management Portal</p>
+                  </entry>
+                  <entry>
+                     <p id="FEVpLi">Portal to manage compute and store resources</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="JdsEFX"/>
+                  </entry>
+                  <entry>
+                     <p id="eeEQJb"/>
+                  </entry>
+                  <entry>
+                     <p id="GQQbId"/>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="tOLSGp"/>
+                  </entry>
+                  <entry>
+                     <p id="QIlYHF"/>
+                  </entry>
+                  <entry>
+                     <p id="HLWrlW"/>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="3" namest="1">
+                     <p id="HnechW">* Note - This listing is current as of 1 May 2020. The number of services is expected to increase as the Army cloud environment matures.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </conbody>
+</concept>

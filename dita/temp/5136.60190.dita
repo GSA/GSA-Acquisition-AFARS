@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5136.60190"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5136.601-90</ph> Authority for architect-engineer contracting.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Army contracting activities, and subordinate offices, authorized to contract for architect-engineer services are as follows:</p>
+      <p outputclass="List2">(1)  The U.S. Army Corps of Engineers (USACE).</p>
+      <p outputclass="List2">(2)  The National Guard Bureau (NGB).</p>
+      <p outputclass="List2">(3)  The U.S. Army Mission and Installation Contracting Command, Enterprise and Installation Operations.</p>
+      <p outputclass="List2">(4)  The U.S. Expeditionary Contracting Command, 414th Contracting Support Brigade, Vicenza, Italy, for architect-engineer services for operations and maintenance appropriations and Army Family Housing (Operations) funded projects.</p>
+      <p outputclass="List1">(b)  Other Army contracting activities, as mutually agreed with the USACE, may execute task orders for architect-engineer services, under USACE indefinite-delivery contracts.  The installation contracting officer and facilities engineering personnel must comply with the instructions of the USACE contracting officer regarding the negotiation, issuance, and administration of task orders.</p>
+   </conbody>
+</concept>

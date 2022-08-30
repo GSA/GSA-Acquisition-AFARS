@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5144">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5144</ph> - Subcontracting Policies and Procedures</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5144.3.dita#AFARS_Subpart_5144.3">Subpart 5144.3 - Contractors Purchasing System Reviews</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5144.302.dita#AFARS_5144.302">5144.302 Requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

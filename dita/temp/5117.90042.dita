@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5117.90042"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5117.9004-2</ph> Solicitation.</title>
+   <conbody>
+      <p rev="Revised August 4, 2022" outputclass="List1">(a) The contracting officer must ensure
+         that the specifications and the JOCPB have undergone technical review and validation and
+         are tailored to meet the projected requirements of the requiring activity and local
+         economic conditions. </p>
+      <p rev="Revised August 4, 2022" outputclass="List1">(b) The JOC solicitation must include
+         realistic and reasonable annual minimum and maximum dollar amounts for projected
+         requirements to encourage competition and lower coefficients. Generally, the higher the
+         minimum is, the lower the coefficient proposed will be. </p>
+      <p rev="Revised August 4, 2022" outputclass="List1">(c) The solicitation must explain the
+         make-up of the Government unit prices and specify what types of costs, as a minimum, must
+         be covered by the coefficient. Offerors may have multiple coefficients and must specify
+         what additional types of costs are included in their coefficients in their proposal. These
+         additional costs may be incorporated in the contract, if appropriate, and may preclude
+         later disagreements over non-pre-priced tasks. Multiple coefficients may be used for normal
+         working hours and other than normal working hours.</p>
+      <p rev="Revised August 4, 2022" outputclass="List1">(d) The solicitation must explain that
+         there will be no separate repayment(s) for bond premiums because the bond premium is repaid
+         through the coefficient, and the coefficient is paid as an indirect cost under progress
+         payment or other standard payment provisions.</p>
+      <p rev="Revised August 4, 2022" outputclass="List1"> (e) JOC solicitation and contracts must
+         use either annual coefficient adjustments or an annually updated JOCPB, but not both.
+         Clause 5152.237-9000, Adjustments to Contractor’s Coefficient for Option Years, can be used
+         in JOC contracts in accordance with this paragraph when annual coefficient adjustments are
+         used.</p>
+   </conbody>
+</concept>

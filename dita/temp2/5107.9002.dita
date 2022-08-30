@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5107.9002"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5107.9002</ph>  Policy.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Contracting officers shall require the preparation of an IGE in every procurement action in excess of the simplified acquisition threshold (SAT).  The contracting officer, at his or her discretion, may require an IGE for actions less than the SAT.</p>
+      <p outputclass="List1">(b)  The contracting officer shall ensure, prior to accepting an IGE, that—</p>
+      <p outputclass="List2">(1)  The IGE contains enough detail to verify the validity of the offerors’ proposals;</p>
+      <p outputclass="List2">(2)  The IGE provides sufficient narrative and analytical detail, to include reference material, to support its preparation;</p>
+      <p outputclass="List2">(3)  The IGE contains a certification that the Government independently developed the IGE prior to seeking formal proposals from contractors, or for construction, within a timeframe consistent with FAR 36.203; and:</p>
+      <p outputclass="List3">(i) Be signed and dated,  by hand or by Common-Access-Card (CAC), by the preparer,  and includes the preparer’s organization, position, title, and telephone number;</p>
+      <p outputclass="Normal"> (ii)  Be signed and dated,  by hand or by CAC, by the preparer’s immediate supervisor, and includes the reviewer’s organization, position, title, rank or grade, and telephone number. </p>
+   </conbody>
+</concept>

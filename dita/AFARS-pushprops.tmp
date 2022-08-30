@@ -100,7 +100,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5101.170.html"
-                   tables="0"
+                   tables="1"
                    figures="0"/>
       </topicref>
       <topicref href="Subpart_5101.2.dita"
@@ -4170,27 +4170,27 @@
                       xtrc="AFARS_5119.5023.html"
                       tables="0"
                       figures="0"/>
+            <topicref href="5119.5028.dita"
+                      navtitle="5119.502-8 Rejecting Small Business Administration recommendations."
+                      props="5119.502-8"
+                      base="NoTitle"
+                      audience="AFARS_5119.5028"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5119.5028.html"
+                      tables="0"
+                      figures="0"/>
+            <topicref href="5119.5029.dita"
+                      navtitle="5119.502-9 Withdrawing or modifying small business set-asides."
+                      props="5119.502-9"
+                      base="NoTitle"
+                      audience="AFARS_5119.5029"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5119.5029.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
-         <topicref href="5119.505.dita"
-                   navtitle="5119.505 Rejecting Small Business Administration recommendations."
-                   props="5119.505"
-                   base="NoTitle"
-                   audience="AFARS_5119.505"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5119.505.html"
-                   tables="0"
-                   figures="0"/>
-         <topicref href="5119.506.dita"
-                   navtitle="5119.506 Withdrawing or modifying small business set-asides."
-                   props="5119.506"
-                   base="NoTitle"
-                   audience="AFARS_5119.506"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5119.506.html"
-                   tables="0"
-                   figures="0"/>
       </topicref>
       <topicref href="Subpart_5119.6.dita"
                 navtitle="Subpart 5119.6 - Certificates of Competency and Determinations of Responsibility"
@@ -4366,6 +4366,15 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5119.812.html"
+                   tables="0"
+                   figures="0"/>
+         <topicref href="5119.815.dita"
+                   props="5119.815"
+                   outputclass="subtopic"
+                   navtitle="5119.815 Release for non-8(a) procurement."
+                   audience="AFARS_5119.815"
+                   xtrf="subtopic"
+                   xtrc="AFARS_5119.815.html"
                    tables="0"
                    figures="0"/>
          <topicref href="5119.816.dita"
@@ -5107,12 +5116,14 @@
                    props="5125.802"
                    outputclass="subtopic"
                    audience="AFARS_5125.802"
+                   xtrc="AFARS_5125.802.html"
                    tables="0"
                    figures="0">
             <topicref href="5125.80271.dita"
                       props="5125.802-71"
                       outputclass="subtopic"
                       audience="AFARS_5125.80271"
+                      xtrc="AFARS_5125.80271.html"
                       tables="0"
                       figures="0"/>
          </topicref>

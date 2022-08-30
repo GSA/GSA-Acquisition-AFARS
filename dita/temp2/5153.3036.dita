@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5153.3036"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5153.303-6</ph> Format for a bid protest action report.</title>
+   <conbody>
+      <p id="GXsljR" outputclass="Ctr">
+         <b>
+            <u>Bid Protest Action Report</u>
+         </b>
+      </p>
+      <p id="hPKYJM" outputclass="Ctr">
+         <b>(RCS DD-DR&amp;E(AR)1669)</b>
+      </p>
+      <p id="CszWcl" outputclass="Normal">Protester: ________________________________________________________________</p>
+      <p id="wmglKU" outputclass="Normal">Protest number: ___________________________________________________________</p>
+      <p id="mrugko" outputclass="Normal">Protest Forum (GAO/AGENCY): ____________________________________________</p>
+      <p id="QmoeGK" outputclass="Normal">Has there been a Freedom of Information Act request or Congressional, Office of the Secretary of Defense; Headquarters, Department of Army; media, or other high level interest in any aspect of the protested acquisition or action (including the period prior to any protest)?</p>
+      <p id="VDgJqk" outputclass="Normal">
+         <b>Circle One: Pre-award/Post Award Negotiated/Sealed Bid</b>
+      </p>
+      <p id="pEFJuZ" outputclass="Normal">
+         <b>Best Value: Yes</b>
+         <b>No</b>
+      </p>
+      <p id="ZHmYeu" outputclass="Normal">Description of item or service:</p>
+      <p id="WfayTY" outputclass="Normal">Solicitation Number:</p>
+      <p id="MfcvmR" outputclass="Normal">Contract Number:</p>
+      <p id="vWfdIo" outputclass="Normal">Awardee:</p>
+      <p id="JINTkx" outputclass="Normal">Award Date: ______________________. Award Amount:</p>
+      <p id="zmbflH" outputclass="Normal">Estimated Amount (if pre-award):(Do not round off/abbreviate dollar amounts)</p>
+      <p id="UBmWzO" outputclass="Normal">
+         <b>Stop Work?</b>
+         <b>Yes No</b>
+         <b>.</b> If Yes, date issued:</p>
+      <p id="eNJFWO" outputclass="Normal">Attorney assigned to the protest (include phone):</p>
+      <p id="OtzQfD" outputclass="Normal">Contracting Officer (include phone):</p>
+      <p id="uHhJhV" outputclass="Normal">
+         <b>Lessons Learned</b> and legal/acquisition costs are to be submitted by letter covering a copy of decision. Include information concerning whether or not a GAO dismissal or withdrawal of a GAO protest was the result of a corrective action taken by the contracting office.</p>
+   </conbody>
+</concept>

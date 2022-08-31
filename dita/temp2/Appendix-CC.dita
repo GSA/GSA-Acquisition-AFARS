@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_Appendix-CC">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">APPENDIX - CC</ph> Table Of Contents</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_APMRP.dita#AFARS_Appendix-CC_APMRP">Army Procurement Management Review Program</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_1.dita#AFARS_Appendix-CC_Part_1">Part 1 - Introduction</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-100.dita#AFARS_Appendix-CC-100">CC-100 Purpose.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-101.dita#AFARS_Appendix-CC-101">CC-101 Mission and Objectives.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-102.dita#AFARS_Appendix-CC-102">CC-102 Applicability.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_2.dita#AFARS_Appendix-CC_Part_2">Part 2 - PMR Policy and Philosophy</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-200.dita#AFARS_Appendix-CC-200">CC-200 Policy.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-201.dita#AFARS_Appendix-CC-201">CC-201 Philosophy.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_3.dita#AFARS_Appendix-CC_Part_3">Part 3 - Responsibilities</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-301.dita#AFARS_Appendix-CC-301">CC-301 Assistant Secretary of the Army (Acquisition, Logistics and Technology) (ASA(ALT)).</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-302.dita#AFARS_Appendix-CC-302">CC-302 Deputy Assistant Secretary of the Army for Procurement (DASA(P)).</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-303.dita#AFARS_Appendix-CC-303">CC-303 Directorate of Review and Oversight, Office of the DASA(P).</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-304.dita#AFARS_Appendix-CC-304">CC-304 Heads of Contracting Activities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-CC_Part_4.dita#AFARS_Appendix-CC_Part_4">Part 4 - Procedures</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-400.dita#AFARS_Appendix-CC-400">CC-400 Scheduling.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-401.dita#AFARS_Appendix-CC-401">CC-401 Types of Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-402.dita#AFARS_Appendix-CC-402">CC-402 Approach of Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-403.dita#AFARS_Appendix-CC-403">CC-403 Preparation for Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-404.dita#AFARS_Appendix-CC-404">CC-404 Results of Procurement Management Reviews.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-CC-405.dita#AFARS_Appendix-CC-405">CC-405 Annual Summary Health Report.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

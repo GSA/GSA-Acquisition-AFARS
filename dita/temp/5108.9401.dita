@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5108.9401"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5108.9401</ph> Definitions.</title>
+   <conbody>
+      <p>“Foreign language support,” as used in this subpart, means services which require the ability to listen, read, speak and/or write in a foreign language, and translate the foreign language into spoken or written English.  It excludes those services that specifically support the conduct of foreign language instruction, services provided under personal services contracts, or contracted services that use Special Operations Major Force Program-11 funds.</p>
+   </conbody>
+</concept>

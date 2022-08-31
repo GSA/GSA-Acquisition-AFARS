@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5117.90031"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3" rev="Revised August 4, 2022">
+      <ph props="autonumber">5117.9003-1</ph> Planning and coordination.</title>
+   <conbody>
+      <p outputclass="List1" rev="Revised August 4, 2022">(a) A JOC should be considered when the
+         workload is anticipated to be of such a yearly volume that benefits derived from a JOC
+         utilization are greater than the costs of the Government resources and contractor overhead
+         associated with establishing and using a JOC. These costs include the total Government
+         resources required to award, use, monitor, and administer the JOC and JOC orders, and
+         management oversight and functional support of the entire JOC process. The calculated
+         workload for a potential JOC should exclude –</p>
+      <p outputclass="List2" rev="Revised August 4, 2022">(1) Work normally reserved for 8(a) or set
+         aside for small businesses; and</p>
+      <p outputclass="List2" rev="Revised August 4, 2022">(2) Work that can be effectively and
+         economically accomplished by in-house resources.</p>
+   </conbody>
+</concept>

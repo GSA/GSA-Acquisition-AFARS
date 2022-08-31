@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5131">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5131</ph> - Contract Cost Principles and Procedures</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5131.2.dita#AFARS_Subpart_5131.2">Subpart 5131.2 - Contracts with Commercial Organizations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5131.205.dita#AFARS_5131.205">5131.205 Selected costs.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5131.2056.dita#AFARS_5131.2056">5131.205-6 Compensation for personal services.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

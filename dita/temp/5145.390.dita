@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5145.390"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5145.390</ph> Documentation of Government property in contracts.</title>
+   <conbody>
+      <p outputclass="Normal">Contracting officers must ensure that changes to Government property made over time are reflected by modifications to the contract.</p>
+   </conbody>
+</concept>

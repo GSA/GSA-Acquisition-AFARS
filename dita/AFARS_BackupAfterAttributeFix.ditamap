@@ -3183,32 +3183,72 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5117.9002.html"/>
-         <topicref href="5117.9003.dita" navtitle="5117.9003 Use of job order contracts."
-            props="5117.9003" base="NoTitle" audience="AFARS_5117.9003" outputclass="subtopic"
-            xtrf="subtopic" xtrc="AFARS_5117.9003.html">
-            <topicref href="5117.90031.dita" navtitle="5117.9003-1 Characteristics."
-               props="5117.9003-1" base="NoTitle" audience="AFARS_5117.90031" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_5117.90031.html"/>
+         <topicref href="5117.9003.dita"
+                   navtitle="5117.9003 Use of job order contracts."
+                   props="5117.9003"
+                   base="NoTitle"
+                   audience="AFARS_5117.9003"
+                   outputclass="subtopic"
+                   xtrf="subtopic"
+                   xtrc="AFARS_5117.9003.html">
+            <topicref href="5117.90031.dita"
+                      navtitle="5117.9003-1 Characteristics."
+                      props="5117.9003-1"
+                      base="NoTitle"
+                      audience="AFARS_5117.90031"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90031.html"/>
          </topicref>
-         <topicref href="5117.9004.dita" navtitle="5117.9004 Procedures." props="5117.9004"
-            base="NoTitle" audience="AFARS_5117.9004" outputclass="subtopic" xtrf="subtopic"
-            xtrc="AFARS_5117.9004.html">
-            <topicref href="5117.90041.dita" navtitle="5117.9004-1 Presolicitation."
-               props="5117.9004-1" base="NoTitle" audience="AFARS_5117.90041" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_5117.90041.html"/>
-            <topicref href="5117.90042.dita" navtitle="5117.9004-2 Solicitation."
-               props="5117.9004-2" base="NoTitle" audience="AFARS_5117.90042" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_5117.90042.html"/>
-            <topicref href="5117.90043.dita" navtitle="5117.9004-3 Ordering." props="5117.9004-3"
-               base="NoTitle" audience="AFARS_5117.90043" outputclass="subtopic" xtrf="subtopic"
-               xtrc="AFARS_5117.90043.html"/>
+         <topicref href="5117.9004.dita"
+                   navtitle="5117.9004 Procedures."
+                   props="5117.9004"
+                   base="NoTitle"
+                   audience="AFARS_5117.9004"
+                   outputclass="subtopic"
+                   xtrf="subtopic"
+                   xtrc="AFARS_5117.9004.html">
+            <topicref href="5117.90041.dita"
+                      navtitle="5117.9004-1 Presolicitation."
+                      props="5117.9004-1"
+                      base="NoTitle"
+                      audience="AFARS_5117.90041"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90041.html"/>
+            <topicref href="5117.90042.dita"
+                      navtitle="5117.9004-2 Solicitation."
+                      props="5117.9004-2"
+                      base="NoTitle"
+                      audience="AFARS_5117.90042"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90042.html"/>
+            <topicref href="5117.90043.dita"
+                      navtitle="5117.9004-3 Ordering."
+                      props="5117.9004-3"
+                      base="NoTitle"
+                      audience="AFARS_5117.90043"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5117.90043.html"/>
          </topicref>
-         <topicref href="5117.9005.dita" navtitle="5117.9005 JOC ordering officers."
-            props="5117.9005" base="NoTitle" audience="AFARS_5117.9005" outputclass="subtopic"
-            xtrf="subtopic" xtrc="AFARS_5117.9005.html"/>
-         <topicref href="5117.9006.dita" navtitle="5117.9006 Contracting officer responsibilities."
-            props="5117.9006" base="NoTitle" audience="AFARS_5117.9006" outputclass="subtopic"
-            xtrf="subtopic" xtrc="AFARS_5117.9006.html"/>
+         <topicref href="5117.9005.dita"
+                   navtitle="5117.9005 JOC ordering officers."
+                   props="5117.9005"
+                   base="NoTitle"
+                   audience="AFARS_5117.9005"
+                   outputclass="subtopic"
+                   xtrf="subtopic"
+                   xtrc="AFARS_5117.9005.html"/>
+         <topicref href="5117.9006.dita"
+                   navtitle="5117.9006 Contracting officer responsibilities."
+                   props="5117.9006"
+                   base="NoTitle"
+                   audience="AFARS_5117.9006"
+                   outputclass="subtopic"
+                   xtrf="subtopic"
+                   xtrc="AFARS_5117.9006.html"/>
       </topicref>
    </topicref>
    <topicref href="PART_5118.dita"
@@ -3326,23 +3366,15 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5119.5023.html"/>
+            <topicref href="5119.5028.dita"
+               navtitle="5119.502-8 Rejecting Small Business Administration recommendations."
+               props="5119.502-8" base="NoTitle" audience="AFARS_5119.5028" outputclass="subtopic"
+               xtrf="subtopic" xtrc="AFARS_5119.5028.html"/>
+            <topicref href="5119.5029.dita"
+               navtitle="5119.502-9 Withdrawing or modifying small business set-asides."
+               props="5119.502-9" base="NoTitle" audience="AFARS_5119.5029" outputclass="subtopic"
+               xtrf="subtopic" xtrc="AFARS_5119.5029.html"/>
          </topicref>
-         <topicref href="5119.505.dita"
-                   navtitle="5119.505 Rejecting Small Business Administration recommendations."
-                   props="5119.505"
-                   base="NoTitle"
-                   audience="AFARS_5119.505"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5119.505.html"/>
-         <topicref href="5119.506.dita"
-                   navtitle="5119.506 Withdrawing or modifying small business set-asides."
-                   props="5119.506"
-                   base="NoTitle"
-                   audience="AFARS_5119.506"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5119.506.html"/>
       </topicref>
       <topicref href="Subpart_5119.6.dita"
                 navtitle="Subpart 5119.6 - Certificates of Competency and Determinations of Responsibility"
@@ -3486,6 +3518,9 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5119.812.html"/>
+         <topicref href="5119.815.dita" props="5119.815" outputclass="subtopic"
+            navtitle="5119.815 Release for non-8(a) procurement." audience="AFARS_5119.815"
+            xtrf="subtopic" xtrc="AFARS_5119.815.html"/>
          <topicref href="5119.816.dita"
                    navtitle="5119.816 Exiting the 8(a) program."
                    props="5119.816"
@@ -4079,8 +4114,16 @@
                 audience="AFARS_Subpart_5125.8"
                 xtrf="SubPart"
                 xtrc="AFARS_Subpart_5125.8.html">
-         <topicref href="5125.802.dita" props="5125.802" outputclass="subtopic">
-            <topicref href="5125.80271.dita" props="5125.802-71" outputclass="subtopic"/>
+         <topicref href="5125.802.dita"
+                   props="5125.802"
+                   outputclass="subtopic"
+                   audience="AFARS_5125.802"
+                   xtrc="AFARS_5125.802.html">
+            <topicref href="5125.80271.dita"
+                      props="5125.802-71"
+                      outputclass="subtopic"
+                      audience="AFARS_5125.80271"
+                      xtrc="AFARS_5125.80271.html"/>
          </topicref>
          <topicref href="5125.870.dita"
                    navtitle="5125.870 Contracting with Canadian contractors."
@@ -4565,9 +4608,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5128.203.html">
-            <topicref href="5128.2035.dita" navtitle="5128.203-5 Exclusion of individual sureties."
-               props="5128.203-5" base="NoTitle" audience="AFARS_5128.2035" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_5128.2035.html"/>
+            <topicref href="5128.2035.dita"
+                      navtitle="5128.203-5 Exclusion of individual sureties."
+                      props="5128.203-5"
+                      base="NoTitle"
+                      audience="AFARS_5128.2035"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5128.2035.html"/>
          </topicref>
          <topicref href="5128.204.dita"
                    navtitle="5128.204 Alternatives in lieu of corporate or individual sureties."

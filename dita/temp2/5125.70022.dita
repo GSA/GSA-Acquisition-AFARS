@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5125.70022"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5125.7002-2</ph> Exceptions.</title>
+   <conbody>
+      <p outputclass="List1">(b)(1)(ii)(<i>1</i>)  The Secretary of the Army, on a nondelegable basis, is responsible for approving all domestic nonavailability determinations under 10 U.S.C. 2533a (Berry Amendment).  (See DFARS 225.7002-2(b)(1)).  The contracting officer shall not release the solicitation until the Secretary approves the determination.</p>
+      <p outputclass="List2">(<i>2</i>)  Submit all requests for an exception under this provision through procurement channels to the Deputy Assistant Secretary of the Army (Procurement) at the address located in 5101.290(b)(2)(ii)(C).  Submit requests no later than 60 business days prior to the planned release of the solicitation.  All requests shall fully explain why the item(s) in question cannot be procured as and when needed in a satisfactory quality and sufficient quantity at U.S. market prices.  The request shall include information on whether item(s) in question are managed by the Defense Logistics Agency (DLA) and written confirmation from the DLA that said item(s) are not available from the DLA in the time needed to meet Army requirements.  In addition, all requests shall include a written certification signed by the General Officer/Senior Executive Service-level head of the requiring activity that addresses, with specificity, why alternatives that would not require an exception from the Berry Amendment are unacceptable.</p>
+   </conbody>
+</concept>

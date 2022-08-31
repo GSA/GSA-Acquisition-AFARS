@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5106">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5106</ph> - Competition Requirements</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5106.2.dita#AFARS_Subpart_5106.2">Subpart 5106.2 - Full and Open Competition After Exclusion of Sources</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5106.202.dita#AFARS_5106.202">5106.202 Establishing or maintaining alternative sources.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5106.3.dita#AFARS_Subpart_5106.3">Subpart 5106.3 - Other Than Full and Open Competition</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5106.302.dita#AFARS_5106.302">5106.302 Circumstances permitting other than full and open competition.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3021.dita#AFARS_5106.3021">5106.302-1 Only one responsible source and no other supplies or services will satisfy agency requirements.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3022.dita#AFARS_5106.3022">5106.302-2 Unusual and compelling urgency.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3023.dita#AFARS_5106.3023">5106.302-3 Industrial mobilization; engineering, developmental, or research capability; or expert services.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3024.dita#AFARS_5106.3024">5106.302-4 International agreement.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3025.dita#AFARS_5106.3025">5106.302-5 Authorized or required by statute.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5106.303.dita#AFARS_5106.303">5106.303 Justifications.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3031.dita#AFARS_5106.3031">5106.303-1 Requirements.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.303190.dita#AFARS_5106.303190">5106.303-1-90 Requirements for amended justifications.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.3032.dita#AFARS_5106.3032">5106.303-2 Content.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.303290.dita#AFARS_5106.303290">5106.303-2-90 Format and submission of the justification review and justification and approval documents.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5106.304.dita#AFARS_5106.304">5106.304 Approval of the justification.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5106.5.dita#AFARS_Subpart_5106.5">Subpart 5106.5 - Advocates for Competition</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5106.501.dita#AFARS_5106.501">5106.501 Requirement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5106.502.dita#AFARS_5106.502">5106.502 Duties and responsibilities.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5106.50290.dita#AFARS_5106.50290">5106.502-90 Supplementary information.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

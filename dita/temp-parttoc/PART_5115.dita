@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5115">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5115</ph> - Contracting by Negotiation</title>
+      <body>
+         <p>
+            <i>(Revised 23 March 2022)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5115.000.dita#AFARS_5115.000">5115.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5115.001.dita#AFARS_5115.001">5115.001 Definitions.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5115.2.dita#AFARS_Subpart_5115.2">Subpart 5115.2 - Solicitation and Receipt of Proposals and Information</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.201.dita#AFARS_5115.201">5115.201 Exchanges with industry before receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.204.dita#AFARS_5115.204">5115.204 Contract format.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5115.3.dita#AFARS_Subpart_5115.3">Subpart 5115.3 - Source Selection</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.300.dita#AFARS_5115.300">5115.300 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.30090.dita#AFARS_5115.30090">5115.300-90 Waiver approvals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.303.dita#AFARS_5115.303">5115.303 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.304.dita#AFARS_5115.304">5115.304 Evaluation factors and significant subfactors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.305.dita#AFARS_5115.305">5115.305 Proposal evaluation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.306.dita#AFARS_5115.306">5115.306 Exchanges with offerors after receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.308.dita#AFARS_5115.308">5115.308 Source selection decision.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.371.dita#AFARS_5115.371">5115.371 Only one offer.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.3715.dita#AFARS_5115.3715">5115.371-5 Waiver.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5115.4.dita#AFARS_Subpart_5115.4">Subpart 5115.4 - Contract Pricing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.403.dita#AFARS_5115.403">5115.403 Obtaining certified cost or pricing data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4031.dita#AFARS_5115.4031">5115.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. 35).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4033.dita#AFARS_5115.4033">5115.403-3 Requiring data other than certified cost or pricing data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.403390.dita#AFARS_5115.403390">5115.403-3-90 Process and Reporting Requirements Pertaining to Contractor Denials of Contracting Officer Requests for Data Other Than Certified Cost or Pricing Data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.404.dita#AFARS_5115.404">5115.404 Proposal analysis.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4041.dita#AFARS_5115.4041">5115.404-1 Proposal analysis techniques.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4044.dita#AFARS_5115.4044">5115.404-4 Profit.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.406.dita#AFARS_5115.406">5115.406 Documentation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4061.dita#AFARS_5115.4061">5115.406-1 Prenegotiation objectives.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4063.dita#AFARS_5115.4063">5115.406-3 Documenting the negotiation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4073.dita#AFARS_5115.4073">5115.407-3 Forward pricing rate agreements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.4074.dita#AFARS_5115.4074">5115.407-4 Should-cost review.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5115.6.dita#AFARS_Subpart_5115.6">Subpart 5115.6 - Unsolicited Proposals</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.606.dita#AFARS_5115.606">5115.606 Agency procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5115.608.dita#AFARS_5115.608">5115.608 Prohibitions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

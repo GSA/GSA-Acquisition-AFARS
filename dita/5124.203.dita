@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5124.203"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5124.203" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5124.203</ph> Policy.</title>
    <conbody>
@@ -22,7 +19,7 @@
       <p id="ZRuDGw" outputclass="List3">(iii) Contracting officers in contracting activities other than the Army Materiel Command and the United States Army Corps of Engineers must send the proposed denial response to the HCA or, if delegated, to the SCO. Include copies of the records recommended for denial with a justification for the denial. Contracting officers in the Army Materiel Command and the United States Army Corps of Engineers must follow the procedures specified by their headquarters.</p>
       <p id="FIVdtT" outputclass="List3">(iv) After coordination with counsel, the HCA will provide the denial response, modified if necessary, to the requestor.</p>
       <p id="Qgdycr" outputclass="List3">(v) Within three working days of receipt of appeals, HCAs must send notice, the appeal and the documents required by AR 25-55 to the Office of the General Counsel at the following address:</p>
-      <p id="FZtHCC" outputclass="List3"/>
+      <p id="FZtHCC" outputclass="List3"></p>
       <p id="rk10nq6i" outputclass="List3">ATTN: SAGC</p>
       <p id="McUcSG" outputclass="List3">General Counsel</p>
       <p id="dtAWWo" outputclass="List3">104 Army Pentagon</p>

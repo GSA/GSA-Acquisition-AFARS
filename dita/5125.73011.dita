@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5125.73011"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5125.73011" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5125.7301-1</ph> Requirement to use firm-fixed-price contracts.</title>
    <conbody>
       <p outputclass="Normal">
-         <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/225_73.htmhttps:/www.acq.osd.mil/dpap/policy/policyvault/USA000016-20-DPC.pdf"
-               scope="external"
-               format="pdf">
+         <xref href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/225_73.htmhttps:/www.acq.osd.mil/dpap/policy/policyvault/USA000016-20-DPC.pdf" scope="external" format="pdf">
             <u>D</u>
             <u>efense </u>
             <u>P</u>

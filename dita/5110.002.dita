@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5110.002"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5110.002" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5110.002</ph> Procedures.</title>
    <conbody>
       <p outputclass="List1">(b)  All members of the acquisition team will participate in market research and apply their functional tools and expertise.  Program managers or representatives of the requiring activity will typically lead the market research effort.  A statement that the solicitation will be synopsized and that all proposals received will be evaluated is not a substitute for performing adequate market research and in itself does not support and justify procurement under other than full and open conditions.  Specific requirements pertaining to market research in support of other than full and open competition are included in 5153.303-5, paragraph 8.</p>
-      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5110.aspx"
-               format="html"
-               scope="external">AFARS PGI 5110.002(b)-1</xref> for information and
+      <p>See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5110.aspx" format="html" scope="external">AFARS PGI 5110.002(b)-1</xref> for information and
          instructions on using ProcurementIQ, a market intelligence tool specifically designed for
          procurement, strategic sourcing and indirect procurement. </p>
-      <p>Additional market research and planning guidance is available at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5110.aspx"
-               format="html"
-               scope="external">AFARS PGI 5110.002(b)-2</xref>. </p>
+      <p>Additional market research and planning guidance is available at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5110.aspx" format="html" scope="external">AFARS PGI 5110.002(b)-2</xref>. </p>
       <p outputclass="List1" rev="Revised August 4, 2022">(e) The Assistant Secretary of the Army
          (Acquisition, Logistics and Technology) shall document the results of market research in a
          manner appropriate to the size and complexity of the acquisition as stated at FAR
@@ -24,9 +16,7 @@
       <p outputclass="List2">(i) In addition to using the “Market Research Report Guide for
          Improving the Tradecraft in Services Acquisition”, for service acquisitions, the format and
          processes should also be adapted for use in documenting market research for supplies. The
-         Office of Small Business Programs tool at: <xref href="https://ebiz.acq.osd.mil/mrcoe/"
-               scope="external"
-               format="html">
+         Office of Small Business Programs tool at: <xref href="https://ebiz.acq.osd.mil/mrcoe/" scope="external" format="html">
             <u>https://ebiz.acq.osd.mil/mrcoe/</u>
          </xref> (CAC enabled) should be used to develop the Market Research report.</p>
    </conbody>

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5122.4068"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5122.4068" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5122.406-8</ph> Investigations.</title>
    <conbody>
@@ -14,9 +10,7 @@
       <p outputclass="Normal">2200 Army Pentagon, 3B548</p>
       <p outputclass="Normal">Washington, DC 20310.</p>
       <p outputclass="Normal">
-         <xref href="mailto:usarmy.pentagon.hqda-otjag.mbx.usalsa-kfld-rbg-support@mail.mil"
-               scope="external"
-               format="mailto">
+         <xref href="mailto:usarmy.pentagon.hqda-otjag.mbx.usalsa-kfld-rbg-support@mail.mil" scope="external" format="mailto">
             <u>usarmy.pentagon.hqda-otjag.mbx.usalsa-kfld-rbg-support@mail.mil</u>
          </xref>.  </p>
       <p outputclass="Normal">The labor advisor forwards the report to the Department of Labor on behalf of the agency head (see FAR 22.406-8(d)(2)).</p>

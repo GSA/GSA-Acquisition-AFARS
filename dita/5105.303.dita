@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5105.303"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5105.303" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5105.303</ph> Announcement of contract awards.</title>
    <conbody>
@@ -13,9 +9,7 @@
       <p outputclass="List3">(i)  In addition to the contractual actions identified in DFARS 205.303, report all contractual actions of significance or interest to the United States Congress, the Army, and the local community.</p>
       <p outputclass="List3">(ii)(<i>1</i>)<i>  </i>The contracting officer shall submit an announcement of contract award to the Office of the Deputy Assistant Secretary of the Army (Procurement) (ODASA(P)) no later than noon (12:00 p.m., Washington, DC, time) three business days (including the date of submission) prior to the date of the proposed award.  For example: when an award is anticipated on Thursday, the ODASA(P) must receive the announcement no later than noon, Washington DC time, on the preceding Tuesday.  Contracting officers will submit the request along with required supporting information via the Virtual Contracting Enterprise (VCE) portal page at <xref href="https://vceportal.army.mil" scope="external" format="mil">
             <u>https://vceportal.army.mil</u>
-         </xref>.  A contracting officer will not award a contract that meets the reporting threshold at DFARS 205.303(a)(i) without formal ODASA(P) approval.  If the contracting officer has not received approval of the request by 2:30 p.m., Washington, DC time, on the day before the desired date of contract award, the contracting officer will contact the ODASA(P) at <xref href="mailto:usarmy.pentagon.hqda-asa-alt.list.congressional-notific@mail.mil"
-               scope="external"
-               format="mailto">
+         </xref>.  A contracting officer will not award a contract that meets the reporting threshold at DFARS 205.303(a)(i) without formal ODASA(P) approval.  If the contracting officer has not received approval of the request by 2:30 p.m., Washington, DC time, on the day before the desired date of contract award, the contracting officer will contact the ODASA(P) at <xref href="mailto:usarmy.pentagon.hqda-asa-alt.list.congressional-notific@mail.mil" scope="external" format="mailto">
             <u>usarmy.pentagon.hqda-asa-alt.list.congressional-notific@mail.mil</u>
          </xref> to inquire into the status of the approval.</p>
       <p outputclass="List6">(<i>2</i>)  Contracting officers shall confirm the award schedule with ODASA(P) by noon of the proposed award date using the email address in paragraph (a)(ii)(1).  If the schedule is anticipated to slip, a new award date must be established.</p>

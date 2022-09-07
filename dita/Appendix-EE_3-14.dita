@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-14"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_3-14" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">3-14.</ph> Convenience Checks and Foreign Draft Checks</title>
    <conbody>
@@ -24,7 +21,7 @@
       <p id="BoWhcK" outputclass="Normal">(3) Estimated dollar amount of checks intended to be written within a 12-month period</p>
       <p id="KwUEjo" outputclass="Normal">(4) Single and monthly purchase limits</p>
       <p id="TiMiWG" outputclass="Normal">(5) Check writer’s complete name, office name, address, e-mail, phone/fax number</p>
-      <p id="p_OLE_LINK38" outputclass="Normal"/>
+      <p id="p_OLE_LINK38" outputclass="Normal"></p>
       <p id="fLkdsu" outputclass="Normal">m. Use of Convenience Check Accounts.</p>
       <p id="OPDtja" outputclass="Normal">(1) Convenience checks may be used for small purchases, when supplies or service are available for delivery within 15 days whether at the contractor’s place of business or at destination. Convenience checks must not be used for employee reimbursements, cash advances, cash awards, travel-related transportation payments, or meals. Purchases made with the check must not require detailed specifications or an inspection report. Convenience checks should not be used for recurring payments.</p>
       <p id="niSMFw" outputclass="Normal">(2) Convenience checks may be used for purposes not related to small purchases when such expenditures are authorized by other regulations such as:</p>
@@ -32,8 +29,6 @@
       <p id="gPepIS" outputclass="List2">(b) C.O.D. charges for supplies ordered for payment with a convenience check upon delivery.</p>
       <p id="PiOUnd">n.Tax Reporting - The 1099 Tax Reporting Process (TRP) was developed to collect convenience checks written for services, rent, medical and health care services and other Internal Revenue Service (IRS) requirements. This data is used to process IRS 1099-MISC forms. The BO is responsible to monitor the check writer's compliance with 1099-TRP.</p>
       <p id="NAUNvc">(1) Convenience check holders must submit check data to DFAS on any checks they issue for tax reportable categories. This should be done throughout the year and is suggested to be completed monthly, and can be done on-line once the check writer and their corresponding A/OPC officially request access to the 1099 TRP. The 1099 TRP is restricted to authorized users only. Access is optional for the BO, but may be necessary to fulfill the BO's responsibility to ensure the check writer is compliant with 1099 TRP.</p>
-      <p id="bbkrxa">(2) 1099 TRP System Access: To obtain access, users must complete two system access forms, DD form 2875 and DD form 2869. The link to access the System Access Request Forms is: <xref format="html"
-               href="https://dfas4dod.dfas.mil/systems/1099/"
-               scope="external">https://dfas4dod.dfas.mil/systems/1099/</xref>. Carefully follow the instructions for completing the forms. All check writers and A/OPCs must complete both forms. Fax completed forms to 614-693-5452 or Defense Switched Network (DSN) 869-5452, or scan and email them to <xref format="mailto" href="mailto:cco.checks@dfas.mil" scope="external">cco.checks@dfas.mil</xref>. Prior to accessing the 1099-TRP, all users should read the Convenience Check User's Manual.</p>
+      <p id="bbkrxa">(2) 1099 TRP System Access: To obtain access, users must complete two system access forms, DD form 2875 and DD form 2869. The link to access the System Access Request Forms is: <xref format="html" href="https://dfas4dod.dfas.mil/systems/1099/" scope="external">https://dfas4dod.dfas.mil/systems/1099/</xref>. Carefully follow the instructions for completing the forms. All check writers and A/OPCs must complete both forms. Fax completed forms to 614-693-5452 or Defense Switched Network (DSN) 869-5452, or scan and email them to <xref format="mailto" href="mailto:cco.checks@dfas.mil" scope="external">cco.checks@dfas.mil</xref>. Prior to accessing the 1099-TRP, all users should read the Convenience Check User's Manual.</p>
    </conbody>
 </concept>

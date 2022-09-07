@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.3031"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.3031" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5153.303-1</ph> Sample contracting officers representative (COR) designation.</title>
    <conbody>
       <p id="CLUjog" outputclass="Normal">
          <b>Subject:</b> Designation of Contracting Officer’s Representative (COR) for Contract (Enter number.).</p>
       <p id="nmTpGk" outputclass="List1">1. Pursuant to DFARS 201.602-2, you are designated as the contracting officer’s representative (COR) in administration of the following contract:</p>
-      <p id="dxMuPS" outputclass="List1"/>
+      <p id="dxMuPS" outputclass="List1"></p>
       <p id="NUufZu" outputclass="List1">Contract Number:</p>
       <p id="XfEPOS" outputclass="List1">For: (Enter item/system/services.)</p>
       <p id="KLjyLb" outputclass="List1">Contractor:</p>
       <p id="KyxMrh" outputclass="List1">Contract Period:</p>
-      <p id="22jy7fz" outputclass="List1"/>
+      <p id="22jy7fz" outputclass="List1"></p>
       <p id="dmVKoI" outputclass="List1">2. You are authorized by this designation to take action with respect to the following:</p>
       <p id="YWJary" outputclass="List2">a. Verify that the contractor performs the technical requirements of the contract in accordance with the contract terms, conditions and specifications. Specific emphasis should be placed on the quality provisions, for both adherences to the contract provisions and to the contractor’s own quality control program.</p>
       <p id="AVaGAP" outputclass="List2">b. Perform, or cause to be performed, inspections necessary in connection with paragraph 2.a. and verify that the contractor has corrected all deficiencies. Perform acceptance for the Government of services performed under this contract.</p>
@@ -42,14 +39,14 @@
       <p id="LzFqrq" outputclass="List1">8. A COR who may have direct or indirect financial interests which would place the COR in a position where there is a conflict between the COR’s private interests and the public interests of the United States shall advise the supervisor and the contracting officer of the conflict so that appropriate actions may be taken. CORs shall avoid the appearance of a conflict of interests to maintain public confidence in the U.S. Government’s conduct of business with the private sector.</p>
       <p id="stgnTX" outputclass="List1">9. You are required to summarize the contractor’s contractual performance at least annually using the Contractor Performance Assessment Reporting System (CPARS) at http://www.cpars.gov. The narrative you write must support the rating given based on the rating definitions in the CPARS Guide on the website.</p>
       <p id="xYVKPH" outputclass="List1">10. You are required to acknowledge receipt of this designation on the duplicate copy and return it to the contracting officer. Your signature also serves as certification that you have read and understand the contents of DoD 5500.7-R. The original copy of this designation should be retained for your file.</p>
-      <p id="4fjy377k" outputclass="List1"/>
+      <p id="4fjy377k" outputclass="List1"></p>
       <p id="chbnmr" outputclass="Ctr">Signature Block Of</p>
       <p id="nOEhXj" outputclass="Ctr">Contracting Officer</p>
       <p id="WNLgft" outputclass="Normal">Receipt of this designation is acknowledged.</p>
       <table colsep="0" rowsep="0">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -78,6 +75,6 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="6nyopo6h" outputclass="Normal"/>
+      <p id="6nyopo6h" outputclass="Normal"></p>
    </conbody>
 </concept>

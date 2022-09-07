@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5101.170"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5101.170" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5101.170</ph> Peer reviews.</title>
    <conbody>
@@ -12,12 +8,8 @@
       <p outputclass="List2">(1)<i> </i>The SCO will concur, in writing, on all solicitation and
          contract packages submitted for each phase of any DoD peer review. For the first phase
          only, the SCO will send a copy of the written concurrence to the DASA(P) (see 5101.290) and
-         provide a copy to the head of the contracting activity (HCA). <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
-               format="html"
-               scope="external">See AFARS PGI 5101.170-2</xref>.</p>
-      <p outputclass="List3">(i) In accordance with <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/Class_Deviation_2019-O0010-DPC.pdf"
-               scope="external"
-               format="pdf">
+         provide a copy to the head of the contracting activity (HCA). <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx" format="html" scope="external">See AFARS PGI 5101.170-2</xref>.</p>
+      <p outputclass="List3">(i) In accordance with <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/Class_Deviation_2019-O0010-DPC.pdf" scope="external" format="pdf">
             <u>Defense Pricing and Contracting (DPC) Class Deviation 2019-O0010, Peer Reviews of
                Contracts for Supplies and Services</u>
          </xref>, except for procurements of major defense acquisition programs above $1 billion for
@@ -28,9 +20,7 @@
       <p outputclass="List2">(2) Contracting activities shall provide their rolling annual forecast
          of acquisitions that will be subject to DoD peer reviews to the address at
          5101.290(b)(2)(ii)(A) at the end of each quarter. See 5104.802(f)(4) for peer review
-         forecast requirements. <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
-               format="html"
-               scope="external">See AFARS PGI 5101.170-3</xref>.</p>
+         forecast requirements. <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx" format="html" scope="external">See AFARS PGI 5101.170-3</xref>.</p>
       <p outputclass="List1">(b) <i>Component peer reviews.</i>
       </p>
       <p outputclass="List3">(i) <i>Army peer reviews.</i> With the exception of acquisitions using
@@ -61,10 +51,10 @@
          reviews, thresholds and approval authorities. </p>
       <table id="table_tvt_pzs_q5b" rev="Revised August 24, 2022">
          <tgroup cols="4">
-            <colspec colnum="1" colname="col1"/>
-            <colspec colnum="2" colname="col2"/>
-            <colspec colnum="3" colname="col3"/>
-            <colspec colnum="4" colname="col4"/>
+            <colspec colnum="1" colname="col1" rowheader="headers" />
+            <colspec colnum="2" colname="col2" rowheader="headers" />
+            <colspec colnum="3" colname="col3" rowheader="headers" />
+            <colspec colnum="4" colname="col4" rowheader="headers" />
             <tbody>
                <row>
                   <entry namest="col1" nameend="col4" outputclass="Ctr_SmCaps">TABLE 1-1, Peer
@@ -206,20 +196,14 @@
          period. </p>
       <p outputclass="List6" rev="Revised August 24, 2022"> (a) The ODASA(P) will conduct an
          Independent Management Review (IMR) for contracts for services valued at $1 billion or
-         more. The reviews will be conducted in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
-               format="html"
-               scope="external">AFARS PGI 5101.170-4(a).</xref>
+         more. The reviews will be conducted in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx" format="html" scope="external">AFARS PGI 5101.170-4(a).</xref>
       </p>
       <p outputclass="List6" rev="Revised August 24, 2022"> (b) <ph id="_Hlk90390033">The HCA will
             conduct an IMR for contracts for services valued at $100 million or more but less than
-            $1 billion</ph>. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
-               format="html"
-               scope="external">Appendix GG</xref> for further delegation. For HCA reviews, the HCA
+            $1 billion</ph>. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx" format="html" scope="external">Appendix GG</xref> for further delegation. For HCA reviews, the HCA
          will provide the Senior Services Manager a summary report. The summary report will address
          the independent management review required elements in DoDI 5000.74 Defense Acquisition of
-         Services and shall be filed within PCF in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
-               format="html"
-               scope="external">AFARS PGI 5101.170-4(b)</xref>; no later than 45 days after completion
+         Services and shall be filed within PCF in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx" format="html" scope="external">AFARS PGI 5101.170-4(b)</xref>; no later than 45 days after completion
          of the review.</p>
    </conbody>
 </concept>

@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS_Appendix-GG">
-      <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">APPENDIX - GG</ph> Table Of Contents</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS_Appendix-GG" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 heading Ctr">
+         <ph props="autonumber">APPENDIX GG</ph> - Table Of Contents</title>
       <body>
          <ul otherprops="TOC">
             <li>
                <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-GG_Apendix-GG.dita#AFARS_Appendix-GG_Apendix-GG">Appendix GG</xref>
+                  <xref outputclass="fm:TOC" href="Appendix-GG_Apendix-GG.dita#AFARS_Appendix-GG_Apendix-GG">Appendix GG</xref>
                </p>
             </li>
          </ul>

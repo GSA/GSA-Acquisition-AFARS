@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5133.21291"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.21291" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5133.212-91</ph> Notice of an appeal.</title>
    <conbody>
       <p id="lbsLDq" outputclass="Normal">Contracting officers must perform the following actions concurrently:</p>
       <p id="isQjxQ" outputclass="List1">(a) Send any notice of appeal received directly, including the envelope showing the postmark directly to:</p>
-      <p id="nrjijp" outputclass="List1"/>
+      <p id="nrjijp" outputclass="List1"></p>
       <p id="85i1q3o" outputclass="List1">Chairman, ASBCA</p>
       <p id="gXhJpJ" outputclass="List1">5109 Leesburg Pike</p>
       <p id="UqddwW" outputclass="List1">Skyline 6, Room 703</p>
       <p id="AWZgbH" outputclass="List1">Falls Church, VA 22041-3208.</p>
-      <p id="SbpdSn" outputclass="List1"/>
+      <p id="SbpdSn" outputclass="List1"></p>
       <p id="ld9hldl" outputclass="List1">(b) When the Defense Contract Management Agency staff has participated in contract award and/or administration, send to the Defense Contract Management Agency office involved a notice of the appeal with direction to preserve all documents pertaining to the contract.</p>
    </conbody>
 </concept>

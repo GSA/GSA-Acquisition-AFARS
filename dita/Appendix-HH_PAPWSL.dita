@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-HH_PAPWSL"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-HH_PAPWSL" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
       <ph props="autonumber">Policy and</ph> PWS Language</title>
    <conbody>
       <table colsep="1" rowsep="1">
          <tgroup cols="12" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers"/>
-            <colspec colname="2" colnum="2" rowheader="headers"/>
-            <colspec colname="3" colnum="3" rowheader="headers"/>
-            <colspec colname="4" colnum="4" rowheader="headers"/>
-            <colspec colname="5" colnum="5" rowheader="headers"/>
-            <colspec colname="6" colnum="6" rowheader="headers"/>
-            <colspec colname="7" colnum="7" rowheader="headers"/>
-            <colspec colname="8" colnum="8" rowheader="headers"/>
-            <colspec colname="9" colnum="9" rowheader="headers"/>
-            <colspec colname="10" colnum="10" rowheader="headers"/>
-            <colspec colname="11" colnum="11" rowheader="headers"/>
-            <colspec colname="12" colnum="12" rowheader="headers"/>
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
+            <colspec colname="3" colnum="3" rowheader="headers" />
+            <colspec colname="4" colnum="4" rowheader="headers" />
+            <colspec colname="5" colnum="5" rowheader="headers" />
+            <colspec colname="6" colnum="6" rowheader="headers" />
+            <colspec colname="7" colnum="7" rowheader="headers" />
+            <colspec colname="8" colnum="8" rowheader="headers" />
+            <colspec colname="9" colnum="9" rowheader="headers" />
+            <colspec colname="10" colnum="10" rowheader="headers" />
+            <colspec colname="11" colnum="11" rowheader="headers" />
+            <colspec colname="12" colnum="12" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry>
-                     <p id="oaRAuT"/>
+                     <p id="oaRAuT"></p>
                   </entry>
                   <entry>
-                     <p id="vTbykd"/>
+                     <p id="vTbykd"></p>
                   </entry>
                   <entry>
-                     <p id="cVydTu"/>
+                     <p id="cVydTu"></p>
                   </entry>
                   <entry>
-                     <p id="BCDdsI"/>
+                     <p id="BCDdsI"></p>
                   </entry>
                   <entry nameend="8" namest="5">
                      <p id="FYYryB">
@@ -46,7 +43,7 @@
                      </p>
                   </entry>
                   <entry>
-                     <p id="HbYLsu"/>
+                     <p id="HbYLsu"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -127,28 +124,28 @@
                      <p id="ImhPwl">N/A</p>
                   </entry>
                   <entry>
-                     <p id="NtZIsf"/>
+                     <p id="NtZIsf"></p>
                   </entry>
                   <entry>
-                     <p id="GxTuCw"/>
+                     <p id="GxTuCw"></p>
                   </entry>
                   <entry>
-                     <p id="VvcyiD"/>
+                     <p id="VvcyiD"></p>
                   </entry>
                   <entry>
-                     <p id="SmXkQZ"/>
+                     <p id="SmXkQZ"></p>
                   </entry>
                   <entry>
-                     <p id="MxtsLD"/>
+                     <p id="MxtsLD"></p>
                   </entry>
                   <entry>
-                     <p id="buCjxh"/>
+                     <p id="buCjxh"></p>
                   </entry>
                   <entry>
-                     <p id="GktnPx"/>
+                     <p id="GktnPx"></p>
                   </entry>
                   <entry>
-                     <p id="bXMxvF"/>
+                     <p id="bXMxvF"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -208,7 +205,7 @@
                      <p id="jVBdoZ">EXORD 009-20: 3.D.5.G. (U) DIRECT THE ENTERPRISE CLOUD MANAGEMENT OFFICE (ECMO) TO DEVELOP A PLAN TO CONSOLIDATE EXISTING CLOUD INSTANCES TO THE GREATEST POSSIBLE EXTENT, AND WITHOUT SIGNIFICANT IMPACT TO ONGOING OPERATIONS, TO GAIN VISIBILITY AND CONTROL OF ARMY CLOUD MIGRATIONS NLT 01 JAN 2020.</p>
                   </entry>
                   <entry>
-                     <p id="EHZkbY"/>
+                     <p id="EHZkbY"></p>
                   </entry>
                   <entry>
                      <p id="QQCmRO">N/A</p>
@@ -536,7 +533,7 @@
                      <p id="mkWuKd">No</p>
                   </entry>
                   <entry>
-                     <p id="mgpmJn"/>
+                     <p id="mgpmJn"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -582,7 +579,7 @@
                      <p id="ObxhUR">Yes</p>
                   </entry>
                   <entry>
-                     <p id="wpfedH"/>
+                     <p id="wpfedH"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -626,7 +623,7 @@
                      <p id="HFzyAf">No</p>
                   </entry>
                   <entry>
-                     <p id="PgvuvD"/>
+                     <p id="PgvuvD"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -670,7 +667,7 @@
                      <p id="yTJMfj">No</p>
                   </entry>
                   <entry>
-                     <p id="nswkuW"/>
+                     <p id="nswkuW"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -714,7 +711,7 @@
                      <p id="QsNQWu">No</p>
                   </entry>
                   <entry>
-                     <p id="OmbfNi"/>
+                     <p id="OmbfNi"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -758,7 +755,7 @@
                      <p id="DbGsMx">No</p>
                   </entry>
                   <entry>
-                     <p id="eoVQuT"/>
+                     <p id="eoVQuT"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -848,7 +845,7 @@
                      <p id="acENvy">No</p>
                   </entry>
                   <entry>
-                     <p id="piotjg"/>
+                     <p id="piotjg"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -892,7 +889,7 @@
                      <p id="LZbfeR">No</p>
                   </entry>
                   <entry>
-                     <p id="jxVazq"/>
+                     <p id="jxVazq"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -940,7 +937,7 @@
                      <p id="nNOgBE">No</p>
                   </entry>
                   <entry>
-                     <p id="knxEMc"/>
+                     <p id="knxEMc"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -988,7 +985,7 @@
                      <p id="WCLLSC">No</p>
                   </entry>
                   <entry>
-                     <p id="jSJuEl"/>
+                     <p id="jSJuEl"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1036,7 +1033,7 @@
                      <p id="nCfFwT">No</p>
                   </entry>
                   <entry>
-                     <p id="RSvuOs"/>
+                     <p id="RSvuOs"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1084,7 +1081,7 @@
                      <p id="dzRTVl">No</p>
                   </entry>
                   <entry>
-                     <p id="nOFkmp"/>
+                     <p id="nOFkmp"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1132,7 +1129,7 @@
                      <p id="qSDnAk">No</p>
                   </entry>
                   <entry>
-                     <p id="VjuoUc"/>
+                     <p id="VjuoUc"></p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1180,7 +1177,7 @@
                      <p id="PEAWtj">No</p>
                   </entry>
                   <entry>
-                     <p id="FSflpl"/>
+                     <p id="FSflpl"></p>
                   </entry>
                </row>
                <row rowsep="1">

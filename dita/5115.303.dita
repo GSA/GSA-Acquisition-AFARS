@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5115.303"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5115.303" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5115.303</ph> Responsibilities.</title>
    <conbody>
       <p id="UjIPQP" outputclass="List1">(a)(i) Table 15-1 designates the Army source selection authority appointments for FAR-based acquisitions.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2" colsep="1">
-            <colspec colname="1" colnum="1" colwidth="51*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="49*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="51*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="49*" rowheader="headers" />
             <tbody>
                <row rowsep="1">
                   <entry nameend="2" namest="1">
@@ -71,9 +68,7 @@
       <p id="SsyJXY" outputclass="List3">(A) A memorandum from the HCA or SCO to the DASA(P) requesting the appointment of the nominee as SSA.</p>
       <p id="FxetZG" outputclass="List3">(B) A biography of the SSA nominee detailing the training, knowledge, and experience that qualifies them for this appointment.</p>
       <p id="JJDWlf" outputclass="List3">(C) A memorandum for the record signed by the supporting legal office, ethics counselor, detailing the ethics briefing conducted with the nominee for this source selection, and verification the nominee’s final disclosure report has been reviewed and not potential conflicts of interest were identified.</p>
-      <p id="MwkmgV" outputclass="List3">(D) Request for Source Selection Appointment documents for DASA(P) or AAE signature should be sent encrypted email to: <xref format="mailto"
-               href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil"
-               scope="external">
+      <p id="MwkmgV" outputclass="List3">(D) Request for Source Selection Appointment documents for DASA(P) or AAE signature should be sent encrypted email to: <xref format="mailto" href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil" scope="external">
             <u>usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@mail.mil</u>
          </xref>.</p>
       <p id="KgIDQT" outputclass="List1">(b)(2) Army SSAs shall utilize Appendix AA, Army Source Selection Supplement (AS3), when conducting competitive, negotiated source selections. A source selection plan is required for all competitive, negotiated acquisitions where the basis of award includes factors in addition to cost or price. Army SSAs must use the standard rating tables as detailed in the DoD Source Selection Procedures, to include the colors and adjectives.</p>

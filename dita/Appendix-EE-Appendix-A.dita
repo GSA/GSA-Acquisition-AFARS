@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE-Appendix-A"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE-Appendix-A" ditaarch:DITAArchVersion="1.3">
    <title outputclass="1 Heading">
       <ph props="autonumber">Appendix A: Best Practices</ph> Table Of Contents</title>
    <conbody>
@@ -120,7 +117,7 @@
          <b>12.</b>
          <b>Payment Delinquency Monitoring.</b>
       </p>
-      <p id="TuEYRY"/>
+      <p id="TuEYRY"></p>
       <p id="ztfbYu">a. A/OPC's and Financial Managers can view in Access Online which accounts have not been approved before U.S. Bank takes suspension action. By using the Managing Account Approval Status Report, you can see which accounts are still outstanding for any cycle. This report can be found in the Reports listing under – “Financial Management Reports”. Additionally, a faster method would be to scan the Managing Account List screen in Transaction Management for the cycle in question. Another report you can access is the “Past Due Report” by going through “Access Online Reporting-Program Management-Past Due”. Please ensure all A/OPCs and RMs take advantage of the Servicing Bank’s reporting capabilities to assist them in identifying and resolving delinquent accounts.</p>
       <p id="p__Toc358795817" outputclass="Normal">b. The Army goal is to pay all accounts on time. Level 4 A/OPCs who have a history of more than 5 percent of BO accounts delinquent during four or more billing cycles in the reporting period must report, on a semi-annual basis to their Level 3 A/OPCs, what corrective actions they have taken to improve payments. Delinquencies as a percentage of the outstanding balance due also should be tracked. The Army may not have more than 0.75 percent of its total receivables at the bank over 60 days past due. The Army maintains a zero tolerance for any percentage of receivables over 180 days past due.</p>
    </conbody>

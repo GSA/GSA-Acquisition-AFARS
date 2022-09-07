@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.3035"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.3035" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5153.303-5</ph> Format for a justification and approval for other than full and open competition.</title>
    <conbody>
@@ -43,12 +40,12 @@
       <p id="rtDPNb" outputclass="List2">b. <i>Other facts</i>. Provide any other facts necessary to justify limiting competition that were not previously stated.</p>
       <p id="TtbvxX" outputclass="List2">(Certifications will normally be provided on a separate page at the end of the J&amp;A to allow minor, administrative changes to be made during the review process.)</p>
       <p id="ffgpLC" outputclass="List1">11. <b>Technical Certification:</b> Include the following statement:</p>
-      <p id="JshUgQ" outputclass="List1"/>
+      <p id="JshUgQ" outputclass="List1"></p>
       <p id="RaPWDA" outputclass="List1">I certify that the supporting data under my cognizance, which are included in the justification are accurate and complete to the best of my knowledge and belief.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -69,13 +66,13 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="GexvSi"/>
+      <p id="GexvSi"></p>
       <p id="GIThqM" outputclass="List1">12. <b>Requirements Certification:</b> Include the following statement:</p>
       <p id="dOUDhx" outputclass="List1">I certify that the supporting data under my cognizance, which are included in the justification are accurate and complete to the best of my knowledge and belief.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -96,15 +93,15 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="wjt35iol" outputclass="Normal"/>
+      <p id="wjt35iol" outputclass="Normal"></p>
       <p id="jVhPdv" outputclass="Normal">Only the most senior persons within the organization responsible for acquiring the supplies or services described in the justification (e.g. program manager, depot commander, or senior program engineer) and with specific knowledge of the individual requirement (commodity, technology, and/or function) shall sign the technical and requirements certifications.</p>
       <p id="dQPrER" outputclass="List1">13. <b>Fair and Reasonable Cost Determination:</b> Include the following determination:</p>
       <p id="kCpGSF" outputclass="List1">I hereby determine that the anticipated cost to the Government for this contract action will be fair and reasonable.</p>
       <p id="BpSsCF" outputclass="List1">Provide the basis for this determination (e.g., describe techniques to be used to determine fair and reasonable price, such as cost analysis, price analysis, audit, should cost, independent Government estimate, etc.). As part of the basis, indicate whether certified cost or pricing data will be required or if one of the exceptions in FAR 15.403 applies.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -125,13 +122,13 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="4q26btjf" outputclass="Normal"/>
+      <p id="4q26btjf" outputclass="Normal"></p>
       <p id="XXFfgY" outputclass="List1">14. <b>Contracting Officer Certification:</b> This certification shall be made by the contracting officer who will sign the contract resulting from this justification and approval. Include the following statement:</p>
       <p id="asWsKy" outputclass="List1">I certify that this justification is accurate and complete to the best of my knowledge and belief.</p>
       <table colsep="1" frame="all" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" rowheader="headers"/>
-            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row>
                   <entry>Typed Name:</entry>
@@ -144,9 +141,9 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="ZQsFuV" outputclass="Normal"/>
+      <p id="ZQsFuV" outputclass="Normal"></p>
       <p id="QKSgAB" outputclass="Normal">Note: It is recommended for the contracting officer to annotate at the bottom of each J&amp;A page the following marking, as appropriate, prior to posting on the internet: “Controlled Unclassified Information”.</p>
-      <p id="b7ms20le" outputclass="Normal"/>
+      <p id="b7ms20le" outputclass="Normal"></p>
       <p id="ggGxln" outputclass="Ctr">
          <b>Approval</b>
       </p>
@@ -154,8 +151,8 @@
       <p id="GGoYhH" outputclass="Normal">Based on the foregoing justification, I hereby approve the procurement of (state equipment/services being procured) on an other than full and open competition basis pursuant to the authority of 10 U.S.C. 2304(c) (insert authority and general title), subject to availability of funds, and provided that the services and property herein described have otherwise been authorized for acquisition.</p>
       <table colsep="1" frame="all" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" rowheader="headers"/>
-            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <colspec colname="1" colnum="1" rowheader="headers" />
+            <colspec colname="2" colnum="2" rowheader="headers" />
             <tbody>
                <row>
                   <entry>Date: ___________________</entry>
@@ -164,6 +161,6 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="tSHTSP" outputclass="Normal"/>
+      <p id="tSHTSP" outputclass="Normal"></p>
    </conbody>
 </concept>

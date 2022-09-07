@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.30310"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.30310" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5153.303-10</ph> Contractor Performance Assessment Report System access request format.</title>
    <conbody>
@@ -29,8 +26,8 @@
       </p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -75,13 +72,13 @@
             </tbody>
          </tgroup>
       </table>
-      <p id="MolERe" outputclass="Normal"/>
+      <p id="MolERe" outputclass="Normal"></p>
       <p id="JqpdVe" outputclass="Normal">B. Enter Name of Assessing Official:</p>
       <p id="ebooEs" outputclass="Normal">The Assessing Official may input ratings and narrative, sign the assessment report, and release it to the contractor, and modify the report following contractor comments or close the report if it is not contentious. The Assessing Official is the person with overall responsibility for the program/project or job/task/delivery order. The Assessing Official must be a U.S. Army employee.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -100,19 +97,19 @@
                      <p id="iuAYav">1.</p>
                   </entry>
                   <entry>
-                     <p id="AjeMpt"/>
+                     <p id="AjeMpt"></p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="WxxeZX" outputclass="Normal"/>
+      <p id="WxxeZX" outputclass="Normal"></p>
       <p id="teLyRZ" outputclass="Normal">C. Enter Name(s) of Assessing Official Representative(s) (Optional):</p>
       <p id="eEJgKv" outputclass="Normal">The Assessing Official Representative (AOR) may assist the Assessing Official by inputting ratings and narrative. The AOR may not sign the report. Examples of AORs include technical experts (i.e., engineering, logistics), Defense Contract Management Agency program integrators, quality and other team members. An AOR must be a government employee.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -131,7 +128,7 @@
                      <p id="zoAeAA">1.</p>
                   </entry>
                   <entry>
-                     <p id="GPJvce"/>
+                     <p id="GPJvce"></p>
                   </entry>
                </row>
                <row>
@@ -139,7 +136,7 @@
                      <p id="gklutr">2.</p>
                   </entry>
                   <entry>
-                     <p id="wqGugB"/>
+                     <p id="wqGugB"></p>
                   </entry>
                </row>
                <row>
@@ -147,7 +144,7 @@
                      <p id="BedsmN">3.</p>
                   </entry>
                   <entry>
-                     <p id="iVunpb"/>
+                     <p id="iVunpb"></p>
                   </entry>
                </row>
                <row>
@@ -155,19 +152,19 @@
                      <p id="vHeLuf">4.</p>
                   </entry>
                   <entry>
-                     <p id="mzQApv"/>
+                     <p id="mzQApv"></p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="tLnnmU" outputclass="Normal"/>
+      <p id="tLnnmU" outputclass="Normal"></p>
       <p id="f6ygwr9h" outputclass="Normal">D. Enter Name of Contractor Representative:</p>
       <p id="xUtnQN" outputclass="Normal">This individual, the Contractor’s Program Manager equivalent, will comment on the Government Assessing Official’s assessment. The contractor representative can input comments for the contracts listed above and view the completed report(s).</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -186,7 +183,7 @@
                      <p id="toqsgP">1.</p>
                   </entry>
                   <entry>
-                     <p id="mvtekF"/>
+                     <p id="mvtekF"></p>
                   </entry>
                </row>
                <row>
@@ -194,7 +191,7 @@
                      <p id="hoMuTV">2.</p>
                   </entry>
                   <entry>
-                     <p id="wVAqrU"/>
+                     <p id="wVAqrU"></p>
                   </entry>
                </row>
                <row>
@@ -202,7 +199,7 @@
                      <p id="AquZIO">3.</p>
                   </entry>
                   <entry>
-                     <p id="LysvCs"/>
+                     <p id="LysvCs"></p>
                   </entry>
                </row>
                <row>
@@ -210,19 +207,19 @@
                      <p id="HNoifT">4.</p>
                   </entry>
                   <entry>
-                     <p id="sLAeLQ"/>
+                     <p id="sLAeLQ"></p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="hnXEjY" outputclass="Normal"/>
+      <p id="hnXEjY" outputclass="Normal"></p>
       <p id="XImnBf" outputclass="Normal">E. Enter Name of Reviewing Official:</p>
       <p id="llFPul" outputclass="Normal">A Reviewing Official, generally a level above the Assessing Official, provides the check-and-balance whenever the Government Assessing Official and the Contractor Representative disagree on the assessment. The Reviewing Official can input comments for the contracts listed above. The Reviewing Official must be a U.S. Army employee in the Assessing Official's chain of command.</p>
       <table colsep="1" rowsep="1">
          <tgroup cols="2">
-            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers"/>
-            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers"/>
+            <colspec colname="1" colnum="1" colwidth="50*" rowheader="headers" />
+            <colspec colname="2" colnum="2" colwidth="50*" rowheader="headers" />
             <tbody>
                <row>
                   <entry>
@@ -241,13 +238,13 @@
                      <p id="ppiqPD">1.</p>
                   </entry>
                   <entry>
-                     <p id="huBxhA"/>
+                     <p id="huBxhA"></p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
-      <p id="hdHXbt" outputclass="Normal"/>
+      <p id="hdHXbt" outputclass="Normal"></p>
       <p id="dVgZUb" outputclass="Normal">
          <b>Individual Submitting This Request for Access:</b>
       </p>

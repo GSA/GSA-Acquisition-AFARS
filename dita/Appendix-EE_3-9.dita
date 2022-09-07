@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-9"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_3-9" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">3-9.</ph> Surcharges</title>
    <conbody>
@@ -12,16 +9,12 @@
       <p id="mIvrRY" outputclass="Normal">c. Surcharges may not be added to debit, prepaid or cash purchases and cardholders are required to be notified in advance of making the purchase if a merchant will impose a surcharge. Merchants must also include the surcharge fee on any receipt(s) provided to the cardholder.</p>
       <p id="TcwPCl" outputclass="Normal">d. Per Visa and MasterCard guidance, there is a limit to the allowable surcharge amounts. These limits vary by brand and by merchant discount rate. Information on surcharge limitations for Visa and MasterCard is available at:</p>
       <p id="uxMTTF" outputclass="Normal">
-         <xref format="html"
-               href="http://www.mastercard.us/merchants/support/surcharge-rules.html"
-               scope="external">
+         <xref format="html" href="http://www.mastercard.us/merchants/support/surcharge-rules.html" scope="external">
             <u>http://www.mastercard.us/merchants/support/surcharge-rules.html</u>
          </xref>
       </p>
       <p id="zEfQHJ" outputclass="Normal">
-         <xref format="html"
-               href="http://usa.visa.com/personal/using_visa/checkout_fees/index.html"
-               scope="external">
+         <xref format="html" href="http://usa.visa.com/personal/using_visa/checkout_fees/index.html" scope="external">
             <u>http://usa.visa.com/personal/using_visa/checkout_fees/index.html</u>
          </xref>
       </p>

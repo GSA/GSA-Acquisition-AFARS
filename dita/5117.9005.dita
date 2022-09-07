@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5117.9005"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         rev="Revised August 4, 2022">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5117.9005" xml:lang="en-US" ditaarch:DITAArchVersion="1.3" rev="Revised August 4, 2022">
    <title outputclass="Heading 3">
       <ph props="autonumber">5117.9005</ph> JOC ordering officers.</title>
    <conbody>
@@ -15,7 +10,7 @@
          ordering officer shall be obtained in accordance with AFARS 5101.603-1, The contracting
          officer is the appointing authority for each individual job order that is within the JOC
          ordering officer authorities. The requiring activity may recommend JOC ordering officers.
-         The JOC ordering officer shall be appointed by letter similar to that in <xref href="5153.3032.dita" outputclass="fm:ParaNumOnly"/> (see <xref href="5101.602292.dita" outputclass="fm:ParaNumOnly"/>), tailored for
+         The JOC ordering officer shall be appointed by letter similar to that in <xref href="5153.3032.dita" outputclass="fm:ParaNumOnly" /> (see <xref href="5101.602292.dita" outputclass="fm:ParaNumOnly" />), tailored for
          JOC.</p>
       <p rev="Revised August 4, 2022">(b) <i>Training</i>. All JOC ordering officers must receive
          specific training and orientation from the responsible contracting office at least

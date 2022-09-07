@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_AppendixBB-203"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_AppendixBB-203" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">BB-203</ph> Event Cycle 4: Contract Administration.</title>
    <conbody>
@@ -257,9 +254,7 @@
       <p id="tYAHlF" outputclass="List2">a. Are decisions to accept or reject supplies, or services performed, documented and distributed in a timely manner?</p>
       <p id="SClLyu" outputclass="List2">b. Are all contractual claims and obligations satisfied prior to contract closeout and do contracting officers follow proper procedures in determining and processing claim(s) (FAR 33.2)?</p>
       <p id="YjDkua" outputclass="List2">c. Are contract administration offices initiating administrative closeout of the contract after receiving evidence of its physical completion (FAR 4.804-5)?</p>
-      <p id="rIpfYW" outputclass="List2">d. Is there evidence in the official contract file that the contracting officer prepared a contractor performance assessment report (FAR 42.1502, DFARS 242.1502, DoD Class Deviation <xref format="pdf"
-               href="http://www.acq.osd.mil/dpap/policy/policyvault/USA005502-12-DPAP.pdf"
-               scope="external">2012-O001</xref>7 and Deviation 2012-O0018, and AFARS 5142.1503)?</p>
+      <p id="rIpfYW" outputclass="List2">d. Is there evidence in the official contract file that the contracting officer prepared a contractor performance assessment report (FAR 42.1502, DFARS 242.1502, DoD Class Deviation <xref format="pdf" href="http://www.acq.osd.mil/dpap/policy/policyvault/USA005502-12-DPAP.pdf" scope="external">2012-O001</xref>7 and Deviation 2012-O0018, and AFARS 5142.1503)?</p>
       <p id="ncywAG">
          <b>
             <i>Step 12:</i>

@@ -8,7 +8,7 @@
      domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   "
      class="- map/map ">
    <title outputclass="Title" class="- topic/title ">AFARS</title>
-   <topicref navtitle="Volume X - Parts xxxx to xxxx"
+   <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
              outputclass="subtopic"
              props="NoTitle"
@@ -17,14 +17,15 @@
              base="NoTitle"
              xtrf="subtopic"
              class="- map/topicref ">
-      <topicref navtitle="Army Federal Acquisition Regulation    Supplement"
+      <topicref navtitle="Army Federal Acquisition Regulation&#xA;&#x9;&#x9;&#x9;Supplement"
                 href="Cover_1.dita"
                 props="NoTitle"
-                audience="Cover_1"
+                audience="Cover_1s"
                 otherprops="NoProp"
                 base="NoTitle"
                 outputclass="subtopic"
                 xtrf="subtopic"
+                xtrc="Cover_1s.html"
                 class="- map/topicref "/>
    </topicref>
 </map>

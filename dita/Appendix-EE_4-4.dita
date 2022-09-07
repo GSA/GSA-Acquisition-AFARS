@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_4-4"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_4-4" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">4-4.</ph> Purchase Card Online System (PCOLS)</title>
    <conbody>
-      <p id="lktkqM" outputclass="Normal">a. PCOLS is a DoD-wide suite of electronic systems that GPC officials use to improve the management and accountability within their GPC program organizations. PCOLS is comprised of five applications: Enterprise Monitoring and Management of Accounts (EMMA), Authorization, Issuance, and Maintenance (AIM), PCOLS Reporting, Data Mining (DM), and Risk Assessment (RA). PCOLS is Common Access Card (CAC) enabled to ensure secure authentication and nonrepudiation. Due to enhancement of program oversight, the Purchase Card On-Line System (PCOLS) is mandated for GPC participants Army-wide and accessible at: <xref format="html"
-               href="https://www.dmdc.osd.mil/appj/pcols-web/"
-               scope="external">
+      <p id="lktkqM" outputclass="Normal">a. PCOLS is a DoD-wide suite of electronic systems that GPC officials use to improve the management and accountability within their GPC program organizations. PCOLS is comprised of five applications: Enterprise Monitoring and Management of Accounts (EMMA), Authorization, Issuance, and Maintenance (AIM), PCOLS Reporting, Data Mining (DM), and Risk Assessment (RA). PCOLS is Common Access Card (CAC) enabled to ensure secure authentication and nonrepudiation. Due to enhancement of program oversight, the Purchase Card On-Line System (PCOLS) is mandated for GPC participants Army-wide and accessible at: <xref format="html" href="https://www.dmdc.osd.mil/appj/pcols-web/" scope="external">
             <b>
                <u>https://www.dmdc.osd.mil/appj/pcols-web</u>
             </b>

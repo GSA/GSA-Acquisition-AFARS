@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5115.201"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5115.201" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">5115.201</ph> Exchanges with industry before receipt of proposals.</title>
    <conbody>
-      <p outputclass="Normal">(c)  Early involvement is essential for maximizing industry’s contribution to the planning, requirements definition, and acquisition processes.  Communications with industry should start prior to drafting any solicitation.  Measures will be taken to protect any intellectual property (IP) discussed during the planning/pre-solicitation phase, to include non-disclosure agreements as applicable (<xref href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN14261_AD2018_26_Final.pdf"
-               scope="external"
-               format="pdf">
+      <p outputclass="Normal">(c)  Early involvement is essential for maximizing industry’s contribution to the planning, requirements definition, and acquisition processes.  Communications with industry should start prior to drafting any solicitation.  Measures will be taken to protect any intellectual property (IP) discussed during the planning/pre-solicitation phase, to include non-disclosure agreements as applicable (<xref href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN14261_AD2018_26_Final.pdf" scope="external" format="pdf">
             <u>see Appendix D of the Implementation Guidance for Army Directive 2018-26</u>
          </xref>)</p>
       <p>(6)  When a written acquisition plan is required per DFARS 207.103(d) and a draft request for proposal is not used, contracting officers must include the rationale for not using a draft request for proposal in the plan.</p>

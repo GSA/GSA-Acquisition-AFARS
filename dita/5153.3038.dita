@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.3038"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.3038" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5153.303-8</ph> Withdrawal of approval of property control system.</title>
    <conbody>
@@ -19,7 +16,7 @@
       <p id="CtfuOq" outputclass="Ctr">(list all deficiencies)</p>
       <p id="yKKDWx" outputclass="Normal">By letter of (insert date) you were advised that approval of the property control system would be withdrawn unless the noted deficiencies were corrected by (insert date). As of this date, these corrections have not been accomplished. This undue delay in complying with your contractual requirements concerning Government property and your continued delay in rectifying noted deficiencies indicate a lack of concern by (insert contractor’s name) managerial personnel. Therefore, the approval of your Property Control System is withdrawn as of (insert date). As a result of this action, (insert contractor’s name) shall be liable for any loss or damage to the Government property occurring after receipt of this notice in accordance with the provisions of the contract.</p>
       <p id="BsETJA" outputclass="Normal">A copy of this letter is being furnished to the Chief of the Contracting Office. Your failure to maintain an acceptable property control system could adversely affect future recommendations for the award of contracts. Restoration of approval of your property system is dependent upon the correction of the above listed deficiencies to the satisfaction of the contracting officer.</p>
-      <p id="cq2vhzqj" outputclass="Normal"/>
+      <p id="cq2vhzqj" outputclass="Normal"></p>
       <p id="tpZGwl" outputclass="Ctr">Sincerely,</p>
       <p id="ogQdNd" outputclass="Ctr">(Signature)</p>
       <p id="kmtLDz" outputclass="Ctr">Contracting Officer</p>

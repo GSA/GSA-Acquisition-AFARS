@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-GG_Apendix-GG"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-GG_Apendix-GG" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
       <ph>Appendix GG</ph>
    </title>
    <conbody>
       <table id="table_sfm_q2m_gg56481">
          <tgroup cols="15">
-            <colspec colnum="1" colname="col1"/>
-            <colspec colnum="2" colname="col2"/>
-            <colspec colnum="3" colname="col3"/>
-            <colspec colnum="4" colname="col4"/>
-            <colspec colnum="5" colname="col5"/>
-            <colspec colnum="6" colname="col6"/>
-            <colspec colnum="7" colname="col7"/>
-            <colspec colnum="8" colname="col8"/>
-            <colspec colnum="9" colname="col9"/>
-            <colspec colnum="10" colname="col10"/>
-            <colspec colnum="11" colname="col11"/>
-            <colspec colnum="12" colname="col12"/>
-            <colspec colnum="13" colname="col13"/>
-            <colspec colnum="14" colname="col14"/>
-            <colspec colnum="15" colname="col15"/>
+            <colspec colnum="1" colname="col1" rowheader="headers" />
+            <colspec colnum="2" colname="col2" rowheader="headers" />
+            <colspec colnum="3" colname="col3" rowheader="headers" />
+            <colspec colnum="4" colname="col4" rowheader="headers" />
+            <colspec colnum="5" colname="col5" rowheader="headers" />
+            <colspec colnum="6" colname="col6" rowheader="headers" />
+            <colspec colnum="7" colname="col7" rowheader="headers" />
+            <colspec colnum="8" colname="col8" rowheader="headers" />
+            <colspec colnum="9" colname="col9" rowheader="headers" />
+            <colspec colnum="10" colname="col10" rowheader="headers" />
+            <colspec colnum="11" colname="col11" rowheader="headers" />
+            <colspec colnum="12" colname="col12" rowheader="headers" />
+            <colspec colnum="13" colname="col13" rowheader="headers" />
+            <colspec colnum="14" colname="col14" rowheader="headers" />
+            <colspec colnum="15" colname="col15" rowheader="headers" />
             <tbody>
                <row>
                   <entry>Part</entry>

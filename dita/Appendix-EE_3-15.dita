@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-15"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_3-15" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2">
       <ph props="autonumber">3-15.</ph> Office Supply Blanket Purchase Agreements (BPAs)</title>
    <conbody>
-      <p id="celqVc" outputclass="Normal">The Army must satisfy requirements for supplies and services from or through the sources and publications listed in the descending order of priority in FAR Part 8.002. The Office Supply BPAs fall under mandatory Federal supply schedules and must be utilized for office supply purchases unless an exception applies. The Office Supply BPAs can be accessed through the Army Corridor of the DOD EMALL site: <xref format="html"
-               href="https://dod-emall.dla.mil/acct/"
-               scope="external">
+      <p id="celqVc" outputclass="Normal">The Army must satisfy requirements for supplies and services from or through the sources and publications listed in the descending order of priority in FAR Part 8.002. The Office Supply BPAs fall under mandatory Federal supply schedules and must be utilized for office supply purchases unless an exception applies. The Office Supply BPAs can be accessed through the Army Corridor of the DOD EMALL site: <xref format="html" href="https://dod-emall.dla.mil/acct/" scope="external">
             <u>https://dod-emall.dla.mil/acct/</u>
          </xref>. The primary goals of the Office Supply BPAs are to ensure that office product purchases are in compliance with the statutory preferences afforded to products manufactured under the AbilityOne Program, capture economies of scale, and realize significant savings while providing opportunities for small business. Exceptions to the mandatory use of the BPAs and DOD EMALL are as follows:</p>
       <p id="IRQfTO" outputclass="List2">(1) This policy does not apply to purchases made Outside the Continental United States (OCONUS).</p>

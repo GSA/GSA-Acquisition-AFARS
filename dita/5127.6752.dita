@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5127.6752"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5127.6752" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4">
       <ph props="autonumber">5127.675-2</ph> Review of agreements.</title>
    <conbody>
       <p id="sRJAkR" outputclass="List1">(a) Send proposed agreements through the head of the contracting activity to appropriate patent and technical personnel for review. Send the comments and recommendations of the head of the contracting activity to:</p>
       <p id="ztqRWM" outputclass="Normal">Deputy Assistant Secretary of the Army for Defense Exports and Cooperation (DASA(DE&amp;C))</p>
-      <p id="bELoSv" outputclass="Normal"/>
+      <p id="bELoSv" outputclass="Normal"></p>
       <p id="nnun2n2" outputclass="Normal">ATTN: SAAL-ZN</p>
       <p id="ySJtrR" outputclass="Normal">103 Army Pentagon</p>
       <p id="bUtgDl" outputclass="Normal">Washington, DC 20310.</p>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-FF_DOTRPFCONC"
-         ditaarch:DITAArchVersion="1.3">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-FF_DOTRPFCONC" ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
       <ph props="autonumber">DEPARTMENT OF</ph> THE ARMY PLAN FOR CONTROL OF NONSTANDARD      CLAUSES</title>
    <conbody>
@@ -49,29 +46,19 @@
          in contracting activity AIs or clause books.</p>
       <p id="PlsuJx" outputclass="Ctr normal">1</p>
       <p id="XvRvWE" outputclass="Normal">
-         <image href="Graphics/Appendix-FF_image1.jpg"
-                scale="70"
-                placement="inline"/>
+         <image href="Graphics/Appendix-FF_image1.jpg" scale="70" placement="inline" />
       </p>
       <p id="mUfENX" outputclass="Normal">
-         <image scale="15"
-                href="Graphics/Appendix-FF_image2.jpg"
-                placement="inline"/>
+         <image scale="15" href="Graphics/Appendix-FF_image2.jpg" placement="inline" />
       </p>
       <p id="BrmdnV" outputclass="Normal">
-         <image scale="15"
-                href="Graphics/Appendix-FF_image3.jpg"
-                placement="inline"/>
+         <image scale="15" href="Graphics/Appendix-FF_image3.jpg" placement="inline" />
       </p>
       <p id="JaObmK" outputclass="Normal">
-         <image href="Graphics/Appendix-FF_image4.jpg"
-                scale="70"
-                placement="inline"/>
+         <image href="Graphics/Appendix-FF_image4.jpg" scale="70" placement="inline" />
       </p>
       <p id="Wgxskx" outputclass="Normal">
-         <image href="Graphics/Appendix-FF_image5.jpg"
-                scale="70"
-                placement="inline"/>
+         <image href="Graphics/Appendix-FF_image5.jpg" scale="70" placement="inline" />
       </p>
    </conbody>
 </concept>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="AFARS__PART_5101">
-      <title class="- topic/title " outputclass="1 Heading">
-         <ph class="- topic/ph " props="autonumber">Part 5101</ph> - Federal Acquisition Regulation System</title>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3">
+   <topic id="AFARS__PART_5101" ditaarch:DITAArchVersion="1.3">
+      <title outputclass="1 Heading">
+         <ph props="autonumber">Part 5101</ph> - Federal Acquisition Regulation System</title>
       <body>
          <p>
             <i>(Revised 12 July 2022)</i>

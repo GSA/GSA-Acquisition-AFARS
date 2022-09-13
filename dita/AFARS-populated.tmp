@@ -7465,12 +7465,12 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="AppendixBB.dita"
+   <topicref href="Appendix-BB.dita"
              navtitle="APPENDIX - BB Table Of Contents"
              outputclass="Part"
              props="APPENDIX - BB"
              base="NoTitle"
-             audience="AFARS_AppendixBB"
+             audience="AFARS_Appendix-BB"
              xtrf="Part">
       <topicref href="AppendixBB_MCEVC.dita"
                 navtitle=""

@@ -1253,51 +1253,20 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref href="Appendix-BB.dita" navtitle="APPENDIX - BB Table Of Contents" outputclass="Part"
-      props="APPENDIX - BB" base="NoTitle" audience="AFARS_AppendixBB" xtrf="Part">
-      <topicref href="AppendixBB_MCEVC.dita" navtitle="MANAGEMENT CONTROL EVALUATION CHECKLISTS"
-         base="NoTitle" audience="AFARS_AppendixBB_MCEVC" outputclass="SubPart" xtrf="SubPart"
-         props="MANAGEMENT CONTROL" xtrc="AFARS_AppendixBB_MCEVC.html">
-         <topicref href="AppendixBB_Part_1.dita" navtitle="Part 1 - General"
-            props="Part 1 - General" base="NoTitle" audience="AFARS_AppendixBB_Part_1"
-            outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB_Part_1.html">
-            <topicref href="AppendixBB-100.dita" navtitle="BB–100 Function." base="NoTitle"
-               audience="AFARS_AppendixBB-100" outputclass="subtopic" xtrf="subtopic" props="BB–100"
-               xtrc="AFARS_AppendixBB-100.html"/>
-            <topicref href="AppendixBB-101.dita" navtitle="BB–101 Purpose." base="NoTitle"
-               audience="AFARS_AppendixBB-101" outputclass="subtopic" xtrf="subtopic" props="BB–101"
-               xtrc="AFARS_AppendixBB-101.html"/>
-            <topicref href="AppendixBB-102.dita" navtitle="BB–102 Instructions." base="NoTitle"
-               audience="AFARS_AppendixBB-102" outputclass="subtopic" xtrf="subtopic" props="BB–102"
-               xtrc="AFARS_AppendixBB-102.html"/>
-            <topicref href="AppendixBB-103.dita"
-               navtitle="BB–103 Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States."
-               base="NoTitle" audience="AFARS_AppendixBB-103" outputclass="subtopic" xtrf="subtopic"
-               props="BB–103" xtrc="AFARS_AppendixBB-103.html"/>
+   <topicref href="Appendix-BB.dita" navtitle="APPENDIX - BB Table Of Contents" outputclass="Part" props="APPENDIX - BB" base="NoTitle" audience="AFARS_AppendixBB" xtrf="Part">
+      <topicref href="AppendixBB_MCEVC.dita" navtitle="MANAGEMENT CONTROL EVALUATION CHECKLISTS" base="NoTitle" audience="AFARS_AppendixBB_MCEVC" outputclass="SubPart" xtrf="SubPart" props="MANAGEMENT CONTROL" xtrc="AFARS_AppendixBB_MCEVC.html">
+         <topicref href="AppendixBB_Part_1.dita" navtitle="Part 1 - General" props="Part 1 - General" base="NoTitle" audience="AFARS_AppendixBB_Part_1" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB_Part_1.html">
+            <topicref href="AppendixBB-100.dita" navtitle="BB–100 Function." base="NoTitle" audience="AFARS_AppendixBB-100" outputclass="subtopic" xtrf="subtopic" props="BB–100" xtrc="AFARS_AppendixBB-100.html" />
+            <topicref href="AppendixBB-101.dita" navtitle="BB–101 Purpose." base="NoTitle" audience="AFARS_AppendixBB-101" outputclass="subtopic" xtrf="subtopic" props="BB–101" xtrc="AFARS_AppendixBB-101.html" />
+            <topicref href="AppendixBB-102.dita" navtitle="BB–102 Instructions." base="NoTitle" audience="AFARS_AppendixBB-102" outputclass="subtopic" xtrf="subtopic" props="BB–102" xtrc="AFARS_AppendixBB-102.html" />
+            <topicref href="AppendixBB-103.dita" navtitle="BB–103 Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States." base="NoTitle" audience="AFARS_AppendixBB-103" outputclass="subtopic" xtrf="subtopic" props="BB–103" xtrc="AFARS_AppendixBB-103.html" />
          </topicref>
-         <topicref href="AppendixBB_Part_2.dita" navtitle="Part 2 - Contracting Test Questions"
-            props="Part 2 - Contracting Test Questions" base="NoTitle"
-            audience="AFARS_AppendixBB_Part_2" outputclass="subtopic" xtrf="subtopic"
-            xtrc="AFARS_AppendixBB_Part_2.html">
-            <topicref href="AppendixBB-200.dita"
-               navtitle="BB-200 Event Cycle 1: Management of Contracting Functions." props="BB-200"
-               base="NoTitle" audience="AFARS_AppendixBB-200" outputclass="subtopic" xtrf="subtopic"
-               xtrc="AFARS_AppendixBB-200.html"/>
-            <topicref href="AppendixBB-201.dita" navtitle="BB-201 Event Cycle 2: Presolicitation."
-               props="BB-201" base="NoTitle" audience="AFARS_AppendixBB-201" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_AppendixBB-201.html"/>
-            <topicref href="AppendixBB-202.dita"
-               navtitle="BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award."
-               props="BB-202" base="NoTitle" audience="AFARS_AppendixBB-202" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_AppendixBB-202.html"/>
-            <topicref href="AppendixBB-203.dita"
-               navtitle="BB-203 Event Cycle 4: Contract Administration." props="BB-203"
-               base="NoTitle" audience="AFARS_AppendixBB-203" outputclass="subtopic" xtrf="subtopic"
-               xtrc="AFARS_AppendixBB-203.html"/>
-            <topicref href="AppendixBB-204.dita"
-               navtitle="BB-204 Event Cycle 5: Special Acquisition Situations and Requirements."
-               props="BB-204" base="NoTitle" audience="AFARS_AppendixBB-204" outputclass="subtopic"
-               xtrf="subtopic" xtrc="AFARS_AppendixBB-204.html"/>
+         <topicref href="AppendixBB_Part_2.dita" navtitle="Part 2 - Contracting Test Questions" props="Part 2 - Contracting Test Questions" base="NoTitle" audience="AFARS_AppendixBB_Part_2" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB_Part_2.html">
+            <topicref href="AppendixBB-200.dita" navtitle="BB-200 Event Cycle 1: Management of Contracting Functions." props="BB-200" base="NoTitle" audience="AFARS_AppendixBB-200" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB-200.html" />
+            <topicref href="AppendixBB-201.dita" navtitle="BB-201 Event Cycle 2: Presolicitation." props="BB-201" base="NoTitle" audience="AFARS_AppendixBB-201" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB-201.html" />
+            <topicref href="AppendixBB-202.dita" navtitle="BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award." props="BB-202" base="NoTitle" audience="AFARS_AppendixBB-202" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB-202.html" />
+            <topicref href="AppendixBB-203.dita" navtitle="BB-203 Event Cycle 4: Contract Administration." props="BB-203" base="NoTitle" audience="AFARS_AppendixBB-203" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB-203.html" />
+            <topicref href="AppendixBB-204.dita" navtitle="BB-204 Event Cycle 5: Special Acquisition Situations and Requirements." props="BB-204" base="NoTitle" audience="AFARS_AppendixBB-204" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_AppendixBB-204.html" />
          </topicref>
       </topicref>
    </topicref>

@@ -1076,16 +1076,37 @@
       </topicref>
    </topicref>
    <topicref href="PART_5145.dita" navtitle="Part 5145 - Government Property" outputclass="Part" props="Part 5145" base="NoTitle" audience="AFARS_PART_5145" xtrf="Part">
+      <topicref href="5145.000.dita" navtitle="5145.000 Scope of part." props="5145.000" outputclass="subtopic" base="NoTitle" audience="AFARS_5145.000" xtrc="AFARS_5145.000.html" />
       <topicref href="Subpart_5145.1.dita" navtitle="Subpart 5145.1 - General" outputclass="SubPart" props="Subpart 5145.1" base="NoTitle" audience="AFARS_Subpart_5145.1" xtrf="SubPart" xtrc="AFARS_Subpart_5145.1.html">
+         <topicref href="5145.101.dita" props="5145.101" navtitle="5145.101 Definitions." base="NoTitle" audience="AFARS_5145.101" xtrc="AFARS_5145.101.html" />
          <topicref href="5145.102.dita" navtitle="5145.102 Policy." props="5145.102" base="NoTitle" audience="AFARS_5145.102" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5145.102.html" />
-         <topicref href="5145.190.dita" navtitle="5145.190 Leasing personal property." props="5145.190" base="NoTitle" audience="AFARS_5145.190" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5145.190.html" />
+         <topicref href="5145.103.dita" props="5145.103" navtitle="5145.103 General." base="NoTitle" audience="AFARS_5145.103" xtrc="AFARS_5145.103.html">
+            <topicref href="5145.103-70.dita" props="5145.103-70" navtitle="5145.103-70 Furnishing Government property to contractors." base="NoTitle" audience="AFARS_5145.103-70" xtrc="AFARS_5145.103-70.html" />
+            <topicref href="5145.103-72.dita" props="5145.103-72" navtitle="5145.103-72 Government-furnished property attachments to solicitations and awards." base="NoTitle" audience="AFARS_5145.103-72" xtrc="AFARS_5145.103-72.html" />
+            <topicref href="5145.103-73.dita" props="5145.103-73" navtitle="5145.103-73 Government property under sustainment contracts." base="NoTitle" audience="AFARS_5145.103-73" xtrc="AFARS_5145.103-73.html" />
+            <topicref href="5145.103-74.dita" props="5145.103-74" navtitle="5145.103-74 Contracting office responsibilities." base="NoTitle" audience="AFARS_5145.103-74" xtrc="AFARS_5145.103-74.html" />
+         </topicref>
+         <topicref href="5145.105.dita" props="5145.105" navtitle="5145.105 Contractor’s property management system compliance." base="NoTitle" audience="AFARS_5145.105" xtrc="AFARS_5145.105.html" />
+         <topicref href="5145.107.dita" props="5145.107" navtitle="5145.107 Contract Clauses." base="NoTitle" audience="AFARS_5145.107" xtrc="AFARS_5145.107.html" />
+         <topicref href="5145.190-1.dita" props="5145.190-1" navtitle="5145.190-1 Leasing personal property." base="NoTitle" audience="AFARS_5145.190-1" xtrc="AFARS_5145.190-1.html" />
+         <topicref href="5145.190-2.dita" props="5145.190-2" navtitle="5145.190-2 Furnishing Government property after award." base="NoTitle" audience="AFARS_5145.190-2" xtrc="AFARS_5145.190-2.html" />
+      </topicref>
+      <topicref href="Subpart_5145.2.dita" props="Subpart 5145.2" navtitle="Subpart 5145.2 - Solicitation and Evaluation ProceduresSolicitation and Evaluation Procedures" base="NoTitle" outputclass="SubPart" audience="AFARS_Subpart_5145.2" xtrc="AFARS_Subpart_5145.2.html">
+         <topicref href="5145.201.dita" props="5145.201" navtitle="5145.201 Solicitation." base="NoTitle" audience="AFARS_5145.201" xtrc="AFARS_5145.201.html" />
+         <topicref href="5145.202.dita" props="5145.202" navtitle="5145.202 Evaluation Procedures." base="NoTitle" audience="AFARS_5145.202" xtrc="AFARS_5145.202.html" />
       </topicref>
       <topicref href="Subpart_5145.3.dita" navtitle="Subpart 5145.3 - Authorizing the Use and Rental of Government Property" outputclass="SubPart" props="Subpart 5145.3" base="NoTitle" audience="AFARS_Subpart_5145.3" xtrf="SubPart" xtrc="AFARS_Subpart_5145.3.html">
          <topicref href="5145.301.dita" navtitle="5145.301 Use and rental." props="5145.301" base="NoTitle" audience="AFARS_5145.301" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5145.301.html" />
          <topicref href="5145.390.dita" navtitle="5145.390 Documentation of Government property in contracts." props="5145.390" base="NoTitle" audience="AFARS_5145.390" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5145.390.html" />
       </topicref>
+      <topicref href="Subpart_5145.4.dita" props="Subpart 5145.4" navtitle="Subpart 5145.4 - Title to Government Property" base="NoTitle" outputclass="SubPart" audience="AFARS_Subpart_5145.4" xtrc="AFARS_Subpart_5145.4.html">
+         <topicref href="5145.402-70.dita" props="5145.402-70" navtitle="5145.402-70 Policy." base="NoTitle" audience="AFARS_5145.402-70" xtrc="AFARS_5145.402-70.html" />
+      </topicref>
       <topicref href="Subpart_5145.5.dita" navtitle="Subpart 5145.5 - Support Government Property Administration" outputclass="SubPart" props="Subpart 5145.5" base="NoTitle" audience="AFARS_Subpart_5145.5" xtrf="SubPart" xtrc="AFARS_Subpart_5145.5.html">
          <topicref href="5145.57090.dita" navtitle="5145.570-90 Storage at the Governments expense." props="5145.570-90" base="NoTitle" audience="AFARS_5145.57090" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5145.57090.html" />
+      </topicref>
+      <topicref href="Subpart_5145.6.dita" props="Subpart 5145.6" navtitle="Subpart 5145.6 - Reporting, Reutilization, and Disposal" base="NoTitle" outputclass="SubPart" audience="AFARS_Subpart_5145.6" xtrc="AFARS_Subpart_5145.6.html">
+         <topicref href="5145.605.dita" props="5145.605" navtitle="5145.605 Inventory disposal reports." base="NoTitle" audience="AFARS_5145.605" xtrc="AFARS_5145.605.html" />
       </topicref>
    </topicref>
    <topicref href="PART_5146.dita" navtitle="Part 5146 - Quality Assurance" outputclass="Part" props="Part 5146" base="NoTitle" audience="AFARS_PART_5146" xtrf="Part">

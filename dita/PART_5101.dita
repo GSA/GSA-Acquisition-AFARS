@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5101</ph> - Federal Acquisition Regulation System</title>
       <body>
          <p>
-            <i>(Revised 12 July 2022)</i>
+            <i>(Revised 30 September 2022)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -141,7 +141,7 @@
                         <xref outputclass="fm:TOC" href="5101.601.dita#AFARS_5101.601">5101.601 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised September 30, 2022">
                            <p>
                               <xref outputclass="fm:TOC" href="5101.60190.dita#AFARS_5101.60190">5101.601-90 Department of the Army contracting authorities and responsibilities.</xref>
                            </p>

@@ -19,11 +19,13 @@
                      <p>
                         <xref outputclass="fm:TOC" href="5107.103.dita#AFARS_5107.103">5107.103 Agency-head responsibilities.</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5107.10390.dita#AFARS_5107.10390">5107.103-90 Acquisition plan approvals.</xref>
-                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5107.10390.dita#AFARS_5107.10390">5107.103-90 Acquisition plan approvals.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                   <li>
                      <p>
@@ -39,16 +41,18 @@
                      <p>
                         <xref outputclass="fm:TOC" href="5107.107.dita#AFARS_5107.107">5107.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5107.1072.dita#AFARS_5107.1072">5107.107-2 Consolidation.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5107.1075.dita#AFARS_5107.1075">5107.107-5 Notifications.</xref>
-                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5107.1072.dita#AFARS_5107.1072">5107.107-2 Consolidation.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5107.1075.dita#AFARS_5107.1075">5107.107-5 Notifications.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                </ul>
             </li>

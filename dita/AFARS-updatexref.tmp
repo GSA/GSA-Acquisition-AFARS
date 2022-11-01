@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="Army Federal Acquisition Regulation Supplement"
-     outputclass="dod">
+<map title="AFARS" outputclass="dod">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -12,7 +11,7 @@
              otherprops="NoProp"
              base="NoTitle"
              xtrf="subtopic">
-      <topicref navtitle="Army Federal Acquisition Regulation&#xA;&#x9;&#x9;&#x9;Supplement"
+      <topicref navtitle="Army Federal Acquisition Regulation    Supplement"
                 href="Cover_1.dita"
                 props="NoTitle"
                 audience="Cover_1s"
@@ -212,11 +211,13 @@
    
       
          
-         
+            
          
          
          
          
+            
+            
          
       
       
@@ -1310,9 +1311,12 @@
    
       
          
+            
+            
             
             
             
+            
          
          
             
@@ -1322,15 +1326,48 @@
             
             
             
-            
          
          
+            
             
             
             
+         
+         
             
             
             
+         
+         
+            <topicmeta>
+               <navtitle/>
+               <linktext/>
+               <searchtitle/>
+               <shortdesc/>
+               <author/>
+               <source/>
+               <publisher/>
+               <copyright>
+                  <copyryear year=""/>
+                  <copyrholder/>
+               </copyright>
+               <critdates>
+                  <created date=""/>
+                  <revised modified=""/>
+               </critdates>
+               <permissions view=""/>
+               <audience/>
+               <category/>
+               <prodinfo>
+                  <prodname/>
+                  <vrmlist>
+                     <vrm version=""/>
+                  </vrmlist>
+               </prodinfo>
+               <othermeta name="" content=""/>
+               <resourceid/>
+               <ux-window name=""/>
+            </topicmeta>
          
       
    

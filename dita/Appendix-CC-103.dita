@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-103"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4" rev="Revised October 1, 2022"> 
+      <ph props="autonumber">CC-103</ph> ACE Contracting Risk Management.</title>
+   <conbody>
+      <p rev="Revised October 1, 2022">The ACE views internal control as a critical element for managing risk. The ACE manages risk to its strategic objectives and assesses the effectiveness of its internal controls, using Procurement Management Reviews, Peer Reviews, Independent Management Reviews, audits, training, self-assessments, and other management control activities. The use and periodic evaluation of key internal controls is an integral component of an organization’s management that provides reasonable assurance of the effectiveness and efficiency of the organization. Risk is defined as the effect of uncertainty on objectives. Risk management is a series of coordinated activities to direct and control challenges or threats to achieving an organization’s goals and objectives. Risk management on an enterprise-wide basis is an effective agency-wide approach to addressing the full spectrum of the organization’s external and internal risks by understanding the combined impact of risks across the organization, rather than addressing risks only within a single component of the organization. While agencies cannot respond to all risks related to achieving strategic objectives and performance goals, they must identify, measure, and assess risks related to mission execution. ACE risk management reflects forward-looking management decisions and balancing risks and returns so the ACE enhances its value to the taxpayer and increases its ability to achieve its strategic objectives.</p>
+   </conbody>
+</concept>

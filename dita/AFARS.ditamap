@@ -69,14 +69,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc="AFARS_5101.108.html"/>
-         <topicref href="5101.108_A.dita"
-                   navtitle="5101.108 (b)(S-90) Introduction of delegations matrix at Appendix GG and instructions for use."
-                   props="5101.108 bS-90 Introduction of delegations matrix at Appendix GG and instructions for use."
-                   base="NoTitle"
-                   audience="AFARS_5101.108_A"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5101.108_A.html"/>
+         <topicref href="5101.108-1.dita" navtitle="5101.108-1 Introduction of delegations matrix at Appendix GG and instructions for use." props="5101.108-1" base="NoTitle" audience="AFARS_5101.108_1" outputclass="subtopic" xtrf="subtopic" xtrc="AFARS_5101.108_1.html"/>
          <topicref href="5101.170.dita"
                    navtitle="5101.170 Peer reviews."
                    props="5101.170"

@@ -146,7 +146,9 @@
                </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="5104.7304.dita#AFARS_5104.7304">5104.7304 Solicitation provisions and contract clauses.</xref> </p>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5104.7304.dita#AFARS_5104.7304">5104.7304 Solicitation provisions and contract clauses.</xref>
+                     </p>
                   </li>
                </ul>
             </li>

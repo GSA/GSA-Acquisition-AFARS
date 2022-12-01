@@ -17,8 +17,8 @@
                 audience="Cover_1s"
                 otherprops="NoProp"
                 base="NoTitle"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="Cover_1s.html"/>
    </topicref>
    <topicref href="PART_5101.dita"
@@ -47,7 +47,7 @@
                    audience="AFARS_5101.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.105.dita"
@@ -57,7 +57,7 @@
                    audience="AFARS_5101.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5101.105-3.dita"
@@ -78,19 +78,20 @@
                    audience="AFARS_5101.108"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.108.html"
+                   xtrc=""
                    tables="0"
-                   figures="0"/>
-         <topicref href="5101.108_A.dita"
-                   navtitle="5101.108 (b)(S-90) Introduction of delegations matrix at Appendix GG and instructions for use."
-                   props="5101.108 bS-90 Introduction of delegations matrix at Appendix GG and instructions for use."
-                   base="NoTitle"
-                   audience="AFARS_5101.108_A"
-                   outputclass="subtopic"
-                   xtrf="subtopic"
-                   xtrc="AFARS_5101.108_A.html"
-                   tables="0"
-                   figures="0"/>
+                   figures="0">
+            <topicref href="5101.108-1.dita"
+                      navtitle="5101.108-1 Introduction of delegations matrix at Appendix GG and instructions for use."
+                      props="5101.108-1"
+                      base="NoTitle"
+                      audience="AFARS_5101.1081"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
+                      xtrc=""
+                      tables="0"
+                      figures="0"/>
+         </topicref>
          <topicref href="5101.170.dita"
                    navtitle="5101.170 Peer reviews."
                    props="5101.170"
@@ -98,7 +99,7 @@
                    audience="AFARS_5101.170"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.170.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -119,7 +120,7 @@
                    audience="AFARS_5101.290"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -140,7 +141,7 @@
                    audience="AFARS_5101.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.303.dita"
@@ -150,7 +151,7 @@
                    audience="AFARS_5101.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.303.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
          <topicref href="5101.304.dita"
@@ -160,7 +161,7 @@
                    audience="AFARS_5101.304"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.304.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5101.30490.dita"
@@ -192,7 +193,7 @@
                    audience="AFARS_5101.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.403.dita"
@@ -202,7 +203,7 @@
                    audience="AFARS_5101.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.403.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5101.40390.dita"
@@ -224,7 +225,7 @@
                    otherprops=""
                    props="5101.404"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -245,7 +246,7 @@
                    audience="AFARS_5101.5012"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.5012.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -266,7 +267,7 @@
                    audience="AFARS_5101.601"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.601.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5101.60190.dita"
@@ -367,7 +368,7 @@
                    audience="AFARS_5101.603"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.603.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5101.6031.dita"
@@ -428,7 +429,7 @@
                    audience="AFARS_5101.690"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.690.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.691.dita"
@@ -438,7 +439,7 @@
                    audience="AFARS_5101.691"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.691.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.692.dita"
@@ -448,7 +449,7 @@
                    audience="AFARS_5101.692"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.692.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.693.dita"
@@ -458,7 +459,7 @@
                    audience="AFARS_5101.693"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.693.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5101.69490.dita"
@@ -490,7 +491,7 @@
                    audience="AFARS_5101.707"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.707.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -511,7 +512,7 @@
                    audience="AFARS_5101.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5101.9002.dita"
@@ -521,7 +522,7 @@
                    audience="AFARS_5101.9002"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.9002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -542,7 +543,7 @@
                    audience="AFARS_5101.9101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5101.9101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -573,7 +574,7 @@
                    audience="AFARS_5102.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5102.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -604,7 +605,7 @@
                    audience="AFARS_5103.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5103.1044.dita"
@@ -655,7 +656,7 @@
                    audience="AFARS_5103.171"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.171.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5103.1713.dita"
@@ -687,7 +688,7 @@
                    audience="AFARS_5103.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5103.203.dita"
@@ -697,7 +698,7 @@
                    audience="AFARS_5103.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5103.204.dita"
@@ -707,7 +708,7 @@
                    audience="AFARS_5103.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -728,7 +729,7 @@
                    audience="AFARS_5103.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.602.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -749,7 +750,7 @@
                    audience="AFARS_5103.703"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.703.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5103.704.dita"
@@ -759,7 +760,7 @@
                    audience="AFARS_5103.704"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.704.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -780,7 +781,7 @@
                    audience="AFARS_5103.905"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.905.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5103.906.dita"
@@ -790,7 +791,7 @@
                    audience="AFARS_5103.906"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.906.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -811,7 +812,7 @@
                    audience="AFARS_5103.1004"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5103.1004.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -842,7 +843,7 @@
                    audience="AFARS_5104.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -863,7 +864,7 @@
                    audience="AFARS_5104.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5104.202.dita"
@@ -873,7 +874,7 @@
                    audience="AFARS_5104.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -894,7 +895,7 @@
                    audience="AFARS_5104.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5104.403.dita"
@@ -904,7 +905,7 @@
                    audience="AFARS_5104.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -925,7 +926,7 @@
                    audience="AFARS_5104.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.502.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5104.50290.dita"
@@ -957,7 +958,7 @@
                    audience="AFARS_5104.604"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.604.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -978,7 +979,7 @@
                    audience="AFARS_5104.802"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.802.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5104.803.dita"
@@ -988,7 +989,7 @@
                    audience="AFARS_5104.803"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.803.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5104.804.dita"
@@ -998,7 +999,7 @@
                    audience="AFARS_5104.804"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.804.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5104.8045.dita"
@@ -1030,7 +1031,7 @@
                    audience="AFARS_5104.903"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1051,7 +1052,7 @@
                    audience="AFARS_5104.710390"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.710390.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1072,7 +1073,7 @@
                    audience="AFARS_5104.7304"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5104.7304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1103,7 +1104,7 @@
                    audience="AFARS_5105.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5105.102.dita"
@@ -1113,7 +1114,7 @@
                    audience="AFARS_5105.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1134,7 +1135,7 @@
                    audience="AFARS_5105.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1155,7 +1156,7 @@
                    audience="AFARS_5105.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5105.403.dita"
@@ -1165,7 +1166,7 @@
                    audience="AFARS_5105.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5105.404.dita"
@@ -1175,7 +1176,7 @@
                    audience="AFARS_5105.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.404.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5105.4041.dita"
@@ -1207,7 +1208,7 @@
                    audience="AFARS_5105.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5105.502.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1238,7 +1239,7 @@
                    audience="AFARS_5106.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5106.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1259,7 +1260,7 @@
                    audience="AFARS_5106.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5106.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5106.3021.dita"
@@ -1320,7 +1321,7 @@
                    audience="AFARS_5106.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5106.303.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5106.3031.dita"
@@ -1371,7 +1372,7 @@
                    audience="AFARS_5106.304"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5106.304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1392,7 +1393,7 @@
                    audience="AFARS_5106.501"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5106.501.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5106.502.dita"
@@ -1402,7 +1403,7 @@
                    audience="AFARS_5106.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5106.502.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5106.50290.dita"
@@ -1444,7 +1445,7 @@
                    audience="AFARS_5107.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5107.10390.dita"
@@ -1465,7 +1466,7 @@
                    audience="AFARS_5107.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5107.105.dita"
@@ -1475,7 +1476,7 @@
                    audience="AFARS_5107.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5107.107.dita"
@@ -1485,7 +1486,7 @@
                    audience="AFARS_5107.107"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.107.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5107.1072.dita"
@@ -1527,7 +1528,7 @@
                    audience="AFARS_5107.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1548,7 +1549,7 @@
                    audience="AFARS_5107.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1569,7 +1570,7 @@
                    audience="AFARS_5107.470"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.470.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1590,7 +1591,7 @@
                    audience="AFARS_5107.503"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1611,7 +1612,7 @@
                    audience="AFARS_5107.9000"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.9000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5107.9001.dita"
@@ -1621,7 +1622,7 @@
                    audience="AFARS_5107.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5107.9002.dita"
@@ -1631,7 +1632,7 @@
                    audience="AFARS_5107.9002"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.9002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1652,7 +1653,7 @@
                    audience="AFARS_5107.9100"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5107.9100.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5107.9101.dita"
@@ -1694,7 +1695,7 @@
                    audience="AFARS_5108.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.405.dita"
@@ -1704,7 +1705,7 @@
                    audience="AFARS_5108.405"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.405.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.4053.dita"
@@ -1714,7 +1715,7 @@
                    audience="AFARS_5108.4053"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.4053.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.4056.dita"
@@ -1724,7 +1725,7 @@
                    audience="AFARS_5108.4056"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.4056.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1745,7 +1746,7 @@
                    audience="AFARS_5108.802"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.802.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1766,7 +1767,7 @@
                    audience="AFARS_5108.1102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.1102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1787,7 +1788,7 @@
                    audience="AFARS_5108.7002"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.7002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.700290.dita"
@@ -1797,7 +1798,7 @@
                    audience="AFARS_5108.700290"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.700290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1818,7 +1819,7 @@
                    audience="AFARS_5108.740190"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.740190.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.7403.dita"
@@ -1828,7 +1829,7 @@
                    audience="AFARS_5108.7403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.7403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1849,7 +1850,7 @@
                    audience="AFARS_5108.9000"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9001.dita"
@@ -1859,7 +1860,7 @@
                    audience="AFARS_5108.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1880,7 +1881,7 @@
                    audience="AFARS_5108.9100"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9100.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9101.dita"
@@ -1890,7 +1891,7 @@
                    audience="AFARS_5108.9101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1911,7 +1912,7 @@
                    audience="AFARS_5108.9200"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9200.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9201.dita"
@@ -1921,7 +1922,7 @@
                    audience="AFARS_5108.9201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9202.dita"
@@ -1931,7 +1932,7 @@
                    audience="AFARS_5108.9202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9203.dita"
@@ -1941,7 +1942,7 @@
                    audience="AFARS_5108.9203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1962,7 +1963,7 @@
                    audience="AFARS_5108.9300"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9300.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9301.dita"
@@ -1972,7 +1973,7 @@
                    audience="AFARS_5108.9301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -1993,7 +1994,7 @@
                    audience="AFARS_5108.9400"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9400.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9401.dita"
@@ -2003,7 +2004,7 @@
                    audience="AFARS_5108.9401"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9401.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9402.dita"
@@ -2013,7 +2014,7 @@
                    audience="AFARS_5108.9402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5108.9402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2044,7 +2045,7 @@
                    audience="AFARS_5109.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.104.dita"
@@ -2054,7 +2055,7 @@
                    audience="AFARS_5109.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.1045.dita"
@@ -2075,7 +2076,7 @@
                    audience="AFARS_5109.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.1052.dita"
@@ -2096,7 +2097,7 @@
                    audience="AFARS_5109.108"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.108.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.1084.dita"
@@ -2128,7 +2129,7 @@
                    audience="AFARS_5109.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.206.dita"
@@ -2138,7 +2139,7 @@
                    audience="AFARS_5109.206"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.206.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.2061.dita"
@@ -2159,7 +2160,7 @@
                    audience="AFARS_5109.270"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.270.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.2703.dita"
@@ -2191,7 +2192,7 @@
                    audience="AFARS_5109.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.403.dita"
@@ -2201,7 +2202,7 @@
                    audience="AFARS_5109.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.404.dita"
@@ -2211,7 +2212,7 @@
                    audience="AFARS_5109.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.405.dita"
@@ -2221,7 +2222,7 @@
                    audience="AFARS_5109.405"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.405.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.4051.dita"
@@ -2252,7 +2253,7 @@
                    audience="AFARS_5109.406"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.406.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.4061.dita"
@@ -2283,7 +2284,7 @@
                    audience="AFARS_5109.407"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.407.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5109.4071.dita"
@@ -2325,7 +2326,7 @@
                    audience="AFARS_5109.503"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.504.dita"
@@ -2335,7 +2336,7 @@
                    audience="AFARS_5109.504"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.504.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5109.506.dita"
@@ -2345,7 +2346,7 @@
                    audience="AFARS_5109.506"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5109.506.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2396,7 +2397,7 @@
                    audience="AFARS_5111.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106.dita"
@@ -2406,7 +2407,7 @@
                    audience="AFARS_5111.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106_A.dita"
@@ -2416,7 +2417,7 @@
                    audience="AFARS_5111.106_A"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106_A.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106_B.dita"
@@ -2426,7 +2427,7 @@
                    audience="AFARS_5111.106_B"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106_B.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106_C.dita"
@@ -2436,7 +2437,7 @@
                    audience="AFARS_5111.106_C"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106_C.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106_D.dita"
@@ -2446,7 +2447,7 @@
                    audience="AFARS_5111.106_D"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106_D.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106_E.dita"
@@ -2456,7 +2457,7 @@
                    audience="AFARS_5111.106_E"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106_E.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5111.106_F.dita"
@@ -2466,7 +2467,7 @@
                    audience="AFARS_5111.106_F"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.106_F.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2487,7 +2488,7 @@
                    audience="AFARS_5111.274"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.274.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5111.2742.dita"
@@ -2549,7 +2550,7 @@
                    audience="AFARS_5111.501"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.501.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2570,7 +2571,7 @@
                    audience="AFARS_5111.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.602.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5111.60290.dita"
@@ -2591,7 +2592,7 @@
                    audience="AFARS_5111.603"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.603.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2612,7 +2613,7 @@
                    audience="AFARS_5111.703"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5111.703.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2643,7 +2644,7 @@
                    audience="AFARS_5112.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5112.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2664,7 +2665,7 @@
                    audience="AFARS_5112.207"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5112.207.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5112.272.dita"
@@ -2674,7 +2675,7 @@
                    audience="AFARS_5112.272"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5112.272.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2695,7 +2696,7 @@
                    audience="AFARS_5112.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5112.301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5112.302.dita"
@@ -2705,7 +2706,7 @@
                    audience="AFARS_5112.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5112.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2726,7 +2727,7 @@
                    audience="AFARS_5112.7001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5112.7001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2757,7 +2758,7 @@
                    audience="AFARS_5113.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5113.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5113.20290.dita"
@@ -2799,7 +2800,7 @@
                    audience="AFARS_5113.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5113.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5113.3023.dita"
@@ -2820,7 +2821,7 @@
                    audience="AFARS_5113.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5113.303.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5113.303190.dita"
@@ -2871,7 +2872,7 @@
                    audience="AFARS_5113.305"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5113.305.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5113.3053.dita"
@@ -2913,7 +2914,7 @@
                    audience="AFARS_5113.500"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5113.500.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -2944,7 +2945,7 @@
                    audience="AFARS_5114.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5114.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5114.2017.dita"
@@ -2976,7 +2977,7 @@
                    audience="AFARS_5114.407"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5114.407.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5114.4073.dita"
@@ -3007,7 +3008,7 @@
                    audience="AFARS_5114.409"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5114.409.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5114.4092.dita"
@@ -3069,7 +3070,7 @@
                    audience="AFARS_5115.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.204.dita"
@@ -3079,7 +3080,7 @@
                    audience="AFARS_5115.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3100,7 +3101,7 @@
                    audience="AFARS_5115.300"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.300.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.30090.dita"
@@ -3110,7 +3111,7 @@
                    audience="AFARS_5115.30090"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.30090.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.303.dita"
@@ -3120,7 +3121,7 @@
                    audience="AFARS_5115.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.303.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="5115.304.dita"
@@ -3130,7 +3131,7 @@
                    audience="AFARS_5115.304"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.305.dita"
@@ -3140,7 +3141,7 @@
                    audience="AFARS_5115.305"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.306.dita"
@@ -3150,7 +3151,7 @@
                    audience="AFARS_5115.306"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.306.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.308.dita"
@@ -3160,7 +3161,7 @@
                    audience="AFARS_5115.308"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.308.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.371.dita"
@@ -3170,7 +3171,7 @@
                    audience="AFARS_5115.371"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.371.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.3715.dita"
@@ -3180,7 +3181,7 @@
                    audience="AFARS_5115.3715"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.3715.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3201,7 +3202,7 @@
                    audience="AFARS_5115.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4031.dita"
@@ -3211,7 +3212,7 @@
                    audience="AFARS_5115.4031"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4031.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4033.dita"
@@ -3221,7 +3222,7 @@
                    audience="AFARS_5115.4033"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4033.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.403390.dita"
@@ -3231,7 +3232,7 @@
                    audience="AFARS_5115.403390"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.403390.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.404.dita"
@@ -3241,7 +3242,7 @@
                    audience="AFARS_5115.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4041.dita"
@@ -3251,7 +3252,7 @@
                    audience="AFARS_5115.4041"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4041.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4044.dita"
@@ -3261,7 +3262,7 @@
                    audience="AFARS_5115.4044"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4044.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.406.dita"
@@ -3271,7 +3272,7 @@
                    audience="AFARS_5115.406"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.406.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4061.dita"
@@ -3281,7 +3282,7 @@
                    audience="AFARS_5115.4061"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4061.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4063.dita"
@@ -3291,7 +3292,7 @@
                    audience="AFARS_5115.4063"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4063.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4073.dita"
@@ -3301,7 +3302,7 @@
                    audience="AFARS_5115.4073"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4073.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.4074.dita"
@@ -3311,7 +3312,7 @@
                    audience="AFARS_5115.4074"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.4074.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3332,7 +3333,7 @@
                    audience="AFARS_5115.606"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.606.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5115.608.dita"
@@ -3342,7 +3343,7 @@
                    audience="AFARS_5115.608"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5115.608.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3373,7 +3374,7 @@
                    audience="AFARS_5116.10290"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.10290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5116.103.dita"
@@ -3383,7 +3384,7 @@
                    audience="AFARS_5116.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3404,7 +3405,7 @@
                    audience="AFARS_5116.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.203.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5116.2034.dita"
@@ -3436,7 +3437,7 @@
                    audience="AFARS_5116.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.301.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5116.3013.dita"
@@ -3457,7 +3458,7 @@
                    audience="AFARS_5116.306"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.306.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3478,7 +3479,7 @@
                    audience="AFARS_5116.401"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.401.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5116.405.dita"
@@ -3488,7 +3489,7 @@
                    audience="AFARS_5116.405"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.405.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5116.4051.dita"
@@ -3530,7 +3531,7 @@
                    audience="AFARS_5116.504"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.504.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5116.505.dita"
@@ -3540,7 +3541,7 @@
                    audience="AFARS_5116.505"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.505.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5116.50591.dita"
@@ -3572,7 +3573,7 @@
                    audience="AFARS_5116.603"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5116.603.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5116.6032.dita"
@@ -3624,7 +3625,7 @@
                    audience="AFARS_5117.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.105.dita"
@@ -3634,7 +3635,7 @@
                    audience="AFARS_5117.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.1051.dita"
@@ -3644,7 +3645,7 @@
                    audience="AFARS_5117.1051"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.1051.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.106.dita"
@@ -3654,7 +3655,7 @@
                    audience="AFARS_5117.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.106.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.1063.dita"
@@ -3664,7 +3665,7 @@
                    audience="AFARS_5117.1063"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.1063.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.108.dita"
@@ -3674,7 +3675,7 @@
                    audience="AFARS_5117.108"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.108.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.171.dita"
@@ -3684,7 +3685,7 @@
                    audience="AFARS_5117.171"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.171.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.172.dita"
@@ -3694,7 +3695,7 @@
                    audience="AFARS_5117.172"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.172.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.174.dita"
@@ -3704,7 +3705,7 @@
                    audience="AFARS_5117.174"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.174.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3725,7 +3726,7 @@
                    audience="AFARS_5117.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.206.dita"
@@ -3735,7 +3736,7 @@
                    audience="AFARS_5117.206"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.206.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.207.dita"
@@ -3745,7 +3746,7 @@
                    audience="AFARS_5117.207"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.207.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.290.dita"
@@ -3755,7 +3756,7 @@
                    audience="AFARS_5117.290"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3776,7 +3777,7 @@
                    audience="AFARS_5117.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.502.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5117.5021.dita"
@@ -3818,7 +3819,7 @@
                    audience="AFARS_5117.703"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.703.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.770.dita"
@@ -3828,7 +3829,7 @@
                    audience="AFARS_5117.770"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.770.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3849,7 +3850,7 @@
                    audience="AFARS_5117.7404"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.7404.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.74041.dita"
@@ -3859,7 +3860,7 @@
                    audience="AFARS_5117.74041"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.74041.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.74045.dita"
@@ -3869,7 +3870,7 @@
                    audience="AFARS_5117.74045"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.74045.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.74046.dita"
@@ -3879,7 +3880,7 @@
                    audience="AFARS_5117.74046"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.74046.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3900,7 +3901,7 @@
                    audience="AFARS_5117.7504"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.7504.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -3921,7 +3922,7 @@
                    audience="AFARS_5117.9000"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.9001.dita"
@@ -3931,7 +3932,7 @@
                    audience="AFARS_5117.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.9002.dita"
@@ -3941,7 +3942,7 @@
                    audience="AFARS_5117.9002"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.9003.dita"
@@ -3951,7 +3952,7 @@
                    audience="AFARS_5117.9003"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9003.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5117.90031.dita"
@@ -3972,7 +3973,7 @@
                    audience="AFARS_5117.9004"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9004.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5117.90041.dita"
@@ -4013,7 +4014,7 @@
                    audience="AFARS_5117.9005"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9005.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5117.9006.dita"
@@ -4023,7 +4024,7 @@
                    audience="AFARS_5117.9006"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5117.9006.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4054,7 +4055,7 @@
                    audience="AFARS_5118.170"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5118.170.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4075,7 +4076,7 @@
                    audience="AFARS_5118.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5118.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5118.271.dita"
@@ -4085,7 +4086,7 @@
                    audience="AFARS_5118.271"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5118.271.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4116,7 +4117,7 @@
                    audience="AFARS_5119.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5119.2021.dita"
@@ -4137,7 +4138,7 @@
                    audience="AFARS_5119.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4158,7 +4159,7 @@
                    audience="AFARS_5119.502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.502.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5119.5023.dita"
@@ -4210,7 +4211,7 @@
                    audience="AFARS_5119.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.602.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5119.6023.dita"
@@ -4242,7 +4243,7 @@
                    audience="AFARS_5119.705"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.705.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5119.7052.dita"
@@ -4304,7 +4305,7 @@
                    audience="AFARS_5119.803"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.803.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5119.804.dita"
@@ -4314,7 +4315,7 @@
                    audience="AFARS_5119.804"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.804.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5119.8042.dita"
@@ -4335,7 +4336,7 @@
                    audience="AFARS_5119.808"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.808.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5119.8081.dita"
@@ -4356,7 +4357,7 @@
                    audience="AFARS_5119.810"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.810.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5119.812.dita"
@@ -4366,7 +4367,7 @@
                    audience="AFARS_5119.812"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.812.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5119.815.dita"
@@ -4375,7 +4376,7 @@
                    navtitle="5119.815 Release for non-8(a) procurement."
                    audience="AFARS_5119.815"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.815.html"
+                   xtrc=""
                    base="NoTitle"
                    tables="0"
                    figures="0"/>
@@ -4386,7 +4387,7 @@
                    audience="AFARS_5119.816"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.816.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5119.890.dita"
@@ -4396,7 +4397,7 @@
                    audience="AFARS_5119.890"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.890.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4417,7 +4418,7 @@
                    audience="AFARS_5119.1305"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.1305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4438,7 +4439,7 @@
                    audience="AFARS_5119.1405"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5119.1405.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4497,7 +4498,7 @@
                    audience="AFARS_5122.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5122.1011.dita"
@@ -4538,7 +4539,7 @@
                    audience="AFARS_5122.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5122.1034.dita"
@@ -4570,7 +4571,7 @@
                    audience="AFARS_5122.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4591,7 +4592,7 @@
                    audience="AFARS_5122.404"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.404.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5122.4046.dita"
@@ -4612,7 +4613,7 @@
                    audience="AFARS_5122.406"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.406.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5122.4068.dita"
@@ -4654,7 +4655,7 @@
                    audience="AFARS_5122.805"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.805.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5122.807.dita"
@@ -4664,7 +4665,7 @@
                    audience="AFARS_5122.807"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.807.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4685,7 +4686,7 @@
                    audience="AFARS_5122.1305"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.1305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4706,7 +4707,7 @@
                    audience="AFARS_5122.1403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.1403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4727,7 +4728,7 @@
                    audience="AFARS_5122.1503"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.1503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4748,7 +4749,7 @@
                    audience="AFARS_5122.1604"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.1604.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4769,7 +4770,7 @@
                    audience="AFARS_5122.1703"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.1703.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5122.1704.dita"
@@ -4779,7 +4780,7 @@
                    audience="AFARS_5122.1704"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5122.1704.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4810,7 +4811,7 @@
                    audience="AFARS_5123.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5123.105.dita"
@@ -4820,7 +4821,7 @@
                    audience="AFARS_5123.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4841,7 +4842,7 @@
                    audience="AFARS_5123.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5123.205.dita"
@@ -4851,7 +4852,7 @@
                    audience="AFARS_5123.205"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.205.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4872,7 +4873,7 @@
                    audience="AFARS_5123.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5123.370.dita"
@@ -4882,7 +4883,7 @@
                    audience="AFARS_5123.370"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.370.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5123.3704.dita"
@@ -4914,7 +4915,7 @@
                    audience="AFARS_5123.803"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.803.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4935,7 +4936,7 @@
                    audience="AFARS_5123.903"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5123.903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4966,7 +4967,7 @@
                    audience="AFARS_5124.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5124.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -4987,7 +4988,7 @@
                    audience="AFARS_5124.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5124.203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5018,7 +5019,7 @@
                    audience="AFARS_5125.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5125.105.dita"
@@ -5028,7 +5029,7 @@
                    audience="AFARS_5125.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5049,7 +5050,7 @@
                    audience="AFARS_5125.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5125.204.dita"
@@ -5059,7 +5060,7 @@
                    audience="AFARS_5125.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Subpart_5125.4.dita"
@@ -5069,7 +5070,7 @@
                    base="NoTitle"
                    audience="AFARS_Subpart_5125.4"
                    xtrf="SubPart"
-                   xtrc="AFARS_Subpart_5125.4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5125.403.dita"
@@ -5079,7 +5080,7 @@
                    audience="AFARS_5125.403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.403.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5100,7 +5101,7 @@
                    audience="AFARS_5125.603"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.603.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5118,7 +5119,7 @@
                    props="5125.802"
                    outputclass="subtopic"
                    audience="AFARS_5125.802"
-                   xtrc="AFARS_5125.802.html"
+                   xtrc=""
                    navtitle="5125.802 Procedures."
                    base="NoTitle"
                    tables="0"
@@ -5140,7 +5141,7 @@
                    audience="AFARS_5125.870"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.870.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.8704.dita"
@@ -5161,7 +5162,7 @@
                    audience="AFARS_5125.871"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.871.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.8717.dita"
@@ -5193,7 +5194,7 @@
                    audience="AFARS_5125.903"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5214,7 +5215,7 @@
                    audience="AFARS_5125.1001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.1001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5235,7 +5236,7 @@
                    audience="AFARS_5125.7000"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.7000.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.700090.dita"
@@ -5256,7 +5257,7 @@
                    audience="AFARS_5125.7002"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.7002.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.70022.dita"
@@ -5277,7 +5278,7 @@
                    audience="AFARS_5125.7003"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.7003.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.70033.dita"
@@ -5298,7 +5299,7 @@
                    audience="AFARS_5125.7008"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.7008.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5319,7 +5320,7 @@
                    audience="AFARS_5125.7301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.7301.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.73011.dita"
@@ -5351,7 +5352,7 @@
                    audience="AFARS_5125.7703"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5125.7703.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5125.77032.dita"
@@ -5402,7 +5403,7 @@
                    audience="AFARS_5127.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5127.2012.dita"
@@ -5423,7 +5424,7 @@
                    audience="AFARS_5127.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5127.2023.dita"
@@ -5455,7 +5456,7 @@
                    audience="AFARS_5127.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5127.304.dita"
@@ -5465,7 +5466,7 @@
                    audience="AFARS_5127.304"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.304.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5486,7 +5487,7 @@
                    audience="AFARS_5127.675"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.675.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5127.6752.dita"
@@ -5518,7 +5519,7 @@
                    audience="AFARS_5127.7004"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.7004.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5127.700690.dita"
@@ -5539,7 +5540,7 @@
                    audience="AFARS_5127.7011"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.7011.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5560,7 +5561,7 @@
                    audience="AFARS_5127.7103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.7103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5127.710313.dita"
@@ -5602,7 +5603,7 @@
                    audience="AFARS_5127.7203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5127.7203.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5127.720313.dita"
@@ -5644,7 +5645,7 @@
                    audience="AFARS_5128.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5128.1011.dita"
@@ -5665,7 +5666,7 @@
                    audience="AFARS_5128.105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.105.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5128.106.dita"
@@ -5675,7 +5676,7 @@
                    audience="AFARS_5128.106"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.106.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5128.1062.dita"
@@ -5717,7 +5718,7 @@
                    audience="AFARS_5128.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5128.203.dita"
@@ -5727,7 +5728,7 @@
                    audience="AFARS_5128.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.203.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5128.2035.dita"
@@ -5748,7 +5749,7 @@
                    audience="AFARS_5128.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5128.2041.dita"
@@ -5780,7 +5781,7 @@
                    audience="AFARS_5128.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5128.305.dita"
@@ -5790,7 +5791,7 @@
                    audience="AFARS_5128.305"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.305.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5128.307.dita"
@@ -5800,7 +5801,7 @@
                    audience="AFARS_5128.307"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.307.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5128.3071.dita"
@@ -5821,7 +5822,7 @@
                    audience="AFARS_5128.311"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.311.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5128.3111.dita"
@@ -5842,7 +5843,7 @@
                    audience="AFARS_5128.370"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5128.370.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5873,7 +5874,7 @@
                    audience="AFARS_5129.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5129.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5894,7 +5895,7 @@
                    audience="AFARS_5129.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5129.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5915,7 +5916,7 @@
                    audience="AFARS_5129.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5129.303.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -5946,7 +5947,7 @@
                    audience="AFARS_5130.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5130.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5130.2015.dita"
@@ -5967,7 +5968,7 @@
                    audience="AFARS_5130.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5130.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5130.2026.dita"
@@ -6009,7 +6010,7 @@
                    audience="AFARS_5131.205"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5131.205.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5131.2056.dita"
@@ -6051,7 +6052,7 @@
                    audience="AFARS_5132.0061"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.0061.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.0062.dita"
@@ -6061,7 +6062,7 @@
                    audience="AFARS_5132.0062"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.0062.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.0063.dita"
@@ -6071,7 +6072,7 @@
                    audience="AFARS_5132.0063"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.0063.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6102,7 +6103,7 @@
                    audience="AFARS_5132.111"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.111.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.114.dita"
@@ -6112,7 +6113,7 @@
                    audience="AFARS_5132.114"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.114.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6133,7 +6134,7 @@
                    audience="AFARS_5132.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.202.dita"
@@ -6143,7 +6144,7 @@
                    audience="AFARS_5132.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5132.2021.dita"
@@ -6175,7 +6176,7 @@
                    audience="AFARS_5132.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.407.dita"
@@ -6185,7 +6186,7 @@
                    audience="AFARS_5132.407"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.407.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6206,7 +6207,7 @@
                    audience="AFARS_5132.501"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.501.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5132.5012.dita"
@@ -6238,7 +6239,7 @@
                    audience="AFARS_5132.606"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.606.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.607.dita"
@@ -6248,7 +6249,7 @@
                    audience="AFARS_5132.607"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.607.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5132.6072.dita"
@@ -6269,7 +6270,7 @@
                    audience="AFARS_5132.671"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.671.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6290,7 +6291,7 @@
                    audience="AFARS_5132.702"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.702.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6311,7 +6312,7 @@
                    audience="AFARS_5132.803"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.803.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6332,7 +6333,7 @@
                    audience="AFARS_5132.901"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.901.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.903.dita"
@@ -6342,7 +6343,7 @@
                    audience="AFARS_5132.903"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5132.906.dita"
@@ -6352,7 +6353,7 @@
                    audience="AFARS_5132.906"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.906.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6373,7 +6374,7 @@
                    audience="AFARS_5132.1106"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.1106.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6394,7 +6395,7 @@
                    audience="AFARS_5132.7101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5132.7101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6435,7 +6436,7 @@
                    audience="AFARS_5133.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5133.103.dita"
@@ -6445,7 +6446,7 @@
                    audience="AFARS_5133.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5133.10390.dita"
@@ -6466,7 +6467,7 @@
                    audience="AFARS_5133.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5133.170.dita"
@@ -6476,7 +6477,7 @@
                    audience="AFARS_5133.170"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.170.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5133.17090.dita"
@@ -6497,7 +6498,7 @@
                    audience="AFARS_5133.190"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.190.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5133.1901.dita"
@@ -6539,7 +6540,7 @@
                    audience="AFARS_5133.203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.203.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5133.204.dita"
@@ -6549,7 +6550,7 @@
                    audience="AFARS_5133.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5133.212.dita"
@@ -6559,7 +6560,7 @@
                    audience="AFARS_5133.212"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.212.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5133.21290.dita"
@@ -6660,7 +6661,7 @@
                    audience="AFARS_5133.213"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.213.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5133.215.dita"
@@ -6670,7 +6671,7 @@
                    audience="AFARS_5133.215"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.215.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6691,7 +6692,7 @@
                    audience="AFARS_5133.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5133.9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6707,7 +6708,7 @@
              figures="0">
       <topicref href="Subpart_5134.0.dita"
                 navtitle="Subpart 5134.0 - General"
-                outputclass="SubPart"
+                outputclass="subtopic"
                 props="Subpart 5134.0"
                 base="NoTitle"
                 audience="AFARS_Subpart_5134.0"
@@ -6722,7 +6723,7 @@
                    audience="AFARS_5134.003"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5134.003.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6743,7 +6744,7 @@
                    base="NoTitle"
                    audience="AFARS_Subpart_5134.70"
                    xtrf="SubPart"
-                   xtrc="AFARS_Subpart_5134.70.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5134.7002.dita"
@@ -6753,7 +6754,7 @@
                    audience="AFARS_5134.7002"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5134.7002.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6794,7 +6795,7 @@
                    audience="AFARS_5135.01490"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5135.01490.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6815,7 +6816,7 @@
                    audience="AFARS_5135.01570"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5135.01570.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6836,7 +6837,7 @@
                    audience="AFARS_5135.0701"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5135.0701.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6867,7 +6868,7 @@
                    audience="AFARS_5136.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5136.290.dita"
@@ -6888,7 +6889,7 @@
                    audience="AFARS_5136.208"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.208.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5136.209.dita"
@@ -6898,7 +6899,7 @@
                    audience="AFARS_5136.209"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.209.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5136.213.dita"
@@ -6908,7 +6909,7 @@
                    audience="AFARS_5136.213"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.213.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5136.2132.dita"
@@ -6929,7 +6930,7 @@
                    audience="AFARS_5136.270"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.270.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5136.272.dita"
@@ -6939,7 +6940,7 @@
                    audience="AFARS_5136.272"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.272.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6960,7 +6961,7 @@
                    audience="AFARS_5136.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -6981,7 +6982,7 @@
                    audience="AFARS_5136.570"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.570.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7002,7 +7003,7 @@
                    audience="AFARS_5136.601"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.601.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5136.60190.dita"
@@ -7043,7 +7044,7 @@
                    audience="AFARS_5136.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.602.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5136.6021.dita"
@@ -7084,7 +7085,7 @@
                    audience="AFARS_5136.604"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.604.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5136.609.dita"
@@ -7094,7 +7095,7 @@
                    audience="AFARS_5136.609"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5136.609.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5136.6091.dita"
@@ -7136,7 +7137,7 @@
                    audience="AFARS_5137.10290"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.10290.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.104.dita"
@@ -7146,7 +7147,7 @@
                    audience="AFARS_5137.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.112.dita"
@@ -7156,7 +7157,7 @@
                    audience="AFARS_5137.112"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.112.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.1131.dita"
@@ -7166,7 +7167,7 @@
                    audience="AFARS_5137.1131"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.1131.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.170.dita"
@@ -7176,7 +7177,7 @@
                    audience="AFARS_5137.170"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.170.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.1702.dita"
@@ -7186,7 +7187,7 @@
                    audience="AFARS_5137.1702"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.1702.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7207,7 +7208,7 @@
                    audience="AFARS_5137.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7228,7 +7229,7 @@
                    audience="AFARS_5137.503"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5901.dita"
@@ -7238,7 +7239,7 @@
                    audience="AFARS_5137.5901"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5901.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5902.dita"
@@ -7248,7 +7249,7 @@
                    audience="AFARS_5137.5902"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5902.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5903.dita"
@@ -7258,7 +7259,7 @@
                    audience="AFARS_5137.5903"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5903.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5904.dita"
@@ -7268,7 +7269,7 @@
                    audience="AFARS_5137.5904"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5904.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5905.dita"
@@ -7278,7 +7279,7 @@
                    audience="AFARS_5137.5905"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5905.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5906.dita"
@@ -7288,7 +7289,7 @@
                    audience="AFARS_5137.5906"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5906.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.5907.dita"
@@ -7298,7 +7299,7 @@
                    audience="AFARS_5137.5907"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.5907.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7319,7 +7320,7 @@
                    audience="AFARS_5137.7204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.7204.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.720490.dita"
@@ -7329,7 +7330,7 @@
                    audience="AFARS_5137.720490"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.720490.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.720491.dita"
@@ -7339,7 +7340,7 @@
                    audience="AFARS_5137.720491"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.720491.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.720492.dita"
@@ -7349,7 +7350,7 @@
                    audience="AFARS_5137.720492"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.720492.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.720493.dita"
@@ -7359,7 +7360,7 @@
                    audience="AFARS_5137.720493"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.720493.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5137.720494.dita"
@@ -7369,7 +7370,7 @@
                    audience="AFARS_5137.720494"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.720494.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7390,7 +7391,7 @@
                    audience="AFARS_5137.7401"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.7401.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7411,7 +7412,7 @@
                    audience="AFARS_5137.9001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.9001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7432,7 +7433,7 @@
                    audience="AFARS_5137.9101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5137.9101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7472,7 +7473,7 @@
                    audience="AFARS_5139.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5139.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5139.10190.dita"
@@ -7504,7 +7505,7 @@
                    audience="AFARS_5139.7402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5139.7402.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7525,7 +7526,7 @@
                    audience="AFARS_5139.7602"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5139.7602.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7565,7 +7566,7 @@
                    audience="AFARS_5141.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5141.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7586,7 +7587,7 @@
                    audience="AFARS_5141.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5141.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7617,7 +7618,7 @@
                    audience="AFARS_5142.190"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.190.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5142.1901.dita"
@@ -7679,7 +7680,7 @@
                    audience="AFARS_5142.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7700,7 +7701,7 @@
                    audience="AFARS_5142.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7721,7 +7722,7 @@
                    audience="AFARS_5142.602"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.602.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7742,7 +7743,7 @@
                    audience="AFARS_5142.703"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.703.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5142.7032.dita"
@@ -7774,7 +7775,7 @@
                    audience="AFARS_5142.1502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.1502.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5142.1503.dita"
@@ -7784,7 +7785,7 @@
                    audience="AFARS_5142.1503"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.1503.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5142.150390.dita"
@@ -7816,7 +7817,7 @@
                    audience="AFARS_5142.7100"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5142.7100.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7847,7 +7848,7 @@
                    audience="AFARS_5143.204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5143.204.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5143.204705.dita"
@@ -7878,7 +7879,7 @@
                    audience="AFARS_5143.205"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5143.205.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7909,7 +7910,7 @@
                    audience="AFARS_5144.302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5144.302.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -7930,6 +7931,7 @@
                 base="NoTitle"
                 audience="AFARS_5145.000"
                 xtrc="AFARS_5145.000.html"
+                xtrf="subtopic"
                 tables="0"
                 figures="0"/>
       <topicref href="Subpart_5145.1.dita"
@@ -7947,7 +7949,9 @@
                    navtitle="5145.101 Definitions."
                    base="NoTitle"
                    audience="AFARS_5145.101"
-                   xtrc="AFARS_5145.101.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
          <topicref href="5145.102.dita"
@@ -7957,7 +7961,7 @@
                    audience="AFARS_5145.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5145.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5145.103.dita"
@@ -7965,7 +7969,9 @@
                    navtitle="5145.103 General."
                    base="NoTitle"
                    audience="AFARS_5145.103"
-                   xtrc="AFARS_5145.103.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0">
             <topicref href="5145.103-70.dita"
@@ -7974,6 +7980,8 @@
                       base="NoTitle"
                       audience="AFARS_5145.103-70"
                       xtrc="AFARS_5145.103-70.html"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
                       tables="0"
                       figures="0"/>
             <topicref href="5145.103-72.dita"
@@ -7982,6 +7990,8 @@
                       base="NoTitle"
                       audience="AFARS_5145.103-72"
                       xtrc="AFARS_5145.103-72.html"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
                       tables="0"
                       figures="0"/>
             <topicref href="5145.103-73.dita"
@@ -7990,6 +8000,8 @@
                       base="NoTitle"
                       audience="AFARS_5145.103-73"
                       xtrc="AFARS_5145.103-73.html"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
                       tables="0"
                       figures="0"/>
             <topicref href="5145.103-74.dita"
@@ -7998,6 +8010,8 @@
                       base="NoTitle"
                       audience="AFARS_5145.103-74"
                       xtrc="AFARS_5145.103-74.html"
+                      outputclass="subtopic"
+                      xtrf="subtopic"
                       tables="0"
                       figures="0"/>
          </topicref>
@@ -8006,7 +8020,9 @@
                    navtitle="5145.105 Contractor’s property management system compliance."
                    base="NoTitle"
                    audience="AFARS_5145.105"
-                   xtrc="AFARS_5145.105.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
          <topicref href="5145.107.dita"
@@ -8014,7 +8030,9 @@
                    navtitle="5145.107 Contract Clauses."
                    base="NoTitle"
                    audience="AFARS_5145.107"
-                   xtrc="AFARS_5145.107.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
          <topicref href="5145.190-1.dita"
@@ -8022,7 +8040,9 @@
                    navtitle="5145.190-1 Leasing personal property."
                    base="NoTitle"
                    audience="AFARS_5145.190-1"
-                   xtrc="AFARS_5145.190-1.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
          <topicref href="5145.190-2.dita"
@@ -8030,7 +8050,9 @@
                    navtitle="5145.190-2 Furnishing Government property after award."
                    base="NoTitle"
                    audience="AFARS_5145.190-2"
-                   xtrc="AFARS_5145.190-2.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8041,6 +8063,7 @@
                 outputclass="SubPart"
                 audience="AFARS_Subpart_5145.2"
                 xtrc="AFARS_Subpart_5145.2.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="5145.201.dita"
@@ -8048,7 +8071,9 @@
                    navtitle="5145.201 Solicitation."
                    base="NoTitle"
                    audience="AFARS_5145.201"
-                   xtrc="AFARS_5145.201.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
          <topicref href="5145.202.dita"
@@ -8056,7 +8081,9 @@
                    navtitle="5145.202 Evaluation Procedures."
                    base="NoTitle"
                    audience="AFARS_5145.202"
-                   xtrc="AFARS_5145.202.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8077,7 +8104,7 @@
                    audience="AFARS_5145.301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5145.301.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5145.390.dita"
@@ -8087,7 +8114,7 @@
                    audience="AFARS_5145.390"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5145.390.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8098,6 +8125,7 @@
                 outputclass="SubPart"
                 audience="AFARS_Subpart_5145.4"
                 xtrc="AFARS_Subpart_5145.4.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="5145.402-70.dita"
@@ -8105,7 +8133,9 @@
                    navtitle="5145.402-70 Policy."
                    base="NoTitle"
                    audience="AFARS_5145.402-70"
-                   xtrc="AFARS_5145.402-70.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8126,7 +8156,7 @@
                    audience="AFARS_5145.57090"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5145.57090.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8137,6 +8167,7 @@
                 outputclass="SubPart"
                 audience="AFARS_Subpart_5145.6"
                 xtrc="AFARS_Subpart_5145.6.html"
+                xtrf="SubPart"
                 tables="0"
                 figures="0">
          <topicref href="5145.605.dita"
@@ -8144,7 +8175,9 @@
                    navtitle="5145.605 Inventory disposal reports."
                    base="NoTitle"
                    audience="AFARS_5145.605"
-                   xtrc="AFARS_5145.605.html"
+                   xtrc=""
+                   outputclass="subtopic"
+                   xtrf="subtopic"
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8175,7 +8208,7 @@
                    audience="AFARS_5146.501"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5146.501.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5146.503.dita"
@@ -8185,7 +8218,7 @@
                    audience="AFARS_5146.503"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5146.503.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8206,7 +8239,7 @@
                    audience="AFARS_5146.702"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5146.702.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8246,7 +8279,7 @@
                    audience="AFARS_5148.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5148.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5148.104.dita"
@@ -8256,7 +8289,7 @@
                    audience="AFARS_5148.104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5148.104.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5148.1043.dita"
@@ -8288,7 +8321,7 @@
                    audience="AFARS_5148.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5148.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5148.202.dita"
@@ -8298,7 +8331,7 @@
                    audience="AFARS_5148.202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5148.202.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8329,7 +8362,7 @@
                    audience="AFARS_5149.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5149.10190.dita"
@@ -8350,7 +8383,7 @@
                    audience="AFARS_5149.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5149.107.dita"
@@ -8360,7 +8393,7 @@
                    audience="AFARS_5149.107"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.107.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8381,7 +8414,7 @@
                    audience="AFARS_5149.401"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.401.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5149.402.dita"
@@ -8391,7 +8424,7 @@
                    audience="AFARS_5149.402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.402.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5149.4023.dita"
@@ -8423,7 +8456,7 @@
                    audience="AFARS_5149.501"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.501.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5149.50170.dita"
@@ -8455,7 +8488,7 @@
                    audience="AFARS_5149.7001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.7001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5149.7003.dita"
@@ -8465,7 +8498,7 @@
                    audience="AFARS_5149.7003"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5149.7003.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8496,7 +8529,7 @@
                    audience="AFARS_5150.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5150.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5150.1013.dita"
@@ -8517,7 +8550,7 @@
                    audience="AFARS_5150.102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5150.102.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5150.1021.dita"
@@ -8548,7 +8581,7 @@
                    audience="AFARS_5150.103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5150.103.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5150.1035.dita"
@@ -8599,7 +8632,7 @@
                    audience="AFARS_5152.101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5152.101.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8620,7 +8653,7 @@
                    audience="AFARS_5152.2119000"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5152.2119000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5152.2119001.dita"
@@ -8630,7 +8663,7 @@
                    audience="AFARS_5152.2119001"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5152.2119001.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5152.2379000.dita"
@@ -8640,7 +8673,7 @@
                    audience="AFARS_5152.2379000"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5152.2379000.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="5152.2477027.dita"
@@ -8650,7 +8683,7 @@
                    audience="AFARS_5152.2477027"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5152.2477027.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -8681,7 +8714,7 @@
                    audience="AFARS_5153.201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.201.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.20190.dita"
@@ -8712,7 +8745,7 @@
                    audience="AFARS_5153.206"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.206.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.20690.dita"
@@ -8743,7 +8776,7 @@
                    audience="AFARS_5153.213"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.213.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.21370.dita"
@@ -8764,7 +8797,7 @@
                    audience="AFARS_5153.233"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.233.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.23390.dita"
@@ -8795,7 +8828,7 @@
                    audience="AFARS_5153.242"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.242.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.24290.dita"
@@ -8826,7 +8859,7 @@
                    audience="AFARS_5153.245"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.245.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.24590.dita"
@@ -8868,7 +8901,7 @@
                    audience="AFARS_5153.303"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_5153.303.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="5153.3031.dita"
@@ -8987,8 +9020,8 @@
                 navtitle="ARMY SOURCE SELECTION SUPPLEMENT"
                 base="NoTitle"
                 audience="AFARS_APPENDIX-AA_ASSS"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 props="ARMY SOURCE"
                 xtrc="AFARS_APPENDIX-AA_ASSS.html"
                 tables="0"
@@ -9010,7 +9043,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-1_1-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-1_1-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-1_1-2.dita"
@@ -9020,7 +9053,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-1_1-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-1_1-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-1_1-3.dita"
@@ -9030,7 +9063,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-1_1-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-1_1-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-1_1-4.dita"
@@ -9040,7 +9073,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-1_1-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-1_1-4.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
       </topicref>
@@ -9061,7 +9094,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-2_2-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-2_2-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-2_2-2.dita"
@@ -9071,7 +9104,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-2_2-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-2_2-2.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-2_2-3.dita"
@@ -9081,7 +9114,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-2_2-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-2_2-3.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-2_2-4.dita"
@@ -9091,7 +9124,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-2_2-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-2_2-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -9112,7 +9145,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-1.html"
+                   xtrc=""
                    tables="3"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-2.dita"
@@ -9122,7 +9155,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-3.dita"
@@ -9132,7 +9165,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-4.dita"
@@ -9142,7 +9175,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-5.dita"
@@ -9152,7 +9185,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-6.dita"
@@ -9162,7 +9195,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-6"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-6.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-7.dita"
@@ -9172,7 +9205,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-7"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-7.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-8.dita"
@@ -9182,7 +9215,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-8"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-8.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-9.dita"
@@ -9192,7 +9225,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-9"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-9.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-10.dita"
@@ -9202,7 +9235,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-10"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-10.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-11.dita"
@@ -9212,7 +9245,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-11"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-11.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-3_3-12.dita"
@@ -9222,7 +9255,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-3_3-12"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-3_3-12.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
       </topicref>
@@ -9243,7 +9276,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-4_4-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-4_4-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-4_4-2.dita"
@@ -9253,7 +9286,7 @@
                    audience="AFARS_APPENDIX-AA_Chapter-4_4-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-4_4-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -9274,7 +9307,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX A"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-A.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-A_A-1.dita"
@@ -9295,7 +9328,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX B"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B.html"
+                   xtrc=""
                    tables="2"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-C.dita"
@@ -9305,7 +9338,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX C"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C.html"
+                   xtrc=""
                    tables="16"
                    figures="0"/>
          <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-D.dita"
@@ -9315,7 +9348,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX D"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-D.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-D_OPP.dita"
@@ -9336,7 +9369,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX E"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-E.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-E_SBPP.dita"
@@ -9357,7 +9390,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX F"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-F.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-F_OLRA.dita"
@@ -9378,7 +9411,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="APPENDIX G"
-                   xtrc="AFARS_APPENDIX-AA_Chapter-5_APPENDIX-G.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="APPENDIX-AA_Chapter-5_APPENDIX-G_TS.dita"
@@ -9420,7 +9453,7 @@
                    audience="AFARS_AppendixBB_Part_1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB_Part_1.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="AppendixBB-100.dita"
@@ -9471,7 +9504,7 @@
                    audience="AFARS_AppendixBB_Part_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB_Part_2.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="AppendixBB-200.dita"
@@ -9553,7 +9586,7 @@
                    audience="AFARS_Appendix-CC_Part_1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC_Part_1.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-CC-100.dita"
@@ -9624,7 +9657,7 @@
                    audience="AFARS_Appendix-CC_Part_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC_Part_2.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-CC-200.dita"
@@ -9655,7 +9688,7 @@
                    audience="AFARS_Appendix-CC_Part_3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC_Part_3.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-CC-300.dita"
@@ -9696,7 +9729,7 @@
                    audience="AFARS_Appendix-CC_Part_4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC_Part_4.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-CC-400.dita"
@@ -9746,7 +9779,7 @@
                    audience="AFARS_Appendix-CC_Part_5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC_Part_5.html"
+                   xtrc=""
                    base="NoTitle"
                    tables="0"
                    figures="0">
@@ -9787,40 +9820,10 @@
                    audience="AFARS_Appendix-CC-Annex"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="Appendix-CC-Annex.html"
+                   xtrc=""
                    base="NoTitle"
                    tables="0"
-                   figures="0">
-            <topicmeta>
-               <navtitle/>
-               <linktext/>
-               <searchtitle/>
-               <shortdesc/>
-               <author/>
-               <source/>
-               <publisher/>
-               <copyright>
-                  <copyryear year=""/>
-                  <copyrholder/>
-               </copyright>
-               <critdates>
-                  <created date=""/>
-                  <revised modified=""/>
-               </critdates>
-               <permissions view=""/>
-               <audience/>
-               <category/>
-               <prodinfo>
-                  <prodname/>
-                  <vrmlist>
-                     <vrm version=""/>
-                  </vrmlist>
-               </prodinfo>
-               <othermeta name="" content=""/>
-               <resourceid/>
-               <ux-window name=""/>
-            </topicmeta>
-         </topicref>
+                   figures="0"/>
       </topicref>
    </topicref>
    <topicref href="Appendix-DD.dita"
@@ -9849,7 +9852,7 @@
                    audience="AFARS_Appendix-DD_Part_1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD_Part_1.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-DD-100.dita"
@@ -9920,7 +9923,7 @@
                    audience="AFARS_Appendix-DD_Part_2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD_Part_2.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-DD-201.dita"
@@ -9951,7 +9954,7 @@
                    audience="AFARS_Appendix-DD_Part_3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD_Part_3.html"
+                   xtrc=""
                    tables="0"
                    figures="0">
             <topicref href="Appendix-DD-301.dita"
@@ -9980,8 +9983,8 @@
                 navtitle="DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD OPERATING PROCEDURES"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE_DOTAGPCOP"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 props="DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD OPERATING PROCEDURES"
                 xtrc="AFARS_Appendix-EE_DOTAGPCOP.html"
                 tables="0"
@@ -10003,7 +10006,7 @@
                    audience="AFARS_Appendix-EE_1-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_1-2.dita"
@@ -10013,7 +10016,7 @@
                    audience="AFARS_Appendix-EE_1-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_1-3.dita"
@@ -10023,7 +10026,7 @@
                    audience="AFARS_Appendix-EE_1-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_1-4.dita"
@@ -10033,7 +10036,7 @@
                    audience="AFARS_Appendix-EE_1-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_1-5.dita"
@@ -10043,7 +10046,7 @@
                    audience="AFARS_Appendix-EE_1-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_1-6.dita"
@@ -10053,7 +10056,7 @@
                    audience="AFARS_Appendix-EE_1-6"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-6.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_1-7.dita"
@@ -10063,7 +10066,7 @@
                    audience="AFARS_Appendix-EE_1-7"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-7.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="Appendix-EE_1-8.dita"
@@ -10073,7 +10076,7 @@
                    audience="AFARS_Appendix-EE_1-8"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_1-8.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -10094,7 +10097,7 @@
                    audience="AFARS_Appendix-EE_2-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_2-2.dita"
@@ -10104,7 +10107,7 @@
                    audience="AFARS_Appendix-EE_2-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-2.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="Appendix-EE_2-3.dita"
@@ -10114,7 +10117,7 @@
                    audience="AFARS_Appendix-EE_2-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_2-4.dita"
@@ -10124,7 +10127,7 @@
                    audience="AFARS_Appendix-EE_2-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_2-5.dita"
@@ -10134,7 +10137,7 @@
                    audience="AFARS_Appendix-EE_2-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_2-6.dita"
@@ -10144,7 +10147,7 @@
                    audience="AFARS_Appendix-EE_2-6"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-6.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_2-7.dita"
@@ -10154,7 +10157,7 @@
                    audience="AFARS_Appendix-EE_2-7"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_2-7.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -10175,7 +10178,7 @@
                    audience="AFARS_Appendix-EE_3-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-2.dita"
@@ -10185,7 +10188,7 @@
                    audience="AFARS_Appendix-EE_3-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-3.dita"
@@ -10195,7 +10198,7 @@
                    audience="AFARS_Appendix-EE_3-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-4.dita"
@@ -10205,7 +10208,7 @@
                    audience="AFARS_Appendix-EE_3-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-5.dita"
@@ -10215,7 +10218,7 @@
                    audience="AFARS_Appendix-EE_3-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-6.dita"
@@ -10225,7 +10228,7 @@
                    audience="AFARS_Appendix-EE_3-6"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-6.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-7.dita"
@@ -10235,7 +10238,7 @@
                    audience="AFARS_Appendix-EE_3-7"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-7.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-8.dita"
@@ -10245,7 +10248,7 @@
                    audience="AFARS_Appendix-EE_3-8"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-8.html"
+                   xtrc=""
                    tables="1"
                    figures="0"/>
          <topicref href="Appendix-EE_3-9.dita"
@@ -10255,7 +10258,7 @@
                    audience="AFARS_Appendix-EE_3-9"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-9.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-10.dita"
@@ -10265,7 +10268,7 @@
                    audience="AFARS_Appendix-EE_3-10"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-10.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-11.dita"
@@ -10275,7 +10278,7 @@
                    audience="AFARS_Appendix-EE_3-11"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-11.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-12.dita"
@@ -10285,7 +10288,7 @@
                    audience="AFARS_Appendix-EE_3-12"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-12.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-13.dita"
@@ -10295,7 +10298,7 @@
                    audience="AFARS_Appendix-EE_3-13"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-13.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-14.dita"
@@ -10305,7 +10308,7 @@
                    audience="AFARS_Appendix-EE_3-14"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-14.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-15.dita"
@@ -10315,7 +10318,7 @@
                    audience="AFARS_Appendix-EE_3-15"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-15.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_3-16.dita"
@@ -10325,7 +10328,7 @@
                    audience="AFARS_Appendix-EE_3-16"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_3-16.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -10346,7 +10349,7 @@
                    audience="AFARS_Appendix-EE_4-1"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_4-1.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_4-2.dita"
@@ -10356,7 +10359,7 @@
                    audience="AFARS_Appendix-EE_4-2"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_4-2.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_4-3.dita"
@@ -10366,7 +10369,7 @@
                    audience="AFARS_Appendix-EE_4-3"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_4-3.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_4-4.dita"
@@ -10376,7 +10379,7 @@
                    audience="AFARS_Appendix-EE_4-4"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_4-4.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
          <topicref href="Appendix-EE_4-5.dita"
@@ -10386,7 +10389,7 @@
                    audience="AFARS_Appendix-EE_4-5"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-EE_4-5.html"
+                   xtrc=""
                    tables="0"
                    figures="0"/>
       </topicref>
@@ -10395,8 +10398,8 @@
                 props="Appendix A: Best Practices"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-A"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-A.html"
                 tables="0"
                 figures="0"/>
@@ -10405,8 +10408,8 @@
                 props="Appendix B: References"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-B"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-B.html"
                 tables="0"
                 figures="0"/>
@@ -10415,8 +10418,8 @@
                 props="Appendix C: Prohibited Purchases"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-C"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-C.html"
                 tables="0"
                 figures="0"/>
@@ -10425,8 +10428,8 @@
                 props="Appendix D: Department of Defense  (DoD) Purchase Card Checklist and Certification Template"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-D"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-D.html"
                 tables="0"
                 figures="0"/>
@@ -10435,8 +10438,8 @@
                 props="Appendix E: DD Form 577 for Appointing a Certifying Officer"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-E"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-E.html"
                 tables="0"
                 figures="0"/>
@@ -10445,8 +10448,8 @@
                 props="Appendix F: Sample GPC Appointment Letters"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-F"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-F.html"
                 tables="5"
                 figures="0"/>
@@ -10455,8 +10458,8 @@
                 props="Appendix G: Formal Reporting Requirements"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-G"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-G.html"
                 tables="6"
                 figures="0"/>
@@ -10465,8 +10468,8 @@
                 props="Appendix H: Semi-Annual Surveillance Report Template"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-H"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-H.html"
                 tables="0"
                 figures="0"/>
@@ -10475,8 +10478,8 @@
                 props="Appendix I: GPC Thresholds"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-I"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-I.html"
                 tables="2"
                 figures="0"/>
@@ -10485,8 +10488,8 @@
                 props="Appendix J: Glossary - Sections I and II"
                 base="NoTitle"
                 audience="AFARS_Appendix-EE-Appendix-J"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 xtrc="AFARS_Appendix-EE-Appendix-J.html"
                 tables="0"
                 figures="0"/>
@@ -10504,8 +10507,8 @@
                 navtitle="DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD CLAUSES"
                 base="NoTitle"
                 audience="AFARS_Appendix-FF_DOTRPFCONC"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 props="DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD CLAUSES"
                 xtrc="AFARS_Appendix-FF_DOTRPFCONC.html"
                 tables="0"
@@ -10522,11 +10525,12 @@
              figures="0">
       <topicref href="Appendix-GG_Apendix-GG.dita"
                 props="Apendix GG"
-                outputclass="subtopic"
+                outputclass="SubPart"
                 navtitle="Appendix GG"
                 audience="AFARS_Appendix-GG_Apendix-GG"
                 xtrc="AFARS_Appendix-GG_Apendix-GG.html"
                 base="NoTitle"
+                xtrf="SubPart"
                 tables="1"
                 figures="0"/>
    </topicref>
@@ -10543,8 +10547,8 @@
                 navtitle="Policy and PWS Language"
                 base="NoTitle"
                 audience="AFARS_Appendix-HH_PAPWSL"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 props="Policy and"
                 xtrc="AFARS_Appendix-HH_PAPWSL.html"
                 tables="1"
@@ -10553,8 +10557,8 @@
                 navtitle="Common and Data Services"
                 base="NoTitle"
                 audience="AFARS_Appendix-HH_CADS"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 props="Common and"
                 xtrc="AFARS_Appendix-HH_CADS.html"
                 tables="1"
@@ -10563,8 +10567,8 @@
                 navtitle="CLIN SLIN Descriptions"
                 base="NoTitle"
                 audience="AFARS_Appendix-HH_CSD"
-                outputclass="subtopic"
-                xtrf="subtopic"
+                outputclass="SubPart"
+                xtrf="SubPart"
                 props="CLIN SLIN"
                 xtrc="AFARS_Appendix-HH_CSD.html"
                 tables="1"

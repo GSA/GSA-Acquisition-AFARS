@@ -32,7 +32,7 @@
     outputclass="Part"
     props="Part 5101"
     base="NoTitle"
-    audience="AFARS__PART_5101"
+    audience="AFARS_PART_5101"
     xtrf="Part">
     <topicref
       href="Subpart_5101.1.dita"

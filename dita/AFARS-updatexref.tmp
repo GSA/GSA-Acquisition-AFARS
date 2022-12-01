@@ -17,8 +17,8 @@
                 audience="Cover_1s"
                 otherprops="NoProp"
                 base="NoTitle"
-                outputclass="SubPart"
-                xtrf="SubPart"
+                outputclass="subtopic"
+                xtrf="subtopic"
                 xtrc="Cover_1s.html"/>
    </topicref>
    
@@ -28,7 +28,6 @@
             
          
          
-            
          
          
       
@@ -1338,7 +1337,37 @@
             
             
             
+         
          
+            <topicmeta>
+               <navtitle/>
+               <linktext/>
+               <searchtitle/>
+               <shortdesc/>
+               <author/>
+               <source/>
+               <publisher/>
+               <copyright>
+                  <copyryear year=""/>
+                  <copyrholder/>
+               </copyright>
+               <critdates>
+                  <created date=""/>
+                  <revised modified=""/>
+               </critdates>
+               <permissions view=""/>
+               <audience/>
+               <category/>
+               <prodinfo>
+                  <prodname/>
+                  <vrmlist>
+                     <vrm version=""/>
+                  </vrmlist>
+               </prodinfo>
+               <othermeta name="" content=""/>
+               <resourceid/>
+               <ux-window name=""/>
+            </topicmeta>
          
       
    

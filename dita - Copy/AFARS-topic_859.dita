@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+<concept id="AFARS_AFARS_topic_859">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">3.3</ph> Award Without Discussions</title>
+   <conbody>
+      <p id="akxqrk">
+         <b>
+            <i>Reminder:</i>
+         </b> Discussions should be conducted for all acquisitions with an estimated value of $100 million or more. <b>
+            <i>Award without discussions on complex, large procurements is discouraged and seldom in the Government’s best interest.</i>
+         </b>
+         <i>(Reference DFARS 215.306 and DOD Source Selection Procedures 3.2.3</i>
+         <i>)</i>
+      </p>
+   </conbody>
+</concept>

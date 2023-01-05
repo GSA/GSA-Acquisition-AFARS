@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-DD_SPEG"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="heading 2 Ctr Subpart">
+      <ph props="autonumber">SUBCONTRACTING PLAN</ph> EVALUATION GUIDE</title>
+   <conbody>
+      <p id="chzQBc">
+         <i>October 1, 2014</i>
+      </p>
+   </conbody>
+</concept>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-200"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4" rev="Revised October 1, 2022"> 
+      <ph props="autonumber">CC-200</ph> Philosophy.</title>
+   <conbody>
+      <p rev="Revised October 1, 2022">The PMR Program is a crucial element of ACE contracting governance. Specifically, the PMR Program assesses the effectiveness of strategic controls, internal controls, and key internal controls to mitigate risks to the ACE contracting strategic objectives.</p>
+   </conbody>
+</concept>

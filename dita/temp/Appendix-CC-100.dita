@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-100"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4" rev="Revised October 1, 2022&#34;"> 
+      <ph props="autonumber">CC-100</ph> Purpose and Application.</title>
+   <conbody>
+      <p rev="Revised October 1, 2022&#34;">This Appendix CC describes the Army Contracting Enterprise (ACE) risk management strategy and provides procedures to be used within the Army to establish and manage Army internal control assessments conducted via the Procurement Management Review (PMR) Program. The content in this appendix is consistent with the processes described in Office of Management and Budget (OMB) Circular A-123, Management’s Responsibility for Enterprise Risk Management (ERM) and Internal Control, and Army Regulation (AR) 11-2, Managers Internal Control Program (MICP). The functions covered in this appendix are applicable to all FAR-based and non-FAR-based Army acquisition functions. Specific guidance relating to the method and frequency of assessment for the Government-wide Purchase Card (GPC), Army Small Business Program, Other Transactions (OTs), and financial assistance (i.e., Grants/Cooperative Agreements) functions are located in the applicable policy documents for those functions. </p>
+   </conbody>
+</concept>

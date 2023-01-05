@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5119.812"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5119.812</ph> Contract administration.</title>
+   <conbody>
+      <p outputclass="List1">(c)(i)  The contracting officer must promptly notify the SBA of subcontractor performance deficiencies.  The contracting officer must promptly report to the SBA any indication that the subcontractor requires technical or management assistance and document the file accordingly.</p>
+      <p outputclass="List3">(ii)  If the SBA fails to act in a timely manner to help the subcontractor take corrective action, the contracting officer must report this failure to the Associate Director, U.S. Army Office of Small Business Programs with a recommendation for action.  If the associate director cannot resolve the matter, he or she will refer the matter to the Director, U.S. Army Office of Small Business Programs.</p>
+   </conbody>
+</concept>

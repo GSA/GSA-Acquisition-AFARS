@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5125.80271"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         rev="Revised August 4, 2022">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5125.802-71</ph> End use certificates.</title>
+   <conbody>
+      <p>The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall sign end user certificates (EUCs). See <xref href="Appendix-GG_Apendix-GG.dita" outputclass="fm:TEXT"/> for further delegation.</p>
+   </conbody>
+</concept>

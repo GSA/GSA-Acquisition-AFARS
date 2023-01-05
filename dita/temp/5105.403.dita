@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5105.403"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5105.403</ph> Requests from members of congress.</title>
+   <conbody>
+      <p outputclass="List1">(a)  Contracting officers shall not provide information regarding a congressional inquiry to any public or private, individual or organization, prior to responding to the appropriate Member of Congress (see 5105.402).</p>
+      <p outputclass="List1">(b)  When responsiveness would result in disclosure of a classified matter, business confidential information, or information prejudicial to a competitive acquisition, the contracting officer shall refer the proposed reply, with full documentation, through the senior contracting official to the ODASA(P) as provided in 5101.290.  ODASA(P) will seek agency head approval as defined in 5102.101.  The contracting officer shall inform the Office of the Chief Legislative Liaison of the action and submit an interim response to the appropriate Member of Congress, indicating the action being taken.</p>
+   </conbody>
+</concept>

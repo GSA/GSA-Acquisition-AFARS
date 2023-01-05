@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept
+   xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+   id="AFARS_5118.202"
+   xml:lang="en-US"
+   ditaarch:DITAArchVersion="1.3">
+   <title
+      outputclass="Heading 3"
+      rev="Revised January 3, 2023"> <ph
+      props="autonumber">5118.202</ph> Defense or Recovery from Certain Events.</title>
+   <conbody>
+      <p
+         rev="Revised January 3, 2023">(c) In accordance with section (C)(4) of Defense Pricing and Contracting Class Deviation 2023-O0003—Temporary Authorizations for Covered Contracts Related to Ukraine contracting officers carrying out a procurement of a product or service for a covered contract may treat the product or service as a commercial product or a commercial service for the purpose of carrying out the procurement. See <xref
+         href="5112.102.dita"
+         outputclass="fm:ParaNumOnly">5112.102</xref>(a)(i)(B)(3).</p>
+   </conbody>
+</concept>

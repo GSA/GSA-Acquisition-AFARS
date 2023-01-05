@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5117.9006"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         rev="Revised August 4, 2022">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5117.9006</ph> Contracting officer responsibilities.</title>
+   <conbody>
+      <p outputclass="List1">(a) At least once a year, the contracting officer must ensure that
+         ordering officer files and procedures are reviewed and that a representative sampling of
+         orders is selected for tracking from initiation of the requirement to final payment and
+         close-out of the order.</p>
+   </conbody>
+</concept>

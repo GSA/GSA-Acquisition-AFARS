@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5145">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5145</ph> - Government Property</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="5145.000.dita#AFARS_5145.000">5145.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5145.1.dita#AFARS_Subpart_5145.1">Subpart 5145.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.101.dita#AFARS_5145.101">5145.101 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised September 9, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.102.dita#AFARS_5145.102">5145.102 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.103.dita#AFARS_5145.103">5145.103 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5145.103-70.dita#AFARS_5145.103-70">5145.103-70 Furnishing Government property to contractors.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5145.103-72.dita#AFARS_5145.103-72">5145.103-72 Government-furnished property attachments to
+      solicitations and awards.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5145.103-73.dita#AFARS_5145.103-73">5145.103-73 Government property under sustainment
+      contracts.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5145.103-74.dita#AFARS_5145.103-74">5145.103-74 Contracting office responsibilities.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.105.dita#AFARS_5145.105">5145.105 Contractor’s property management system
+      compliance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.107.dita#AFARS_5145.107">5145.107 Contract Clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.190-1.dita#AFARS_5145.190-1">5145.190-1 Leasing personal property.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.190-2.dita#AFARS_5145.190-2">5145.190-2 Furnishing Government property after award.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5145.2.dita#AFARS_Subpart_5145.2">Subpart 5145.2 - Solicitation and Evaluation ProceduresSolicitation
+    and Evaluation Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.201.dita#AFARS_5145.201">5145.201 Solicitation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.202.dita#AFARS_5145.202">5145.202 Evaluation Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5145.3.dita#AFARS_Subpart_5145.3">Subpart 5145.3 - Authorizing the Use and Rental of Government Property</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.301.dita#AFARS_5145.301">5145.301 Use and rental.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised September 9, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.390.dita#AFARS_5145.390">5145.390 Documentation of Government property in contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5145.4.dita#AFARS_Subpart_5145.4">Subpart 5145.4 - Title to Government Property</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.402-70.dita#AFARS_5145.402-70">5145.402-70 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5145.5.dita#AFARS_Subpart_5145.5">Subpart 5145.5 - Support Government Property Administration</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.57090.dita#AFARS_5145.57090">5145.570-90 Storage at the Governments expense.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5145.6.dita#AFARS_Subpart_5145.6">Subpart 5145.6 - Reporting, Reutilization, and Disposal</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5145.605.dita#AFARS_5145.605">5145.605 Inventory disposal reports.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

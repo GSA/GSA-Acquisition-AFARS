@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5111.2742_A"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5111.274-2</ph> (S-90)</title>
+   <conbody>
+      <p id="p__Toc512840006" outputclass="Normal">The contracting officer shall include separately identifiable contract line items as described at DFARS 204.7103 for items, including items of contractor acquired property, that require item unique identification as identified in DFARS 211.274-2.</p>
+   </conbody>
+</concept>

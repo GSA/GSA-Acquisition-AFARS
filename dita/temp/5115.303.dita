@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5115.303"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5115.303</ph> Responsibilities.</title>
+   <conbody>
+      <p id="UjIPQP" outputclass="List1">(a)(i) Table 15-1 designates the Army source selection authority appointments for FAR-based acquisitions.</p>
+      <table colsep="1" rowsep="1">
+         <tgroup cols="2" colsep="1">
+            <colspec colname="1" colnum="1" colwidth="51*" rowheader="headers"/>
+            <colspec colname="2" colnum="2" colwidth="49*" rowheader="headers"/>
+            <tbody>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="mDSPHG" outputclass="List2">TABLE 15-1, Source Selection Authority (SSA) Appointments for FAR-Based Acquisitions</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cISoVr" outputclass="List2">
+                        <b>SSA Designations</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p id="WBaeMy" outputclass="List2">
+                        <b>Appoint</b>
+                        <b>ing</b>
+                        <b>Authority</b>
+                     </p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="usJiKV" outputclass="List2">Acquisitions for systems and services, acquired through the Defense Acquisition System, for which milestone decision authority (or other decision authority) is at the Army Acquisition Executive (AAE) or Office of the Secretary of Defense level IAW the applicable Adaptive Acquisition Framework DoDI.</p>
+                  </entry>
+                  <entry>
+                     <p id="LCPmFm" outputclass="List2">AAE, or as delegated</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="cHrGCW" outputclass="List2">Other service acquisitions with a total planned dollar value of $500 million or more, or service acquisitions identified by the ASA(ALT) as a special interest. See DoDI 5000.74 and AR 70-13.</p>
+                  </entry>
+                  <entry>
+                     <p id="STXNzf" outputclass="List2">DASA(P) or Senior Services Manager</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry>
+                     <p id="CzTpgQ" outputclass="List2">All other acquisitions for which formal source selection procedures are used.</p>
+                  </entry>
+                  <entry>
+                     <p id="LvcnbQ" outputclass="List2">HCA delegable to the SCO</p>
+                     <p id="oMnrgt" outputclass="List2">(Note 1)</p>
+                  </entry>
+               </row>
+               <row rowsep="1">
+                  <entry nameend="2" namest="1">
+                     <p id="KJulke" outputclass="List2">Notes:</p>
+                     <p id="DhUyEM" outputclass="List2">1. The HCA or SCO must coordinate with the responsible Program Executive Officer prior to nominating or, as applicable, appointing an SSA for a source selection in support of an Army acquisition program.</p>
+                     <p id="nkHUZv" outputclass="List2">2. Appointment of selection officials for Other Transactions Agreements shall follow the Army’s Other Transaction policy.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="jRcETw" outputclass="List2">(ii) Contracting activities shall submit nominations for SSA appointment to the AAE, DASA(P) or Senior Services Manager as indicated in (a)(i) of this section. Each nomination must include the following:</p>
+      <p id="SsyJXY" outputclass="List3">(A) A memorandum from the HCA or SCO to the DASA(P) requesting the appointment of the nominee as SSA.</p>
+      <p id="FxetZG" outputclass="List3">(B) A biography of the SSA nominee detailing the training, knowledge, and experience that qualifies them for this appointment.</p>
+      <p id="JJDWlf" outputclass="List3">(C) A memorandum for the record signed by the supporting legal office, ethics counselor, detailing the ethics briefing conducted with the nominee for this source selection, and verification the nominee’s final disclosure report has been reviewed and not potential conflicts of interest were identified.</p>
+      <p id="MwkmgV" outputclass="List3">(D) Request for Source Selection Appointment documents for DASA(P) or AAE signature should be sent encrypted email to: <ph rev="Revised November 7, 2022">
+            <xref format="mailto"
+                  href="mailto:usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@army.mil"
+                  scope="external"> usarmy.pentagon.hqda-asa-alt.list.saal-ps-staff@army.mil </xref>
+         </ph>.</p>
+      <p id="KgIDQT" outputclass="List1">(b)(2) Army SSAs shall utilize Appendix AA, Army Source Selection Supplement (AS3), when conducting competitive, negotiated source selections. A source selection plan is required for all competitive, negotiated acquisitions where the basis of award includes factors in addition to cost or price. Army SSAs must use the standard rating tables as detailed in the DoD Source Selection Procedures, to include the colors and adjectives.</p>
+      <p id="qVSACT" outputclass="Normal">(S-90) The appointment of an individual to serve as the SSA shall be commensurate with the complexity and dollar value of the acquisition. For acquisitions with a total estimated value of $100 million or more, the SSA shall be an individual other than the contracting officer. For all other acquisitions, the contracting officer may serve as the SSA in accordance with FAR 15.303 unless the agency head appoints another individual.</p>
+      <p id="GUvTuG" outputclass="List1">(S-91) The Source Selection Evaluation Board chairperson is responsible for tailoring the reporting and documentary requirements in accordance with the AS3, and overseeing the source selection training for their source selection team.</p>
+      <p id="harvUJ" outputclass="List1">(S-92) Contracting officers will assist program executive officers (PEOs), program managers (PMs), or other program or functional proponents to –</p>
+      <p id="VsVSfS" outputclass="List2">(1) Develop and implement the acquisition strategy;</p>
+      <p id="pdvwJa" outputclass="List2">(2) Prepare and obtain approval of the source selection plan before issuing the solicitation; and</p>
+      <p id="CJmmJY" outputclass="List2">(3) Recommend an official as the SSA, when the AAE has delegated authority to appoint the SSA.</p>
+      <p id="HuLiUB" outputclass="Normal">(S-93) PEOs, PMs, or other program or functional proponents provide the necessary funds for salaries, overtime, temporary duty travel, and other expenses for the source selection. In addition, PEOs, PMs, or other proponents may also provide office space, administrative equipment, clerical support, and other necessary administrative support to personnel involved in the source selection.</p>
+   </conbody>
+</concept>

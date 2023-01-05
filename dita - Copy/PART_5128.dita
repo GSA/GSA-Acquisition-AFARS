@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5128">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5128</ph> - Bonds and Insurance</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5128.1.dita#AFARS_Subpart_5128.1">Subpart 5128.1 - Bonds and Other Financial Protections</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.101.dita#AFARS_5128.101">5128.101 Bid guarantees.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.1011.dita#AFARS_5128.1011">5128.101-1 Policy and use.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.105.dita#AFARS_5128.105">5128.105 Other types of bonds.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.106.dita#AFARS_5128.106">5128.106 Administration.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.1062.dita#AFARS_5128.1062">5128.106-2 Substitution of surety bonds.</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.1066.dita#AFARS_5128.1066">5128.106-6 Furnishing information.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5128.2.dita#AFARS_Subpart_5128.2">Subpart 5128.2 - Sureties and Other Security for Bonds</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.202.dita#AFARS_5128.202">5128.202 Acceptability of corporate sureties.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.203.dita#AFARS_5128.203">5128.203 Acceptability of individual sureties.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised August 4, 2022">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.2035.dita#AFARS_5128.2035">5128.203-5 Exclusion of individual sureties.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.204.dita#AFARS_5128.204">5128.204 Alternatives in lieu of corporate or individual sureties.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.2041.dita#AFARS_5128.2041">5128.204-1 United States bonds or notes.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5128.3.dita#AFARS_Subpart_5128.3">Subpart 5128.3 - Insurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.301.dita#AFARS_5128.301">5128.301 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.305.dita#AFARS_5128.305">5128.305 Overseas workers compensation and war hazard insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.307.dita#AFARS_5128.307">5128.307 Insurance under cost-reimbursement contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.3071.dita#AFARS_5128.3071">5128.307-1 Group insurance plans.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.311.dita#AFARS_5128.311">5128.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5128.3111.dita#AFARS_5128.3111">5128.311-1 Contract clause.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5128.370.dita#AFARS_5128.370">5128.370 Additional clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

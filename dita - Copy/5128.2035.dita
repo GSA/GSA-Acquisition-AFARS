@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5128.2035"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4" rev="Revised August 4, 2022">
+      <ph props="autonumber">5128.203-5</ph> Exclusion of individual sureties.</title>
+   <conbody>
+      <p outputclass="List1">(d) Send the determination and findings justifying acceptance to the
+         HCA. If the HCA concurs, send the request and concurrence through the addressee in
+         5101.290(b)(5) to the Assistant Secretary of the Army (Acquisition, Logistics and
+         Technology) for a determination. See Appendix GG for further delegation. </p>
+   </conbody>
+</concept>

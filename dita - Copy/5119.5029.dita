@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5119.5029"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5119.502-9</ph> Withdrawing or modifying small business
+      set-asides.</title>
+   <conbody>
+      <p outputclass="List1">(b) If a SBA representative is not assigned or available, the AD shall
+         refer disagreements to the small business professional’s appointing authority for
+         resolution. (<xref href="https://spcs3.kc.army.mil/asaalt/procurement/SiteAssets/PGI/PGI5119.htm"
+               format="html"
+               scope="external">See AFARS PGI 5119.201</xref>).</p>
+   </conbody>
+</concept>

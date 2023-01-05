@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod">
+<map title="AFARS" outputclass="dod" rev="Revised January 3, 2023">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -1062,6 +1062,14 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5106.3025.html"/>
+            <topicref href="5106.3027.dita"
+                      navtitle="5106.302-7 Public Interest."
+                      props="5106.3027"
+                      outputclass="subtopic"
+                      audience="AFARS_5106.3027"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5106.3027.html"/>
          </topicref>
          <topicref href="5106.303.dita"
                    navtitle="5106.303 Justifications."
@@ -3118,6 +3126,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""/>
+         <topicref href="5117.74044.dita"
+                   navtitle="5117.7404-4 Limitations on obligations."
+                   props="5117.74044"
+                   outputclass="subtopic"
+                   audience="AFARS_5117.74044"
+                   xtrf="subtopic"
+                   base="NoTitle"
+                   xtrc=""/>
          <topicref href="5117.74045.dita"
                    navtitle="5117.7404-5 Exceptions."
                    props="5117.7404-5"
@@ -3292,6 +3308,14 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""/>
+         <topicref href="5118.202.dita"
+                   navtitle="5118.202 Defense or Recovery from Certain Events."
+                   props="5118.202"
+                   outputclass="subtopic"
+                   audience="AFARS_5118.202"
+                   xtrf="subtopic"
+                   xtrc=""
+                   base="NoTitle"/>
          <topicref href="5118.271.dita"
                    navtitle="5118.271 Head of contracting activity determinations."
                    props="5118.271"
@@ -7075,6 +7099,14 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5153.20691.html"/>
+            <topicref href="5153.20692.dita"
+                      navtitle="5153.206-92 Format for Determination and Findings for other than full and open competition. (DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine)."
+                      props="5153.20692"
+                      outputclass="subtopic"
+                      audience="AFARS_5153.20692"
+                      xtrf="subtopic"
+                      xtrc="AFARS_5153.20692.html"
+                      base="NoTitle"/>
          </topicref>
          <topicref href="5153.213.dita"
                    navtitle="5153.213 Simplified acquisition procedures."
@@ -7265,6 +7297,14 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5153.30310.html"/>
+            <topicref href="5153.30311.dita"
+                      navtitle="5153.303-11 Format for Determination and Findings for other than full and open competition. (DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine)."
+                      props="5153.30311"
+                      outputclass="subtopic"
+                      audience="AFARS_5153.30311"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5153.30311.html"/>
          </topicref>
       </topicref>
    </topicref>

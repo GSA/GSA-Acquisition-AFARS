@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-201"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4" rev="Revised October 1, 2022&#34;"> 
+      <ph props="autonumber">CC-201</ph> Policy.</title>
+   <conbody>
+      <p rev="Revised October 1, 2022">(a) The Army PMR Program will assess the effectiveness of internal controls at both the contracting activity level and on a strategic, enterprise-wide basis. </p>
+      <p rev="Revised October 1, 2022">(b) The Office of the Deputy Assistant Secretary of the Army (Procurement) (ODASA(P)) is responsible for evaluating the effectiveness of strategic controls. Questions for strategic controls are designed to be qualitative in nature and to facilitate the identification of best practices and lessons learned. The ODASA(P) will conduct such assessments via ODASA(P)-led PMRs or will leverage other strategic management review processes. The effectiveness of strategic controls will be assessed via ODASA(P)-led strategic management reviews (Type 4 assessment) and the effectiveness of internal/key controls will be assessed, as required, by the ODASA(P), using Special Assistance Reviews or Assessments (Type 3 assessment. The Strategic Control Question Set is an Annex to this appendix. The ODASA(P) may also leverage other question sets, as required, for strategic management reviews. </p>
+      <p rev="Revised October 1, 2022">(c) In addition to any command-authority internal control duties, each Head of Contracting Activity (HCA) is responsible for executing the procurement authority aspects of the contracting activity’s MICP (see AR 11-2). Specifically, HCAs and Senior Contracting Officials (SCOs) shall assess the effectiveness of key internal controls (Type 2 assessment) and shall provide the results annually as part of the Summary Health Report (SHR). The Internal Control Question Set is located in the Virtual Contracting Enterprise (VCE)- PMR Assistant Module. All other PMR Question Sets and Toolkits are located on the PMR SharePoint page at Procurement.Army.Mil. </p>
+      <p rev="Revised October 1, 2022&#34;">(d) The PMR Program will identify elevated risks to the achievement of contracting strategic objectives and compliance with acquisition policies and procurement regulations. The key internal controls, strategic control assessments, and other PMR Program outputs will be used to identify improvements to contracting operations. </p>
+   </conbody>
+</concept>

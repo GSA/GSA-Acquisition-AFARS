@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.170"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5101.170</ph> Peer reviews.</title>
+   <conbody>
+      <p outputclass="List1">(a) <i>DoD peer reviews</i>. </p>
+      <p outputclass="List2">(1)<i> </i>The SCO will concur, in writing, on all solicitation and
+         contract packages submitted for each phase of any DoD peer review. For the first phase
+         only, the SCO will send a copy of the written concurrence to the DASA(P) (see 5101.290) and
+         provide a copy to the head of the contracting activity (HCA). <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external">See AFARS PGI 5101.170-2</xref>.</p>
+      <p outputclass="List3">(i) In accordance with <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/Class_Deviation_2019-O0010-DPC.pdf"
+               scope="external"
+               format="pdf">
+            <u>Defense Pricing and Contracting (DPC) Class Deviation 2019-O0010, Peer Reviews of
+               Contracts for Supplies and Services</u>
+         </xref>, except for procurements of major defense acquisition programs above $1 billion for
+         which the Under Secretary of Defense for Acquisition and Sustainment (USD(A&amp;S)) is the
+         milestone decision authority and USD(A&amp;S) special interest programs, the DASA(P) is
+         responsible for conducting preaward peer reviews for competitive procurements above $1
+         billion. See Appendix GG for further delegation.</p>
+      <p outputclass="List2">(2) Contracting activities shall provide their rolling annual forecast
+         of acquisitions that will be subject to DoD peer reviews to the address at
+         5101.290(b)(2)(ii)(A) at the end of each quarter. See 5104.802(f)(4) for peer review
+         forecast requirements. <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external">See AFARS PGI 5101.170-3</xref>.</p>
+      <p outputclass="List1">(b) <i>Component peer reviews.</i>
+      </p>
+      <p outputclass="List3">(i) <i>Army peer reviews.</i> With the exception of acquisitions using
+         sealed bidding procedures (see FAR Part 14), a Solicitation Review Board (SRB) and a
+         Contract Review Board (CRB) will approve all procurements with an estimated value of $50
+         million or more including the award of task and delivery orders. A CRB is required for
+         contract modifications that increase total evaluated price or otherwise increase scope. A
+         CRB is not required for modifications that exercise an option, add incremental funding, or
+         make administrative changes. The SRB and CRB will be independent, multi-functional teams
+         comprised of senior level experts, which will, at a minimum, include representatives from
+         the contracting activity, small business office, office of counsel, requirements community,
+         and in the case of noncompetitive actions, the advocate for competition. The same members
+         should participate in both the SRB and the CRB in order to ensure consistency.</p>
+      <p outputclass="List3">(ii) <i>Objective of Army peer reviews.</i> The SRB/CRB will review and
+         assess the presolicitation, solicitation and contract award documents for consistency,
+         sufficiency, compliance and application of sound business practices. The SRB/CRB will
+         verify that the procurement represents an overall good value to the Government and
+         appropriate obligation of taxpayer funds.</p>
+      <p outputclass="List3">(iii) <i>Resolution of comments.</i> The SCO will establish procedures
+         for resolving all SRB and CRB comments.</p>
+      <p outputclass="List3">(iv) <i>Peer review statistics. </i>Contracting activities will collect
+         peer review statistics, to include annual data on the number of SRB/CRB reviews conducted
+         and waived, identification of any systemic issues or trends, best practices, lessons
+         learned, overall effectiveness of the process, and other data as determined necessary. </p>
+      <p outputclass="List1" rev="Revised August 24, 2022">(c) <i>Peer Review Thresholds.</i>
+      </p>
+      <p outputclass="List1" rev="Revised August 24, 2022">Table 1-1 designates the Army peer
+         reviews, thresholds and approval authorities. </p>
+      <table id="table_tvt_pzs_q5b" rev="Revised August 24, 2022">
+         <tgroup cols="4">
+            <colspec colnum="1" colname="col1"/>
+            <colspec colnum="2" colname="col2"/>
+            <colspec colnum="3" colname="col3"/>
+            <colspec colnum="4" colname="col4"/>
+            <tbody>
+               <row>
+                  <entry namest="col1" nameend="col4" outputclass="Ctr_SmCaps">TABLE 1-1, Peer
+                     Reviews, Thresholds and Approval Authorities</entry>
+               </row>
+               <row>
+                  <entry>
+                     <b>Level</b>
+                  </entry>
+                  <entry>
+                     <b>Threshold</b>
+                  </entry>
+                  <entry>
+                     <b>Parameters</b>
+                  </entry>
+                  <entry>
+                     <b>Approval Authority</b>
+                  </entry>
+               </row>
+               <row>
+                  <entry>DPC</entry>
+                  <entry>$1 Billion or More</entry>
+                  <entry>Pre-award Non-Competitive</entry>
+                  <entry>
+                     <p>Director, Price, Cost and Finance, DPC</p>
+                     <p>(Note 1)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>DPC</entry>
+                  <entry>Actions designated by USD(A&amp;S) as requiring peer review, regardless of
+                     value</entry>
+                  <entry>Pre-award Non-Competitive</entry>
+                  <entry>
+                     <p>Director, Price, Cost and Finance, DPC</p>
+                     <p>(Note 1)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>DPC</entry>
+                  <entry>$1 Billion or More MDAPs for which USD(A&amp;S) is the MDA</entry>
+                  <entry>Pre-award, Competitive</entry>
+                  <entry>
+                     <p>Director, Contract Policy, DPC</p>
+                     <p>(Note 1)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>DPC</entry>
+                  <entry>Actions designated by USD(A&amp;S) as requiring peer review, regardless of
+                     value</entry>
+                  <entry>All Pre-award, Competitive</entry>
+                  <entry>
+                     <p>Director, Contract Policy, DPC</p>
+                     <p>(Note 1)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>Army</entry>
+                  <entry>$1 Billion or More</entry>
+                  <entry>Pre-award, Competitive</entry>
+                  <entry>HCA Non-delegable, Except DASA(P) for Special Interest Acquisitions</entry>
+               </row>
+               <row>
+                  <entry>Army</entry>
+                  <entry>$250 Million or More but Less than $1 Billion</entry>
+                  <entry>Pre-award, Competitive and Non-Competitive</entry>
+                  <entry>HCA, with authority to delegate No Lower than the SCO</entry>
+               </row>
+               <row>
+                  <entry>Army </entry>
+                  <entry>$50 Million or More but Less than $250 Million</entry>
+                  <entry>Pre-award, Competitive and Non-Competitive </entry>
+                  <entry>SCO, with authority to delegate to No Lower than the CoCO</entry>
+               </row>
+               <row>
+                  <entry>Army</entry>
+                  <entry>Below $50 Million</entry>
+                  <entry>Pre-award, Competitive and Non-Competitive</entry>
+                  <entry>
+                     <p>SCO or Designee</p>
+                     <p>(Note 2)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>Army</entry>
+                  <entry>$1 Billion or More</entry>
+                  <entry>Independent Management Review Contracts for Services</entry>
+                  <entry>
+                     <p>DASA (P) or SSM; without authority to further delegate.</p>
+                     <p> </p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>Army</entry>
+                  <entry>$100 Million or More but Less than $1 Billion</entry>
+                  <entry>Independent Management Review Contracts for Services</entry>
+                  <entry>
+                     <p>HCA, with authority to delegate to No Lower than the SCO</p>
+                     <p> </p>
+                  </entry>
+               </row>
+               <row>
+                  <entry>Army </entry>
+                  <entry>Procurements identified as Special Interest by the DASA(P). </entry>
+                  <entry>All Peer Reviews, Special Interest</entry>
+                  <entry>
+                     <p>DASA(P), without power to further delegate.</p>
+                     <p>(Note 3)</p>
+                  </entry>
+               </row>
+               <row>
+                  <entry namest="col1" nameend="col4">
+                     <p>Notes: </p>
+                     <ol id="ol_uvt_pzs_q5b">
+                        <li>See DFARS 201.170. </li>
+                        <li>The contracting activity’s business clearance process (see 5115.406)
+                           normally satisfies the oversight function of peer reviews for
+                           acquisitions below $50 million. If the SCO determines, in accordance with
+                           a risk-based analysis, that a separate peer review is necessary for an
+                           acquisition valued below $50 million, the SCO or designee shall conduct
+                           the peer review consistent with the procedures set forth for Army peer
+                           reviews in this section.</li>
+                        <li>Other Army peer reviews identified in 5101.170(b) are not required when
+                           the ODASA(P) conducts a special interest peer review for a
+                           procurement.</li>
+                     </ol>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="List3" rev="Revised August 24, 2022">(v) <i>Independent Management Reviews
+            (IMRs)</i>
+         <i>(Postaward peer reviews) of contracts for services.</i> Independent Management Reviews
+         shall be conducted if the base period is greater than one year, the IMR takes place prior
+         to the end of the second year of the base period of performance. If the base period of
+         performance is one year or less, the IMR occurs prior to the exercise of the second option
+         period. </p>
+      <p outputclass="List6" rev="Revised August 24, 2022"> (a) The ODASA(P) will conduct an
+         Independent Management Review (IMR) for contracts for services valued at $1 billion or
+         more. The reviews will be conducted in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external">AFARS PGI 5101.170-4(a).</xref>
+      </p>
+      <p outputclass="List6" rev="Revised August 24, 2022"> (b) <ph id="_Hlk90390033">The HCA will
+            conduct an IMR for contracts for services valued at $100 million or more but less than
+            $1 billion</ph>. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+               format="html"
+               scope="external">Appendix GG</xref> for further delegation. For HCA reviews, the HCA
+         will provide the Senior Services Manager a summary report. The summary report will address
+         the independent management review required elements in DoDI 5000.74 Defense Acquisition of
+         Services and shall be filed within PCF in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external">AFARS PGI 5101.170-4(b)</xref>; no later than 45 days after completion
+         of the review.</p>
+   </conbody>
+</concept>

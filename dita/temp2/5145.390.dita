@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5145.390"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5145.390</ph> Documentation of Government property in contracts.</title>
+   <conbody>
+      <p outputclass="List1" rev="Revised September 9, 2022">Contracting officers must ensure that
+         changes to Government property made over time are reflected by modifications to the
+         contract. Any changes to the GFP attachment over the life of the contract require both a
+         contract modification and a GFP attachment update.</p>
+      <p outputclass="List1" rev="Revised September 9, 2022">(a) Contracting officers must ensure
+         that additions and deletions of GFP made over time are reflected by modifications to the
+         contract and the GFP attachment within the PIEE module at least annually (see 5145.103-74
+         Contracting office responsibilities.</p>
+      <p outputclass="List1" rev="Revised September 9, 2022"> (b) Contracting officers shall ensure
+         that the contract action report statement within Federal Procurement Data System – Next
+         Generation (FPDS-NG) is annotated as “Transaction uses GFP” on the initial action and all
+         subsequent contract modifications until all property is dispositioned.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5132.5012"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5132.501-2</ph> Unusual progress payments.</title>
+   <conbody>
+      <p outputclass="List1">(a)(2)  Requests for approval of unusual progress payments must include the following documentation from the contractor:</p>
+      <p outputclass="List4">(A)  Monthly cash flow forecasts for the period, which include the additional financing.</p>
+      <p outputclass="List4">(B)  Estimated profit and loss statements and balance sheets for the same period as the cash flow forecast.</p>
+      <p outputclass="List4">(C)  The most recent, audited financial statements.</p>
+      <p outputclass="List4">(D)  A description of significant events before or after preparation of financial statements that materially affect the financial condition of the company, the operating statement, or the cash flow statement.</p>
+      <p outputclass="List2">(3)  See DFARS PGI 232.501-2.  Submit all unusual progress payments requests to the addressee in 5101.290(b)(3).</p>
+   </conbody>
+</concept>

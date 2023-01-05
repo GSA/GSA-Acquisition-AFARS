@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5113.20290"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5113.202-90</ph> Purchase guidelines.</title>
+   <conbody>
+      <p outputclass="List1">(a)  CCOs or A/OPCs should delegate micro-purchase authority to the lowest possible level.  A/OPCs shall issue purchase cards only to individuals who have received the orientation/training on the purchase card program as required in these procedures.</p>
+      <p outputclass="List1">(b)  CCOs and A/OPCs shall not issue cards to contractors.  If contractors working on cost type contracts request cards, the contractor will forward their request to the contracting officer for the cost-reimbursable contract.  If that office preliminarily determines that they are eligible, the contractor will then file a request for eligibility determination with the GSA SmartPay contracting officer.</p>
+      <p outputclass="List1">(c)  CCOs or A/OPCs may authorize cardholders to utilize the GPC as a payment instrument for orders exceeding $3,000 made against Federal Supply Schedule contracts, calls written against a blanket purchase agreement or orders placed against indefinite delivery/indefinite quantity contracts that contain a provision authorizing payment by purchase card.</p>
+      <p outputclass="List1">(d)  The purchase card may also provide a streamlined way of paying for contracts other than those listed in paragraph (c).  Prior to using the card this way, the contracting office shall determine that use of the card for payment is in the best interest of the Government.  The determination shall address any increase in price and/or administrative costs to use the card versus the costs of processing the payment without the card.</p>
+      <p outputclass="List1">(e)  The purchase card may also be used to pay for Government-owned materiel or Government-performed services received from other Government sources (i.e., Document Automated Printing Service (DAPS), GSA, Defense Logistics Agency).</p>
+   </conbody>
+</concept>

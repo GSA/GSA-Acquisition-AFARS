@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5103.704"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5103.704</ph> Policy.</title>
+   <conbody>
+      <p outputclass="List1">(c)  The head of contracting activity, on a non-delegable basis, shall perform the penalty-related duties as described in FAR 3.704(c)(1) and (2). </p>
+   </conbody>
+</concept>

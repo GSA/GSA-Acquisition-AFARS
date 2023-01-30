@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-502"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3"
+         rev="Revised October 1, 2022">
+   <title outputclass="Heading 4"> 
+      <ph props="autonumber">CC-502</ph> ODASA(P) Responsibilities.</title>
+   <conbody>
+      <p>The ODASA(P) PI/O is responsible for preparing the annual ACE SHR no later than 31 January, annually. The inputs to the ACE SHR include the respective HCA’s annual SHR; the results of ODASA(P)-led assessments of strategic controls, and feedback from other Headquarters DA-level and Office of the Secretary of Defense (OSD) stakeholders. The content will describe major management challenges faced by the ACE, assess progress against ACE strategic objectives, and identify ways to improve performance. </p>
+   </conbody>
+</concept>

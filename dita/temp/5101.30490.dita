@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.30490"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5101.304-90</ph> Army control and compliance.</title>
+   <conbody>
+      <p outputclass="List1">(a) <i>Definitions</i>.  As used in this section—</p>
+      <p outputclass="List2">(1)  “Acquisition instruction” means the set of governing local processes and procedures developed and maintained by the head of each contracting activity.</p>
+      <p outputclass="List2">(2)  “Policy” means direction to contracting organizations implementing statute, executive order, regulation, or other governing directives.</p>
+      <p outputclass="List2">(3)  “Procedure” means an outline of how to perform a process – who performs what action, what sequence they perform the steps in the task, and the criteria (i.e., standard) they must meet to accomplish the goal/end-state.</p>
+      <p outputclass="List2">(4)  “Process” means a high-level view or map of the tasks required by the policy described in sufficient detail to direct the user to a desired outcome.</p>
+      <p outputclass="List1">(b)  All Army procurement policy is centralized under the ODASA(P), and ODASA(P) is the only Army organization authorized to issue procurement policy.</p>
+      <p outputclass="List1">(c)  HQDA and Army contracting activities will not supplement the FAR, DFARS, or AFARS or issue internal acquisition regulations or instructions except as provided in this section.  HCAs, on a non-delegable basis, are responsible for procurement processes and procedures, to include processes and procedures intended for issuance below the HCA level, within their contracting activity.  These shall be codified in an acquisition instruction.  HCAs shall obtain DASA(P) approval for their baseline acquisition instruction.  HCAs are to maintain, review, and update their acquisition instruction as necessary.</p>
+      <p outputclass="List2">(1)  Acquisition instructions require recurring certification by the Procurement Policy Directorate. The Procurement Policy Directorate shall evaluate the integrity of the acquisition instruction to ensure compliance with established procurement policies, procedures, and regulations.  All substantive issues shall be resolved prior to recertification of the acquisition instruction. </p>
+      <p outputclass="List2">(2) The first recertification evaluation shall be conducted in fiscal year 2022 between the months of January and March and every three years thereafter.  HCAs shall submit their acquisition instruction for review to the DASA(P) in accordance with 5101.290(b)(2)(ii)(A).  </p>
+      <p outputclass="List2">(3) Acquisition instructions will be submitted electronically for evaluation as follows:  </p>
+      <p outputclass="Normal">ACC AI   1 January 2022 and every three years thereafter</p>
+      <p outputclass="Normal">MEDCOM AI   1 February 2022 and every three years thereafter</p>
+      <p outputclass="Normal">NGB AI   1 February 2022 and every three years thereafter</p>
+      <p outputclass="Normal">USACE AI   1 March 2022 and every three years thereafter</p>
+      <p outputclass="List1">(d)  HCAs must obtain prior DASA(P) approval for actions that require Under Secretary of Defense (Acquisition and Sustainment ) approval. (See DFARS 201.304(1)(i) and AFARS Appendix FF, Department of the Army Plan for Control of Nonstandard Clauses, for approval of nonstandard clauses or provisions.)</p>
+      <p id="p__Toc14771652" outputclass="List1">(e)  HCAs shall submit requests for new Army policy to the DASA(P) in accordance with 5101.290(b)(2)(ii)(A).  The DASA(P) will coordinate with the HCAs to validate the need for new policy and determine how the policy will be issued to the contracting enterprise.</p>
+   </conbody>
+</concept>

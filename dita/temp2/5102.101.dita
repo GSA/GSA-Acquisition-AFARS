@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5102.101"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5102.101</ph> Definitions.</title>
+   <conbody>
+      <p>“Army Acquisition Executive (AAE)” means the Assistant Secretary of the Army (Acquisition, Logistics and Technology), as designated by the Secretary of the Army.</p>
+      <p outputclass="Normal">“Chief of the contracting office” means the person having direct responsibility for the operation of a contracting office as defined in FAR 2.1.   This person also has procurement authorities assigned by the Federal Acquisition Regulation and its supplements and performs contracting authorities as delegated by the head of the contracting activity or senior contracting official.</p>
+      <p outputclass="Normal">“Head of the agency” means the Assistant Secretary of the Army (Acquisition, Logistics and Technology) when executing authorities of the head of the agency for contracting procurement matters pursuant to laws and regulations, as designated by the Secretary of the Army. </p>
+      <p outputclass="Normal">“Head of the contracting activity” means the Deputy Assistant Secretary of the Army (Procurement) for a contracting activity that does not have a head of the contracting activity specifically designated.  This authority shall not be further delegated.  See delegations in Appendix GG.  </p>
+      <p outputclass="Normal">“Senior contracting official (SCO)” means the senior official for or within a contracting activity responsible for the performance of contracting authorities delegated by the head of the contracting activity.  (See 5101.693.)</p>
+      <p outputclass="Normal">“Senior Procurement Executive (SPE)” means the Assistant Secretary of the Army (Acquisition, Logistics and Technology), as designated by the Secretary of the Army.</p>
+   </conbody>
+</concept>

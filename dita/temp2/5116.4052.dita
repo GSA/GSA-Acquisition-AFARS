@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5116.4052"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5116.405-2</ph> Cost-plus-award-fee contracts.</title>
+   <conbody>
+      <p outputclass="List2">(2)(A)  In accordance with DFARS PGI 216.405-2(2), a contractor begins each evaluation period with zero percent of the available award fee due and works to earn the evaluated fee for each evaluation period.  Contractors do not begin with 100% of the available award-fee and have deductions withdrawn to arrive at the evaluated fee for each evaluation period.  In addition, contractors should not receive award fee above the base fee for simply meeting contract requirements.  Earning an award fee is in accordance with the award fee plan, and should be directly commensurate with the level of performance under the contract.  A contractor should not receive the maximum amount of award fee under a contract without a demonstrated superior level of performance, as provided for in the award-fee plan.  Maximum contract fee is the sum of all fees (i.e., not just the award fee) and incentives payable under the contract, including performance and subcontracting incentives.</p>
+      <p outputclass="List4">(B)  When an Award-Fee Evaluation Board (AFEB) is used, the senior contracting official (SCO) or authorized contracting officer will appoint an award-fee determining official (AFDO) in writing, unless the SCO is the AFDO.  The AFDO will then appoint the AFEB and its chairperson in writing.  Such appointment letters will clearly outline the responsibilities and limitations of the AFEB and its chairperson.  AFEB membership should consist of those contracting and acquisition management personnel, including contract administration personnel, most knowledgeable of the requirements and contractor performance in the areas evaluated.  For contracts in support of major systems, the AFDO will coordinate the selection of technical AFEB members with the program executive officer or other management official responsible for technical requirements prior to their appointment.  The AFEB chairperson is responsible for ensuring sufficient training of all AFEB evaluators.  AFDOs and AFEBs will document the rationale for their decision(s) in sufficient detail to demonstrate the integrity of the award-fee determination process in the contract file.  The AFDO may alter the AFEB’s recommended award fee.</p>
+   </conbody>
+</concept>

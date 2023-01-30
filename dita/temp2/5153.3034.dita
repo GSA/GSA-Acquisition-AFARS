@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5153.3034"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5153.303-4</ph> Format for a justification review document for other than full and open competition.</title>
+   <conbody>
+      <p id="XqMYdT" outputclass="Right Normal">
+         <b>Control No:</b>
+      </p>
+      <p id="aOpNgA" outputclass="Ctr">
+         <b>Justification Review Document for Other Than Full and Open Competition</b>
+      </p>
+      <p id="vxwLoP" outputclass="Normal">
+         <b>Program/Equipment:</b>
+      </p>
+      <p id="lYaZgm" outputclass="Normal">
+         <b>Authority:</b>
+      </p>
+      <p id="DnxXWD" outputclass="Normal">
+         <b>Amount:</b>
+      </p>
+      <p id="2lu6stn" outputclass="Normal"/>
+      <p id="zRuytU" outputclass="Normal">
+         <b>Prepared by:</b>
+      </p>
+      <p id="yRZAwC" outputclass="Normal">Typed Name: DSN: _____________________</p>
+      <p id="QOjKuL" outputclass="Normal">Title: Date: _____________________</p>
+      <p id="XxvVat" outputclass="Normal">E-mail:___________________________</p>
+      <p id="sjikctg4" outputclass="Normal"/>
+      <p id="RlEvkh" outputclass="Normal">
+         <b>Contracting Officer:</b>
+      </p>
+      <p id="UOHBUS" outputclass="Normal">Typed Name: DSN: ______________________</p>
+      <p id="wPjFDX" outputclass="Normal">Date Reviewed: ___________________</p>
+      <p id="BbPbJu" outputclass="Normal">E-Mail: __________________________</p>
+      <p id="9nmfbpr" outputclass="Normal"/>
+      <p id="unHjMp" outputclass="Normal">
+         <b>Technical Representative:</b>
+      </p>
+      <p id="bDEWeu" outputclass="Normal">Typed Name: DSN: _____________________</p>
+      <p id="OBxSkX" outputclass="Normal">Title: Date Reviewed: _____________</p>
+      <p id="0q3zuuxk" outputclass="Normal"/>
+      <p id="oRoDld" outputclass="Normal">
+         <b>Requirements Representative:</b>
+      </p>
+      <p id="GicBOW" outputclass="Normal">Typed Name: DSN: ______________________</p>
+      <p id="NJWVcG" outputclass="Normal">Title: Date Reviewed: _____________</p>
+      <p id="wxdr34ro" outputclass="Normal"/>
+      <p id="gCPsTa" outputclass="Normal">
+         <b>Reviews: I have reviewed this justification and find it adequate to support other than full and open competition.</b>
+      </p>
+      <p id="vmpzLQ" outputclass="Normal">
+         <b>Program Manager (1)</b>
+      </p>
+      <p id="szBDDU" outputclass="Normal">Typed Name: DSN: ______________________</p>
+      <p id="IdaNnV" outputclass="Normal">Signature: ______________________Date: ______________________</p>
+      <p id="LagNUM" outputclass="Normal"/>
+      <p id="ycg1aifn" outputclass="Normal">
+         <b>Legal Counsel</b>
+      </p>
+      <p id="MRUGSC" outputclass="Normal">Typed Name: DSN: ______________________</p>
+      <p id="qOMSbV" outputclass="Normal">Signature: ______________________Date: ______________________</p>
+      <p id="DYYXWY" outputclass="Normal"/>
+      <p id="3cccalao" outputclass="Normal">
+         <b>Command Advocate for Competition</b>
+      </p>
+      <p id="nJUJmM" outputclass="Normal">Typed Name:DSN: ______________________</p>
+      <p id="ZcpKnE" outputclass="Normal">Signature: ______________________Date: ______________________</p>
+      <p id="tuKaQR" outputclass="Normal"/>
+      <p id="pmdjc1x" outputclass="Normal">
+         <b>Senior</b>
+         <b>Contracting</b>
+         <b>Official</b>
+      </p>
+      <p id="nidAao" outputclass="Normal">Typed Name: DSN: ______________________</p>
+      <p id="bCTLkn" outputclass="Normal">Signature: ______________________Date: ______________________</p>
+      <p id="dAPOGr" outputclass="List2"/>
+      <p id="7poyyjqf" outputclass="List2">
+         <b>(1) Add Program Executive Officer signature block when item is Program Executive Officer managed</b>.</p>
+      <p id="NltlxS" outputclass="Normal">
+         <b>Head of the Contracting Activity</b>
+      </p>
+      <table colsep="1" frame="all" rowsep="1">
+         <tgroup cols="2">
+            <colspec colname="1" colnum="1" rowheader="headers"/>
+            <colspec colname="2" colnum="2" rowheader="headers"/>
+            <tbody>
+               <row>
+                  <entry>Typed Name:</entry>
+                  <entry>DSN: ______________________</entry>
+               </row>
+               <row>
+                  <entry>Signature: ______________________</entry>
+                  <entry>Date: ______________________</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p id="wsOtJo" outputclass="Normal"/>
+   </conbody>
+</concept>

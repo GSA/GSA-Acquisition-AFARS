@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5111.703"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5111.703</ph> Contract Clauses</title>
+   <conbody>
+      <p outputclass="List1">(c)(i)  Insert the provision at AFARS 5152.211-9000, Evaluation of Subline Items, in solicitations when a fixed-price construction contract is contemplated and the clause at AFARS 5152.211-9001 is included in the solicitation.</p>
+      <p outputclass="List3">(ii)  In addition to the clause at FAR 52.211-18, insert the clause at AFARS 5152.211-9001, Variations in Estimated Quantities—Subline Items, in solicitations and contracts when—</p>
+      <p outputclass="List4">(A)  A fixed-price construction contract is contemplated that authorizes a variation in the estimated quantity of unit-priced items; and </p>
+      <p outputclass="List4">(B)  Those unit priced items will be subdivided into subline items and separately priced for payment purposes.</p>
+   </conbody>
+</concept>

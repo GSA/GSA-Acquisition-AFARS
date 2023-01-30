@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5148.202"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5148.202</ph> Clause for construction contracts.</title>
+   <conbody>
+      <p outputclass="Normal">The head of the contracting activity shall make the determination at FAR 48.202.  See Appendix GG for further delegation.</p>
+   </conbody>
+</concept>

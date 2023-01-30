@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5110">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5110</ph> - Market Research</title>
+      <body>
+         <ul otherprops="TOC">
+            <li rev="Revised August 4, 2022">
+               <p>
+                  <xref outputclass="fm:TOC" href="5110.002.dita#AFARS_5110.002">5110.002 Procedures.</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

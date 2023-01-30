@@ -7107,6 +7107,14 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5153.20692.html"
                       base="NoTitle"/>
+            <topicref href="5153.20693.dita"
+                      navtitle="5153.206-93 Instructions for Congressional Notification Requirement When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine."
+                      props="5153.20693"
+                      outputclass="subtopic"
+                      audience="AFARS_5153.20693"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5153.20693.html"/>
          </topicref>
          <topicref href="5153.213.dita"
                    navtitle="5153.213 Simplified acquisition procedures."
@@ -7305,6 +7313,14 @@
                       xtrf="subtopic"
                       base="NoTitle"
                       xtrc="AFARS_5153.30311.html"/>
+            <topicref href="5153.30312.dita"
+                      navtitle="5153.303-12 Format for Congressional Notification When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine."
+                      props="5153.30312"
+                      outputclass="subtopic"
+                      audience="AFARS_5153.30312"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5153.30312.html"/>
          </topicref>
       </topicref>
    </topicref>

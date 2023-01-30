@@ -4,8 +4,7 @@
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="AFARS_Appendix-CC-500"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3"
-         rev="Revised October 1, 2022">
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 4"> 
       <ph props="autonumber">CC-500</ph> Purpose.</title>
    <conbody>

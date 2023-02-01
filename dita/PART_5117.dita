@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5117</ph> - Special Contracting Methods</title>
       <body>
          <p>
-            <i>(Revised 3 January 2023)</i>
+            <i>(Revised 13 January 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -67,7 +67,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5117.2.dita#AFARS_Subpart_5117.2">Subpart 5117.2 - Options</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.204.dita#AFARS_5117.204">5117.204 Contracts.</xref>
                      </p>
@@ -77,7 +77,7 @@
                         <xref outputclass="fm:TOC" href="5117.206.dita#AFARS_5117.206">5117.206 Evaluation.</xref>
                      </p>
                   </li>
-                  <li rev="Revised November 7, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.207.dita#AFARS_5117.207">5117.207 Exercise of options.</xref>
                      </p>
@@ -99,12 +99,12 @@
                         <xref outputclass="fm:TOC" href="5117.502.dita#AFARS_5117.502">5117.502 Procedures.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised August 4, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.5021.dita#AFARS_5117.5021">5117.502-1 General.</xref>
                            </p>
                         </li>
-                        <li rev="Revised August 4, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.5022.dita#AFARS_5117.5022">5117.502-2 The Economy Act.</xref>
                            </p>
@@ -118,12 +118,12 @@
                   <xref outputclass="fm:TOC" href="Subpart_5117.7.dita#AFARS_Subpart_5117.7">Subpart 5117.7 - Interagency Acquisitions: Acquisitions by Nondefense Agencies on Behalf of the Department of Defense</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.703.dita#AFARS_5117.703">5117.703 Policy.</xref>
                      </p>
                   </li>
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.770.dita#AFARS_5117.770">5117.770 Procedures.</xref>
                      </p>
@@ -135,22 +135,22 @@
                   <xref outputclass="fm:TOC" href="Subpart_5117.74.dita#AFARS_Subpart_5117.74">Subpart 5117.74 - Undefinitized Contract Actions</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised January 3, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.7404.dita#AFARS_5117.7404">5117.7404 Limitations.</xref>
                      </p>
                   </li>
-                  <li rev="Revised January 3, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.74041.dita#AFARS_5117.74041">5117.7404-1 Authorization.</xref>
                      </p>
                   </li>
-                  <li rev="Revised January 3, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.74044.dita#AFARS_5117.74044">5117.7404-4 Limitations on obligations.</xref>
                      </p>
                   </li>
-                  <li rev="Revised January 3, 2023">
+                  <li rev="Revised January 13, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5117.74045.dita#AFARS_5117.74045">5117.7404-5 Exceptions.</xref>
                      </p>
@@ -179,17 +179,17 @@
                   <xref outputclass="fm:TOC" href="Subpart_5117.90.dita#AFARS_Subpart_5117.90">Subpart 5117.90 - Job Order Contracts</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.9000.dita#AFARS_5117.9000">5117.9000 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.9001.dita#AFARS_5117.9001">5117.9001 Definitions.</xref>
                      </p>
                   </li>
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.9002.dita#AFARS_5117.9002">5117.9002 Applicability.</xref>
                      </p>
@@ -199,7 +199,7 @@
                         <xref outputclass="fm:TOC" href="5117.9003.dita#AFARS_5117.9003">5117.9003 Use of job order contracts.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised August 4, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.90031.dita#AFARS_5117.90031">5117.9003-1 Planning and coordination.</xref>
                            </p>
@@ -211,24 +211,24 @@
                         <xref outputclass="fm:TOC" href="5117.9004.dita#AFARS_5117.9004">5117.9004 Procedures.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised August 4, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.90041.dita#AFARS_5117.90041">5117.9004-1 Presolicitation.</xref>
                            </p>
                         </li>
-                        <li rev="Revised August 4, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.90042.dita#AFARS_5117.90042">5117.9004-2 Solicitation.</xref>
                            </p>
                         </li>
-                        <li rev="Revised August 4, 2022Revised June 23, 2022">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.90043.dita#AFARS_5117.90043">5117.9004-3 Ordering.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li rev="Revised August 4, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.9005.dita#AFARS_5117.9005">5117.9005 JOC ordering officers.</xref>
                      </p>

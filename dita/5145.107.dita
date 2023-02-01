@@ -3,8 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="AFARS_5145.107"
-         ditaarch:DITAArchVersion="1.3"
-         rev="Revised September 9, 2022">
+         ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 3">
       <ph props="autonumber">5145.107</ph> Contract Clauses.</title>
    <conbody>
@@ -14,7 +13,7 @@
                   format="html"
                   scope="external">See AFARS PGI 5145.107</xref> for instructions
             associated with the use of clauses in solicitations and contracts which include the use
-            of GFP<ph id="_Toc512856908"> 5145.190 Leasing personal property.</ph>
+            of GFP 5145.190 Leasing personal property.
          </p>
       </p>
    </conbody>

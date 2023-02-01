@@ -8,11 +8,11 @@
    <title outputclass="Heading 4">
       <ph props="autonumber">5107.9101</ph>  Policy.</title>
    <conbody>
-      <p outputclass="Normal">Implementation of AT and OPSEC considerations in the requirements package is the responsibility of the requiring activity and a signed AT/OPSEC cover sheet is required to be included in all requirements packages except for supply contracts under the simplified acquisition level threshold, field ordering officer actions and Government purchase card purchases.  The cover sheet, at a minimum, must include all the information and reviews listed in the Army standard cover sheet at Appendix A of the AT/OPSEC Desk Reference, available via the Internet at <xref href="https://army.deps.mil/army/sites/PMG/prog/ATEP/AT%20in%20Contracting/AT%20OPSEC%20Desk%20Reference%205th%20Edition_web.pdf"
-               scope="external"
-               format="pdf">
-            <u>https://army.deps.mil/army/sites/PMG/prog/ATEP/AT%20in%20Contracting/AT%20OPSEC%20</u>
-            <u>Desk%20Reference%205th%20Edition_web.pdf</u>
-         </xref> (Army Knowledge Online login required).  This requirement also applies to orders under indefinite delivery contracts, unless each task or delivery order under the contract is for substantially the same product or service, in which case the cover sheet at the contract level is sufficient.</p>
+      <p
+      outputclass="Normal">Implementation of AT and OPSEC considerations in the requirements package is the responsibility of the requiring activity and a signed AT/OPSEC cover sheet is required to be included in all requirements packages except for supply contracts under the simplified acquisition level threshold, field ordering officer actions and Government purchase card purchases.  The cover sheet, at a minimum, must include all the information and reviews listed in the Army standard cover sheet at Appendix A of the AT/OPSEC Desk Reference, available via the Internet at <ph
+      rev="Revised January 24, 2023"> <xref
+      href="https://army.deps.mil/army/sites/PMG/prog/ATEP/AT%20in%20Contracting/AT%20OPSEC%20Guidance%20v6_webQ.pdf"
+      format="html"
+      scope="external">https://army.deps.mil/army/sites/PMG/prog/ATEP/AT%20in%20Contracting/AT%20OPSEC%20Guidance%20v6_webQ.pdf</xref> </ph> (Army Knowledge Online login required).  This requirement also applies to orders under indefinite delivery contracts, unless each task or delivery order under the contract is for substantially the same product or service, in which case the cover sheet at the contract level is sufficient.</p>
    </conbody>
 </concept>

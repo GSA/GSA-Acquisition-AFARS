@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5107</ph> - Acquisition Planning</title>
       <body>
          <p>
-            <i>(Revised 14 July 2022)</i>
+            <i> (Revised 24 January 2023) </i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -136,7 +136,7 @@
                         <xref outputclass="fm:TOC" href="5107.9100.dita#AFARS_5107.9100">5107.9100 Scope.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised January 13, 2023">
                            <p>
                               <xref outputclass="fm:TOC" href="5107.9101.dita#AFARS_5107.9101">5107.9101 Policy.</xref>
                            </p>

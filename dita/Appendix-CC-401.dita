@@ -8,16 +8,16 @@
    <title outputclass="Heading 4">
       <ph props="autonumber">CC-401</ph> Types of Procurement Management Reviews.</title>
    <conbody>
-      <p outputclass="List1" rev="Revised October 1, 2022">(a) The PMR is a tiered program that includes the following types of assessments: </p>
-      <p outputclass="List2" rev="Revised October 1, 2022">(1) Type 1: Reviews of Internal Controls (other than key internal controls) conducted by the Contracting Activity (CA) Management, as needed, using assessment methods in accordance with Command, CA, local or other applicable guidance. </p>
-      <p outputclass="List2" rev="Revised October 1, 2022">(2) Type 2: Reviews of Key Internal Controls conducted by the HCAs and SCOs to Offices of the Directors of Contracting and other subordinate contracting offices, at least once every three years (36 months), using the Internal Control Question Set, and any supplemental question sets or toolkits. </p>
-      <p outputclass="List2" rev="Revised October 1, 2022">(3) Type 3: Reviews of Internal/Key Internal Controls, conducted by the ODASA(P), as needed for special assistance reviews and assessments, on selected CAs and/or ACE-wide, using the applicable question set(s). </p>
-      <p outputclass="List2" rev="Revised October 1, 2022">(4) Type 4: Reviews of Strategic Controls conducted by the ODASA(P), annually, using the Strategic Control Question Set for CAs across the ACE. </p>
-      <p outputclass="List1" rev="Revised October 1, 2022">(b) Contingency Contracting. </p>
-      <p outputclass="List2" rev="Revised October 1, 2022">(1) The Contracting Support Brigades (CSBs), within the Army Contracting Command, execute theater support contracting actions in support of deployed Army forces, and commands and coordinates other common contracting actions as directed by the supported commander. The HCA is responsible for the authority, including contracting policy, compliance, and oversight of all deployed Army theater support contracting missions. </p>
-      <p outputclass="List2" rev="Revised October 1, 2022">(2) In conjunction with any PMR performed on a CSB with continency contracting efforts/missions, the HCA shall utilize the Contingency Contracting Question Set, located on the PMR SharePoint page at Procurement.Army.Mil to assess the key internal controls of their contingency contracting operations. </p>
-      <p outputclass="List1" rev="Revised October 1, 2022">(c) Top-level information on review responsibility, method of assessment, frequency of assessment, and assessment instructions is provided in the table below.</p>
-      <table frame="all" rowsep="1" colsep="1" rev="Revised October 1, 2022">
+      <p outputclass="List1">(a) The PMR is a tiered program that includes the following types of assessments: </p>
+      <p outputclass="List2">(1) Type 1: Reviews of Internal Controls (other than key internal controls) conducted by the Contracting Activity (CA) Management, as needed, using assessment methods in accordance with Command, CA, local or other applicable guidance. </p>
+      <p outputclass="List2">(2) Type 2: Reviews of Key Internal Controls conducted by the HCAs and SCOs to Offices of the Directors of Contracting and other subordinate contracting offices, at least once every three years (36 months), using the Internal Control Question Set, and any supplemental question sets or toolkits. </p>
+      <p outputclass="List2">(3) Type 3: Reviews of Internal/Key Internal Controls, conducted by the ODASA(P), as needed for special assistance reviews and assessments, on selected CAs and/or ACE-wide, using the applicable question set(s). </p>
+      <p outputclass="List2">(4) Type 4: Reviews of Strategic Controls conducted by the ODASA(P), annually, using the Strategic Control Question Set for CAs across the ACE. </p>
+      <p outputclass="List1">(b) Contingency Contracting. </p>
+      <p outputclass="List2">(1) The Contracting Support Brigades (CSBs), within the Army Contracting Command, execute theater support contracting actions in support of deployed Army forces, and commands and coordinates other common contracting actions as directed by the supported commander. The HCA is responsible for the authority, including contracting policy, compliance, and oversight of all deployed Army theater support contracting missions. </p>
+      <p outputclass="List2">(2) In conjunction with any PMR performed on a CSB with continency contracting efforts/missions, the HCA shall utilize the Contingency Contracting Question Set, located on the PMR SharePoint page at Procurement.Army.Mil to assess the key internal controls of their contingency contracting operations. </p>
+      <p outputclass="List1">(c) Top-level information on review responsibility, method of assessment, frequency of assessment, and assessment instructions is provided in the table below.</p>
+      <table frame="all" rowsep="1" colsep="1">
          <tgroup cols="6" align="left">
             <colspec colname="c1" colnum="1"/>
             <colspec colname="c2" colnum="2"/>
@@ -30,54 +30,54 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639614"> 
+                            
                               <b>Type</b> 
-                           </ph> 
+                            
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639615"> 
+                            
                               <b>Control Type</b> 
-                           </ph> 
+                            
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639616"> 
+                            
                               <b>Primary Responsibility for Control Assessment</b> 
-                           </ph> 
+                            
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639617"> 
+                            
                               <b>Method of Assessment</b> 
-                           </ph> 
+                            
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639618"> 
+                            
                               <b>Frequency of Control Assessment</b> 
-                           </ph> 
+                            
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639619"> 
+                            
                               <b>Assessment Instructions</b> 
-                           </ph> 
+                            
                         </li>
                      </ul>
                   </entry>
@@ -86,45 +86,45 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639620">1</ph> 
+                           1 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639621">Internal Controls</ph> 
+                           Internal Controls 
                         </li>
                         <li> 
-                           <ph id="_Toc116639622">(Other than Key Controls)</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639623">CA Management</ph> 
+                           (Other than Key Controls) 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639624">Business clearance, legal review, local policy and compliance reviews and self-assessments</ph> 
+                           CA Management 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639625">Action-by-Action IAW CA</ph> 
+                           Business clearance, legal review, local policy and compliance reviews and self-assessments 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639626">CA</ph> 
+                           Action-by-Action IAW CA 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           CA 
                         </li>
                      </ul>
                   </entry>
@@ -133,14 +133,14 @@
                   <entry morerows="5">
                      <ul>
                         <li> 
-                           <ph id="_Toc116639627">2</ph> 
+                           2 
                         </li>
                      </ul>
                   </entry>
                   <entry morerows="5">
                      <ul>
                         <li> 
-                           <ph id="_Toc116639628">Key Internal Controls</ph> 
+                           Key Internal Controls 
                         </li>
                         <li> </li>
                      </ul>
@@ -148,7 +148,7 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639629">HCAs, SCOs</ph> 
+                           HCAs, SCOs 
                         </li>
                      </ul>
                   </entry>
@@ -156,51 +156,21 @@
                      <p>Internal Control Question Set</p>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639630">Contingency Contracting Question Set (as applicable)</ph> 
+                           Contingency Contracting Question Set (as applicable) 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639631">At least once every three years (36 months)</ph> 
+                           At least once every three years (36 months) 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639632">AFARS Appendix CC</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-               </row>
-               <row>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639633">HCA</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639634">SCO Toolkit</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639635">Annually</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639636">AFARS Appendix CC</ph> 
+                           AFARS Appendix CC 
                         </li>
                      </ul>
                   </entry>
@@ -209,58 +179,28 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639637">Per applicable policy</ph> 
+                           HCA 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639638">GPC Toolkit</ph> 
+                           SCO Toolkit 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639639">Per applicable policy</ph> 
+                           Annually 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639640">AFARS Appendix EE</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-               </row>
-               <row>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639641">Per applicable policy</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639642">SB Toolkit</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639643">Per applicable policy</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639644">Per Army OSBP</ph> 
+                           AFARS Appendix CC 
                         </li>
                      </ul>
                   </entry>
@@ -269,28 +209,28 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639645">Per applicable policy</ph> 
+                           Per applicable policy 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639646">OT Question Set</ph> 
+                           GPC Toolkit 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639647">Per applicable policy</ph> 
+                           Per applicable policy 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639648">Per ODASA(P)</ph> 
+                           AFARS Appendix EE 
                         </li>
                      </ul>
                   </entry>
@@ -299,7 +239,67 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639649">Per applicable policy</ph> 
+                           Per applicable policy 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           SB Toolkit 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Per applicable policy 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Per Army OSBP 
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Per applicable policy 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           OT Question Set 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Per applicable policy 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Per ODASA(P) 
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Per applicable policy 
                         </li>
                      </ul>
                   </entry>
@@ -307,68 +307,21 @@
                      <p>Grants/</p>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639650">Cooperative Agreements Question Set</ph> 
+                           Cooperative Agreements Question Set 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639651">Per applicable policy</ph> 
+                           Per applicable policy 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639652">Per ODASA(P)</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-               </row>
-               <row>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639653">3</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639654">Key Internal Controls</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639655">ODASA(P)</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639656">Internal Control Question Set</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639657">As required/</ph> 
-                        </li>
-                        <li> 
-                           <ph id="_Toc116639658">requested</ph> 
-                        </li>
-                     </ul>
-                  </entry>
-                  <entry>
-                     <ul>
-                        <li> 
-                           <ph id="_Toc116639659">AFARS Appendix CC</ph> 
+                           Per ODASA(P) 
                         </li>
                      </ul>
                   </entry>
@@ -377,42 +330,89 @@
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639660">4</ph> 
+                           3 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639661">Strategic Controls</ph> 
+                           Key Internal Controls 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639662">ODASA(P)</ph> 
+                           ODASA(P) 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639663">Strategic Controls Question Set</ph> 
+                           Internal Control Question Set 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639664">Annually</ph> 
+                           As required/ 
+                        </li>
+                        <li> 
+                           requested 
                         </li>
                      </ul>
                   </entry>
                   <entry>
                      <ul>
                         <li> 
-                           <ph id="_Toc116639665">AFARS Appendix CC</ph> 
+                           AFARS Appendix CC 
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row>
+                  <entry>
+                     <ul>
+                        <li> 
+                           4 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Strategic Controls 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           ODASA(P) 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Strategic Controls Question Set 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           Annually 
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry>
+                     <ul>
+                        <li> 
+                           AFARS Appendix CC 
                         </li>
                      </ul>
                   </entry>

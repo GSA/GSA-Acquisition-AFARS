@@ -55,11 +55,11 @@
          peer review statistics, to include annual data on the number of SRB/CRB reviews conducted
          and waived, identification of any systemic issues or trends, best practices, lessons
          learned, overall effectiveness of the process, and other data as determined necessary. </p>
-      <p outputclass="List1" rev="Revised August 24, 2022">(c) <i>Peer Review Thresholds.</i>
+      <p outputclass="List1">(c) <i>Peer Review Thresholds.</i>
       </p>
-      <p outputclass="List1" rev="Revised August 24, 2022">Table 1-1 designates the Army peer
+      <p outputclass="List1">Table 1-1 designates the Army peer
          reviews, thresholds and approval authorities. </p>
-      <table id="table_tvt_pzs_q5b" rev="Revised August 24, 2022">
+      <table id="table_tvt_pzs_q5b">
          <tgroup cols="4">
             <colspec colnum="1" colname="col1"/>
             <colspec colnum="2" colname="col2"/>
@@ -197,22 +197,22 @@
             </tbody>
          </tgroup>
       </table>
-      <p outputclass="List3" rev="Revised August 24, 2022">(v) <i>Independent Management Reviews
+      <p outputclass="List3">(v) <i>Independent Management Reviews
             (IMRs)</i>
          <i>(Postaward peer reviews) of contracts for services.</i> Independent Management Reviews
          shall be conducted if the base period is greater than one year, the IMR takes place prior
          to the end of the second year of the base period of performance. If the base period of
          performance is one year or less, the IMR occurs prior to the exercise of the second option
          period. </p>
-      <p outputclass="List6" rev="Revised August 24, 2022"> (a) The ODASA(P) will conduct an
+      <p outputclass="List6"> (a) The ODASA(P) will conduct an
          Independent Management Review (IMR) for contracts for services valued at $1 billion or
          more. The reviews will be conducted in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
                format="html"
                scope="external">AFARS PGI 5101.170-4(a).</xref>
       </p>
-      <p outputclass="List6" rev="Revised August 24, 2022"> (b) <ph id="_Hlk90390033">The HCA will
+      <p outputclass="List6"> (b) The HCA will
             conduct an IMR for contracts for services valued at $100 million or more but less than
-            $1 billion</ph>. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+            $1 billion. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
                format="html"
                scope="external">Appendix GG</xref> for further delegation. For HCA reviews, the HCA
          will provide the Senior Services Manager a summary report. The summary report will address

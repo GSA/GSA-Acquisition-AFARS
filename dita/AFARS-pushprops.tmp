@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod" rev="Revised January 3, 2023">
+<map title="AFARS" outputclass="dod" rev="Revised January 13, 2023">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -8807,6 +8807,16 @@
                       base="NoTitle"
                       tables="0"
                       figures="0"/>
+            <topicref href="5153.20693.dita"
+                      navtitle="5153.206-93 Instructions for Congressional Notification Requirement When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine."
+                      props="5153.20693"
+                      outputclass="subtopic"
+                      audience="AFARS_5153.20693"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5153.20693.html"
+                      tables="0"
+                      figures="0"/>
          </topicref>
          <topicref href="5153.213.dita"
                    navtitle="5153.213 Simplified acquisition procedures."
@@ -9051,6 +9061,16 @@
                       xtrf="subtopic"
                       base="NoTitle"
                       xtrc="AFARS_5153.30311.html"
+                      tables="0"
+                      figures="0"/>
+            <topicref href="5153.30312.dita"
+                      navtitle="5153.303-12 Format for Congressional Notification When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine."
+                      props="5153.30312"
+                      outputclass="subtopic"
+                      audience="AFARS_5153.30312"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5153.30312.html"
                       tables="0"
                       figures="0"/>
          </topicref>

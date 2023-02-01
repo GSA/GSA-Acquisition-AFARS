@@ -5,7 +5,7 @@
          id="AFARS_Appendix-GG_Apendix-GG"
          ditaarch:DITAArchVersion="1.3">
    <title outputclass="Ctr 2 heading">
-      <ph>Appendix GG</ph>
+      Appendix GG
    </title>
    <conbody>
       <table id="table_sfm_q2m_gg56481">
@@ -638,7 +638,7 @@
                   <entry>No</entry>
                   <entry>-</entry>
                </row>
-               <row rev="Revised January 3, 2023">
+               <row>
                   <entry>6</entry>
                   <entry>Public Interest</entry>
                   <entry>Full and open competition need not be provided for IAW CD 2023-O0003—Temporary Authorizations for Covered Contracts Related to Ukraine.</entry>
@@ -1794,7 +1794,7 @@
                   <entry>No</entry>
                   <entry>HCA, with SPE coordination prior to HCA approval </entry>
                </row>
-               <row rev="Revised January 3, 2023">
+               <row>
                   <entry>15</entry>
                   <entry>Prohibition on Obtaining Certified Cost or Pricing Data</entry>
                   <entry>Waiving requirement for submission of certified cost or pricing data IAW CD 2023-O0003—Temporary Authorizations for Covered Contracts Related to Ukraine</entry>
@@ -2627,7 +2627,7 @@
                   <entry>Yes</entry>
                   <entry>HCA, without power to further delegate </entry>
                </row>
-               <row rev="Revised January 3, 2023">
+               <row>
                   <entry>17</entry>
                   <entry>Undefinitized Contract Actions (UCA) Limitations on Obligations.</entry>
                   <entry> Waive the limitations DFARS 217.7404(a) FMS contracts; 217.7404-3 Definitization schedule; and 217.7404-4, Limitations on obligations in accordance with subsection (D) of DPC 2023-O0003 - Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine.</entry>

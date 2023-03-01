@@ -8,10 +8,18 @@
    <title outputclass="Heading 3">
       <ph props="autonumber">5139.7602</ph> Policy and Responsibilities.</title>
    <conbody>
-      <p outputclass="List2">(1)  Contracting Officers are responsible to ensure that Purchase Request Packages for NEW Contracts include a PWS with the approved/standard language in accordance with 5111.106 unless a waiver approved by ECMO is included.  The standard language is provided in Appendix HH.  The waiver must be filed in the official contract file.  This includes follow-on contracts. </p>
-      <p outputclass="List2">(2)  Contracting Officers are responsible to ensure Purchase Request Packages for Exercising an Option on an Existing Contracts are coordinated with ECMO IAW 5111.106.  The coordination document shall be filed in the contract file.</p>
-      <p outputclass="List2">(3)  Contracting Officers are responsible to ensure Purchase Request Packages for issuing a New Order against an Existing Contract are coordinated with ECMO IAW 5111.106.  The coordination documentation shall be filed in the contract file.</p>
-      <p outputclass="List2">(4)  For New contracts to Cloud Service Providers, Contracting Officers are responsible to ensure maximum use of the Common and Data Service Descriptions as defined by ECMO in the Army Cloud Plan and issued to Contracting by DASA(P).  See Appendix HH.</p>
+      <p
+         outputclass="List2">(1) Contracting Officers are responsible to ensure that Purchase Request Packages for NEW Contracts include a PWS with the approved/standard language in accordance with 5111.106 unless a waiver approved by <ph
+         rev="Revised February 27, 2023">ECMA </ph> is included. The standard language is provided in Appendix HH. The waiver must be filed in the official contract file. This includes follow-on contracts. </p>
+      <p
+         outputclass="List2">(2) Contracting Officers are responsible to ensure Purchase Request Packages for Exercising an Option on an Existing Contracts are coordinated with <ph
+         rev="Revised February 27, 2023">ECMA </ph> IAW 5111.106. The coordination document shall be filed in the contract file.</p>
+      <p
+         outputclass="List2">(3) Contracting Officers are responsible to ensure Purchase Request Packages for issuing a New Order against an Existing Contract are coordinated with <ph
+         rev="Revised February 27, 2023">ECMA </ph> IAW 5111.106. The coordination documentation shall be filed in the contract file.</p>
+      <p
+         outputclass="List2">(4) For New contracts to Cloud Service Providers, Contracting Officers are responsible to ensure maximum use of the Common and Data Service Descriptions as defined by <ph
+         rev="Revised February 27, 2023">ECMA </ph> in the Army Cloud Plan and issued to Contracting by DASA(P). See Appendix HH.</p>
       <p outputclass="List2">(5) For New contracts for Cloud Migration, Hosting, and Managed Services, Contracting Officers and requiring actitivies will maxmize use of the CLIN/SLIN descriptions.  See Appendix HH.</p>
    </conbody>
 </concept>

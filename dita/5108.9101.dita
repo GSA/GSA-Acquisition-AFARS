@@ -5,16 +5,25 @@
          id="AFARS_5108.9101"
          xml:lang="en-US"
          ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5108.9101</ph> Contracting for total productions.</title>
+   <title
+      outputclass="Heading 3"
+      rev="Revised February 17, 2023"> <ph
+      props="autonumber">5108.9101</ph> Contracting for Video Productions.</title>
    <conbody>
-      <p>(a)  The Army Multimedia and Visual Information Directorate (AMVID), U.S. Army Headquarters Services, Office of the Administrative Assistant to the Secretary of the Army, is the only multimedia and visual information activity authorized to contract for total productions.  See Army Regulation 25-1 and Department of the Army Pamphlet 25-91.</p>
-      <p>(b)  Direct requests for contracted total productions and non-local productions per Army Regulation 25-1 to the local visual information activity for processing to the</p>
-      <p>AMVID, Production Acquisition Division</p>
-      <p>ATTN: AAHS-VI-C</p>
-      <p>2530 Crystal Drive, 13th Floor</p>
-      <p>Arlington, Virginia 22202-3934.</p>
-      <p>(c)  The contracting officer must forward procurement requests for contracting total productions to the AMVID, Production Acquisition Division at the address in paragraph (b) in this section. </p>
-      <p>(d)  For advisory and assistance services for audiovisual productions, please contact AMVID, Production Acquisition Division, at the address in paragraph (b) in this section. </p>
+      <p
+         rev="Revised February 17, 2023"
+         outputclass="List1">(a) The Production Acquisition Division (PAD) J/G42 at United States Army Military District of Washington (USAMDW), formerly AMVID PAD, is the only multimedia and visual information acquisition activity authorized to contract for total video productions. (See DoDI 5040.02, Army Regulation 25-1, and Department of the Army Pamphlet 25-91). </p>
+      <p
+         rev="Revised February 17, 2023"
+         outputclass="List1">(b) Direct requests for contracted video productions shall be submitted to the USAMDW, PAD via email to: <xref
+         href="mailto:usarmy.mcnair.mdw.mbx.jtfncr-production-acquisition-div—pad@army.mil"
+         format="mcnair.mdw.mbx.jtfncr-production-acquisition-div—pad@army.mil.mdw.mbx.jtfncr-production-acquisition-div—pad@army.mil.mbx.jtfncr-production-acquisition-div—pad@army.mil.jtfncr-production-acquisition-div—pad@army.mil.mil"
+         scope="external">usarmy.mcnair.mdw.mbx.jtfncr-production-acquisition-div—pad@army.mil</xref>.</p>
+      <p
+         rev="Revised February 17, 2023"
+         outputclass="List1">(c) The contracting officer must forward procurement requests for contracting video productions to the USAMDW, Production Acquisition Division at the address in paragraph (b) in this section.</p>
+      <p
+         rev="Revised February 17, 2023"
+         outputclass="List1">(d) For advisory and assistance services for audiovisual productions, please contact USAMDW via the above email.</p>
    </conbody>
 </concept>

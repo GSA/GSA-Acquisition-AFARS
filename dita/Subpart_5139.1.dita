@@ -7,4 +7,21 @@
          ditaarch:DITAArchVersion="1.3">
    <title outputclass="Heading 2 Subpart">
       <ph props="autonumber">Subpart 5139.1</ph> - General</title>
+  <conbody>
+    <p
+      rev="Revised March 1, 2023">See <xref
+      href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5139.aspx"
+      format="html"
+      scope="external">AFARS PGI 5139.1-1</xref> for guidance on Internal Use Software in contract documentation.</p>
+    <p
+      rev="Revised March 1, 2023">See <xref
+      href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5139.aspx"
+      format="html"
+      scope="external">AFARS PGI 5139.1-2</xref> for information on reform of information technology desktop and notebook purchase and configuration.</p>
+    <p
+      rev="Revised March 1, 2023">See <xref
+      href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5139.aspx"
+      format="html"
+      scope="external">AFARS PGI 5139.1-3</xref> for instruction on development, security, and operations (DevSecOps).</p>
+  </conbody>
 </concept>

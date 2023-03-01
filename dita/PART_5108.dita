@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5108</ph> - Required Sources of Supplies and Services</title>
       <body>
          <p>
-            <i>(Revised 20 May 2022)</i>
+            <i>(Revised 17 February 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -122,9 +122,9 @@
                         <xref outputclass="fm:TOC" href="5108.9100.dita#AFARS_5108.9100">5108.9100 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised February 17, 2023">
                      <p>
-                        <xref outputclass="fm:TOC" href="5108.9101.dita#AFARS_5108.9101">5108.9101 Contracting for total productions.</xref>
+                        <xref outputclass="fm:TOC" href="5108.9101.dita#AFARS_5108.9101">5108.9101 Contracting for Video Productions.</xref>
                      </p>
                   </li>
                </ul>

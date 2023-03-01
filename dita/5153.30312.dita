@@ -5,36 +5,38 @@
          id="AFARS_5153.30312"
          xml:lang="en-US"
          ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3" rev="Revised January 13, 2023"> 
+   <title outputclass="Heading 3"> 
       <ph props="autonumber">5153.303-12</ph> Format for Congressional Notification When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine.  </title>
    <conbody>
-      <p rev="Revised January 13, 2023">The Honorable <i>(insert name)</i>
+      <p>The Honorable <i>(insert name)</i>
       </p>
-      <p rev="Revised January 13, 2023">Chairman</p>
-      <p rev="Revised January 13, 2023">Committee on<i> (Insert Committee)</i>
+      <p>Chairman</p>
+      <p>Committee on<i> (Insert Committee)</i>
       </p>
-      <p rev="Revised January 13, 2023">United States <i>(Senate or House of Representatives)</i>
+      <p>United States <i>(Senate or House of Representatives)</i>
       </p>
-      <p rev="Revised January 13, 2023">Washington, DC 20510</p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p rev="Revised January 13, 2023">Dear Mr. Chairman<i>/</i>
+      <p>Washington, DC 20510</p>
+      <p> </p>
+      <p>Dear Mr. Chairman<i>/</i>
          <i>Madam Chairwoman</i>:</p>
-      <p rev="Revised January 13, 2023">  Pursuant to Joint Explanatory Statement notification requirement when using section 1244(a) authorities of the Fiscal Year 2023 National Defense Authorization Act for (FY23 NDAA), this letter provides notice of not more than 30 days after using a temporary authority provided for covered contracts related to Ukraine. </p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p rev="Revised January 13, 2023"> Contract # <i>(insert contract number)</i> is awarded to Company ABC <i>(insert vendor name and Cage Code).</i> The contract period of performance is October 30, 2022 through October 30, 2023 <i>(insert period of performance)</i> for $12 million dollars <i>(insert total contract value)</i>.</p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p rev="Revised January 13, 2023">Pursuant to the authority at <i>(insert applicable authority used:1244(a)(2) Other than Competitive Procedures; 1244(a)(3)Special Emergency Procurement Authority; 1244(a)(4) Undefinitized Contract Actions or 1244(a)(6) Waiver of Certified Cost and Pricing Data)</i> of the FY23 NDAA, the Army Federal Acquisition Regulation Supplement (AFARS) Part <i>(insert AFARS Part)</i> and AFARS Appendix GG, the Army Contracting Command – <i>(insert awarding contracting office)</i> on behalf of Program Executive Office <i>(insert the responsible PEO)</i>,<ph id="_Hlk124228781"/>awarded Contract # <i>(insert contract number)</i> to Company ABC <i>(insert vendor name and Cage Code)</i> to provide <i>(insert brief description)</i>. The contract period of performance is October 30, 2022 through October 30, 2023 <i>(insert period of performance)</i> for $12 million dollars <i>(insert total contract value)</i>. </p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p rev="Revised January 13, 2023">As a “covered contract” this procurement expedites contract award and thereby advances important DoD and national objectives related to support to Ukraine, foreign allies and partners assisting Ukraine, and to replenish domestic stocks more rapidly. <i>(add other pertinent considerations)</i>. </p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p rev="Revised January 13, 2023"> Award of this contract is expected to <i>(insert applicable outcome e.g. build the stocks of critical munitions and other defense articles for the DoD; provide material and related services to foreign allies and partners that have provided support to the government of Ukraine; and provide material and related services to the Government of Ukraine)</i>. </p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p rev="Revised January 13, 2023"> Thank you for your continued support of defense programs and our Service men and women.</p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p outputclass="Ctr" rev="Revised January 13, 2023"> Sincerely,</p>
-      <p rev="Revised January 13, 2023"> </p>
-      <p outputclass="Ctr" rev="Revised January 13, 2023">Megan R. Dake</p>
-      <p outputclass="Ctr" rev="Revised January 13, 2023"> Deputy Assistant Secretary of </p>
-      <p outputclass="Ctr" rev="Revised January 13, 2023"> the Army (Procurement)</p>
+      <p rev="Revised February 17, 2023">This notification is provided pursuant to subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (NDAA 2023), Temporary authorizations related to Ukraine and other matters (Public Law 117-263).</p>
+      <p> 
+         <ph rev="Revised February 17, 2023">The Department of the Army intends to award c</ph>ontract # <i>(insert contract number)</i> is awarded to Company ABC <i>(insert vendor name and Cage Code).</i> The contract period of performance is October 30, 2022 through October 30, 2023 <i>(insert period of performance)</i> for $12 million dollars <i>(insert total contract value<ph rev="Revised February 17, 2023">
+               <i>, inclusive of options</i>
+            </ph>)</i>.</p>
+      <p> </p>
+      <p>Pursuant to the authority at <i>(insert applicable authority used:1244(a)(2) Other than Competitive Procedures; 1244(a)(3)Special Emergency Procurement Authority; 1244(a)(4) Undefinitized Contract Actions or 1244(a)(6) Waiver of Certified Cost and Pricing Data)</i> of the FY23 NDAA, the Army Federal Acquisition Regulation Supplement (AFARS) Part <i>(insert AFARS Part)</i> and AFARS Appendix GG, the Army Contracting Command – <i>(insert awarding contracting office)</i> on behalf of Program Executive Office <i>(insert the responsible PEO)</i>,awarded Contract # <i>(insert contract number)</i> to Company ABC <i>(insert vendor name and Cage Code)</i> to provide <i>(insert brief description)</i>. The contract period of performance is October 30, 2022 through October 30, 2023 <i>(insert period of performance)</i> for $12 million dollars <i>(insert total contract value)</i>. </p>
+      <p> </p>
+      <p>As a “covered contract” this procurement expedites contract award and thereby advances important DoD and national objectives related to support to Ukraine, foreign allies and partners assisting Ukraine, and to replenish domestic stocks more rapidly. <i>(add other pertinent considerations)</i>. </p>
+      <p> </p>
+      <p> Award of this contract is expected to <i>(insert applicable outcome e.g. build the stocks of critical munitions and other defense articles for the DoD; provide material and related services to foreign allies and partners that have provided support to the government of Ukraine; and provide material and related services to the Government of Ukraine)</i>. </p>
+      <p> </p>
+      <p> Thank you for your continued support of defense programs and our Service men and women.</p>
+      <p> </p>
+      <p outputclass="Ctr"> Sincerely,</p>
+      <p> </p>
+      <p outputclass="Ctr">Megan R. Dake</p>
+      <p outputclass="Ctr"> Deputy Assistant Secretary of </p>
+      <p outputclass="Ctr"> the Army (Procurement)</p>
    </conbody>
 </concept>

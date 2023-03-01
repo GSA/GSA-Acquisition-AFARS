@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5137</ph> - Service Contracting</title>
       <body>
+         <p>
+            <i>(Revised March 1, 2023)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -91,7 +94,7 @@
                         <xref outputclass="fm:TOC" href="5137.5905.dita#AFARS_5137.5905">5137.590-5 Reserved.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised March 1, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5906.dita#AFARS_5137.5906">5137.590-6 Acquisition strategy content.</xref>
                      </p>

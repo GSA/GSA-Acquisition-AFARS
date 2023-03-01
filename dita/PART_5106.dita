@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5106</ph> - Competition Requirements</title>
       <body>
          <p>
-            <i>(Revised 3 January 2023)</i>
+            <i>(Revised 1 March 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -47,7 +47,7 @@
                               <xref outputclass="fm:TOC" href="5106.3023.dita#AFARS_5106.3023">5106.302-3 Industrial mobilization; engineering, developmental, or research capability; or expert services.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised March 1, 2023">
                            <p>
                               <xref outputclass="fm:TOC" href="5106.3024.dita#AFARS_5106.3024">5106.302-4 International agreement.</xref>
                            </p>

@@ -6,7 +6,9 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">Part 5142</ph> - Contract Administration and Audit Services</title>
       <body>
-         <p> <i>(Revised 10 February 2023)</i> </p>
+         <p>
+            <i>(Revised 10 February 2023)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -18,7 +20,7 @@
                         <xref outputclass="fm:TOC" href="5142.190.dita#AFARS_5142.190">5142.190 Follow-up on contract audit reports.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised February 10, 2023Revised February 10, 2023 ">
                            <p>
                               <xref outputclass="fm:TOC" href="5142.1901.dita#AFARS_5142.1901">5142.190-1 Responsibilities.</xref>
                            </p>
@@ -33,7 +35,7 @@
                               <xref outputclass="fm:TOC" href="5142.1903.dita#AFARS_5142.1903">5142.190-3 Reporting.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised February 10, 2023 ">
                            <p>
                               <xref outputclass="fm:TOC" href="5142.1904.dita#AFARS_5142.1904">5142.190-4 Overage Audit Review Boards.</xref>
                            </p>

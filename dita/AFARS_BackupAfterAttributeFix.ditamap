@@ -4,7 +4,7 @@
 <map
    title="AFARS"
    outputclass="dod"
-   rev="Revised January 13, 2023">
+   rev="Revised March 1, 2023">
    <title
       outputclass="Title">AFARS</title>
    <topicref
@@ -1720,13 +1720,13 @@
             xtrc=""/>
          <topicref
             href="5108.9101.dita"
-            navtitle="5108.9101 Contracting for total productions."
             props="5108.9101"
             base="NoTitle"
             audience="AFARS_5108.9101"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            xtrc=""
+            navtitle="5108.9101 Contracting for Video Productions."/>
       </topicref>
       <topicref
          href="Subpart_5108.92.dita"

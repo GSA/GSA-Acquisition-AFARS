@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod" rev="Revised January 13, 2023">
+<map title="AFARS" outputclass="dod" rev="Revised March 1, 2023">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -1894,13 +1894,13 @@
                    tables="0"
                    figures="0"/>
          <topicref href="5108.9101.dita"
-                   navtitle="5108.9101 Contracting for total productions."
                    props="5108.9101"
                    base="NoTitle"
                    audience="AFARS_5108.9101"
                    outputclass="subtopic"
                    xtrf="subtopic"
                    xtrc=""
+                   navtitle="5108.9101 Contracting for Video Productions."
                    tables="0"
                    figures="0"/>
       </topicref>

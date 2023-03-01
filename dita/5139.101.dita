@@ -9,11 +9,8 @@
       <ph props="autonumber">5139.101</ph> Policy.</title>
    <conbody>
       <p outputclass="List2">(1)  The head of the contracting activity has the authority to make the determination under DFARS 239.101(1).  See Appendix GG for further delegation.</p>
-      <p
-         outputclass="List2">(2) <ph
-         rev="Revised March 1, 2023">I</ph>nformation technology (IT) purchases must be submitted through the Information Technology Approval System (ITAS). The ITAS approval memo and supporting documentation shall be part of the requirements package submitted to the Contracting Officer and shall also be part of the resulting solicitation and contract file documentation. The ITAS Approval website is located at <xref
-         href="https://cprobe.army.mil/enterprise-portal/web/itas/home"
-         format="html"
-         scope="external">https://cprobe.army.mil/enterprise-portal/web/itas/home</xref>. </p>
+      <p outputclass="List2">(2) <ph rev="Revised March 1, 2023">I</ph>nformation technology (IT) purchases must be submitted through the Information Technology Approval System (ITAS). The ITAS approval memo and supporting documentation shall be part of the requirements package submitted to the Contracting Officer and shall also be part of the resulting solicitation and contract file documentation. The ITAS Approval website is located at <xref href="https://cprobe.army.mil/enterprise-portal/web/itas/home"
+               format="html"
+               scope="external">https://cprobe.army.mil/enterprise-portal/web/itas/home</xref>. </p>
    </conbody>
 </concept>

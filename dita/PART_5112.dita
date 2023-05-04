@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5112</ph> - Acquisition of Commercial Items</title>
       <body>
          <p>
-            <i>(Revised 13 January 2023)</i>
+            <i>(Revised 11 April 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5112.1.dita#AFARS_Subpart_5112.1">Subpart 5112.1 - Acquisition of Commercial Items - General</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised April 11, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5112.102.dita#AFARS_5112.102">5112.102 Applicability.</xref>
                      </p>

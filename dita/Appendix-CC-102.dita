@@ -10,13 +10,13 @@
    <conbody>
       <p>In accordance with FAR 1.102(b), the ACE defines its operations, reporting, and compliance strategic objectives for contracting as follows: </p>
       <p outputclass="List1">(1) Operations objectives. </p>
-      <p outputclass="List2">a. Satisfy the customer in terms of cost; </p>
-      <p outputclass="List2">b. Satisfy the customer in terms of quality; and </p>
-      <p outputclass="List2">c. Satisfy the customer in terms of timeliness. </p>
+      <p outputclass="List1">a. Satisfy the customer in terms of cost; </p>
+      <p outputclass="List1">b. Satisfy the customer in terms of quality; and </p>
+      <p outputclass="List1">c. Satisfy the customer in terms of timeliness. </p>
       <p outputclass="List1">(2) Reporting objective. Conduct business with openness.</p>
       <p outputclass="List1">(3) Compliance objectives. </p>
-      <p outputclass="List2">a. Minimize administrative operating costs;</p>
-      <p outputclass="List2">b. Conduct business with integrity and fairness; and </p>
-      <p outputclass="List2">c. Fulfill public policy objectives </p>
+      <p outputclass="List1">a. Minimize administrative operating costs;</p>
+      <p outputclass="List1">b. Conduct business with integrity and fairness; and </p>
+      <p outputclass="List1">c. Fulfill public policy objectives </p>
    </conbody>
 </concept>

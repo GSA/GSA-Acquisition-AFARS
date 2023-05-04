@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_9-5">
+  <title>
+      <ph props="autonumber">9-5.</ph> U.S. Navy’s Spiral 3 Contracts</title>
+  <conbody>
+      <p>The <xref href="https://army.deps.mil/netcom/sites/wireless"
+               format="html"
+               scope="external">U.S. Navy's Spiral 3 contracts</xref> are mandatory for cellular phone, wireless devices, and wireless service purchases. CHs may purchase respective cellular requirements up to the MPT from any listed vendor (AT&amp;T, T-Mobile, Verizon, Sprint, MetTel). All purchases must comply with the Spiral 3 – Mandatory Ordering Guide in the subfolder located in the above link. Orders may not exceed one year and are only authorized in CONUS due to task order limitations with the GPC.</p>
+  </conbody>
+</concept>

@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-7"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">3-7.</ph> Span of Control</title>
-   <conbody>
-      <p id="QExBUq" outputclass="Normal">a. The Army standard for span of control for a Level 4 A/OPC is 300 accounts. This number includes both BO and CH accounts. A ratio of not more than seven card accounts to an A/BO is the Army standard. Ensuring a reasonable number of card accounts are assigned to each A/BO or Certifying Officer account is paramount to the effective accomplishment of the A/BO or Certifying Officer’s responsibilities. The total number of transactions, as well as the number of assigned card accounts, must be considered when determining an acceptable account-to-A/BO ratio. Span of control refers to the extent of oversight and review responsibilities placed on a single A/OPC or BO. An appropriate span of control must efficiently and effectively allow the A/OPC or BO to provide reasonable assurance they can effectively perform their responsibilities regardless of the number of accounts assigned. The assigned span of control must factor in a Level 4 A/OPC’s responsibility to conduct an annual review of all BO accounts including semi-annual surveillance of 25% of all transactions under his/her oversight. A span of control too large may preclude the A/OPC from accomplishing this task effectively and efficiently.</p>
-      <p id="CoyjKx" outputclass="Normal">b. When the number of accounts (300:1 accounts per A/OPC) or workload complexity/administration assigned to a Level 4 A/OPC exceeds the Army standard, the SCO and the CCO must ensure adequate resources are made available to allow the Level 4 A/OPC’s successful performance of his or her duties. When the span of control exceeds the Army standard by more than 10 percent and the CCO elects not to provide additional resources, the CCO must provide the SCO with formal documentation stating that the CCO has personally reviewed the existing span of control and has determined the span of control is adequate to ensure program administration and surveillance can be performed at a satisfactory level. The Level 3 A/OPC must retain a copy of this documentation.</p>
-      <p id="CayLdw" outputclass="Normal">c. When the ratio for CH accounts to BOs exceeds the Army standard, the BO shall prepare a request for a waiver to policy. The approval levels for waivers are indicated in paragraph 3-7e. The total number of transactions as well as the number of assigned CH accounts must be considered when determining an acceptable card and/or checking account-to-BO ratio.</p>
-      <p id="tXzhYw" outputclass="Normal">d. Upon the nomination and approval of a prospective CH and during the annual review of BO accounts, the Level 4 A/OPCs determines if the span of control is acceptable—that is, whether the BO can reasonably be expected to complete a thorough review of all transactions and certify the invoice within five business days of its receipt.</p>
-      <p id="aGUSlZ" outputclass="Normal">e. The Level 4 A/OPC documents all cases where the CH-to-Billing Official ratio exceeds the Army standard. In these cases, the BO prepares a request for a waiver to policy. The request must address the unique conditions that affect the process and show, with a high degree of certainty, that the BO can be expected to comply with the review and certification procedures. The request must include the number and location of assigned CHs, the total average number of transactions made by the CHs, the amount of time the BO can devote to the certification process, the history of delinquencies, and other factors that seem appropriate. The waiver is approved at the following level indicated below and maintained by the approver with copies furnished to the BO:</p>
-      <p id="tEDpMH" outputclass="Normal">(1) 8–10 CHs accounts: Through the Level 4 A/OPC to the CCO.</p>
-      <p id="BnDsoh" outputclass="Normal">(2) 11–19 CHs accounts: Through the A/OPC (Level 4 and Level 3) to the SCO.</p>
-      <p id="LZyrCb" outputclass="Normal">(3) 20 or more CHs accounts: Through the A/OPC (Level 4, Level 3, to the Level 2).</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_3-7">
+  <title>
+      <ph props="autonumber">3-7.</ph> Enterprise Resource Planning (ERP)</title>
+  <conbody>
+      <p>ERP systems are large commercial-off-the-shelf platforms that are designed to contain the primary components of the business operations of an agency. Implementing ERP systems allows agencies to manage business functions as an integrated solution.</p>
+  </conbody>
 </concept>

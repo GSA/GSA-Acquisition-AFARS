@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_11-11">
+    <title>
+      <ph props="autonumber">11-11.</ph> Violation and Disciplinary Categories</title>
+    <conbody>
+        <p outputclass="List1">a. <b>Identifying the Violation</b>. DoD’s <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/Final_GPC_Disciplinary_Category_Definitions_Guidance_Jan_27_2020.pdf"
+               format="html"
+               scope="external">GPC Disciplinary Category Definitions
+            Guidance</xref> is a helpful resource when identifying the type of
+            violation in situations of card misuse and abuse. See Table 11-4
+            below.</p>
+        <p outputclass="List1">b. A/OPCs should be alert to the following indicators of possible
+            fraud, waste, or abuse:</p>
+        <p>1) Repetitive buys from the same merchant</p>
+        <p>2) Lack of documentation for a purchase</p>
+        <p>3) Failure to safeguard cards and account numbers</p>
+        <p>4) CH or BO authorizing the use of their cards by others</p>
+        <p>5) Inadequate oversight by BOs and agencies</p>
+        <p>6) Payments made for items not received</p>
+        <p>7) Split purchases to avoid spending limitations</p>
+        <p>8) Lack of accounting for items requiring accountability</p>
+        <p>9) Payment delinquencies incurring interest penalties</p>
+        <p>10) Approval of a CH’s statement of account by someone other than the
+            CH or BO</p>
+        <p>11) Unauthorized purchases</p>
+        <p>12) CHs returning merchandise for cash or store credit vs. having
+            credits issued back to the GPC</p>
+        <p outputclass="List1">c. <b>Taking Corrective Action</b>. When an A/OPC discovers a
+            violation of GPC policies, the A/OPC must take corrective action.
+            The course of action will vary depending on the intentionality and
+            severity of the infraction. A/OPCs should take one or more of the
+            following corrective actions:</p>
+        <p>1) Document the violation in the purchase file and/or CH or BO’s
+            file.</p>
+        <p>2) Require involved parties to attend training.</p>
+        <p>3) Inform the involved parties’ supervisor or commander.</p>
+        <p>4) Suspend CH or BO account.</p>
+        <p>5) Terminate CH or BO appointment and account.</p>
+        <p outputclass="List1">d. <b>Continual or Severe Violations</b>. Continual violation of GPC
+            procedures by a CH or BO will result in termination of GPC
+            privileges. A/OPCs will document the violation and action taken in
+            their files for that particular CH/BO. A/OPCs will refer evidence of
+            deliberate abuse to the CH and/or BO’s supervisor, Commander, or SCO
+            for appropriate action in accordance with the Uniform Code of
+            Military Justice or civilian disciplinary rules. A/OPC will refer
+            evidence of internal fraud or other criminal activity to the
+            Commander or SCO.  
+      </p>
+        <p id="Toc118789467">Table 11-4: Disciplinary Categories</p>
+        <table>
+            <tgroup cols="5">
+                <colspec colnum="1" colwidth="0.7*" colname="col1"/>
+                <colspec colnum="2" colwidth="0.6*" colname="col2"/>
+                <colspec colnum="3" colwidth="0.7*" colname="col3"/>
+                <colspec colnum="4" colwidth="1.5*" colname="col4"/>
+                <colspec colnum="5" colwidth="1.6*" colname="col5"/>
+                <tbody>
+                    <row>
+                        <entry> 
+                     <b>Category</b> 
+                  </entry>
+                        <entry> 
+                     <b>Reportable</b> 
+                  </entry>
+                        <entry> 
+                     <b>Classification</b> 
+                  </entry>
+                        <entry> 
+                     <b>Definition</b> 
+                  </entry>
+                        <entry> 
+                     <b>Examples</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Abuse</entry>
+                        <entry>Yes</entry>
+                        <entry>Intentional</entry>
+                        <entry> 
+                     <p>Intentional use of the Government- issued
+                            charge card in violation of applicable regulations.
+                            Evidence of intentionality will be inferred from
+                            repeat offenses of the same violation, following
+                            administrative and/or disciplinary action taken for
+                            this violation.</p> 
+                     <p>Applicable regulations are:
+                            FAR, DFARS, Service/Agency Supplements, and
+                            Component GPC policies/procedures.</p> 
+                  </entry>
+                        <entry>Examples include, but are not limited to,
+                            intentionally failing to purchase from mandatory
+                            sources, exceeding the applicable MPT, purchasing
+                            items such as a day planner costing $300 rather than
+                            one costing $45, or splitting requirements to avoid
+                            card thresholds.</entry>
+                    </row>
+                    <row>
+                        <entry>Internal Fraud</entry>
+                        <entry>Yes</entry>
+                        <entry>Malicious Intent</entry>
+                        <entry>Any felonious act of corruption or attempt to
+                            cheat the Government or corrupt the Government’s
+                            agents by Charge Card Program officials. Use of the
+                            charge card to transact business that is not
+                            sanctioned, not authorized, not in one’s official
+                            Government capacity, not for the purpose for which
+                            the card was issued, not as part of official
+                            Government business.</entry>
+                        <entry>Examples include, but are not limited to, a CH
+                            intentionally purchasing power tools for personal
+                            use, paying for repairs of privately owned
+                            equipment, purchasing items or extra quantity of
+                            items for resale or to give away to
+                            relatives.</entry>
+                    </row>
+                    <row>
+                        <entry>Misuse</entry>
+                        <entry>No</entry>
+                        <entry>Unintentional</entry>
+                        <entry> 
+                     <p>Unintentional use of a GPC in violation of
+                            applicable regulations. These actions are the result
+                            of ignorance and/or carelessness, lacking
+                            intent.</p> 
+                     <p>Applicable regulations are: FAR,
+                            DFARS, Service/Agency Supplements, and Component GPC
+                            policies/procedures.</p> 
+                  </entry>
+                        <entry>Examples include, but are not limited to,
+                            unintentionally purchasing excessive quantities of
+                            an item with limited shelf life, violating a
+                            specific-use policy such as an agency that requires
+                            headquarters to buy all furniture, failing to
+                            certify statements on time, costing the Government
+                            maximum rebates and incurrence of prompt payment
+                            interest.</entry>
+                    </row>
+                    <row>
+                        <entry>Delinquency</entry>
+                        <entry>Yes</entry>
+                        <entry>N/A</entry>
+                        <entry>An undisputed charge card account balance that is
+                            unpaid for more than 61 days past the statement
+                            date.</entry>
+                        <entry>N/A</entry>
+                    </row>
+                    <row>
+                        <entry>Administrative Discrepancy</entry>
+                        <entry>No</entry>
+                        <entry>Unintentional</entry>
+                        <entry> 
+                     <p>Actions that violate operational
+                            policies/procedures but do not violate federal law
+                            or regulation.</p> 
+                     <p>Supplies/services acquired
+                            fulfill a valid Government need at a fair and
+                            reasonable price at no additional cost to the
+                            Government but required policy/procedures were not
+                            followed.</p> 
+                  </entry>
+                        <entry> 
+                     <p>Examples include, but are not limited to
+                            incomplete forms and documentation, failure to
+                            maintain required documents for the required time
+                            period.</p> 
+                     <p>Administrative discrepancies require
+                            agency/internal corrective action and are not
+                            reportable to OMB unless they are persistent,
+                            pervasive, or willful in nature, in which case they
+                            are reportable as abuse, fraud, or misuse.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>External Fraud</entry>
+                        <entry>No</entry>
+                        <entry>Malicious Intent</entry>
+                        <entry>Any felonious act of corruption or attempt to
+                            cheat the Government or corrupt the Government’s
+                            agents by someone other than Charge Card Program
+                            officials.</entry>
+                        <entry>Examples include but are not limited to a
+                            merchant’s intentional charges for services not
+                            provided or the unauthorized use by a third party of
+                            a CH’s compromised or stolen account.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="List1">e. Any misuse of the GPC is subject to criminal, civil, Uniform Code
+            of Military Justice, administrative, and disciplinary actions as
+            appropriate. Offenses and penalties for misuse of Government Charge
+            Cards by civilian employees is outlined in Table 3-1 Item 17 of AR
+            690-752 titled “Civilian Personnel Disciplinary and Adverse
+            Actions.” See below for details. The Table of Offenses and Penalties
+            guidance below is intended for use as a guide for selecting an
+            appropriate penalty for infractions committed by civilian employees
+            as it may not effectively address all situations. Table 11-5 does
+            not substitute for independent supervisory judgment and does not
+            dictate penalties. A supervisor may choose the severity of action
+            ranging from no penalty, informal disciplinary actions, to the
+            maximum penalty of removal.</p>
+        <p id="Toc118789468">Table 11-5: Offenses and Penalties Guidance</p>
+        <table>
+            <tgroup cols="4">
+                <colspec colnum="1" colwidth="1.7*" colname="col1"/>
+                <colspec colnum="2" colwidth="0.6*" colname="col2"/>
+                <colspec colnum="3" colwidth="0.8*" colname="col3"/>
+                <colspec colnum="4" colwidth="0.8*" colname="col4"/>
+                <tbody>
+                    <row>
+                        <entry>Offense for Misuse of Government Charge
+                            Card</entry>
+                        <entry>First Offense</entry>
+                        <entry>Second Offense</entry>
+                        <entry>Third Offense</entry>
+                    </row>
+                    <row>
+                        <entry>Misuse of Government Travel Charge Card or
+                            Purchase Charge Card (for example, use for
+                            unauthorized personal expenses, failure to pay
+                            charge card bill in a timely manner, failure to
+                            properly safeguard the card or failure to use card
+                            for required expenses arising from official travel.
+                            Use of the Travel Charge Card at establishments or
+                            for purposes that are inconsistent with the official
+                            business of DoD, the Army, or applicable
+                            regulations).</entry>
+                        <entry>Written reprimand to removal</entry>
+                        <entry>5-day suspension to removal</entry>
+                        <entry>10-day suspension to removal</entry>
+                    </row>
+                    <row>
+                        <entry>Unauthorized use, failure to appropriately
+                            control or safeguard the use of a Government
+                            Purchase Card as a card holder or approving official
+                            responsible for use or oversight of the purchase
+                            card.</entry>
+                        <entry>Written reprimand to removal</entry>
+                        <entry>14-day suspension to removal</entry>
+                        <entry>Removal</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

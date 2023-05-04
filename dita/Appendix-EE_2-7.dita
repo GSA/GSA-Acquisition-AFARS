@@ -1,14 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_2-7"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">2-7.</ph> Card Security</title>
-   <conbody>
-      <p id="Ffugbv">a. CHs are responsible for properly using and safeguarding their GPCs. Only the CHs make purchases using their GPC. The CH must maintain the physical security of the card. If the card is lost or stolen, notify the issuing bank, A/BO, and A/OPC immediately.</p>
-      <p id="AEfRDB">b. In addition to corrective or disciplinary action, military personnel who misuse their GPC may have their access to classified information modified or revoked if warranted in the interest of national security. Commanders and supervisors shall follow Army guidance to ensure that security clearance reviews are conducted when the holder of a government purchase card comes under investigation for card misuse.</p>
-      <p id="wEwFae">c. The Servicing Bank must ensure that adequate controls are in place to ensure the security of transaction data within their electronic access system. Only the cardholder or A/BO can approve, dispute, or reallocate purchase card transactions. The Servicing Bank must ensure that adequate controls are in place within their data warehouse to preclude anyone other than the A/BO or alternate A/BO from accessing, making changes and certifying the monthly bill.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_2-7">
+  <title>
+      <ph props="autonumber">2-7.</ph> Level 6 - Cardholder Duties and Responsibilities</title>
+  <conbody>
+      <p outputclass="List1">a. CH authority is limited to the threshold indicated on their delegation of authority in JAM.</p>
+      <p outputclass="List1">b. Use GPC to make authorized purchases within the limits of their delegation of authority in JAM.</p>
+      <p outputclass="List1">c. Screen all purchase requests upon receipt.</p>
+      <p outputclass="List1">d. Verify that the requested items meet a legitimate government need.</p>
+      <p outputclass="List1">e. Notify the BO of unusual or questionable purchase requests.</p>
+      <p outputclass="List1">f. Check requirements for their availability from the mandatory Government sources.</p>
+      <p outputclass="List1">g. Make purchases in accordance with FAR Part 8 required sources of supplies and services.</p>
+      <p outputclass="List1">h. Rotate merchants when practicable.</p>
+      <p outputclass="List1">i. Allocate transactions to the proper line of accounting.</p>
+      <p outputclass="List1">j. Obtain BO approval prior to purchase. Obtain all required pre-purchase approvals.</p>
+      <p outputclass="List1">k. Track receipt/acceptance of purchased goods or services.</p>
+      <p outputclass="List1">l. Track partial shipments to ensure they are received within the dispute window.</p>
+      <p outputclass="List1">m. Track any transactions for items not yet received.</p>
+      <p outputclass="List1">n. Collect, maintain and upload the required purchase documentation in the servicing bank’s EAS.</p>
+      <p outputclass="List1">o. Match orders and review and reconcile monthly statement.</p>
+      <p outputclass="List1">p. Register to receive the bank’s Electronic Data Notifications (automated email alerts).</p>
+      <p outputclass="List1">q. Resolve unauthorized, erroneous, or questionable transactions with merchants.</p>
+      <p outputclass="List1">r. Dispute questionable transactions.</p>
+      <p outputclass="List1">s. Dispute transactions within 90 calendar days from the date the transaction posts to the account.</p>
+      <p outputclass="List1">t. Dispute unresolved billing errors (e.g., supplies not received by the next billing statement).</p>
+      <p outputclass="List1">u. Dispute transactions when receipt and acceptance of goods or services cannot be verified.</p>
+      <p outputclass="List1">v. Dispute items the merchant fails to replace, modify, or repair by the allotted time.</p>
+      <p outputclass="List1">w. Resolve any invalid transactions with the merchant.</p>
+      <p outputclass="List1">x. Track all disputes to completion.</p>
+      <p outputclass="List1">y. Confirm with the merchant the items ordered are in transit and track the transactions to completion.</p>
+      <p outputclass="List1">z. Maintain physical security of the GPC and convenience checks to avoid unauthorized use.</p>
+      <p>aa. Allow no one but the designated CH to use the card.</p>
+      <p>bb. Do not release the account number to entities other than a merchant processing a transaction.</p>
+      <p>cc. Notify the BO of a lost, stolen, or compromised GPC within one business day.</p>
+      <p>dd. Maintain the bank’s EAS purchase log, which is located under Transaction Management.</p>
+      <p>ee. Reconcile all transactions and upload all supporting documentation in the bank’s EAS.</p>
+      <p>ff. Approve the account statement within 3 business days of the cycle end date.</p>
+      <p>gg. Maintain a manual purchase log if the electronic purchase log in the bank’s EAS is not accessible.</p>
+      <p>hh. Ensure the Accountable Property Officer (APO) has screened the purchase request.</p>
+      <p>ii. Upload all receipts for the APO to review electronically in the servicing bank’s EAS.</p>
+      <p>jj. After items arrive, provide receipts to the supporting APO within five business days.</p>
+      <p>kk. Notify the BO when you are not available to approve the CH statement.</p>
+      <p>ll. Provide all records and purchase file documentation to the BO upon departure or reassignment.</p>
+      <p>mm. Maintain a separation of duties of making purchases and receiving the goods/services.</p>
+      <p>nn. Forward requirements exceeding the MPT to the contracting office for purchase.</p>
+      <p>oo. Verify and document receipt/acceptance of goods or services.</p>
+      <p>pp. Checkwriters - Ensure convenience check data is maintained.</p>
+      <p>qq. Checkwriters - Ensure IRS Form 1099 has been completed, reported, and retained.</p>
+  </conbody>
 </concept>

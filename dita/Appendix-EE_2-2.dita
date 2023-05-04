@@ -1,279 +1,599 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_2-2"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">2-2.</ph> Training Requirements</title>
-   <conbody>
-      <p id="MSPzFV" outputclass="Normal">a. Individuals must complete the training identified in the chart below. The training must be completed prior to issuance of appointment letters and/or establishment of GPC accounts. Proof of training must be documented and retrained by the A/OPC.</p>
-      <table colsep="1" rowsep="1">
-         <tgroup cols="3" colsep="1">
-            <colspec colname="1" colnum="1" rowheader="headers"/>
-            <colspec colname="2" colnum="2" rowheader="headers"/>
-            <colspec colname="3" colnum="3" rowheader="headers"/>
-            <tbody>
-               <row rowsep="1">
-                  <entry nameend="3" namest="1">
-                     <p id="ecyvjj" outputclass=" Ctr">
-                        <b>GPC Training Requirements</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="SdWsiv" outputclass=" Ctr">
-                        <b>Training Requirement</b>
-                     </p>
-                  </entry>
-                  <entry>
-                     <p id="cPQlRH" outputclass=" Ctr">
-                        <b>Role</b>
-                     </p>
-                  </entry>
-                  <entry>
-                     <p id="HtZiAI" outputclass=" Ctr">
-                        <b>Source</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry nameend="3" namest="1">
-                     <p id="CESGnq" outputclass=" Ctr">
-                        <b>Mandatory Training</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="EmcdOF">Ethics</p>
-                  </entry>
-                  <entry>
-                     <p id="ujuQeN">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="RFCSlw">AR 350-1 paragraph G-18 and DOD 5500.7-R, the Joint Ethics Regulation
-                     </p>
-                     <p id="KcpKVM">HBS 415 Ethics at Work <xref format="mil" href="http://clc.dau.mil" scope="external">
-                           <u>http://clc.dau.mil</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="sHWoUf">U.S. Bank Access Online</p>
-                  </entry>
-                  <entry>
-                     <p id="VxBzXR">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="CvMtba">
-                        <xref format="jsp"
-                              href="https://access.usbank.com/cpsApp1/index.jsp"
-                              scope="external">
-                           <u>https://access.usbank.com/cpsApp1/index.jsp</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="RobYhx">Purchase Card Online System (PCOLS)</p>
-                     <p id="rQEXcS">CLG 005</p>
-                  </entry>
-                  <entry>
-                     <p id="uYIyFn">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="XUAuXx">
-                        <xref format="html" href="http://clc.dau.mil/" scope="external">
-                           <u>http://clc.dau.mil/</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="RzLEjV">Local GPC Training</p>
-                  </entry>
-                  <entry>
-                     <p id="yhvUck">CH, BO</p>
-                  </entry>
-                  <entry>
-                     <p id="WZnwcq">Activity/Level 3 A/OPC developed</p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="XatYtv">DoD GPC (CLG001)</p>
-                  </entry>
-                  <entry>
-                     <p id="SyTrUR">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="iMlcNN">
-                        <xref format="html" href="http://clc.dau.mil/" scope="external">
-                           <u>http://clc.dau.mil/</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="DlHxVC">DoD GPC Refresher Training</p>
-                     <p id="aBuLwY">(every 2 years) (CLG004)</p>
-                  </entry>
-                  <entry>
-                     <p id="KtupoJ">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="hfIdcH">
-                        <xref format="html" href="http://clc.dau.mil/" scope="external">
-                           <u>http://clc.dau.mil/</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry nameend="3" namest="1">
-                     <p id="dxzeeC" outputclass=" Ctr">
-                        <b>Suggested Training</b>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="QPcKTJ">Fraud Awareness</p>
-                     <p id="Ygvyor">(AUD 1283)</p>
-                  </entry>
-                  <entry>
-                     <p id="NDsZJg">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="uYdDqx">
-                        <xref format="html" href="http://clc.dau.mil/" scope="external">
-                           <u>http://clc.dau.mil/</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="wTgJKq">Effective Report Writing</p>
-                     <p id="JJqbDL">(AUD 6115)</p>
-                  </entry>
-                  <entry>
-                     <p id="MZJfff">A/OPC/CH/BO</p>
-                  </entry>
-                  <entry>
-                     <p id="biLHBC">
-                        <xref format="html" href="http://clc.dau.mil/" scope="external">
-                           <u>http://clc.dau.mil/</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="xJxqMc">Simplified Acquisition Procedures</p>
-                     <p id="OljGrD">(CON 237)</p>
-                  </entry>
-                  <entry>
-                     <p id="aiCuvJ">Ordering Officers</p>
-                  </entry>
-                  <entry>
-                     <p id="SkEbsK">
-                        <xref format="html" href="http://clc.dau.mil/" scope="external">
-                           <u>http://clc.dau.mil/</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="llSNRZ">GSA SmartPay Purchase Card Training (CH)</p>
-                  </entry>
-                  <entry>
-                     <p id="dDoVFu">CH</p>
-                  </entry>
-                  <entry>
-                     <p id="JkeKEP">
-                        <xref format="html"
-                              href="https://training.smartpay.gsa.gov/training/purchase-card-cardholders"
-                              scope="external">
-                           <u>https://training.smartpay.gsa.gov/training/purchase-card-cardholders</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-               <row rowsep="1">
-                  <entry>
-                     <p id="vIKtwE">GSA SmartPay Purchase Card Training (A/OPC)</p>
-                  </entry>
-                  <entry>
-                     <p id="zdELHZ">A/OPC</p>
-                  </entry>
-                  <entry>
-                     <p id="NObdTM">
-                        <xref format="html"
-                              href="https://training.smartpay.gsa.gov/training/purchase-card-aopc"
-                              scope="external">
-                           <u>https://training.smartpay.gsa.gov/training/purchase-card-aopc</u>
-                        </xref>
-                     </p>
-                  </entry>
-               </row>
-            </tbody>
-         </tgroup>
-      </table>
-      <p id="iVLuiV" outputclass="Normal"/>
-      <p id="2dmhvogp" outputclass="Normal">b. Each Level 4 A/OPC is responsible for providing training to CHs and BOs. No exceptions or substitutions for this training are authorized. At a minimum, the local training for CHs and BOs must cover the following:</p>
-      <p id="Iukkfp" outputclass="List2">(1) Army Purchase Card Program policies and procedures</p>
-      <p id="eYTNEE" outputclass="List2">(2) CH and BO duties and responsibilities</p>
-      <p id="dimONy" outputclass="List2">(3) CH and BO guides developed by the Servicing Bank</p>
-      <p id="CaKexH" outputclass="List2">(4) Procedures and techniques for the use of the Servicing Bank’s EAS</p>
-      <p id="EPYJtM" outputclass="List2">(5) Funding, billing, payment, and file documentation requirements</p>
-      <p id="kPCoPr" outputclass="List2">(6) Property accountability procedures</p>
-      <p id="XMmxOP" outputclass="List2">(7) Ethics Training</p>
-      <p id="sHgvLJ" outputclass="List2">(8) Required sources of supply</p>
-      <p id="oSiHkJ" outputclass="List2">(9) FAR/DFARS/AFARS coverage of simplified acquisition procedures</p>
-      <p id="GoVrpj" outputclass="List2">(10) Record retention requirements</p>
-      <p id="iylCLU" outputclass="List2">(11) Prohibited items and items that require pre-approval for purchase</p>
-      <p id="hPMlaM" outputclass="List2">(12) Dispute procedures</p>
-      <p id="gFjWwv" outputclass="List2">(13) Cancellation and lost, stolen, or compromised card procedures</p>
-      <p id="PUzjJC" outputclass="List2">(14) Convenience check usage</p>
-      <p id="OAVLQM" outputclass="List2">(15) Oversight tools and techniques</p>
-      <p id="utdxND" outputclass="List2">(16) Card Security</p>
-      <p id="jRRcqD" outputclass="List2">(17) Emphasize consideration of small business concerns when making micro-purchases</p>
-      <p id="oeTybv" outputclass="List2">(18) Mandatory use of Office Supply BPAs located on DOD EMALL Army Corridor</p>
-      <p id="kRxAUa" outputclass="List2">(19) Use of the AbilityOne Base Supply Centers</p>
-      <p id="lDkBul" outputclass="Normal">c. A/OPCs provide additional training on simplified acquisitions procedures and required documentation to CHs who are given authority to place orders above the micro-purchase threshold against existing contracts (appointed as Ordering Officers), and for CHs outside the continental United States (OCONUS) who have a single purchase limit in excess of $3,000 but does not exceed $25,000 (DFARS 213.301).</p>
-      <p id="YltZAd" outputclass="Normal">d. GPC A/OPCs are required to track the training (including refresher training) of all program participants (CHs, A/BOs, Certifying Officers (CO), and A/OPCs) in a system of records and ensure that the required DAU initial and refresher training (Courses CLG001 and CLG004, respectively) have been completed. Successful completion of the initial training course is required before issuing cards. Successful completion of the refresher training course must be satisfied once every two years by program officials in order to continue in their roles. A/OPCs must ensure completion of the refresher training requirement is part of their annual review of all managing accounts under their cognizance.</p>
-      <p id="tHeNVa" outputclass="Normal">e. CHs and BOs who fail to complete biennial refresher training must have their GPC account suspended until training is completed. The SCO or the local GPC activity may require refresher training more frequently to satisfy their training or operational needs. The training requirement for CHs and BOs trained at a previous duty station may be abbreviated or waived, in writing, as determined by the current A/OPC.</p>
-      <p id="fHDlQk" outputclass="Normal">f. All trainees must sign a statement of training certifying they have received the initial GPC program training, they understand the training provided, GPC program training materials have been provided or made available, and they understand the penalties associated with misuse of the card. Cardholders should provide their Level 4 A/OPC with a copy of the training certificate and retain the original.</p>
-      <p id="oCpjtO" outputclass="Normal">g. Level 3 and Level 4 A/OPCs should notify all participants in the GPC program of changes, as they occur, through the most efficient means (e.g. e-mail, newsletters, etc.).</p>
-      <p id="klCVae" outputclass="Normal">h. Attendance at the annual GSA SmartPay Conference is mandatory for all Level 3 and 4 A/OPCs as funding permits.</p>
-      <p id="VQayMW" outputclass="Normal">
-         i
-         . All GPC personnel must receive mandatory ethics training annually in accordance with AR 350-1 paragraph G-18 and DOD 5500.7-R, the Joint Ethics Regulation.
-      </p>
-      <p id="bzdkjV" outputclass="Normal">j. GSA developed and hosts an online training course for to help A/OPCs and CHs understand their role and responsibilities. To visit the Purchase Charge Card Online Training, go to the GSA SmartPay® website at <xref format="gov"
-               href="https://training.smartpay.gsa.gov"
-               scope="external">
-            <u>https://training.smartpay.gsa.gov</u>
-         </xref>.The servicing bank provides an A/OPC Guide available in hard copy and/or via the Internet at https://access.usbank.com/cpsApp1/index.jsp2476933.</p>
-      <p id="wVmVkq" outputclass="Normal">k. Section 508 of the Rehabilitation Act (29 U.S.C 794d), as amended, requires that Federal agencies purchase and use electronic and information technology (EIT) that is accessible to people with disabilities and conforms to Section 508 standards. Visit <xref format="html" href="http://www.section508.gov/" scope="external">
-            <u>http://www.section508.gov/</u>
-         </xref> for more information and Section 508 compliance training titled “Micro-purchases and Section 508” <xref format="cfm"
-               href="http://www.section508.gov/index.cfm"
-               scope="external">
-            <u>http://www.section508.gov/index.cfm</u>
-         </xref>. GSA developed several online and CD training modules that can be accessed at: <xref format="cfm?FuseAction=Content&amp;ID=5"
-               href="http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=5"
-               scope="external">
-            <u>http://www.section508.gov/index.cfm?FuseAction=Content&amp;ID=5</u>
-         </xref>. The requiring activity must identify IT deliverables covered by Section 508 and then identify the applicable technical standards; functional performance criteria; and information, documentation and support that apply to each IT deliverable to produce products that conform to the accessibility standard.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_2-2">
+    <title>
+      <ph props="autonumber">2-2.</ph> Program Hierarchy Structure and Roles and
+        Responsibilities</title>
+    <conbody>
+        <p>The GPC Program is founded on a six-tiered hierarchal reporting chain
+            of command system identified in Figures 2-1 and 2-2. The formal
+            names associated with specific roles within this hierarchy are often
+            used interchangeably with the corresponding level of authority
+            within the hierarchy. For instance, A/OPCs may be referred to as
+            Level 4s, and the Army GPC CPM is often referred to as the Level 2.
+            Table 2-1 describes the GPC roles in PIEE and JAM.</p>
+        <p
+            id="Toc101947016">Figure 2-1: Hierarchy Chart</p>
+        <image
+            href="Graphics/image7.png"/>
+        <p> <b>DPC</b> </p>
+        <p> <b>(Level 1)</b> </p>
+        <image
+            href="Graphics/image8.png"/>
+        <p> <b>CPM</b> </p>
+        <p> <b>(Level 2)</b> </p>
+        <image
+            href="Graphics/image9.png"/>
+        <p> <b>OA/OPC</b> </p>
+        <p> <b>(Level 3)</b> </p>
+        <image
+            href="Graphics/image10.png"/>
+        <p> <b>A/OPC</b> </p>
+        <p> <b>(Level 4)</b> </p>
+        <image
+            href="Graphics/image11.png"/>
+        <p> <b>Billing Official (BO)</b> </p>
+        <p> <b>(Level 5)</b> </p>
+        <image
+            href="Graphics/image12.png"/>
+        <p> <b>Cardholder (CH)</b> </p>
+        <p> <b>Level 6</b> </p>
+        <p> <b> <u>Office Secretary of Defense</u> </b> </p>
+        <p> <b> <u>Department of the Army (DA)</u> </b> </p>
+        <p> <b> <u>Command A/OPC</u> </b> </p>
+        <p> <b> <u>Direct A/OPC</u> </b> </p>
+        <p> <b> <u>CH’s Supervisor</u> </b> </p>
+        <p> <b>)</b> </p>
+        <p> <b>Preferred</b> </p>
+        <p> <b>(</b> </p>
+        <p> <b> <u>Requiring Activity</u> </b> </p>
+        <p
+            id="Toc101947017">Figure 2-2: Hierarchy Structure</p>
+        <table>
+            <tgroup
+                cols="3">
+                <colspec
+                    colnum="1"
+                    colwidth="0.3*"
+                    colname="col1"/>
+                <colspec
+                    colnum="2"
+                    colwidth="0.5*"
+                    colname="col2"/>
+                <colspec
+                    colnum="3"
+                    colwidth="2.2*"
+                    colname="col3"/>
+                <tbody>
+                    <row>
+                        <entry
+                            namest="col1"
+                            nameend="col3"> <b>Army Level/Hierarchy GPC Program
+                            Structure</b> </entry>
+                    </row>
+                    <row>
+                        <entry>Level 1 A/OPC</entry>
+                        <entry>DoD</entry>
+                        <entry> DPC manages the DoD GPC Program</entry>
+                    </row>
+                    <row>
+                        <entry>Level 2 A/OPC (CPM)</entry>
+                        <entry>
+                            <p>ASA(ALT)</p>
+                            <p> DASA(P)</p>
+                        </entry>
+                        <entry> The DASA(P) appoints the CPM (Level 2 A/OPC) to
+                            administer the Army GPC Program.</entry>
+                    </row>
+                    <row>
+                        <entry>Level 3 OA/OPC</entry>
+                        <entry>
+                            <p>Army Command (ACOM) or</p>
+                            <p>equivalent</p>
+                        </entry>
+                        <entry>
+                            <p> ACOM or equivalent organization must possess
+                                HCA authority.</p>
+                            <p> SCO appoints the Level 3 A/OPC.</p>
+                            <p> SCO may delegate this appointment further. The
+                                SCO’s management responsibility for the GPC
+                                program may be delegated to the CCO.</p>
+                            <p> Level 3 A/OPC reports to the Level 2 A/OPC as
+                                required.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Level 4 A/OPC</entry>
+                        <entry>Installation or equivalent</entry>
+                        <entry> SCO or equivalent appoints the Level 4 A/OPC.
+                            SCO may delegate this authority to the CCO or
+                            equivalent. Level 4 A/OPC reports to the Level 3
+                            A/OPC as required.</entry>
+                    </row>
+                    <row>
+                        <entry>Level 5</entry>
+                        <entry>
+                            <p>Billing Official</p>
+                            <p> and Alternate</p>
+                        </entry>
+                        <entry>
+                            <p> CCO appoints the BO. This authority may be
+                                delegated to the Level 4 A/OPC.</p>
+                            <p> BO is also a certifying officer.</p>
+                            <p> BO monitors and approves CH purchases and
+                                certifies billing statements.</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Level 6</entry>
+                        <entry>Cardholder</entry>
+                        <entry>
+                            <p> CH is the individual issued the GPC or
+                                convenience checks.</p>
+                            <p> Level 4 A/OPC appoints the CH (when CCO
+                                delegates the authority to A/OPC).</p>
+                            <p> CH must acknowledge authority and duties by
+                                signing appointment letter in JAM.</p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p
+            id="Toc118789355">Table 2-1: JAM GPC Roles</p>
+        <table>
+            <tgroup
+                cols="7">
+                <colspec
+                    colnum="1"
+                    colwidth="0.3*"
+                    colname="col1"/>
+                <colspec
+                    colnum="2"
+                    colwidth="1.2*"
+                    colname="col2"/>
+                <colspec
+                    colnum="3"
+                    colwidth="1.5*"
+                    colname="col3"/>
+                <colspec
+                    colnum="4"
+                    colwidth="1.2*"
+                    colname="col4"/>
+                <colspec
+                    colnum="5"
+                    colwidth="0.9*"
+                    colname="col5"/>
+                <colspec
+                    colnum="6"
+                    colwidth="1.4*"
+                    colname="col6"/>
+                <colspec
+                    colnum="7"
+                    colwidth="0.5*"
+                    colname="col7"/>
+                <thead>
+                    <row>
+                        <entry> <b>#</b> </entry>
+                        <entry>
+                            <p> <b>GPC JAM</b> </p>
+                            <p> <b>and</b> </p>
+                            <p> <b>PIEE Roles</b> </p>
+                        </entry>
+                        <entry>
+                            <p> <b>Who</b> </p>
+                            <p> <b>Submits</b> </p>
+                            <p> <b>Request</b> </p>
+                        </entry>
+                        <entry>
+                            <p> <b>Additional</b> </p>
+                            <p> <b>Guidance Information</b> </p>
+                        </entry>
+                        <entry>
+                            <p> <b>JAM</b> </p>
+                            <p> <b>Appointment Issued</b> </p>
+                        </entry>
+                        <entry>
+                            <p> <b>How Is the Process Initiated?</b> </p>
+                            <p> <b>PIEE Registration (Note 1) / Self-Initiate or
+                                Nominate (Note 2)</b> </p>
+                        </entry>
+                        <entry> <b>Warrant Issued</b> </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>1</entry>
+                        <entry>
+                            <p>GPC DoD</p>
+                            <p>Program Management Office (PMO)</p>
+                        </entry>
+                        <entry>
+                            <p>DPC (Contracting eBusiness)</p>
+                            <p>The PIEE Hierarchy Level 1.</p>
+                        </entry>
+                        <entry>None</entry>
+                        <entry>None</entry>
+                        <entry>
+                            <p>PMO representative</p>
+                            <p>registers for PIEE access and requests role.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>2</entry>
+                        <entry>Component Program Manager (CPM)</entry>
+                        <entry>The PIEE Hierarchy Level 2.</entry>
+                        <entry>None</entry>
+                        <entry>CPM appointment letter</entry>
+                        <entry>
+                            <p>CPM registers for PIEE access and</p>
+                            <p>requests role.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>3</entry>
+                        <entry>
+                            <p>GPC Delegating/</p>
+                            <p>Appointing Authority (DAA)</p>
+                        </entry>
+                        <entry>Individual(s) (other than the A/OPC or OA/OPC
+                            with delegating authority) who have retained or been
+                            delegated authority to electronically sign GPC
+                            Delegation of Procurement Authority and GPC
+                            Appointment Letters (e.g., the Director of Contracts
+                            or SCO).</entry>
+                        <entry>Servicing Agency A/OPCs should direct any
+                            individual at a “Requesting Agency” who has been
+                            delegated authority to sign delegation and
+                            appointment letters to request this role during PIEE
+                            registration. These individuals must have been
+                            issued an SF 1402 authorizing them to further
+                            delegate procurement authority.</entry>
+                        <entry>None</entry>
+                        <entry>
+                            <p>DAA may register for PIEE access and</p>
+                            <p>request role</p>
+                            <p>or complete actions using only tokenized
+                                emails.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>4</entry>
+                        <entry>
+                            <p>OA/OPC</p>
+                            <p>With Delegating Authority (Note 3)</p>
+                        </entry>
+                        <entry>Primary and Alternate A/OPCs with responsibility
+                            for managing / overseeing other A/OPCs.</entry>
+                        <entry>None</entry>
+                        <entry>OA/OPC Appointment Letter</entry>
+                        <entry>
+                            <p>OA/OPC registers for PIEE access</p>
+                            <p>and requests role.</p>
+                        </entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>5</entry>
+                        <entry>
+                            <p>OA/OPC</p>
+                            <p>Without Delegating Authority</p>
+                        </entry>
+                        <entry>Primary and Alternate A/OPCs with responsibility
+                            for managing / overseeing other A/OPCs.</entry>
+                        <entry>None</entry>
+                        <entry>OA/OPC Appointment Letter</entry>
+                        <entry>
+                            <p>OA/OPC registers for PIEE access</p>
+                            <p>and requests role.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>6</entry>
+                        <entry>
+                            <p>A/OPC</p>
+                            <p>With Delegating Authority (Note 3)</p>
+                        </entry>
+                        <entry>Primary and alternate A/OPCs responsible for
+                            day-to-day management and oversight of CH and
+                            managing accounts (Note 4).</entry>
+                        <entry>None</entry>
+                        <entry>A/OPC Appointment Letter</entry>
+                        <entry>
+                            <p>A/OPC registers for PIEE access</p>
+                            <p>and requests role.</p>
+                        </entry>
+                        <entry>Yes</entry>
+                    </row>
+                    <row>
+                        <entry>7</entry>
+                        <entry>
+                            <p>A/OPC</p>
+                            <p>Without Delegating Authority</p>
+                        </entry>
+                        <entry>Primary and alternate A/OPCs responsible for
+                            day-to-day management and oversight of CH and
+                            managing accounts (Note 4).</entry>
+                        <entry>None</entry>
+                        <entry>A/OPC Appointment Letter</entry>
+                        <entry>
+                            <p>A/OPC registers for PIEE access</p>
+                            <p>and requests role.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>8</entry>
+                        <entry>Approving/Billing Official (A/BO)</entry>
+                        <entry>Program officials responsible for reviewing and
+                            approving GPC managing account (MA) billing
+                            statements (GPC bank invoices) and transaction
+                            supporting data for compliance with applicable
+                            acquisition policies.</entry>
+                        <entry>None</entry>
+                        <entry>A/BO Appointment Letter</entry>
+                        <entry>
+                            <p>OA/OPC or A/OPC</p>
+                            <p>nominates A/BO using JAM. A/BO responds to
+                                JAM-generated email direction to register for
+                                PIEE access.</p>
+                            <p>When A/BO uses the identical email entered during
+                                nomination, the role request and required
+                                DoDAACs are pre-populated.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>9</entry>
+                        <entry>Certifying Officer</entry>
+                        <entry>Program officials responsible for reviewing GPC
+                            MA billing statements in accordance with DoD FMR
+                            requirements and <b>certifying</b> statements (GPC
+                            bank invoices) for payment.</entry>
+                        <entry>
+                            <p>Certifying Officer responsibilities are addressed
+                                in DoD FMR Volume 10, Chapter 23 (230406) and
+                                DAU CLG 006.</p>
+                            <p>Certifying Officer appointments are made in
+                                accordance with DoD FMR Vol. 5, Chapter 5.</p>
+                        </entry>
+                        <entry>DD Form 577 Certifying Officer
+                            Appointment</entry>
+                        <entry>
+                            <p>OA/OPC, A/OPC or DD 577 Appointing Authority
+                                (AA)</p>
+                            <p>nominates Certifying Officer using JAM.</p>
+                            <p>Certifying Officer responds to JAM-generated
+                                email direction to register for PIEE access.</p>
+                            <p>When Certifying Officer uses the identical email
+                                entered during nomination, the role request and
+                                required DoDAACs are pre-populated.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>10</entry>
+                        <entry>Cardholder (CH)</entry>
+                        <entry>Individuals who have been issued GPC CH
+                            accounts.</entry>
+                        <entry>
+                            <p>Includes carded, cardless, and convenience check
+                                accounts.</p>
+                            <p>10 types of “Special Use” CH delegations are
+                                available.</p>
+                            <p>2 of the 10 CH delegations are equivalent to
+                                issuance of a SF 1402 Certificate of
+                                Appointment.</p>
+                        </entry>
+                        <entry>GPC CH Appointment Letter</entry>
+                        <entry>
+                            <p>OA/OPC or A/OPC</p>
+                            <p>nominates CH using JAM. CH responds to
+                                JAM-generated email direction to register for
+                                PIEE access.</p>
+                            <p>When CH uses the identical email entered during
+                                nomination, the role request and required
+                                DoDAACs are pre-populated.</p>
+                        </entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry>11</entry>
+                        <entry>Component Resource Manager (CRM)</entry>
+                        <entry>The Comptroller/FM for the Component.</entry>
+                        <entry>None</entry>
+                        <entry>None</entry>
+                        <entry>CRM registers for PIEE access and re-quests role.
+                            (Note 5)</entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>12</entry>
+                        <entry>Oversight RM</entry>
+                        <entry>Individuals responsible for approving RM access
+                            to PIEE; they can also perform all RM
+                            functions.</entry>
+                        <entry>None</entry>
+                        <entry>None</entry>
+                        <entry>Oversight RM registers for PIEE access and
+                            requests role.</entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>13</entry>
+                        <entry>Resource Manager (RM)</entry>
+                        <entry>
+                            <p>Provides appropriate GPC account funding, enters
+                                associated lines of accounting (LOAs) into
+                                applicable systems, and works with the A/OPC to
+                                establish spending limits tied directly to
+                                funding allocated for each managing and</p>
+                            <p>CH account.</p>
+                        </entry>
+                        <entry>None</entry>
+                        <entry>None</entry>
+                        <entry>
+                            <p>RM registers for PIEE access</p>
+                            <p>and requests role.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>14</entry>
+                        <entry>Supervisor</entry>
+                        <entry>Supervisors of individuals with PIEE
+                            roles.</entry>
+                        <entry>
+                            <p>Supervisor information is available to JAM from
+                                the data the individual enters during their PIEE
+                                registration.</p>
+                            <p>Future PIEE releases are planned to connect to
+                                DEERS for supervisory information.</p>
+                        </entry>
+                        <entry>None</entry>
+                        <entry>
+                            <p>Not Required</p>
+                            <p>(Note 6)</p>
+                            <p>PIEE users identify their supervisor</p>
+                            <p>in their PIEE account profile.</p>
+                        </entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>15</entry>
+                        <entry>DD577 View Only</entry>
+                        <entry>
+                            <p>Individuals in paying offices (e.g., DFAS) who
+                                need to view DD Form 577 appointments.</p>
+                            <p>Other individuals who require access to view DD
+                                Form 577s.</p>
+                            <p>May be granted to contractor personnel.</p>
+                        </entry>
+                        <entry>None</entry>
+                        <entry>None</entry>
+                        <entry>Registers for PIEE access and requests “DD 577
+                            View Only User” role.</entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>16</entry>
+                        <entry>DD577 Appointing Authority</entry>
+                        <entry>Individuals authorized by Component-level
+                            Financial Management procedures to sign DD Form 577
+                            Certifying Officer appointments in accordance with
+                            FMR Vol 5, Ch 5.</entry>
+                        <entry>None</entry>
+                        <entry>None</entry>
+                        <entry>Registers for PIEE access and requests “DD 577
+                            Appointing Authority” role.</entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>17</entry>
+                        <entry>GPC Help Administrator (HAM)</entry>
+                        <entry>Individuals providing help desk support to GPC
+                            program officials.</entry>
+                        <entry>
+                            <p>May be granted to contractor personnel.</p>
+                            <p> (Note 7)</p>
+                        </entry>
+                        <entry>None</entry>
+                        <entry>Registers for PIEE access and requests “GPC Help
+                            Administrator” role.</entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry>18</entry>
+                        <entry>GPC Auditor</entry>
+                        <entry>Individuals granted access to PIEE GPC
+                            functionality for purposes of reviewing the GPC
+                            program</entry>
+                        <entry>GPC Auditor is required to load a scanned copy of
+                            audit letter during PIEE registration process. Each
+                            request must specify the purpose, scope of the
+                            review, define the access required, and state the
+                            desired access period (start and end dates). Access
+                            requests must be approved by the CPM.</entry>
+                        <entry>None</entry>
+                        <entry>Self-Initiate.</entry>
+                        <entry>No</entry>
+                    </row>
+                    <row>
+                        <entry
+                            namest="col1"
+                            nameend="col7">
+                            <p>
+                                <table>
+                                    <tgroup
+                                        cols="1">
+                                        <colspec
+                                        colnum="1"
+                                        colwidth="1*"
+                                        colname="col1"/>
+                                        <tbody>
+                                        <row>
+                                        <entry>
+                                        <p>Notes:</p>
+                                        <p
+                                        outputclass="List2">1. Individuals who
+                                        already have active PIEE accounts do not
+                                        need to “register,” but rather
+                                        self-initiate by adding a role, or
+                                        responding to a request to add a role(s)
+                                        for which they have been nominated
+                                        (i.e., Certifying Officer, A/BO, and
+                                        CH).</p>
+                                        <p
+                                        outputclass="List2">2. Most PIEE
+                                        applications require users to
+                                        self-initiate their PIEE role request.
+                                        Some GPC JAM roles, as indicated in this
+                                        column, are nominated by A/OPC, OA/OPC,
+                                        or DD577 Appointing Authority. For roles
+                                        that are nominated, the nominator and
+                                        other individuals in the nominee’s
+                                        hierarchy with the appropriate
+                                        permissions need to initiate the
+                                        appointment once the supervisor approves
+                                        the role request.</p>
+                                        <p
+                                        outputclass="List2">3. GPC Delegation of
+                                        Authority and Appointment Letter is
+                                        equivalent to appointment on an SF 1402,
+                                        Certificate of Appointment (i.e.,
+                                        Contracting Officer Warrant).</p>
+                                        <p>4. Also called Billing Accounts.</p>
+                                        <p>5. If the Component Resource Manager
+                                        does not have PIEE access, they can
+                                        accomplish their tasks by clicking on a
+                                        link in an email within three business
+                                        days. However, without PIEE access, they
+                                        cannot run reports or see the status of
+                                        pending, current or terminated
+                                        delegations.</p>
+                                        <p
+                                        outputclass="List2">6. Supervisors
+                                        receive email notifications with links
+                                        to complete tasks.</p>
+                                        <p
+                                        outputclass="List2">7. All contractor
+                                        personnel must have signed appropriate
+                                        nondisclosure statements.</p>
+                                        </entry>
+                                        </row>
+                                        </tbody>
+                                    </tgroup>
+                                </table>
+                            </p>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
 </concept>

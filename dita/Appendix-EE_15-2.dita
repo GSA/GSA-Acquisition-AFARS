@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_15-2">
+  <title>
+      <ph props="autonumber">15-2.</ph> Contract Clauses.</title>
+  <conbody>
+      <p>FAR 32.1108 and 32.1110(d) provide instructions for use of the
+      appropriate clause when payment under a written contract is made by GPC.
+      When using the GPC for contract payments, the contracting officer will
+      insert the FAR clause 52.232-36, Payment by Third Party, in solicitations
+      and contracts. Payment by a purchase card may also be made under a
+      contract that does not contain the clause at 52.232-36, to the extent the
+      contractor agrees to accept that method of payment. When the clause at
+      52.232-36 is included in a solicitation or contract, the contracting
+      officer will also insert the clause at 52.232-33, Payment by Electronic
+      Funds Transfer—Central Contractor Registration, or 52.232-34, Payment by
+      Electronic Funds Transfer—Other Than Central Contractor Registration, as
+      appropriate. The contracting officer should also insert DFARS clause
+      252.232-7003, Electronic Submission of Payment Requests and Receiving
+      Reports. </p>
+  </conbody>
+</concept>

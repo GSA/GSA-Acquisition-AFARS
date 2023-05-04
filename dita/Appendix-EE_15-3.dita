@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_15-3">
+    <title>
+      <ph props="autonumber">15-3.</ph> GFEBS Purchase Order Creation</title>
+    <conbody>
+        <p>Resource managers should be aware of the following information as they create the PR/PO in GFEBS:</p>
+        <p>1) Some purchase orders (POs) are created automatically via interface upon contract award as is the case with SPS, LMP, and DMLSS. To prevent double obligations, the A/OPC must work with the servicing bank for the proper EDI file set up.</p>
+        <p>2) MIPR obligations are automatically posted after fund certification and acceptance respectively. </p>
+        <p>3) <b>Transactions for Others (TFO)</b>. Not Receiving MIPR requires manual obligation in GFEBS for funds other than Army (“21”). </p>
+        <p>4) Navy (“97”) customer creates PO and commits in their system. Army FM enters Navy LOA in GFEBS TFO tab. </p>
+        <p>5) <b>GFEBS Purchase Requests (PRs)/Awards</b>. Select “CRCARD” for Pay Station. </p>
+        <p>6) <b>GFEBS PO partners tab</b>. Add Invoicing Party: U.S. BANCORP DoDAAC: 1E5G9</p>
+        <p> </p>
+    </conbody>
+</concept>

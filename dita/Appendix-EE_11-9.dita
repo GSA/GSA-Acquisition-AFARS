@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_11-9">
+    <title>
+      <ph props="autonumber">11-9.</ph> Cardholder Fraud and Merchant Fraud</title>
+    <conbody>
+        <p outputclass="List1">a. <b>Cardholder Fraud, Misuse and Abuse</b>. This type of fraud
+            occurs when a cardholder uses their account to transact business
+            that is not sanctioned, not authorized, not in one’s official
+            Government capacity, not for the purpose for which the card was
+            issued, and/or not as part of official Government business.
+            Intentional use of a Government account for other than official
+            Government business constitutes misuse, and depending on the
+            situation, may constitute fraud.</p>
+        <p id="Toc118789464">Figure 11-2 Violation Category Decision
+            Framework</p>
+        <p> <image
+            href="Graphics/image21.emf"/> </p>
+        <p outputclass="List1">b. <b>Consequences of Cardholder Fraud</b>. Cardholders have a
+            responsibility to use the account to procure supplies and services
+            at the direction of the Army under official purchase authorization.
+            If a CH misuses the GPC or participates in fraud, the Army may
+            cancel the purchase account and take appropriate disciplinary action
+            against the CH. In the case of account misuse, the employee will be
+            held personally liable to the Federal Government for the amount of
+            any unauthorized transaction. Depending on the facts involved, an
+            employee may be subject to fine or imprisonment for action relating
+            to purchase account misuse and fraud. There are guidelines and
+            procedures for disciplinary action to be taken against individuals
+            for the improper, fraudulent, or abusive use of the purchase
+            account. Purchase account misuse/fraud may have the following
+            potential consequences:</p>
+        <p>1) Counseling</p>
+        <p>2) Cancellation of card account</p>
+        <p>3) Notation in employee performance evaluation</p>
+        <p>4) Reprimand</p>
+        <p>5) Suspension of employment</p>
+        <p>6) Termination of employment</p>
+        <p>7) Criminal prosecution</p>
+        <p outputclass="List1">c. <b>If Cardholder Fraud Occurs</b>. If an A/OPC suspects that a BO
+            or CH has committed fraud, the A/OPC can file a complaint with the
+            Army Inspector General. Investigations are initiated upon receipt of
+            a complaint or other information that gives a reasonable account of
+            the wrongful or fraudulent act. The DoD hotline phone number is
+            800-424-9098 to report fraud. A/OPCs should be as specific as
+            possible when reporting fraud. The following information should be
+            provided:</p>
+        <p>1) Employee's full name</p>
+        <p>2) Rank or pay grade</p>
+        <p>3) Duty station</p>
+        <p>4) Specific suspected fraudulent act or wrongdoing</p>
+        <p>5) Specific dates and times</p>
+        <p>6) Specific location of where the suspected fraudulent act
+            occurred</p>
+        <p>7) How the individual completed the alleged fraudulent act</p>
+        <p outputclass="List1">d. <b>Merchant Fraud</b>. This type of fraud is committed by the
+            merchant. Merchant fraud can occur either with or without the CH’s
+            knowledge or consent. Rotating sources may help prevent this type of
+            fraud. Billing errors, such as duplicate charges, are not considered
+            merchant fraud. Examples include:</p>
+        <p>1) A vendor intentionally charges for items not delivered/services
+            not performed.</p>
+        <p>2) A vendor offers bribes and gratuities to a Government employee in
+            exchange for gaining purchasing activity.</p>
+    </conbody>
+</concept>

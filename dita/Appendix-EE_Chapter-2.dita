@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept
+<!DOCTYPE topic
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_Chapter-2"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="1 heading Ctr Subpart">
-      <ph props="autonumber">Chapter 2</ph>: Establishing and Maintaining a GPC Account</title>
-   <conbody>
-      <p id="wer543"/>
-   </conbody>
-</concept>
+<topic id="AFARS_Appendix-EE_Chapter-2">
+    <title>Chapter 2 - Program Organization, Roles, and Responsibilities</title>
+    <body>
+        <p>The general roles and responsibilities of the participants in the purchase card program are presented in the following regulations:</p>
+        <p outputclass="List1">a. DoD Charge Card Guidebook</p>
+        <p outputclass="List1">b. AFARS Appendix EE and AFARS 5113.201</p>
+        <p outputclass="List1">c. Chapter 4500 of the Treasury Financial Manual</p>
+        <p outputclass="List1">d. Office of Management and Budget (OMB) Circular 123, Appendix B Revised, Chapters 4</p>
+        <p outputclass="List1">e. DoD FMR Vol. 5, Ch. 33 and Vol. 10, Ch. 23</p>
+    </body>
+</topic>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_9-3">
+  <title>
+      <ph props="autonumber">9-3.</ph> UNICOR/Federal Prison Industries</title>
+  <conbody>
+      <p>CHs with a requirement exceeding $3,500, which contains any UNICOR/Federal Prison Industries (FPI) listed items, must consider purchasing those item(s) from the FPI schedule. The FPI schedule is located at <xref href="https://www.unicor.gov/Category.aspx"
+               format="html"
+               scope="external">UNICOR - Products &amp; Services</xref>. Prior to purchasing FPI listed items above $3,500, cardholders must conduct market research to determine whether the FPI item(s) are comparable to the supplies available from the private sector that best meet the Government’s needs in terms of price, quality, and time of delivery. CHs must prepare a written determination that includes supporting rationale explaining the assessment of price, quality, and time of delivery, based on the results of market research comparing the FPI item to supplies available from the private sector.</p>
+      <p outputclass="List1">a. If the FPI item is comparable, CHs will purchase the item from FPI following the ordering procedures at <xref href="http://www.unicor.gov/" format="html" scope="external">UNICOR</xref>.</p>
+      <p outputclass="List1">b. If the FPI item is not comparable in one or more of the areas of price, quality, and time of delivery, CHs will acquire the item using traditional micro-purchase competition procedures, as applicable.</p>
+  </conbody>
+</concept>

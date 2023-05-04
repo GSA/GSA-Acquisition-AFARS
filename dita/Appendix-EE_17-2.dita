@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_17-2">
+    <title>
+      <ph props="autonumber">17-2.</ph> Reports for Monitoring and Oversight</title>
+    <conbody>
+        <p>Reports listed in the Tables 17-2 through 17-11 are provided by the servicing bank for A/OPCs, BOs, and CHs to utilize to assist in managing the GPC program. These reports should be used for program oversight, assessments, and PMRs. Reports are not limited to those listed below.</p>
+        <p id="Toc101947159">Table 17-2: Recommended Reports for Monitoring and Oversight</p>
+        <table>
+            <tgroup cols="2">
+                <colspec colnum="1" colwidth="0.5*" colname="col1"/>
+                <colspec colnum="2" colwidth="1.5*" colname="col2"/>
+                <thead>
+                    <row>
+                        <entry> 
+                     <b>Report</b> 
+                  </entry>
+                        <entry> 
+                     <b>Purpose</b> 
+                  </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>Insights on Demand</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Findings and Determinations</entry>
+                        <entry>View all case findings and determinations</entry>
+                    </row>
+                    <row>
+                        <entry>Exceptions by Type</entry>
+                        <entry>View all data mining cases by type</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>U.S. Bank Access Online – Program Management</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Account List</entry>
+                        <entry>View all card and managing accounts in your program.</entry>
+                    </row>
+                    <row>
+                        <entry>Account Spend Analysis</entry>
+                        <entry>View the number of transactions and dollars spent in a specified time period. Check for inactive accounts.</entry>
+                    </row>
+                    <row>
+                        <entry>Past Due</entry>
+                        <entry>View managing accounts that are currently past due.</entry>
+                    </row>
+                    <row>
+                        <entry>Order File History</entry>
+                        <entry>Check to see if orders were created before making a purchase.</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>U.S. Bank Access Online – Financial Management</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Transaction Detail</entry>
+                        <entry>View CHs’ data in the Comments tab (including Contingency Operations and 889 Custom Fields tab). View sales tax charged on transactions.</entry>
+                    </row>
+                    <row>
+                        <entry>Transaction Summary</entry>
+                        <entry>View whether CHs uploaded their purchase file into U.S. Bank.</entry>
+                    </row>
+                    <row>
+                        <entry>Full Transaction and Order Detail</entry>
+                        <entry>View specific descriptions of what was purchased. Select Transaction Line Item Detail only and Excel.</entry>
+                    </row>
+                    <row>
+                        <entry>Managing Account Approval Status</entry>
+                        <entry>View the certification status of managing accounts and date on which they were certified. This report is helpful for identifying managing accounts that need certification after the end of the billing cycle.</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>U.S. Bank Access Online – Supplier Management</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Merchant Spend Analysis</entry>
+                        <entry>Track CH spending patterns from various merchants</entry>
+                    </row>
+                    <row>
+                        <entry>Top Merchant Spend Analysis</entry>
+                        <entry>View top merchants from whom CHs are purchasing. You can customize the number shown (e.g., top 10, 25, 50).</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>U.S. Bank Access Online – Administration</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>System User List</entry>
+                        <entry>Check user profiles to confirm whether they are active or inactive. View the Functional Entitlement Group for users in your program.</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>U.S. Bank Access Online – Flex Data Reporting</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Flex Data Report</entry>
+                        <entry>Create a custom report showing selected data.</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>U.S. Bank Access Online – Custom Reports</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Certification and Payment Report</entry>
+                        <entry>View the exact dates on which accounts were certified and payments were made. This report is helpful for identifying managing accounts that need certification after the end of the billing cycle. This report also includes interest charged to delinquent accounts. Allows users to view accounts over multiple billing cycles.</entry>
+                    </row>
+                    <row>
+                        <entry>Payment and Prompt Payment Act Interest Penalty Transactions</entry>
+                        <entry>View all payments, including interest charged to delinquent accounts. Allows you to view only one billing cycle at a time.</entry>
+                    </row>
+                    <row>
+                        <entry>All Convenience Check Transactions</entry>
+                        <entry>Monitor convenience check activity.</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>PIEE Electronic Data Access (EDA)</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>JAM Detailed GPC Appointment Status Report</entry>
+                        <entry>View appointment status of CHs, BOs, and A/OPCs</entry>
+                    </row>
+                    <row>
+                        <entry>JAM GPC Training Report</entry>
+                        <entry>View training completion dates</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

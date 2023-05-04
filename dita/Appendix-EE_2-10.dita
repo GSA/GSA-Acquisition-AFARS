@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_2-10">
+   <title>
+      <ph props="autonumber">2-10.</ph> Separation of Duties</title>
+   <conbody>
+      <p outputclass="List1">a. OMB standards for internal controls require that key duties and
+responsibilities be divided or segregated among individuals to ensure they do
+not exceed or abuse their assigned authority. See OMB Circular A-123, Appendix B
+Revised, paragraph 4.3. Separation of duties is an internal control activity
+intended to provide checks and balances to the GPC process and to prevent or
+minimize innocent errors or intentional fraud occurring without detection. This
+internal control ensures that no single individual has control over multiple
+phases of a purchase card transaction. To protect the integrity of the
+procurement process, no one person is responsible for an entire purchase card
+transaction. Key purchase card functions must be handled by different
+individuals. Inadequate separation of duties could allow errors and fraud to
+occur without detection. Key duties, such as making purchases (CH), authorizing
+payments (BO), certifying funding (RM), and reviewing transactions (Level 4
+A/OPCs and APOs) must be assigned to different individuals to minimize the risk
+of loss to the Government to the greatest extent possible.</p>
+      <p outputclass="List1">b. If resource constraints prevent assignment of the key duties to different
+individuals, as set forth in paragraph a. above, the activity must request a
+waiver through the Level 4 A/OPC and the CCO to the Level 3 A/OPC for
+approval.</p>
+      <p outputclass="List1">c. Notwithstanding the above-described waiver process, certain key duties
+must not be assigned to the same individual. In no case will the same individual
+be the CH and the BO for a GPC account. In no case will the Accountable Property
+Officer or any A/OPC (primary or alternate) also be a CH, BO or contracting
+officer who is making contract payments with a GPC or executing GPC purchases. A
+CH who is a hand receipt holder should not purchase property for their own use.
+The servicing bank provides the functionality to generate a report identifying
+potential conflicts of interest in GPC program duties.</p>
+   </conbody>
+</concept>

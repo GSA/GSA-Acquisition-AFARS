@@ -1,18 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_2-5"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">2-5.</ph> Liability of the Government Cardholders and Billing Officials</title>
-   <conbody>
-      <p id="JHllGt" outputclass="Normal">a. Use of the GPC by an authorized CH to make an unauthorized purchase is the liability of the Government. However, the installation/organization is responsible for taking appropriate action against the CH including efforts to recover the funds.</p>
-      <p id="QySiYE" outputclass="Normal">b. The intentional use of the GPC for other than official Government business may be considered an attempt to commit fraud against the U.S. Government. Misuse may result in immediate cancellation of an individual's card, financial liability, and negative administrative and/or disciplinary action against the CH and, if warranted, against the BO.</p>
-      <p id="SMoGFM" outputclass="Normal">c. Liability: GPC BOs are personally and pecuniarily liable for the full amount of any improper payments resulting from misuse, abuse, or unauthorized purchases of the GPC, in accordance with Title 31 U.S.C. § 3528. Strict pecuniary liability attaches automatically when there is an erroneous (illegal, improper, or incorrect) payment. GPC CHs are pecuniarily liable for erroneous payments that result from the negligent performance of duties in the amount of erroneous payment, up to one month’s pay. All accountable officials are required to comply with DOD regulations, policies, and procedures, including standard operating procedures. Failure to act in accordance with such regulations, policies, and procedures is generally considered evidence of negligence. Following orders from superiors that are contrary to regulations, policies, and procedures, is no defense to negligence or bad faith. A heavy workload or a lack of experience, supervision, or training, is not a factor in determining relief from liability.</p>
-      <p id="NFgZSJ" outputclass="Normal">d. Statutory authority: Any misuse of the GPC is subject to criminal, civil, Uniform Code of Military Justice, administrative, and disciplinary actions as appropriate.</p>
-      <p id="lCqwEp" outputclass="Normal">(1) CHs: DOD FMR defines a CH as a DAO, and as such, are liable for up to one month’s pay for misuse resulting from their negligent actions. DOD Directive 7000.14-R imposes financial liability for negligent performance of the CH’s duties. The FMR Vol. 5, Chapter 33, §3309 also discusses pecuniary liability. Accountable Officials shall be personally and pecuniarily liable for erroneous payments that result from the negligent performance of duties in the amount of the erroneous payment, up to one month’s pay.</p>
-      <p id="jtldxy" outputclass="Normal">(2) BOs: Title 31 U.S.C. §3528 provides for personal and pecuniary liability for improper payments resulting from misuse/abuse of the purchase card for Certifying Officials. The GPC BO meets the definition for Certifying Officer in the DOD FMR. The BO is financially liable for improper payments resulting from misuse or abuse of the GPC. The act of certifying a billing statement for payment makes the BO financially responsible for illegal, improper, or incorrect payment due to an inaccurate or misleading certification. Consequently, a BO who knowingly makes a false certification may be asked to repay the Government for the items or service purchased. If a BO is unsure about certification, he/she should contact the supporting Level 4 A/OPC for guidance and/or assistance.</p>
-      <p id="EkyUGo" outputclass="Normal">e. Investigation Required: When a review/audit of the GPC account indicates questionable purchases, to include unauthorized purchases, the reviewer must ask the Certifying Officer for justification. If there is no justification, the reviewer must notify the BO’s Commander or Director. The Commander or Director must conduct an investigation in accordance with AR 15-6. The investigation must provide the DOD employee or military member with an opportunity to rebut the presumed liability. Failure to follow regulation and policy constitutes negligence.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_2-5">
+  <title>
+      <ph props="autonumber">2-5.</ph> Primary and Alternate Level 4 A/OPC Duties and Responsibilities</title>
+  <conbody>
+      <p outputclass="List1">a. Manage the day-to-day operation of the GPC program at an installation/organization.</p>
+      <p outputclass="List1">b. Assist CHs and BOs in fulfilling their responsibilities.</p>
+      <p outputclass="List1">c. Serve as the liaison between the Level 3 A/OPC and the installation/organization GPC personnel.</p>
+      <p outputclass="List1">d. Liaison between the financial/contracting communities as it applies to the GPC payment process.</p>
+      <p outputclass="List1">e. Serve as the installation/organization point of contact for bank-related matters.</p>
+      <p outputclass="List1">f. Provide business advice to supporting organizations, CHs, BOs, and small business specialists.</p>
+      <p outputclass="List1">g. Participate in meetings. Communicate Army policy updates and internal review findings.</p>
+      <p outputclass="List1">h. Assist the Level 3 to increase rebates and lower administrative and merchant costs.</p>
+      <p outputclass="List1">i. Ensure the proper disposition of rebate checks.</p>
+      <p outputclass="List1">j. Ensure GPC Program personnel are properly trained and appointed.</p>
+      <p outputclass="List1">k. Maintain currency in training in order to perform their respective duties.</p>
+      <p outputclass="List1">l. Establish and maintain a manual or electronic file for each BO and CH per retention rules.</p>
+      <p outputclass="List1">m. Establish, maintain, and terminate CH and BO accounts within the servicing bank’s EAS.</p>
+      <p outputclass="List1">n. Ensure that all managing accounts have a primary and alternate BO.</p>
+      <p outputclass="List1">o. Evaluate the effectiveness of each BO’s ability to review, approve and reconcile transactions.</p>
+      <p outputclass="List1">p. Ensure timely reconciliation of all CH and BO accounts at the end of the billing cycle.</p>
+      <p outputclass="List1">q. Coordinate with RMs to ensure timely certification and payment.</p>
+      <p outputclass="List1">r. Confirm completion of required initial and refresher training for all CHs and BOs.</p>
+      <p outputclass="List1">s. Maintain training records within PIEE and JAM.</p>
+      <p outputclass="List1">t. Coordinate with the Accountable Property Officer (APO).</p>
+      <p outputclass="List1">u. Provide training to CHs on property accountability procedures.</p>
+      <p outputclass="List1">v. Nominate and appoint CHs and BOs within PIEE and JAM.</p>
+      <p outputclass="List1">w. Maintain and terminate appointment letters in JAM.</p>
+      <p outputclass="List1">x. Maintain program oversight through IOD, annual management assessment, and bank reports.</p>
+      <p outputclass="List1">y. Complete all assigned IOD cases, monthly reviews, and semi-annual reviews per policy timelines.</p>
+      <p outputclass="List1">z. Address program deficiencies and discrepancies identified in IOD.</p>
+      <p>aa. Annually assess each CH’s continuing need to maintain an account.</p>
+      <p>bb. Close unused accounts as appropriate.</p>
+      <p>cc. Request justification in writing from BOs when accounts with little activity must remain open.</p>
+      <p>dd. Perform Level 4 Annual Assessment using the Annual Assessment Checklist.</p>
+      <p>ee. Develop and implement local GPC procedures.</p>
+      <p>ff. Inform CHs of prohibited items and services.</p>
+      <p>gg. Monitor bank transaction reports to identify potential improper use of the GPC.</p>
+      <p>hh. Take corrective action to address any suspected legal or policy violations.</p>
+      <p>ii. In the event of unauthorized card activity or fraud, set the single purchase limit to $1.</p>
+      <p>jj. Monitor bank transaction declination reports to identify potential fraud activity.</p>
+      <p>kk. Review transactions of newly appointed CHs within four months of appointment.</p>
+      <p>ll. Reduce managing accounts as appropriate to meet mission needs.</p>
+      <p>mm. Process requests for user identifications in the servicing bank’s EAS.</p>
+      <p>nn. Screen any accounts which have not been used within six months and take appropriate action.</p>
+      <p>oo. Utilize the Semi-Annual Report to brief management.</p>
+      <p>pp. Process and retain waivers, exceptions, and deviations.</p>
+      <p>qq. Ensure lost/stolen cards are immediately reported.</p>
+      <p>rr. Temporarily suspend any account over 30 calendar days past due.</p>
+      <p>ss. Suspend entire Level 4 organization accounts for any account over 120 days past due.</p>
+      <p>tt. Review and submit reports as required.</p>
+      <p>uu. Analyze trends to improve the Program.</p>
+      <p>vv. Assist BOs and CHs with reports as necessary.</p>
+      <p>ww. Activate, deactivate/terminate, and maintain (adjust limits, etc.) CH and BO accounts.</p>
+      <p>xx. Identify, monitor, and resolve any terminated accounts with outstanding credits.</p>
+      <p>yy. Ensure appropriate separation of duties and span of control ratios are maintained.</p>
+      <p>zz. Proactively address automated email notifications (e.g., IOD cases or delinquencies).</p>
+      <p>aaa. Address deficiencies and discrepancies impacting program effectiveness or efficiencies.</p>
+  </conbody>
 </concept>

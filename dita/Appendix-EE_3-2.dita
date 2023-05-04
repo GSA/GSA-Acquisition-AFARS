@@ -1,21 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-2"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">3-2.</ph> Use of the GPC for Training and Education</title>
-   <conbody>
-      <p id="aXwhke" outputclass="Normal">a. The GPC shall be used by Training and Education Office personnel, and may be used by CHs, to pay for commercial off-the-shelf training and education up to $25,000 for an individual or planned series of the same training event, activity, or course material - AFARS 5113.270-90(g). GPC training cards must be issued and dedicated solely for this purpose.</p>
-      <p id="UQDgEW" outputclass="Normal">b. The Standard Form (SF)-182 (Request, Authorization, Agreement, Certification of Training and Reimbursement) remains the authorized and required training source document. GPC payment for commercial off-the-shelf training must be accompanied by an SF-182.</p>
-      <p id="mNvHOe" outputclass="Normal">c .GPC training cards are established with a single purchase limit of $25,000. Use of the GPC above the training micro-purchase level of $25,000 constitutes a payment mechanism, not a contracting method. Any use of the GPC above $25,000 as a payment method for commercial services must have a valid underlying contract in which payment can be made using the GPC. Training cards will have all merchant category codes (MCCs) blocked except the following sources of training:</p>
-      <p id="SVoJUM" outputclass="Normal">7392 - Management, Consulting and Public Relations Services</p>
-      <p id="Tkjdas" outputclass="Normal">7399 - Business Services (Not Elsewhere Classified)</p>
-      <p id="jYfaDg" outputclass="Normal">8220 - Colleges, universities, junior colleges, and other professional schools</p>
-      <p id="PPlsRT" outputclass="Normal">8241 - Correspondence schools</p>
-      <p id="MnEjhb" outputclass="Normal">8244 - All business/secondary schools</p>
-      <p id="cboaaL" outputclass="Normal">8249 - Vocational/trade schools</p>
-      <p id="voYmSP" outputclass="Normal">8299 - Schools and Education Services (Not Elsewhere Classified)</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_3-2">
+    <title>
+      <ph props="autonumber">3-2.</ph> Joint Appointment Module (JAM)</title>
+    <conbody>
+        <p outputclass="List1">a. JAM is the PIEE module used to initiate, review, approve, store, and terminate required delegations of procurement authority and/or appointments. As appropriate, JAM GPC appointments result in issuance of not only GPC Delegation and/or Appointment letters, but also limited-scope SF 1402 Certificate of Appointment (commonly referred to as a Warrant) and DD Form 577 Appointment/Termination Record – Authorized Signature (commonly referred to as a Certifying Officer Appointment). Personnel delegated the proper authority role identified in Table 3-1 can terminate the following appointments in PIEE and JAM.</p>
+        <p id="Toc118789368">Table 3-1: Roles and Termination Capability</p>
+        <table>
+            <tgroup cols="7">
+                <colspec colnum="1" colwidth="2.3*" colname="col1"/>
+                <colspec colnum="2" colwidth="0.8*" colname="col2"/>
+                <colspec colnum="3" colwidth="0.8*" colname="col3"/>
+                <colspec colnum="4" colwidth="0.9*" colname="col4"/>
+                <colspec colnum="5" colwidth="0.8*" colname="col5"/>
+                <colspec colnum="6" colwidth="0.8*" colname="col6"/>
+                <colspec colnum="7" colwidth="0.7*" colname="col7"/>
+                <tbody>
+                    <row>
+                        <entry namest="col1" nameend="col7"> 
+                     <b>Appointments</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>Roles for your Organization/Activity</b> 
+                  </entry>
+                        <entry> 
+                     <b>A/BO</b> 
+                  </entry>
+                        <entry> 
+                     <b>CH</b> 
+                  </entry>
+                        <entry> 
+                     <b>Certifying Officer</b> 
+                  </entry>
+                        <entry> 
+                     <b>A/OPC</b> 
+                  </entry>
+                        <entry> 
+                     <b>O/AOPC</b> 
+                  </entry>
+                        <entry> 
+                     <b>CPM</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>GPC Help Administrator Manager (HAM)</b> can terminate</entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>OA/OPC</b> can terminate</entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry/>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>A/OPC</b> can terminate</entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>DD577 Appointing Authority (AA)</b> can terminate</entry>
+                        <entry/>
+                        <entry/>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>GPC Delegating/Appointing Authority (DAA)</b> can terminate</entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                        <entry> 
+                     <b>X</b> 
+                  </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="List1">b. JAM is an application within PIEE that is mandated by DoD for use by GPC program participants. The Army is not required to issue or retain paper copies of appointments issued using JAM. The <xref href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/smart-pay/Ref-B-JAM-GPC-Role-Descriptions_2-10-22.docx"
+               format="html"
+               scope="external">DPC Joint Appointment Module (JAM) GPC Role Descriptions Guide</xref> provides tables that identify GPC JAM roles and special designation authority types.</p>
+    </conbody>
 </concept>

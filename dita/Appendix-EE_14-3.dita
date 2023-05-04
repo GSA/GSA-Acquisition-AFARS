@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_14-3">
+    <title>
+      <ph props="autonumber">14-3.</ph> Prohibited Transactions</title>
+    <conbody>
+        <p>The following list identifies supplies and services that are
+            prohibited from purchase with the GPC.</p>
+        <ul>
+            <li>a. <b>Aircraft fuel and oil</b>. The Air card is the appropriate
+                procurement method.</li>
+            <li>b. <b>Auto Insurance for Government-owned vehicles</b>.</li>
+            <li>c. <b>Bail and Bond Payments</b>.</li>
+            <li>d. <b>Betting, casino gaming chips, and off-track betting</b>. </li>
+            <li>e. <b>Cash advances, including money orders and travelers’
+                checks</b>.</li>
+            <li>f. <b>Court costs, alimony, and child support</b>.</li>
+            <li>g. <b>Cyber Security Prohibitions</b>. IOD creates DM cases for
+                all transactions with these company names. These prohibitions
+                are for the purposes of public safety, security of Government
+                facilities, physical security surveillance of critical
+                infrastructure, and other national security purposes.</li>
+            <li id="Toc118789490">Table 14-1 – Cyber Security Prohibitions
+                Summary</li>
+        </ul>
+        <table>
+            <tgroup cols="3">
+                <colspec colnum="1" colwidth="1*" colname="col1"/>
+                <colspec colnum="2" colwidth="1*" colname="col2"/>
+                <colspec colnum="3" colwidth="1*" colname="col3"/>
+                <tbody>
+                    <row>
+                        <entry> 
+                     <ul>
+                            <li> 
+                           <b>Prohibition</b> 
+                        </li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li> 
+                           <b>Company</b> 
+                        </li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li> 
+                           <b>Also Prohibited</b> 
+                        </li>
+                            </ul> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <ul>
+                            <li>Covered Article</li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li>Kaspersky Lab</li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li>Successor entities</li>
+                            </ul> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <ul>
+                            <li>Telecommunications Equipment</li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li>Huawei Technologies Co.</li>
+                            <li>ZTE Corp.</li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li>Subsidiaries or Affiliates</li>
+                            </ul> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <ul>
+                            <li>Video surveillance and Telecommunications
+                                Equipment</li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li>Hytera Communications Corp.</li>
+                            <li>Hangzhou Hikvision Digital Technology Co.</li>
+                            <li>Dahua Technology Co.</li>
+                            </ul> 
+                  </entry>
+                        <entry> 
+                     <ul>
+                            <li>Subsidiaries or Affiliates</li>
+                            </ul> 
+                  </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <ul>
+            <li>h. <b>Dating and escort services</b>.</li>
+            <li>i. <b>Equal Employment Opportunity (EEO) settlements</b>.</li>
+            <li>j. <b>Fines</b>. Use of the GPC to settle a commercial or
+                governmental fine is generally prohibited.</li>
+            <li>k. <b>Foreign currency</b>.</li>
+            <li>l. <b>Gift Certificates and Gift Cards</b>. Buying gift
+                certificates and cards is generally prohibited. Exception: Gift
+                certificates and gift cards are considered to be cash advances
+                and must not be purchased with the GPC, even to obtain items
+                from merchants that do not accept the GPC. As with cash and
+                near-cash, gift certificates and gift cards are prohibited
+                because they are easily misappropriated and the award of gift
+                certificates or gift cards requires the submission of 1099
+                reports in accordance with IRS regulations. The Department is
+                required to file a form 1099-MISC for payments to individuals
+                totaling more than $600 in a tax year. </li>
+            <li>m. <b>Kaspersky Lab</b>. Prohibits the use of hardware,
+                software, and services of Kaspersky Lab and its related entities
+                by the Federal Government.</li>
+            <li>n. <b>Military personnel or civilian employee purchases</b>
+                (e.g., when Government employees are acting as vendors). </li>
+            <li>o. <b>Personal use Purchases</b>.</li>
+            <li>p. <b>Pharmaceuticals</b>. Pharmaceuticals must be purchased
+                through the DLA supply system.</li>
+            <li>q. <b>Repair of leased GSA vehicles</b>. The fleet card is the
+                appropriate method for these repairs.</li>
+            <li>r. <b>Salaries and Wages</b>.</li>
+            <li>s. <b>Savings bonds</b>.</li>
+            <li>t. <b>Taxes</b> (e.g., personal taxes).</li>
+            <li>u. <b>Telecommunication Systems</b> (e.g., the Federal
+                Telecommunications System or DSN system).</li>
+            <li>v. <b>Travel Related Expenses, Advances, or Claims</b>. Use of
+                the GPC to purchase travel or travel related expenses is
+                prohibited in accordance with the DPC 20 Dec 2018 memorandum
+                titled “Prohibition on Use of Government Purchase Card for
+                Payment of Travel Related Expenses.” Only the travel card is to
+                be used for individual official travel-related expenses. All
+                travel-related expenses (e.g., metro, taxi, bus fares, EZ Pass,
+                automated toll tools, parking fees) are processed in accordance
+                with the Joint Travel Regulations (JTR) Chapter 2, Part L. The
+                JTR provides examples with formulas (e.g., ordinary travel miles
+                to permanent duty station, miles to other sites, cost of fares)
+                to determine whether the Government is responsible for the
+                travel expense.</li>
+            <li>w. <b>Video Surveillance Cameras</b>. Use of the GPC to purchase
+                video surveillance cameras is prohibited in the DPC 15 August
+                2018 memorandum titled “Government-Wide Commercial Purchase Card
+                Prohibited Purchases.”</li>
+            <li>x. <b>Wire transfers</b>.</li>
+        </ul>
+    </conbody>
+</concept>

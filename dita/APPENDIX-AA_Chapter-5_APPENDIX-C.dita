@@ -1201,11 +1201,11 @@
                   <entry nameend="5" namest="3">
                      <p id="NhFprl">The Government will evaluate the Offeror’s radar system setup and breakdown.</p>
                      <p id="r3mbvmkh">To receive an acceptable rating, the Offeror must demonstrate all of the below items:</p>
-                     <p id="fihigbf7">a. The system must be transportable by a two person carry.</p>
-                     <p id="j9h1a45d">b. The system must be setup, broken down and operated by one person.</p>
-                     <p id="klooc25">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
-                     <p id="h9iid2j">d. Cable connectors connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
-                     <p id="zgmbtzqo">e. When the radar system antenna is mounted on the tripod, the range of motion must be +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal.</p>
+                     <p id="fihigbf7" outputclass="List1">a. The system must be transportable by a two person carry.</p>
+                     <p id="j9h1a45d" outputclass="List1">b. The system must be setup, broken down and operated by one person.</p>
+                     <p id="klooc25" outputclass="List1">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
+                     <p id="h9iid2j" outputclass="List1">d. Cable connectors connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
+                     <p id="zgmbtzqo" outputclass="List1">e. When the radar system antenna is mounted on the tripod, the range of motion must be +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal.</p>
                   </entry>
                </row>
                <row rowsep="1">
@@ -1319,11 +1319,11 @@
                         <b>To receive an acceptable rating, the offeror must demonstrate all of the below items:</b>
                      </p>
                      <p id="m3ysp10w"/>
-                     <p id="zzggw0x">a. The system must be transportable by a two person carry.</p>
-                     <p id="lvs6j64">b. The system must be setup, broken down and operated by one person.</p>
-                     <p id="7xl4n1sh">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
-                     <p id="wpdagl7">d. Cable connectors connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
-                     <p id="s11gw2zj">e. When the radar system antenna is mounted on the tripod, the range of motion must be +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal</p>
+                     <p id="zzggw0x" outputclass="List1">a. The system must be transportable by a two person carry.</p>
+                     <p id="lvs6j64" outputclass="List1">b. The system must be setup, broken down and operated by one person.</p>
+                     <p id="7xl4n1sh" outputclass="List1">c. The Offeror must set up its radar system within a time not to exceed one hour using one person, and break down its radar system within a time not to exceed one hour using one person.</p>
+                     <p id="wpdagl7" outputclass="List1">d. Cable connectors connect and disconnect using no more than one turn, or other quick-disconnect system.</p>
+                     <p id="s11gw2zj" outputclass="List1">e. When the radar system antenna is mounted on the tripod, the range of motion must be +90 degrees to -10 degrees in elevation (horizontal is 0 degrees) and 360 degrees azimuth, without antenna removal</p>
                   </entry>
                </row>
             </tbody>

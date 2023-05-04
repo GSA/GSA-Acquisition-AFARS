@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5153</ph> - Forms</title>
       <body>
          <p>
-            <i>(Revised  17 February 2023)</i>
+            <i>(Revised 11 April 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -52,7 +52,7 @@
                               <xref outputclass="fm:TOC" href="5153.20692.dita#AFARS_5153.20692">5153.206-92 Format for Determination and Findings for other than full and open competition. (DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine).</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised April 11, 2023">
                            <p>
                               <xref outputclass="fm:TOC" href="5153.20693.dita#AFARS_5153.20693">5153.206-93 Instructions for Congressional Notification Requirement When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine.</xref>
                            </p>
@@ -70,6 +70,11 @@
                            </p>
                         </li>
                      </ul>
+                  </li>
+                  <li rev="Revised April 11, 2023">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5153.217.dita#AFARS_5153.217">5153.217 Special contracting methods.</xref>
+                     </p>
                   </li>
                   <li>
                      <p>
@@ -184,12 +189,12 @@
                               <xref outputclass="fm:TOC" href="5153.30310.dita#AFARS_5153.30310">5153.303-10 Contractor Performance Assessment Report System access request format.</xref>
                            </p>
                         </li>
-                        <li rev="Revised February 17, 2023">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5153.30311.dita#AFARS_5153.30311">5153.303-11 Format for Determination and Findings for other than full and open competition. (DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine).</xref>
                            </p>
                         </li>
-                        <li rev="Revised February 17, 2023">
+                        <li rev="Revised April 11, 2023">
                            <p>
                               <xref outputclass="fm:TOC" href="5153.30312.dita#AFARS_5153.30312">5153.303-12 Format for Congressional Notification When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine.</xref>
                            </p>

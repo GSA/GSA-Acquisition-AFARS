@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5117</ph> - Special Contracting Methods</title>
       <body>
          <p>
-            <i>(Revised 13 January 2023)</i>
+            <i>(Revised 11 April 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -24,23 +24,27 @@
                      <p>
                         <xref outputclass="fm:TOC" href="5117.105.dita#AFARS_5117.105">5117.105 Policy.</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5117.1051.dita#AFARS_5117.1051">5117.105-1 Uses.</xref>
-                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised April 11, 2023">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5117.1051.dita#AFARS_5117.1051">5117.105-1 Uses.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.106.dita#AFARS_5117.106">5117.106 Procedures.</xref>
                      </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="5117.1063.dita#AFARS_5117.1063">5117.106-3 Special procedures applicable to DoD, NASA, and the Coast Guard.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5117.1063.dita#AFARS_5117.1063">5117.106-3 Special procedures applicable to DoD, NASA, and the Coast Guard.</xref>
-                     </p>
-                  </li>
-                  <li>
+                  <li rev="Revised April 11, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5117.108.dita#AFARS_5117.108">5117.108 Congressional notification.</xref>
                      </p>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_11-2">
+   <title>
+      <ph props="autonumber">11-2.</ph> Internal Management Controls</title>
+   <conbody>
+      <p outputclass="List1">a. Management officials are responsible for establishing a system of internal
+controls that provides reasonable assurance that the GPC program is efficiently,
+effectively, and legally achieving its purpose and complies with applicable laws
+and regulations.</p>
+      <p outputclass="List1">b. Required internal management controls include the following:</p>
+      <p>1) <b>Management Controls</b>. GPC programs will evaluate the expected
+benefits and related costs of internal control activities.</p>
+      <p>2) <b>Training</b>. All GPC program participants will receive appropriate
+role-based training.</p>
+      <p>3) <b>Delegation of Authority</b>. GPC programs will clearly document
+Delegations of Procurement Authority beginning with a DFARS-designated
+Contracting Activity (DFARS PGI 202.101) down to each CH. Each program
+participant will receive and sign the delegation and appointment documents
+(e.g., Delegation of Procurement Authority letters, appointment letters, and DD
+Form 577) required for their role.</p>
+      <p>4) <b>System Functional Responsibility Controls</b>. Electronic systems used
+to support the DoD GPC program will segregate role-based capabilities and limit
+access to functions to only individuals with appropriate authority. The system
+will be able to identify who made any data/file content changes in the
+end-to-end GPC process.</p>
+      <p>5) <b>System Access Security</b>. Appropriate safeguards will be in place to
+control issuance of user IDs and access credentials to the EAS.</p>
+      <p>6) <b>CH Account Initiation</b>. Only personnel in the CH's supervisory chain
+are authorized to request the opening of a new CH account. This request must
+identify appropriate card parameters.</p>
+      <p>7) <b>Authorization Controls</b>. Appropriate spending limits, budget (i.e.,
+credit) limits, and MCC access will be established and tailored to each CH
+account. Spending limits and MCC access should reflect historical buying
+patterns/ trends.</p>
+      <p>8) <b>Purchase Log</b>. All CHs maintain a purchase log on the servicing
+bank’s EAS unless a waiver is granted and signed by Army. If a waiver is
+granted, CHs will document purchase information for each GPC transaction in an
+electronic log in the automated system where the individual card transactions
+and billing statements are approved and certified for payment.</p>
+      <p>9) <b>Maintain Positive System of Funds Control</b>. Spending limits (such as
+single purchase and credit limits) are tied directly to the funding allocated
+for each card account (monthly, quarterly, and semiannually). Limits should be
+consistent with historical spending patterns to minimize Government exposure and
+ensure adequate funds availability. This control helps ensure that funding is
+available prior to purchases being made with the GPC.</p>
+      <p>10) <b>Ensure Separation of Duties</b>. Key duties must be assigned to
+different individuals to the greatest extent possible to minimize the risk of
+loss to the Government. Examples of key duties include making purchases (CH),
+authorizing payments (BO), certifying funding (Resource Managers), and reviewing
+and auditing purchase activity (A/OPC).</p>
+      <p>11) <b>Span of Control</b>. To ensure GPC program participants have
+sufficient time to complete required reviews, GPC programs will abide by
+established span of control limits.</p>
+      <p>12) <b>Reconcile and Approve the CH Statement</b>. During each billing cycle,
+CHs are required to match orders and reconcile the statement they receive from
+the issuing bank against the purchase card log in the bank’s EAS.</p>
+      <p>13) <b>Reconcile and Certify the Managing Account Statement</b>. After the CH
+has approved the statement, the BO must approve or reject each purchase made by
+CHs in the BO’s managing account. When the BO has reviewed each invoice, the BO,
+acting in the role of Certifying Officer, certifies the entire invoice as legal,
+proper, and correct. A/OPCs must track managing account certification after the
+end of the billing cycle.</p>
+      <p>14) <b>Exercise Dispute Authority</b>. Cardholders have 90 days from the date
+the transaction posted to the account to dispute the transaction, when
+needed.</p>
+      <p>15) <b>Maintain Authorization Controls</b>. A/OPCs must add the appropriate
+MCC filters to each CH account.</p>
+      <p>16) <b>Ensure Systems Access Security</b>. Appropriate safeguards must be in
+place to control issuance and safeguarding of access credentials to the EAS.</p>
+      <p>17) <b>Ensure Available Funding Integrity</b>. Certified LOAs must be
+traceable through disbursement. All changes to LOAs must be documented and
+certified.</p>
+      <p>18) <b>Ensure Invoice Integrity</b>. An electronic certification process
+ensures the original electronic invoice is traceable from the vendor through the
+certification and entitlement processes and retained in a Government record.
+Should the original invoice submitted by the contractor be in paper form, the
+Certifying Officer will determine if the invoice is proper for payment and affix
+his/her signature in accordance with the governing provisions of the DoD FMR. If
+appropriate, the Certifying Officer makes any required “pen and ink” changes on
+the original invoice to reallocate the payment to different funding lines from
+those reflected on the original invoice. The Certifying Officer determines
+whether these changes are proper and affix his/her signature with the standard
+certification language on the original paper invoice.</p>
+      <p>19) <b>System Administration Integrity/Data Exchange/Transaction
+Security</b>. Changes to the operating system environment will be documented in
+accordance with the DoD Information Assurance Certification and Accreditation
+(DIACAP) process.</p>
+      <p>20) <b>Transaction Data Integrity</b>. The original transaction/invoice will
+be maintained and cannot be altered.</p>
+      <p>21) <b>Data Mining</b>. Implement a data mining capability that reviews all
+GPC transactions.</p>
+      <p>22) <b>Inactive and Purged Accounts</b>. A/OPCs must perform an annual review
+of the ongoing need for existing card accounts. A/OPCs should terminate accounts
+with no activity for more than six months or document the need for the account
+to remain open. The servicing bank purges inactive accounts monthly, depending
+on the status of the account.</p>
+      <p>23) <b>Terminated, Voluntarily Closed, and Fraud Referral status</b>.
+Servicing bank purges the account after 13 months of inactivity.</p>
+      <p>24) <b>Open status</b>. Servicing bank purges the account after 21 months of
+inactivity.</p>
+   </conbody>
+</concept>

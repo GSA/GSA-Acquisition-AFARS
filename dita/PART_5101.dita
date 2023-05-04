@@ -146,45 +146,58 @@
                               <xref outputclass="fm:TOC" href="5101.60190.dita#AFARS_5101.60190">5101.601-90 Department of the Army contracting authorities and responsibilities.</xref>
                            </p>
                         </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5101.602.dita#AFARS_5101.602">5101.602 Contracting Officers.</xref>
+                     </p>
+                     <ul otherprops="TOC">
                         <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5101.6021.dita#AFARS_5101.6021">5101.602-1 Authority.</xref>
                            </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.602190.dita#AFARS_5101.602190">5101.602-1-90 Departmental review and approval.</xref>
-                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.602190.dita#AFARS_5101.602190">5101.602-1-90 Departmental review and approval.</xref>
+                                 </p>
+                              </li>
+                           </ul>
                         </li>
                         <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5101.6022.dita#AFARS_5101.6022">5101.602-2 Responsibilities.</xref>
                            </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.602290.dita#AFARS_5101.602290">5101.602-2-90 Legal coordination.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.602291.dita#AFARS_5101.602291">5101.602-2-91 Contracting officers representative appointments.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.602292.dita#AFARS_5101.602292">5101.602-2-92 Ordering officer appointments.</xref>
-                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.602290.dita#AFARS_5101.602290">5101.602-2-90 Legal coordination.</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.602291.dita#AFARS_5101.602291">5101.602-2-91 Contracting officers representative appointments.</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.602292.dita#AFARS_5101.602292">5101.602-2-92 Ordering officer appointments.</xref>
+                                 </p>
+                              </li>
+                           </ul>
                         </li>
                         <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5101.6023.dita#AFARS_5101.6023">5101.602-3 Ratification of unauthorized commitments.</xref>
                            </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.602390.dita#AFARS_5101.602390">5101.602-3-90 Ratification procedures.</xref>
-                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.602390.dita#AFARS_5101.602390">5101.602-3-90 Ratification procedures.</xref>
+                                 </p>
+                              </li>
+                           </ul>
                         </li>
                      </ul>
                   </li>
@@ -207,16 +220,18 @@
                            <p>
                               <xref outputclass="fm:TOC" href="5101.6033.dita#AFARS_5101.6033">5101.603-3 Appointment.</xref>
                            </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.603390.dita#AFARS_5101.603390">5101.603-3-90 Other individuals authorized to procure supplies and services on behalf of the Army.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="5101.603391.dita#AFARS_5101.603391">5101.603-3-91 Restrictions.</xref>
-                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.603390.dita#AFARS_5101.603390">5101.603-3-90 Other individuals authorized to procure supplies and services on behalf of the Army.</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC" href="5101.603391.dita#AFARS_5101.603391">5101.603-3-91 Restrictions.</xref>
+                                 </p>
+                              </li>
+                           </ul>
                         </li>
                      </ul>
                   </li>

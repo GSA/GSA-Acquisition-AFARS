@@ -4,7 +4,7 @@
 <map
    title="AFARS"
    outputclass="dod"
-   rev="Revised March 1, 2023">
+   rev="Revised April 11, 2023">
    <title
       outputclass="Title">AFARS</title>
    <topicref
@@ -260,6 +260,15 @@
                outputclass="subtopic"
                xtrf="subtopic"
                xtrc="AFARS_5101.60190.html"/>
+         </topicref>
+         <topicref
+            href="5101.602.dita"
+            navtitle="5101.602 Contracting Officers."
+            props="5101.602"
+            audience="AFARS_5101.602"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            base="NoTitle">
             <topicref
                href="5101.6021.dita"
                navtitle="5101.602-1 Authority."
@@ -268,16 +277,17 @@
                audience="AFARS_5101.6021"
                outputclass="subtopic"
                xtrf="subtopic"
-               xtrc="AFARS_5101.6021.html"/>
-            <topicref
-               href="5101.602190.dita"
-               navtitle="5101.602-1-90 Departmental review and approval."
-               props="5101.602-1-90"
-               base="NoTitle"
-               audience="AFARS_5101.602190"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.602190.html"/>
+               xtrc="AFARS_5101.6021.html">
+               <topicref
+                  href="5101.602190.dita"
+                  navtitle="5101.602-1-90 Departmental review and approval."
+                  props="5101.602-1-90"
+                  base="NoTitle"
+                  audience="AFARS_5101.602190"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.602190.html"/>
+            </topicref>
             <topicref
                href="5101.6022.dita"
                navtitle="5101.602-2 Responsibilities."
@@ -286,34 +296,35 @@
                audience="AFARS_5101.6022"
                outputclass="subtopic"
                xtrf="subtopic"
-               xtrc="AFARS_5101.6022.html"/>
-            <topicref
-               href="5101.602290.dita"
-               navtitle="5101.602-2-90 Legal coordination."
-               props="5101.602-2-90"
-               base="NoTitle"
-               audience="AFARS_5101.602290"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.602290.html"/>
-            <topicref
-               href="5101.602291.dita"
-               navtitle="5101.602-2-91 Contracting officers representative appointments."
-               props="5101.602-2-91"
-               base="NoTitle"
-               audience="AFARS_5101.602291"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.602291.html"/>
-            <topicref
-               href="5101.602292.dita"
-               navtitle="5101.602-2-92 Ordering officer appointments."
-               props="5101.602-2-92"
-               base="NoTitle"
-               audience="AFARS_5101.602292"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.602292.html"/>
+               xtrc="AFARS_5101.6022.html">
+               <topicref
+                  href="5101.602290.dita"
+                  navtitle="5101.602-2-90 Legal coordination."
+                  props="5101.602-2-90"
+                  base="NoTitle"
+                  audience="AFARS_5101.602290"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.602290.html"/>
+               <topicref
+                  href="5101.602291.dita"
+                  navtitle="5101.602-2-91 Contracting officers representative appointments."
+                  props="5101.602-2-91"
+                  base="NoTitle"
+                  audience="AFARS_5101.602291"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.602291.html"/>
+               <topicref
+                  href="5101.602292.dita"
+                  navtitle="5101.602-2-92 Ordering officer appointments."
+                  props="5101.602-2-92"
+                  base="NoTitle"
+                  audience="AFARS_5101.602292"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.602292.html"/>
+            </topicref>
             <topicref
                href="5101.6023.dita"
                navtitle="5101.602-3 Ratification of unauthorized commitments."
@@ -322,16 +333,17 @@
                audience="AFARS_5101.6023"
                outputclass="subtopic"
                xtrf="subtopic"
-               xtrc="AFARS_5101.6023.html"/>
-            <topicref
-               href="5101.602390.dita"
-               navtitle="5101.602-3-90 Ratification procedures."
-               props="5101.602-3-90"
-               base="NoTitle"
-               audience="AFARS_5101.602390"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.602390.html"/>
+               xtrc="AFARS_5101.6023.html">
+               <topicref
+                  href="5101.602390.dita"
+                  navtitle="5101.602-3-90 Ratification procedures."
+                  props="5101.602-3-90"
+                  base="NoTitle"
+                  audience="AFARS_5101.602390"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.602390.html"/>
+            </topicref>
          </topicref>
          <topicref
             href="5101.603.dita"
@@ -368,25 +380,26 @@
                audience="AFARS_5101.6033"
                outputclass="subtopic"
                xtrf="subtopic"
-               xtrc="AFARS_5101.6033.html"/>
-            <topicref
-               href="5101.603390.dita"
-               navtitle="5101.603-3-90 Other individuals authorized to procure supplies and services on behalf of the Army."
-               props="5101.603-3-90"
-               base="NoTitle"
-               audience="AFARS_5101.603390"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.603390.html"/>
-            <topicref
-               href="5101.603391.dita"
-               navtitle="5101.603-3-91 Restrictions."
-               props="5101.603-3-91"
-               base="NoTitle"
-               audience="AFARS_5101.603391"
-               outputclass="subtopic"
-               xtrf="subtopic"
-               xtrc="AFARS_5101.603391.html"/>
+               xtrc="AFARS_5101.6033.html">
+               <topicref
+                  href="5101.603390.dita"
+                  navtitle="5101.603-3-90 Other individuals authorized to procure supplies and services on behalf of the Army."
+                  props="5101.603-3-90"
+                  base="NoTitle"
+                  audience="AFARS_5101.603390"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.603390.html"/>
+               <topicref
+                  href="5101.603391.dita"
+                  navtitle="5101.603-3-91 Restrictions."
+                  props="5101.603-3-91"
+                  base="NoTitle"
+                  audience="AFARS_5101.603391"
+                  outputclass="subtopic"
+                  xtrf="subtopic"
+                  xtrc="AFARS_5101.603391.html"/>
+            </topicref>
          </topicref>
          <topicref
             href="5101.690.dita"
@@ -1616,6 +1629,24 @@
             xtrf="subtopic"
             xtrc=""/>
       </topicref>
+      <topicref
+         href="Subpart_5108.12.dita"
+         navtitle="Subpart 5108.12 - Consultation Submission Requirements for the Department of Education Rehabilitation Services Administration."
+         props="Subpart 5108.12"
+         outputclass="SubPart"
+         audience="AFARS_Subpart_5108.12"
+         xtrc="AFARS_Subpart_5108.12.html"
+         xtrf="SubPart"
+         base="NoTitle"/>
+      <topicref
+         href="Subpart_5108.12-90.dita"
+         navtitle="Subpart 5108.12-90 - Randolph-Sheppard Requirements for the Solicitation of Cafeteria Contracts."
+         props="Subpart 5108.12-90"
+         outputclass="SubPart"
+         audience="AFARS_Subpart_5108.12-90"
+         xtrc="AFARS_Subpart_5108.12-90.html"
+         xtrf="SubPart"
+         base="NoTitle"/>
       <topicref
          href="Subpart_5108.70.dita"
          navtitle="Subpart 5108.70 - Coordinated Acquisition"
@@ -3301,16 +3332,17 @@
             audience="AFARS_5117.105"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
-         <topicref
-            href="5117.1051.dita"
-            navtitle="5117.105-1 Uses."
-            props="5117.105-1"
-            base="NoTitle"
-            audience="AFARS_5117.1051"
-            outputclass="subtopic"
-            xtrf="subtopic"
-            xtrc=""/>
+            xtrc="">
+            <topicref
+               href="5117.1051.dita"
+               navtitle="5117.105-1 Uses."
+               props="5117.105-1"
+               base="NoTitle"
+               audience="AFARS_5117.1051"
+               outputclass="subtopic"
+               xtrf="subtopic"
+               xtrc=""/>
+         </topicref>
          <topicref
             href="5117.106.dita"
             navtitle="5117.106 Procedures."
@@ -3319,16 +3351,17 @@
             audience="AFARS_5117.106"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
-         <topicref
-            href="5117.1063.dita"
-            navtitle="5117.106-3 Special procedures applicable to DoD, NASA, and the Coast Guard."
-            props="5117.106-3"
-            base="NoTitle"
-            audience="AFARS_5117.1063"
-            outputclass="subtopic"
-            xtrf="subtopic"
-            xtrc=""/>
+            xtrc="">
+            <topicref
+               href="5117.1063.dita"
+               navtitle="5117.106-3 Special procedures applicable to DoD, NASA, and the Coast Guard."
+               props="5117.106-3"
+               base="NoTitle"
+               audience="AFARS_5117.1063"
+               outputclass="subtopic"
+               xtrf="subtopic"
+               xtrc=""/>
+         </topicref>
          <topicref
             href="5117.108.dita"
             navtitle="5117.108 Congressional notification."
@@ -7993,6 +8026,14 @@
                xtrc="AFARS_5153.21370.html"/>
          </topicref>
          <topicref
+            href="5153.217.dita"
+            navtitle="5153.217 Special contracting methods."
+            props="5153.217"
+            outputclass="subtopic"
+            audience="AFARS_5153.217"
+            xtrf="subtopic"
+            base="NoTitle"/>
+         <topicref
             href="5153.233.dita"
             navtitle="5153.233 Protests, disputes, and appeals."
             props="5153.233"
@@ -9094,458 +9135,1461 @@
          xtrc="AFARS_Appendix-EE_DOTAGPCOP.html"/>
       <topicref
          href="Appendix-EE_Chapter-1.dita"
-         navtitle="Chapter 1: The Government Purchase Card Program"
-         props="Chapter 1"
-         base="NoTitle"
          audience="AFARS_Appendix-EE_Chapter-1"
+         xtrc="AFARS_Appendix-EE_Chapter-1.html"
+         base="NoTitle"
          outputclass="SubPart"
-         xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE_Chapter-1.html">
+         navtitle="Chapter 1 - The Government Purchase Card Program"
+         props="Chapter 1"
+         xtrf="SubPart">
          <topicref
             href="Appendix-EE_1-1.dita"
-            navtitle="1-1. Purpose"
-            props="1-1."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-1"
+            xtrc=""
+            base="NoTitle"
+            navtitle="1-1. Overview"
+            props="1-1"
             outputclass="subtopic"
-            xtrf="subtopic"
-            xtrc=""/>
+            xtrf="subtopic"/>
          <topicref
             href="Appendix-EE_1-2.dita"
-            navtitle="1-2. Glossary"
-            props="1-2."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-2"
+            xtrc=""
+            navtitle="1-2. GPC Uses"
+            props="1-2"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_1-3.dita"
-            navtitle="1-3. Background"
-            props="1-3."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-3"
+            xtrc=""
+            navtitle="1-3. Information and Waiver Process"
+            props="1-3"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_1-4.dita"
-            navtitle="1-4. References"
-            props="1-4."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-4"
+            xtrc=""
+            navtitle="1-4. Task Order and Period of Performance"
+            props="1-4"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_1-5.dita"
-            navtitle="1-5. GPC Authority"
-            props="1-5."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-5"
+            xtrc=""
+            navtitle="1-5. GPC Authority"
+            props="1-5"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_1-6.dita"
-            navtitle="1-6. Applicability"
-            props="1-6."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-6"
+            xtrc=""
+            navtitle="1-6. Applicability"
+            props="1-6"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_1-7.dita"
-            navtitle="1-7. Program Organization, Roles and Responsibilities"
-            props="1-7."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-7"
+            xtrc=""
+            navtitle="1-7. Micro-purchase Thresholds (MPT)"
+            props="1-7"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_1-8.dita"
-            navtitle="1-8. Management of the GPC Program"
-            props="1-8."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_1-8"
+            xtrc=""
+            navtitle="1-8. GPC Delegations of Authority and Appointment Letters"
+            props="1-8"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
       </topicref>
       <topicref
          href="Appendix-EE_Chapter-2.dita"
-         navtitle="Chapter 2: Establishing and Maintaining a GPC Account"
-         props="Chapter 2"
-         base="NoTitle"
          audience="AFARS_Appendix-EE_Chapter-2"
+         xtrc="AFARS_Appendix-EE_Chapter-2.html"
+         navtitle="Chapter 2 - Program Organization, Roles, and Responsibilities"
+         props="Chapter 2"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE_Chapter-2.html">
+         base="NoTitle">
          <topicref
             href="Appendix-EE_2-1.dita"
-            navtitle="2-1. Nomination, Selection, and Appointment of Cardholders and Billing Officials"
-            props="2-1."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-1"
+            xtrc=""
+            navtitle="2-1. Responsibilities and Governmental Functions"
+            props="2-1"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_2-2.dita"
-            navtitle="2-2. Training Requirements"
-            props="2-2."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-2"
+            xtrc=""
+            navtitle="2-2. Program Hierarchy Structure and Roles and Responsibilities"
+            props="2-2"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_2-3.dita"
-            navtitle="2-3. Account Establishment"
-            props="2-3."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-3"
+            xtrc=""
+            navtitle="2-3. Component Program Manager (Level 2 A/OPC) Duties and Responsibilities"
+            props="2-3"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_2-4.dita"
-            navtitle="2-4. Account Maintenance"
-            props="2-4."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-4"
+            xtrc=""
+            navtitle="2-4. Primary and Alternate Level 3 A/OPC Duties and Responsibilities"
+            props="2-4"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_2-5.dita"
-            navtitle="2-5. Liability of the Government Cardholders and Billing Officials"
-            props="2-5."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-5"
+            xtrc=""
+            navtitle="2-5. Primary and Alternate Level 4 A/OPC Duties and Responsibilities"
+            props="2-5"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_2-6.dita"
-            navtitle="2-6. Card Suspension Policy"
-            props="2-6."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-6"
+            xtrc=""
+            navtitle="2-6. Primary and Alternate Level 5 - Billing Official Duties and Responsibilities"
+            props="2-6"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_2-7.dita"
-            navtitle="2-7. Card Security"
-            props="2-7."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_2-7"
+            xtrc=""
+            navtitle="2-7. Level 6 - Cardholder Duties and Responsibilities"
+            props="2-7"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
+         <topicref
+            href="Appendix-EE_2-8.dita"
+            audience="AFARS_Appendix-EE_2-8"
+            xtrc=""
+            navtitle="2-8. GPC Support Function Duties"
+            props="2-8"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            base="NoTitle"/>
+         <topicref
+            href="Appendix-EE_2-9.dita"
+            audience="AFARS_Appendix-EE_2-9"
+            xtrc=""
+            navtitle="2-9. Management of the GPC Program"
+            props="2-9"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            base="NoTitle"/>
+         <topicref
+            href="Appendix-EE_2-10.dita"
+            audience="AFARS_Appendix-EE_2-10"
+            xtrc=""
+            navtitle="2-10. Separation of Duties"
+            props="2-10"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            base="NoTitle"/>
+         <topicref
+            href="Appendix-EE_2-11.dita"
+            audience="AFARS_Appendix-EE_2-11"
+            xtrc=""
+            navtitle="2-11. Span of Control"
+            props="2-11"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            base="NoTitle"/>
       </topicref>
       <topicref
          href="Appendix-EE_Chapter-3.dita"
-         navtitle="Chapter 3: Operational Guidance and Procedures"
-         props="Chapter 3"
-         base="NoTitle"
          audience="AFARS_Appendix-EE_Chapter-3"
+         xtrc="AFARS_Appendix-EE_Chapter-3.html"
+         navtitle="Chapter 3 - GPC Electronic Systems"
+         props="Chapter 3"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE_Chapter-3.html">
+         base="NoTitle">
          <topicref
             href="Appendix-EE_3-1.dita"
-            navtitle="3-1. Making Purchase Transactions"
-            props="3-1."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-1"
+            xtrc=""
+            navtitle="3-1. Procurement Integrated Enterprise Environment (PIEE)"
+            props="3-1"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-2.dita"
-            navtitle="3-2. Use of the GPC for Training and Education"
-            props="3-2."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-2"
+            xtrc=""
+            navtitle="3-2. Joint Appointment Module (JAM)"
+            props="3-2"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-3.dita"
-            navtitle="3-3. Use of the GPC for Military Tuition Assistance"
-            props="3-3."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-3"
+            xtrc=""
+            navtitle="3-3. U.S. Bank Access Online (AXOL)"
+            props="3-3"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-4.dita"
-            navtitle="3-4. Reimbursement of Training Expenses"
-            props="3-4."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-4"
+            xtrc=""
+            navtitle="3-4. MasterCard Insights on Demand (IOD)"
+            props="3-4"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-5.dita"
-            navtitle="3-5. Required Sources of Supplies and Services"
-            props="3-5."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-5"
+            xtrc=""
+            navtitle="3-5. Global Exchange Service (GEX)"
+            props="3-5"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-6.dita"
-            navtitle="3-6. Separation of Duties"
-            props="3-6."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-6"
+            xtrc=""
+            navtitle="3-6. Total System Services Payment Solutions (TSYS)"
+            props="3-6"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-7.dita"
-            navtitle="3-7. Span of Control"
-            props="3-7."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-7"
+            xtrc=""
+            navtitle="3-7. Enterprise Resource Planning (ERP)"
+            props="3-7"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-8.dita"
-            navtitle="3-8. Tax-Exempt Status"
-            props="3-8."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-8"
+            xtrc=""
+            navtitle="3-8. Federal Procurement Data System – Next Generation (FPDS-NG)"
+            props="3-8"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-9.dita"
-            navtitle="3-9. Surcharges"
-            props="3-9."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-9"
+            xtrc=""
+            navtitle="3-9. Wide Area Workflow (WAWF)"
+            props="3-9"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-10.dita"
-            navtitle="3-10. Property Accountability"
-            props="3-10."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-10"
+            xtrc=""
+            navtitle="3-10. PAM (Procurement.Army.Mil) Portal"
+            props="3-10"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-11.dita"
-            navtitle="3-11. Statement Reconciliation and Certification"
-            props="3-11."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-11"
+            xtrc=""
+            navtitle="3-11. Statement Reconciliation and Certification"
+            props="3-11"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-12.dita"
-            navtitle="3-12. Confirm and Pay"
-            props="3-12."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-12"
+            xtrc=""
+            navtitle="3-12. Confirm and Pay"
+            props="3-12"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-13.dita"
-            navtitle="3-13. File Retention"
-            props="3-13."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-13"
+            xtrc=""
+            navtitle="3-13. File Retention"
+            props="3-13"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-14.dita"
-            navtitle="3-14. Convenience Checks and Foreign Draft Checks"
-            props="3-14."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-14"
+            xtrc=""
+            navtitle="3-14. Convenience Checks and Foreign Draft Checks"
+            props="3-14"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-15.dita"
-            navtitle="3-15. Office Supply Blanket Purchase Agreements (BPAs)"
-            props="3-15."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-15"
+            xtrc=""
+            navtitle="3-15. Office Supply Blanket Purchase Agreements (BPAs)"
+            props="3-15"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
          <topicref
             href="Appendix-EE_3-16.dita"
-            navtitle="3-16. Rebates/Credits"
-            props="3-16."
-            base="NoTitle"
             audience="AFARS_Appendix-EE_3-16"
+            xtrc=""
+            navtitle="3-16. Rebates/Credits"
+            props="3-16"
             outputclass="subtopic"
             xtrf="subtopic"
-            xtrc=""/>
+            base="NoTitle"/>
       </topicref>
       <topicref
          href="Appendix-EE_Chapter-4.dita"
-         navtitle="Chapter 4: Management Controls and Program Oversight"
+         navtitle="Chapter 4 - GPC Training Requirements"
          props="Chapter 4"
-         base="NoTitle"
-         audience="AFARS_Appendix-EE_Chapter-4"
          outputclass="SubPart"
+         audience="AFARS_Appendix-EE_Chapter-4"
          xtrf="SubPart"
+         base="NoTitle"
          xtrc="AFARS_Appendix-EE_Chapter-4.html">
          <topicref
             href="Appendix-EE_4-1.dita"
-            navtitle="4-1. Management Controls"
-            props="4-1."
-            base="NoTitle"
-            audience="AFARS_Appendix-EE_4-1"
+            navtitle="4-1. Mandatory Training"
+            props="4-1"
             outputclass="subtopic"
+            audience="AFARS_Appendix-EE_4-1"
             xtrf="subtopic"
+            base="NoTitle"
             xtrc=""/>
          <topicref
             href="Appendix-EE_4-2.dita"
-            navtitle="4-2. Surveillance Reporting and Surveillance Reviews"
-            props="4-2."
-            base="NoTitle"
-            audience="AFARS_Appendix-EE_4-2"
+            navtitle="4-2. Recommended Training"
+            props="4-2"
             outputclass="subtopic"
+            audience="AFARS_Appendix-EE_4-2"
             xtrf="subtopic"
+            base="NoTitle"
             xtrc=""/>
          <topicref
             href="Appendix-EE_4-3.dita"
             navtitle="4-3. Suspected Fraud or Abuse"
-            props="4-3."
-            base="NoTitle"
-            audience="AFARS_Appendix-EE_4-3"
+            props="4-3"
             outputclass="subtopic"
+            audience="AFARS_Appendix-EE_4-3"
             xtrf="subtopic"
+            base="NoTitle"
             xtrc=""/>
          <topicref
             href="Appendix-EE_4-4.dita"
             navtitle="4-4. Purchase Card Online System (PCOLS)"
-            props="4-4."
-            base="NoTitle"
-            audience="AFARS_Appendix-EE_4-4"
+            props="4-4"
             outputclass="subtopic"
+            audience="AFARS_Appendix-EE_4-4"
             xtrf="subtopic"
+            base="NoTitle"
             xtrc=""/>
          <topicref
             href="Appendix-EE_4-5.dita"
             navtitle="4-5. Violation of Army GPC Procedures"
-            props="4-5."
-            base="NoTitle"
-            audience="AFARS_Appendix-EE_4-5"
+            props="4-5"
             outputclass="subtopic"
+            audience="AFARS_Appendix-EE_4-5"
             xtrf="subtopic"
+            base="NoTitle"
             xtrc=""/>
       </topicref>
       <topicref
-         href="Appendix-EE-Appendix-A.dita"
-         navtitle="Appendix A: Best Practices Table Of Contents"
-         props="Appendix A: Best Practices"
-         base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-A"
+         href="Appendix-EE_Chapter-5.dita"
+         navtitle="Chapter 5 - Establishing and Maintaining a GPC Account"
+         props="Chapter 5"
          outputclass="SubPart"
+         audience="AFARS_Appendix-EE_Chapter-5"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-A.html"/>
+         base="NoTitle"
+         xtrc="AFARS_Appendix-EE_Chapter-5.html">
+         <topicref
+            href="Appendix-EE_5-1.dita"
+            navtitle="5-1. Nomination, Selection, and Appointment of Cardholders and Billing Officials"
+            props="5-1"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-1"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_5-2.dita"
+            navtitle="5-2. Account Establishment"
+            props="5-2"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-2"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_5-3.dita"
+            navtitle="5-3. Account Maintenance"
+            props="5-3"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-3"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_5-4.dita"
+            navtitle="5-4. Account Termination"
+            props="5-4"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-4"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_5-5.dita"
+            navtitle="5-5. Liability of Cardholders and Billing Officials"
+            props="5-5"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-5"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_5-6.dita"
+            navtitle="5-6. Card Suspension Policy"
+            props="5-6"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-6"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_5-7.dita"
+            navtitle="5-7. Card Security"
+            props="5-7"
+            outputclass="subtopic"
+            audience="AFARS_Appendix-EE_5-7"
+            xtrf="subtopic"
+            base="NoTitle"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-B.dita"
-         navtitle="Appendix B: References Table Of Contents"
-         props="Appendix B: References"
+         href="Appendix-EE_Chapter-6.dita"
+         navtitle="Chapter 6 - Operational Guidance and Procedures"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-B"
+         props="Chapter 6"
          outputclass="SubPart"
+         audience="AFARS_Appendix-EE_Chapter-6"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-B.html"/>
+         xtrc="AFARS_Appendix-EE_Chapter-6.html">
+         <topicref
+            href="Appendix-EE_6-1.dita"
+            navtitle="6-1. Procurement Transactions"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-1"
+            audience="AFARS_Appendix-EE_6-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-2.dita"
+            navtitle="6-2. GPC Purchasing Process"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-2"
+            audience="AFARS_Appendix-EE_6-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-3.dita"
+            navtitle="6-3. National Defense Authorization Act Section 889 Representation"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-3"
+            audience="AFARS_Appendix-EE_6-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-4.dita"
+            navtitle="6-4. Third Party Payment Requirements"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-4"
+            audience="AFARS_Appendix-EE_6-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-5.dita"
+            navtitle="6-5. Tax-Exempt Status"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-5"
+            audience="AFARS_Appendix-EE_6-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-6.dita"
+            navtitle="6-6. Surcharges"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-6"
+            audience="AFARS_Appendix-EE_6-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-7.dita"
+            navtitle="6-7. Purchase Request and Approval Document"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-7"
+            audience="AFARS_Appendix-EE_6-7"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-8.dita"
+            navtitle="6-8. Accountable Property"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-8"
+            audience="AFARS_Appendix-EE_6-8"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-9.dita"
+            navtitle="6-9. Payments of Monthly Invoices"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-9"
+            audience="AFARS_Appendix-EE_6-9"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-10.dita"
+            navtitle="6-10. Disputes, Defective Items and Fraudulent Transactions"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-10"
+            audience="AFARS_Appendix-EE_6-10"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-11.dita"
+            navtitle="6-11. Non-Disputable Charges"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-11"
+            audience="AFARS_Appendix-EE_6-11"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-12.dita"
+            navtitle="6-12. Rejected Payments"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-12"
+            audience="AFARS_Appendix-EE_6-12"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-13.dita"
+            navtitle="6-13. File Retention"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-13"
+            audience="AFARS_Appendix-EE_6-13"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-14.dita"
+            navtitle="6-14. Services"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-14"
+            audience="AFARS_Appendix-EE_6-14"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-15.dita"
+            navtitle="6-15. Deployed to an OCONUS Area of Responsibility (AOR)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-15"
+            audience="AFARS_Appendix-EE_6-15"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-16.dita"
+            navtitle="6-16. Official Representation Funds"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-16"
+            audience="AFARS_Appendix-EE_6-16"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-17.dita"
+            navtitle="6-17. Cable, Utilities, and Telecommunications Services (CUTS)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-17"
+            audience="AFARS_Appendix-EE_6-17"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_6-18.dita"
+            navtitle="6-18. Freedom of Information Act (FOIA) Requests"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="6-18"
+            audience="AFARS_Appendix-EE_6-18"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-C.dita"
-         navtitle="Appendix C: Prohibited Purchases Table Of Contents"
-         props="Appendix C: Prohibited Purchases"
+         href="Appendix-EE_Chapter-7.dita"
+         navtitle="Chapter 7 – Refunds"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-C"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-C.html"/>
+         props="Chapter 7"
+         audience="AFARS_Appendix-EE_Chapter-7"
+         xtrc="AFARS_Appendix-EE_Chapter-7.html">
+         <topicref
+            href="Appendix-EE_7-1.dita"
+            navtitle="7-1. Refunds Overview"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="7-1"
+            audience="AFARS_Appendix-EE_7-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_7-2.dita"
+            navtitle="7-2. Refund References"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="7-2"
+            audience="AFARS_Appendix-EE_7-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_7-3.dita"
+            navtitle="7-3. Refund Process"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="7-3"
+            audience="AFARS_Appendix-EE_7-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_7-4.dita"
+            navtitle="7-4. Refund Distribution"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="7-4"
+            audience="AFARS_Appendix-EE_7-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_7-5.dita"
+            navtitle="7-5. Uncollected Refunds"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="7-5"
+            audience="AFARS_Appendix-EE_7-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_7-6.dita"
+            navtitle="7-6. Commands not Utilizing GFEBS or DFAS for Refund Processing"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="7-6"
+            audience="AFARS_Appendix-EE_7-6"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-D.dita"
-         navtitle="Appendix D: Department of Defense (DoD) Purchase Card Checklist and Certification Template Table Of Contents"
-         props="Appendix D: Department of Defense  (DoD) Purchase Card Checklist and Certification Template"
+         href="Appendix-EE_Chapter-8.dita"
+         navtitle="Chapter 8 - Education, Training and Tuition Assistance"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-D"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-D.html"/>
+         props="Chapter 8"
+         audience="AFARS_Appendix-EE_Chapter-8"
+         xtrc="AFARS_Appendix-EE_Chapter-8.html">
+         <topicref
+            href="Appendix-EE_8-1.dita"
+            navtitle="8-1. SF 182 Training Payments (Non-FAR based training actions)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="8-1"
+            audience="AFARS_Appendix-EE_8-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_8-2.dita"
+            navtitle="8-2. Tailored Training"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="8-2"
+            audience="AFARS_Appendix-EE_8-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_8-3.dita"
+            navtitle="8-3. FAR-based Training Actions"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="8-3"
+            audience="AFARS_Appendix-EE_8-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_8-4.dita"
+            navtitle="8-4. Purchase Training Examples"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="8-4"
+            audience="AFARS_Appendix-EE_8-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_8-5.dita"
+            navtitle="8-5. Use of the GPC for Military Tuition Assistance"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="8-5"
+            audience="AFARS_Appendix-EE_8-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_8-6.dita"
+            navtitle="8-6. Reimbursement of Training Expenses"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="8-6"
+            audience="AFARS_Appendix-EE_8-6"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-E.dita"
-         navtitle="Appendix E: DD Form 577 for Appointing a Certifying Officer Table Of Contents"
-         props="Appendix E: DD Form 577 for Appointing a Certifying Officer"
+         href="Appendix-EE_Chapter-9.dita"
+         navtitle="Chapter 9 - Required Sources of Supplies and Services"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-E"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-E.html"/>
+         props="Chapter 9"
+         audience="AFARS_Appendix-EE_Chapter-9"
+         xtrc="AFARS_Appendix-EE_Chapter-9.html">
+         <topicref
+            href="Appendix-EE_9-1.dita"
+            navtitle="9-1. Required Sources"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-1"
+            audience="AFARS_Appendix-EE_9-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-2.dita"
+            navtitle="9-2. AbilityOne"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-2"
+            audience="AFARS_Appendix-EE_9-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-3.dita"
+            navtitle="9-3. UNICOR/Federal Prison Industries"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-3"
+            audience="AFARS_Appendix-EE_9-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-4.dita"
+            navtitle="9-4. Computer Hardware, Enterprise Software and Solutions (CHESS)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-4"
+            audience="AFARS_Appendix-EE_9-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-5.dita"
+            navtitle="9-5. U.S. Navy’s Spiral 3 Contracts"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-5"
+            audience="AFARS_Appendix-EE_9-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-6.dita"
+            navtitle="9-6. DLA Document Services"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-6"
+            audience="AFARS_Appendix-EE_9-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-7.dita"
+            navtitle="9-7. Supplemental Procurement Guidance"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-7"
+            audience="AFARS_Appendix-EE_9-7"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_9-8.dita"
+            navtitle="9-8. E-Commerce Platforms"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="9-8"
+            audience="AFARS_Appendix-EE_9-8"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-F.dita"
-         navtitle="Appendix F: Sample GPC Appointment Letters Table Of Contents"
-         props="Appendix F: Sample GPC Appointment Letters"
+         href="Appendix-EE_Chapter-10.dita"
+         navtitle="Chapter 10 - Convenience Checks and Foreign Draft Checks"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-F"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-F.html"/>
+         props="Chapter 10"
+         audience="AFARS_Appendix-EE_Chapter-10"
+         xtrc="AFARS_Appendix-EE_Chapter-10.html">
+         <topicref
+            href="Appendix-EE_10-1.dita"
+            navtitle="10-1. Policy and Use"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-1"
+            audience="AFARS_Appendix-EE_10-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-2.dita"
+            navtitle="10-2. Establishing a Convenience Check Account"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-2"
+            audience="AFARS_Appendix-EE_10-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-3.dita"
+            navtitle="10-3. Convenience Check Reporting (IRS Form 1099)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-3"
+            audience="AFARS_Appendix-EE_10-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-4.dita"
+            navtitle="10-4. Before Writing a Convenience Check"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-4"
+            audience="AFARS_Appendix-EE_10-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-5.dita"
+            navtitle="10-5. Why Decrease Use of Convenience Checks?"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-5"
+            audience="AFARS_Appendix-EE_10-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-6.dita"
+            navtitle="10-6. Annual Convenience Check Review"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-6"
+            audience="AFARS_Appendix-EE_10-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-7.dita"
+            navtitle="10-7. ETO Report"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-7"
+            audience="AFARS_Appendix-EE_10-7"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-8.dita"
+            navtitle="10-8. Convenience Check Resources"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-8"
+            audience="AFARS_Appendix-EE_10-8"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_10-9.dita"
+            navtitle="10-9. IRS Form 1099 Reporting Process"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="10-9"
+            audience="AFARS_Appendix-EE_10-9"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-G.dita"
-         navtitle="Appendix G: Formal Reporting Requirements Table Of Contents"
-         props="Appendix G: Formal Reporting Requirements"
+         href="Appendix-EE_Chapter-11.dita"
+         navtitle="Chapter 11 - Management Controls and Program Oversight"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-G"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-G.html"/>
+         props="Chapter 11"
+         audience="AFARS_Appendix-EE_Chapter-11"
+         xtrc="AFARS_Appendix-EE_Chapter-11.html">
+         <topicref
+            href="Appendix-EE_11-1.dita"
+            navtitle="11-1. Management Oversight Controls"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-1"
+            audience="AFARS_Appendix-EE_11-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-2.dita"
+            navtitle="11-2. Internal Management Controls"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-2"
+            audience="AFARS_Appendix-EE_11-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-3.dita"
+            navtitle="11-3. Insights on Demand"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-3"
+            audience="AFARS_Appendix-EE_11-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-4.dita"
+            navtitle="11-4. Data Mining Case Review and Closure"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-4"
+            audience="AFARS_Appendix-EE_11-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-5.dita"
+            navtitle="11-5. Monthly A/OPC Reviews"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-5"
+            audience="AFARS_Appendix-EE_11-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-6.dita"
+            navtitle="11-6. Semi-Annual A/OPC Reviews"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-6"
+            audience="AFARS_Appendix-EE_11-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-7.dita"
+            navtitle="11-7. Fraud Overview"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-7"
+            audience="AFARS_Appendix-EE_11-7"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-8.dita"
+            navtitle="11-8. Non-Cardholder Fraud"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-8"
+            audience="AFARS_Appendix-EE_11-8"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-9.dita"
+            navtitle="11-9. Cardholder Fraud and Merchant Fraud"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-9"
+            audience="AFARS_Appendix-EE_11-9"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-10.dita"
+            navtitle="11-10. Reporting and Monitoring for Fraud"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-10"
+            audience="AFARS_Appendix-EE_11-10"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_11-11.dita"
+            navtitle="11-11. Violation and Disciplinary Categories"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="11-11"
+            audience="AFARS_Appendix-EE_11-11"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-H.dita"
-         navtitle="Appendix H: Semi-Annual Surveillance Report Template Table Of Contents"
-         props="Appendix H: Semi-Annual Surveillance Report Template"
+         href="Appendix-EE_Chapter-12.dita"
+         navtitle="Chapter 12 - Contingency Operations"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-H"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-H.html"/>
+         props="Chapter 12"
+         audience="AFARS_Appendix-EE_Chapter-12"
+         xtrc="AFARS_Appendix-EE_Chapter-12.html">
+         <topicref
+            href="Appendix-EE_12-1.dita"
+            navtitle="12-1. Contingency Contracting"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="12-1"
+            audience="AFARS_Appendix-EE_12-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_12-2.dita"
+            navtitle="12-2. Emergency Acquisition Flexibility"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="12-2"
+            audience="AFARS_Appendix-EE_12-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_12-3.dita"
+            navtitle="12-3. Emergency Thresholds"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="12-3"
+            audience="AFARS_Appendix-EE_12-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_12-4.dita"
+            navtitle="12-4. GPC Contingency Contracting Management Controls"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="12-4"
+            audience="AFARS_Appendix-EE_12-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_12-5.dita"
+            navtitle="12-5. Contingency Roles and Responsibilities"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="12-5"
+            audience="AFARS_Appendix-EE_12-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_12-6.dita"
+            navtitle="12-6. Deploying Cardholders"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="12-6"
+            audience="AFARS_Appendix-EE_12-6"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-I.dita"
-         navtitle="Appendix I: GPC Thresholds Table Of Contents"
-         props="Appendix I: GPC Thresholds"
+         href="Appendix-EE_Chapter-13.dita"
+         navtitle="Chapter 13 - Management Reviews"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-I"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-I.html"/>
+         props="Chapter 13"
+         audience="AFARS_Appendix-EE_Chapter-13"
+         xtrc="AFARS_Appendix-EE_Chapter-13.html">
+         <topicref
+            href="Appendix-EE_13-1.dita"
+            navtitle="13-1. Level 4 A/OPC Annual Management Assessment"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="13-1"
+            audience="AFARS_Appendix-EE_13-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_13-2.dita"
+            navtitle="13-2. Level 3 Procurement Management Review"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="13-2"
+            audience="AFARS_Appendix-EE_13-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_13-3.dita"
+            navtitle="13-3. PMR Reviews"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="13-3"
+            audience="AFARS_Appendix-EE_13-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_13-4.dita"
+            navtitle="13-4. Army GPC PMR Process"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="13-4"
+            audience="AFARS_Appendix-EE_13-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_13-5.dita"
+            navtitle="13-5. Customer Feedback"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="13-5"
+            audience="AFARS_Appendix-EE_13-5"
+            xtrc=""/>
+      </topicref>
       <topicref
-         href="Appendix-EE-Appendix-J.dita"
-         navtitle="Appendix J: Glossary - Sections I and II Table Of Contents"
-         props="Appendix J: Glossary - Sections I and II"
+         href="Appendix-EE_Chapter-14.dita"
+         navtitle="Chapter 14 - Prohibited and Restricted Purchases"
          base="NoTitle"
-         audience="AFARS_Appendix-EE-Appendix-J"
          outputclass="SubPart"
          xtrf="SubPart"
-         xtrc="AFARS_Appendix-EE-Appendix-J.html"/>
+         props="Chapter 14"
+         audience="AFARS_Appendix-EE_Chapter-14"
+         xtrc="AFARS_Appendix-EE_Chapter-14.html">
+         <topicref
+            href="Appendix-EE_14-1.dita"
+            navtitle="14-1. Authorized Purchases"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-1"
+            audience="AFARS_Appendix-EE_14-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_14-2.dita"
+            navtitle="14-2. Unauthorized Commitments and Ratification"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-2"
+            audience="AFARS_Appendix-EE_14-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_14-3.dita"
+            navtitle="14-3. Prohibited Transactions"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-3"
+            audience="AFARS_Appendix-EE_14-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_14-4.dita"
+            navtitle="14-4. Restricted Transactions"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-4"
+            audience="AFARS_Appendix-EE_14-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_14-5.dita"
+            navtitle="14-5. Split Purchases"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-5"
+            audience="AFARS_Appendix-EE_14-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_14-6.dita"
+            navtitle="14-6. Merchant Authorization Controls (MAC)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-6"
+            audience="AFARS_Appendix-EE_14-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_14-7.dita"
+            navtitle="14-7. Detainees and Obligations under the Geneva Convention"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="14-7"
+            audience="AFARS_Appendix-EE_14-7"
+            xtrc=""/>
+      </topicref>
+      <topicref
+         href="Appendix-EE_Chapter-15.dita"
+         navtitle="Chapter 15 – Contract Payments"
+         base="NoTitle"
+         outputclass="SubPart"
+         xtrf="SubPart"
+         props="Chapter 15"
+         audience="AFARS_Appendix-EE_Chapter-15"
+         xtrc="AFARS_Appendix-EE_Chapter-15.html">
+         <topicref
+            href="Appendix-EE_15-1.dita"
+            navtitle="15-1. Contract Payments"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-1"
+            audience="AFARS_Appendix-EE_15-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_15-2.dita"
+            navtitle="15-2. Contract Clauses."
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-2"
+            audience="AFARS_Appendix-EE_15-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_15-3.dita"
+            navtitle="15-3. GFEBS Purchase Order Creation"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-3"
+            audience="AFARS_Appendix-EE_15-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_15-4.dita"
+            navtitle="15-4. Payment Card Process Flow"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-4"
+            audience="AFARS_Appendix-EE_15-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_15-5.dita"
+            navtitle="15-5. Payment Plus Process Flow"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-5"
+            audience="AFARS_Appendix-EE_15-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_15-6.dita"
+            navtitle="15-6. Wide Area Workflow"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-6"
+            audience="AFARS_Appendix-EE_15-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_15-7.dita"
+            navtitle="15-7. Purchase Card Receiving Report (PCRR) Process"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="15-7"
+            audience="AFARS_Appendix-EE_15-7"
+            xtrc=""/>
+      </topicref>
+      <topicref
+         href="Appendix-EE_Chapter-16.dita"
+         navtitle="Chapter 16 - Ammunition and Weapons "
+         base="NoTitle"
+         outputclass="SubPart"
+         xtrf="SubPart"
+         props="Chapter 16"
+         audience="AFARS_Appendix-EE_Chapter-16"
+         xtrc="AFARS_Appendix-EE_Chapter-16.html">
+         <topicref
+            href="Appendix-EE_16-1.dita"
+            navtitle="16-1. References"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-1"
+            audience="AFARS_Appendix-EE_16-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_16-2.dita"
+            navtitle="16-2. Authority to use the GPC for Non-Standard Ammunition (NSA) not from Army inventory "
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-2"
+            audience="AFARS_Appendix-EE_16-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_16-3.dita"
+            navtitle="16-3. Approved Exceptions "
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-3"
+            audience="AFARS_Appendix-EE_16-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_16-4.dita"
+            navtitle="16-4. Funding Non-Standard Ammunition (NSA)"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-4"
+            audience="AFARS_Appendix-EE_16-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_16-5.dita"
+            navtitle="16-5. Explosives, Toxins, and Ammunition Definitions "
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-5"
+            audience="AFARS_Appendix-EE_16-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_16-6.dita"
+            navtitle="16-6. Approved Exceptions "
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-6"
+            audience="AFARS_Appendix-EE_16-6"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_16-7.dita"
+            navtitle="16-7. NSA Exception Process"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="16-7"
+            audience="AFARS_Appendix-EE_16-7"
+            xtrc=""/>
+      </topicref>
+      <topicref
+         href="Appendix-EE_Chapter-17.dita"
+         navtitle="Chapter 17 – METRICS AND REPORTING"
+         base="NoTitle"
+         outputclass="SubPart"
+         xtrf="SubPart"
+         props="Chapter 17"
+         audience="AFARS_Appendix-EE_Chapter-17"
+         xtrc="AFARS_Appendix-EE_Chapter-17.html">
+         <topicref
+            href="Appendix-EE_17-1.dita"
+            navtitle="17-1. Program Metrics"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="17-1"
+            audience="AFARS_Appendix-EE_17-1"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_17-2.dita"
+            navtitle="17-2. Reports for Monitoring and Oversight"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="17-2"
+            audience="AFARS_Appendix-EE_17-2"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_17-3.dita"
+            navtitle="17-3. Standard Reports in the Servicing Bank’s EAS"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="17-3"
+            audience="AFARS_Appendix-EE_17-3"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_17-4.dita"
+            navtitle="17-4. Custom Reports within the Servicing Bank"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="17-4"
+            audience="AFARS_Appendix-EE_17-4"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_17-5.dita"
+            navtitle="17-5. Printing and Storing Reports"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="17-5"
+            audience="AFARS_Appendix-EE_17-5"
+            xtrc=""/>
+         <topicref
+            href="Appendix-EE_17-6.dita"
+            navtitle="17-6. Ad Hoc Reports"
+            base="NoTitle"
+            outputclass="subtopic"
+            xtrf="subtopic"
+            props="17-6"
+            audience="AFARS_Appendix-EE_17-6"
+            xtrc=""/>
+      </topicref>
    </topicref>
    <topicref
       href="Appendix-FF.dita"

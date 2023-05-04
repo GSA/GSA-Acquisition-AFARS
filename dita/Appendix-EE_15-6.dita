@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_15-6">
+   <title>
+      <ph props="autonumber">15-6.</ph> Wide Area Workflow</title>
+   <conbody>
+      <p outputclass="List1">a. Wide Area Workflow (WAWF) is a secure, web-based system for electronic
+invoicing, receipt and acceptance. WAWF allows Government vendors to submit and
+track invoices and receipt/acceptance documents over the Web and allows
+Government personnel to process those invoices in a real-time, paperless
+environment. WAWF is in accordance with the 2001 National Defense Authorization
+Act (DFARS 252.232-7003/252.232.7003 Electronic Submission of Payment Requests -
+January 2004), which requires claims for payment under a DoD contract to be
+submitted in electronic form.</p>
+      <p outputclass="List1">b. DFARS Appendix F contains procedures and instructions for the use,
+preparation, and distribution of the WAWF Receiving Report (RR) and commercial
+shipping/packing lists used to document Government contract quality assurance.
+Preparation instructions and training for the WAWF RR are available at <xref href="https://piee.eb.mil/" format="html" scope="external">PIEE</xref>. The instructions on preparing a WAWF RR are part
+of the Vendor Training section.</p>
+      <p outputclass="List1">c. On March 3, 2008, DoD issued a final rule amending the DFARS to require
+use of WAWF as the only acceptable electronic system for submitting requests for
+payment (invoices and receiving reports) under DoD contracts.</p>
+      <p outputclass="List1">d. WAWF helps to mitigate interest penalty payments due to lost or misplaced
+documents and highlights vendor-offered discounts so that the DoD benefits on
+both fronts, in addition to streamlining the whole process from weeks to days or
+minutes. Benefits include online access and full spectrum view of document
+status, minimized re-keying and improving data accuracy, eliminating unmatched
+disbursements, and making all documentation required for payment easily
+accessible.</p>
+   </conbody>
+</concept>

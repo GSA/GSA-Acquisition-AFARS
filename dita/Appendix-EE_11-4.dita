@@ -119,12 +119,14 @@
                     colnum="3"
                     colwidth="1*"
                     colname="col3"/>
-                <tbody>
+                <thead>
                     <row>
                         <entry> <b>Action</b> </entry>
                         <entry> <b>DM Case Review Cycle Milestones</b> </entry>
                         <entry> <b>Compliance Mechanism</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>IOD assigns cases daily for review</entry>
                         <entry>Throughout the billing cycle</entry>

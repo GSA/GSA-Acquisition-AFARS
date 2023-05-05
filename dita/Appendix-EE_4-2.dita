@@ -16,12 +16,15 @@
                 <colspec colnum="3" colwidth="0.7*" colname="col3"/>
                 <colspec colnum="4" colwidth="0.7*" colname="col4"/>
                 <colspec colnum="5" colwidth="1.7*" colname="col5"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry namest="col1" nameend="col5" id="Toc532909297"> 
-                     <b>Recommended Training</b>
-                        </entry>
+                        <entry
+                            namest="col1"
+                            nameend="col5"
+                            id="Toc532909297"> <b>Recommended Training</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry> 
                      <b>Course Name</b> 

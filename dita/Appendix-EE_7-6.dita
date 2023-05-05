@@ -11,20 +11,16 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="1.5*" colname="col1"/>
                 <colspec colnum="2" colwidth="0.5*" colname="col2"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Funds Center Name</b> 
-                  </entry>
-                        <entry> 
-                     <p> 
-                        <b>Distribution</b> 
-                     </p> 
-                     <p> 
-                        <b>Method</b> 
-                     </p> 
-                  </entry>
+                        <entry> <b>Funds Center Name</b> </entry>
+                        <entry>
+                            <p> <b>Distribution</b> </p>
+                            <p> <b>Method</b> </p>
+                        </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Army NAF</entry>
                         <entry>ACH</entry>

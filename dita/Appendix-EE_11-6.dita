@@ -46,13 +46,15 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="1*" colname="col1"/>
                 <colspec colnum="2" colwidth="1*" colname="col2"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry namest="col1" nameend="col2"> 
-                     <b>Monthly Review Completion
-                            Timeframe</b> 
-                  </entry>
+                        <entry
+                            namest="col1"
+                            nameend="col2"> <b>Monthly Review Completion
+                            Timeframe</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry> 
                      <b>Role</b> 

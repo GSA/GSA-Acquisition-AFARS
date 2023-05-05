@@ -11,15 +11,13 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="0.6*" colname="col1"/>
                 <colspec colnum="2" colwidth="1.4*" colname="col2"/>
+            <thead>
+               <row>
+                  <entry> <b>Regulatory Reference</b> </entry>
+                  <entry> <b>Supplies and Services</b> </entry>
+               </row>
+            </thead>
                 <tbody>
-                    <row>
-                        <entry> 
-                     <b>Regulatory Reference</b> 
-                  </entry>
-                        <entry> 
-                     <b>Supplies and Services</b> 
-                  </entry>
-                    </row>
                     <row>
                         <entry> 
                      <p> 

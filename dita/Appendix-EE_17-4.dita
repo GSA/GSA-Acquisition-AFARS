@@ -20,11 +20,13 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="1*" colname="col1"/>
                 <colspec colnum="2" colwidth="1*" colname="col2"/>
-                <tbody>
+                <thead>
                     <row>
                         <entry>Account information reports</entry>
                         <entry>Transaction activity reports</entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Account Approval Status</entry>
                         <entry>All Convenience Check Transactions</entry>
@@ -115,15 +117,13 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="0.6*" colname="col1"/>
                 <colspec colnum="2" colwidth="1.4*" colname="col2"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Report</b> 
-                  </entry>
-                        <entry> 
-                     <b>Report Description</b> 
-                  </entry>
+                        <entry> <b>Report</b> </entry>
+                        <entry> <b>Report Description</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Account Approval Status</entry>
                         <entry>This report provides a list of accounts with the

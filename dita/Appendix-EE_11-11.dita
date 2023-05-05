@@ -56,24 +56,16 @@
                 <colspec colnum="3" colwidth="0.7*" colname="col3"/>
                 <colspec colnum="4" colwidth="1.5*" colname="col4"/>
                 <colspec colnum="5" colwidth="1.6*" colname="col5"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Category</b> 
-                  </entry>
-                        <entry> 
-                     <b>Reportable</b> 
-                  </entry>
-                        <entry> 
-                     <b>Classification</b> 
-                  </entry>
-                        <entry> 
-                     <b>Definition</b> 
-                  </entry>
-                        <entry> 
-                     <b>Examples</b> 
-                  </entry>
+                        <entry> <b>Category</b> </entry>
+                        <entry> <b>Reportable</b> </entry>
+                        <entry> <b>Classification</b> </entry>
+                        <entry> <b>Definition</b> </entry>
+                        <entry> <b>Examples</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Abuse</entry>
                         <entry>Yes</entry>
@@ -208,7 +200,7 @@
                 <colspec colnum="2" colwidth="0.6*" colname="col2"/>
                 <colspec colnum="3" colwidth="0.8*" colname="col3"/>
                 <colspec colnum="4" colwidth="0.8*" colname="col4"/>
-                <tbody>
+                <thead>
                     <row>
                         <entry>Offense for Misuse of Government Charge
                             Card</entry>
@@ -216,6 +208,8 @@
                         <entry>Second Offense</entry>
                         <entry>Third Offense</entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Misuse of Government Travel Charge Card or
                             Purchase Charge Card (for example, use for

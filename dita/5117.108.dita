@@ -8,6 +8,14 @@
    <title outputclass="Heading 3">
       <ph props="autonumber">5117.108</ph> Congressional notification.</title>
    <conbody>
-      <p outputclass="List1">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) gives the written notification as set forth in FAR 17.108(b).  See Appendix GG for further delegation. </p>
+      <p outputclass="List1">(b) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) gives the written notification as set forth in FAR 17.108(b). See <xref href="Appendix-GG.dita#AFARS_Appendix-GG" outputclass="fm:ParaNumOnly">APPENDIX - GG Table Of Contents</xref> for further delegation. </p>
+      <p>
+         <p rev="Revised April 11, 2023">For contracts awarded in accordance with 5117.105-1(b)(S-90), see AFARS 5153.217-90 <ph id="_Toc124493432">
+               <u>Instructions for Congressional Notification Requirement When Utilizing </u>
+            </ph>
+            <xref href="https://spcs3.kc.army.mil/asaalt/procurement/ClassDeviations/T6JH_Army%20Class%20Deviation_MYP%201244(c)%20NDAA%20FY23_FINAL%20v4_11APR23.pdf"
+                  format="html"
+                  scope="external">Army Class Deviation 2023-PP02 Multiyear Procurement Authority for Certain Munitions</xref>, dated 11 April 2023.</p>
+      </p>
    </conbody>
 </concept>

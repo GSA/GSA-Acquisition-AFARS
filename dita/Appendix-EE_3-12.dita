@@ -4,10 +4,10 @@
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="AFARS_Appendix-EE_3-12"
          ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">3-12.</ph> Confirm and Pay</title>
+   <title outputclass="Heading 2"> 
+      <ph props="autonumber">3-12.</ph>  Confirm and Pay</title>
    <conbody>
-      <p id="UgsKlH" outputclass="Normal">a. The Army certifies invoices for payment after all purchased items have been confirmed. This procedure has been called “Confirm and Pay”. Each BO must establish a system to flag and track all transactions certified for payment with proof of receipt and acceptance. This procedure ensures all transactions reconciled and approved for payment have receipt verified.</p>
-      <p id="WLBUWI" outputclass="Normal">b. Under the following condition, the Army has adopted the following process in order to allow the Servicing Bank to be paid for items that have been shipped by the merchant but not received by the organization to prevent withholding payment of the entire billing statement for a few transactions. Transactions that have been reconciled and approved for payment will have receipt verified no later than 45 days after the date of the original invoice. If receipt and acceptance cannot be verified, the CH shall protect the Government’s rights by disputing the transaction prior to the end of the dispute period.</p>
+      <p id="UgsKlH" outputclass="List1">a. The Army certifies invoices for payment after all purchased items have been confirmed. This procedure has been called “Confirm and Pay”. Each BO must establish a system to flag and track all transactions certified for payment with proof of receipt and acceptance. This procedure ensures all transactions reconciled and approved for payment have receipt verified.</p>
+      <p id="WLBUWI" outputclass="List1">b. Under the following condition, the Army has adopted the following process in order to allow the Servicing Bank to be paid for items that have been shipped by the merchant but not received by the organization to prevent withholding payment of the entire billing statement for a few transactions. Transactions that have been reconciled and approved for payment will have receipt verified no later than 45 days after the date of the original invoice. If receipt and acceptance cannot be verified, the CH shall protect the Government’s rights by disputing the transaction prior to the end of the dispute period.</p>
    </conbody>
 </concept>

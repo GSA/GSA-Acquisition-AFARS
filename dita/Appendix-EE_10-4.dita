@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_10-4">
+  <title>
+      <ph props="autonumber">10-4.</ph> Before Writing a Convenience Check</title>
+  <conbody>
+      <p outputclass="List1">a. <b>IRS Form W-9.</b> Before writing a convenience check, the checkwriter must always obtain an IRS Form W-9 to ensure possession of all information required for tax form issuance.</p>
+      <p outputclass="List1">b. DFAS recommends not writing checks to foreign vendors. When writing a check to a foreign vendor, an IRS Form W-8 is required before payment. To determine which W-8 form is used, see IRS Publication 515, Withholding of Tax on Nonresident Aliens and Foreign Entities. To determine if tax withholding and tax deposits to the IRS are required, see IRS Publication 515, Withholding of Tax on Nonresident Aliens and Foreign Entities and/or IRS Publication 901, U.S. Tax Treaties.</p>
+      <p outputclass="List1">c. If a U.S. vendor refuses to provide their TIN and it is a tax reportable payment, IRS states to backup withhold 24% and deposit with IRS. See IRS Publication 1281, Backup Withholding for Missing and Incorrect Name/TIN(s).</p>
+      <p outputclass="List1">d. Consider alternative payment methods. See the <xref href="https://smartpay.gsa.gov/sites/default/files/downloads/SP%20Convenience%20Checks%20Slipsheet%20508.pdf"
+               format="html"
+               scope="external">GSA Payment Solutions Brochure</xref> for alternatives to using convenience checks. A good alternative to the convenience check process is using the miscellaneous payment process or using a vendor that accepts the GPC.</p>
+  </conbody>
+</concept>

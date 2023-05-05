@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_12-5">
+  <title>
+      <ph props="autonumber">12-5.</ph> Contingency Roles and Responsibilities</title>
+  <conbody>
+      <p outputclass="List1">a. A/OPC Responsibilities:</p>
+      <p>1) Distribute governing policy and guidance with respect to use of the GPC for each event to all GPC officials throughout the A/OPC’s oversight.</p>
+      <p>2) Increase GPC spending limits to card accounts and managing accounts when appropriate.</p>
+      <p>3) Maintain a discrete record of all accounts with increased purchase and monthly limits, including convenience check accounts.</p>
+      <p>4) Coordinate account fund availability for contingency contracting operations with Resource Managers.</p>
+      <p>5) Work with RMs to add alternate LOAs earmarked for each event to appropriate BO/CH accounts.</p>
+      <p>6) Manage delegations of procurement authority for designated contingency card accounts in JAM.</p>
+      <p>7) Develop and issue instructions to enable the identification and capture of all contingency contracting GPC purchases (transactions and dollars).</p>
+      <p outputclass="List1">b. Resource Manager Responsibilities:</p>
+      <p>1) Make appropriate modifications when detailed budgetary guidance is provided by the DoD Comptroller.</p>
+      <p>2) Establish separate alternate and default LOAs for purchases made using the GPC that constitute reimbursable support funded by and/or provided to other Federal Agencies (e.g., the Federal Emergency Management Agency).</p>
+      <p>3) Assist in the identification and tracking of all GPC dollars associated with transactions spent in support of each event.</p>
+      <p>4) Notify the A/OPC of fund availability.</p>
+      <p outputclass="List1">c. Billing Official Responsibilities:</p>
+      <p>1) Ensure proper documentation is recorded and maintained for GPC transactions in support of each event.</p>
+      <p>2) Ensure CHs use the correct LOA for purchases made in support of each event.</p>
+      <p>3) Ensure convenience checks written in support of each event do not exceed authorized spending limits and that the sources of supply for the items or services purchased with the convenience check do not accept the GPC.</p>
+      <p outputclass="List1">d. Cardholder Responsibilities:</p>
+      <p>1) Obtain appropriate requirements documentation to support purchases made.</p>
+      <p>2) Identify and record purchases made. At a minimum, documentation will include details on the specific goods or services purchased with the GPC and how it will specifically support the event.</p>
+      <p>3) Input the NIA or other assigned codes in the Contingency Operations field in the servicing bank’s EAS for applicable purchases.</p>
+      <p>4) Coordinate with the Resource Manager and follow agency accounting procedures.</p>
+      <p>5) Ensure each GPC transaction is charged to the contingency contracting LOA specifically established for that event.</p>
+      <p>6) Write convenience checks only when necessary and within authorized MPTs. Confirm that the supplier source does not accept the GPC.</p>
+      <p>7) For contingency contracting construction contracts, ensure the GPC is used only as a method of payment. An existing contract vehicle must be in place prior to the use of this authority.</p>
+      <p>8) Establish and maintain a discrete record of the number of transactions and dollars spent in support of each event.</p>
+  </conbody>
+</concept>

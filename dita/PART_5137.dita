@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5137</ph> - Service Contracting</title>
       <body>
          <p>
-            <i>(Revised March 1, 2023)</i>
+            <i>(Revised 03 May, 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -94,7 +94,7 @@
                         <xref outputclass="fm:TOC" href="5137.5905.dita#AFARS_5137.5905">5137.590-5 Reserved.</xref>
                      </p>
                   </li>
-                  <li rev="Revised March 1, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5906.dita#AFARS_5137.5906">5137.590-6 Acquisition strategy content.</xref>
                      </p>
@@ -172,7 +172,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5137.91.dita#AFARS_Subpart_5137.91">Subpart 5137.91 - Accounting for Contract Services</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised May 3, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.9101.dita#AFARS_5137.9101">5137.9101 Policy.</xref>
                      </p>

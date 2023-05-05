@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-10"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">3-10.</ph> Property Accountability</title>
-   <conbody>
-      <p id="VkNeHd" outputclass="Normal">a. Personnel who are entrusted with the acquisition of Government property are responsible for its proper custody, safekeeping, and accountability in accordance with AR 710-2 and AR 735-5. .</p>
-      <p id="HeGGjD" outputclass="Normal">b. GPC Property Book Procedures:</p>
-      <p id="eBjgmX" outputclass="List2">(1) PBO approves purchases on purchase request form prior to delivery of the PR form to the cardholder; (2) Cardholder screens PR form to ensure PBO approval obtained prior to making the purchase:</p>
-      <p id="OvWQqT" outputclass="List2">(3) Cardholder provides purchase receipt to PBO within 5 days of obtaining the receipt per AR 710-2;</p>
-      <p id="hnsIHy" outputclass="List2">(4) Monitoring and oversight reviews must assess whether cardholders provided the GPC receipts to the PBO per AR 710-2; and</p>
-      <p id="UAhUEt" outputclass="List2">(5) Training must be updated to include the above procedures.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_3-10">
+    <title>
+      <ph props="autonumber">3-10.</ph> PAM (Procurement.Army.Mil) Portal</title>
+    <conbody>
+        <p outputclass="List1">a. The ODASA(P)'s interactive Knowledge Management portal, Procurement.Army.Mil (PAM), serves as an official Army-wide source for acquisition policy, templates, learning tools and certified training. PAM provides Army contracting procedures and updates to critical programs and systems, including instant access to Army GPC policies, standard business processes and operating procedures. PAM's GPC page is <xref href="https://procurement.army.mil/gpc"
+               format="html"
+               scope="external">https://procurement.army.mil/gpc</xref>.</p>
+        <p outputclass="List1">b. A/OPCs, CHs, and BOs should use the PAM portal to access current GPC documents, samples, and processes as described throughout this AFARS Appendix EE. Available documents on PAM include, but are not limited to the following:</p>
+        <p>1) Army Purchase Request and Approval document</p>
+        <p>2) Sample Merchant Category Code (MCC) Override Requests</p>
+        <p>3) <xref href="https://procurement.army.mil/pmr"
+               format="html"
+               scope="external">Procurement Management Review (PMR) Process</xref> 
+      </p>
+        <p>4) VCE/PMR GPC Toolkit</p>
+        <p>5) Sample Separation of Duties Waiver</p>
+        <p>6) Ammunition Process and Waiver Request</p>
+        <p>7) Refund Process</p>
+        <p>8) Level 4 A/OPC Annual Assessment</p>
+        <p>9) Sample Information Technology Approval System (ITAS) Approval Waiver</p>
+        <p>10) Army GPC Training Slides</p>
+        <p id="Toc101947038">Figure 3-1: GPC Electronic Systems Overview</p>
+        <p> <image
+      href="Graphics/image13.png"/> </p>
+    </conbody>
 </concept>

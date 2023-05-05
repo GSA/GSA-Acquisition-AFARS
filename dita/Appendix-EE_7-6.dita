@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_7-6">
+    <title>
+      <ph props="autonumber">7-6.</ph> Commands not Utilizing GFEBS or DFAS for Refund Processing</title>
+    <conbody>
+        <p>The commands/activities listed below do not use GFEBS or DFAS for refund processing. The commands/activities listed in Table 7-1 will follow procedures developed between the servicing bank and their finance office.</p>
+        <p id="Toc118789420">Table 7-1: Commands/Activities Not Utilizing GFEBS/DFAS for Refund Processing</p>
+        <table>
+            <tgroup cols="2">
+                <colspec colnum="1" colwidth="1.5*" colname="col1"/>
+                <colspec colnum="2" colwidth="0.5*" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry> 
+                     <b>Funds Center Name</b> 
+                  </entry>
+                        <entry> 
+                     <p> 
+                        <b>Distribution</b> 
+                     </p> 
+                     <p> 
+                        <b>Method</b> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Army NAF</entry>
+                        <entry>ACH</entry>
+                    </row>
+                    <row>
+                        <entry>Army USACE</entry>
+                        <entry>ACH</entry>
+                    </row>
+                    <row>
+                        <entry>Air National Guard</entry>
+                        <entry>ACH</entry>
+                    </row>
+                    <row>
+                        <entry>Army Working Capital Fund - ACC</entry>
+                        <entry>ACH</entry>
+                    </row>
+                    <row>
+                        <entry>DOT&amp;E, Center for Countermeasures (Agent #1743)</entry>
+                        <entry>ACH</entry>
+                    </row>
+                    <row>
+                        <entry>Army- Tuition (Agent #1511) (Check disbursement)</entry>
+                        <entry>Check</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p id="Toc1448649641"/>
+    </conbody>
+</concept>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_6-4">
+   <title>
+      <ph props="autonumber">6-4.</ph> Third Party Payment Requirements</title>
+   <conbody>
+      <p outputclass="List1">a. <u>Use of Third- Party Payment Processors</u>: In no instance are
+Cardholders (CHs) authorized to establish an account when using a third-party
+payment processor, as doing so could require acceptance of or agreement to terms
+and conditions or result in commitment of funds that have not been legally
+allocated for purchases. Transactions using third-party payment processors are
+considered high risk, as all available transaction data may not be completely
+passed to the issuing bank (which can adversely affect reporting,
+reconciliation, and oversight, including data mining (detection of improper card
+use)), and may adversely affect transaction dispute terms and processes, among
+other considerations.</p>
+      <p>When selecting merchants to fulfill requirements, CHs shall use the following
+procedures:</p>
+      <p>1) Minimize use of third-party payment processors to the maximum extent
+practicable.</p>
+      <p>2) Ask if the merchant would require use of a third-party payment processor,
+if there is any doubt regarding merchant use of one.</p>
+      <p>3) If it is still found necessary to purchase from a merchant that requires
+uses a third-party payment processor, CHs and A/BOs must ensure adequate
+supporting documentation clearly showing there was a detailed review of the
+purchase, and that purchase from a merchant requiring use of a third-party
+payment processor was unavoidable.</p>
+      <p outputclass="List1">b. Additionally, Component Program Managers must ensure CHs are:</p>
+      <p>1) Appropriately trained on DoD GPC Third-Party Payment Policy; DoD GPC
+Policy for Non-DoD e-Commerce Platforms; related Component policy; and
+third-party payment processor requirements and risks in OMB Circular A-123,
+Appendix B; and GSA Smart Bulletin No. 023 entitled “GSA SmartPay-Third Party
+Payment Processors”.</p>
+      <p>2) Never authorized to establish an account when using third-party payment
+services for processing GPC payments.</p>
+      <p outputclass="List1">c. GPC oversight personnel and CHs should be aware that in accordance with
+GSA Smart Bulletin No. 23, third-party payment policy does not apply to
+e-commerce platforms or brick-and-mortar merchants that do not accept payment
+using third-party payment processors. See Attachment 2 for additional
+guidance.</p>
+   </conbody>
+</concept>

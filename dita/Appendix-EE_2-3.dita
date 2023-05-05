@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_2-3"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">2-3.</ph> Account Establishment</title>
-   <conbody>
-      <p id="lQilwP" outputclass="Normal">a. GPCs are issued only as mission requirements dictate. Only DOD civilian employees, military personnel, or members of the Armed Forces may be issued a GPC or be appointed a BO. GPCs may not be issued to contractor personnel, except as provided in Section 1-6. Junior Reserve Officer Training Corps (JROTC) instructors, OCONUS local national employees of the Army, and host Government direct hires for OCONUS agencies/organizations whose salaries are reimbursed by the Army, are not considered DOD contractors, and may be designated as CHs and BOs.</p>
-      <p id="wQekiy" outputclass="Normal">b. The spending limits and cycle limits can be changed as necessary to meet operational needs. The RM Office establishes the default and alternate lines of accounting for the proper designation of appropriation, and inputs the spending limits in Access Online (AXOL).</p>
-      <p id="jxZpzd" outputclass="Normal">c. Each GPC account has a single purchase transaction limit and monthly purchase limit. Generally the single purchase limit is the micro-purchase threshold. The cumulative spending total of all CHs’ monthly purchases make up the billing cycle limit for the BO. Total monthly purchases may not exceed the billing cycle limit that is established in the Servicing Bank’s transaction authorization system. The CH’s monthly spending limits are modified by the RM in AXOL when operational circumstances warrant. The Level 4 A/OPC is notified of the monthly spending limits change, approves the change, and forwards the change to the Servicing Bank.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_2-3">
+    <title>
+      <ph props="autonumber">2-3.</ph> Component Program Manager (Level 2 A/OPC) Duties and Responsibilities</title>
+    <conbody>
+        <p outputclass="List1">a. Administer the Army GPC Program.</p>
+        <p outputclass="List1">b. Establish policies and guidelines.</p>
+        <p outputclass="List1">c. Design and maintain hierarchies and approve subordinate Level 3 A/OPCs.</p>
+        <p outputclass="List1">d. Interface with the DPC GPC program office on performance issues.</p>
+        <p outputclass="List1">e. Ensure effective Army GPC surveillance (e.g., Procurement Management Reviews (PMRs)).</p>
+        <p outputclass="List1">f. Liaison with Army organizations, the servicing bank, DPC, GSA, and other federal agencies.</p>
+        <p outputclass="List1">g. Manage and implement technical and system enhancements.</p>
+        <p outputclass="List1">h. Develop, test and deploy GPC hardware/software/networking systems enhancements.</p>
+        <p outputclass="List1">i. Review and submit monthly, semi-annual, and annual reports as required.</p>
+        <p outputclass="List1">j. Implement trends, best practices, increase rebates, and lower costs to improve the program.</p>
+        <p outputclass="List1">k. Participate in meetings, events, training events, and panel discussions representing the Army.</p>
+        <p outputclass="List1">l. Communicate DoD and Army GPC policy/procedure updates and surveillance/audit findings.</p>
+        <p outputclass="List1">m. Address systemic program deficiencies and discrepancies.</p>
+    </conbody>
 </concept>

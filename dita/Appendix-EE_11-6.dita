@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_11-6">
+    <title>
+      <ph props="autonumber">11-6.</ph> Semi-Annual A/OPC Reviews</title>
+    <conbody>
+        <p>A/OPCs and CPMs must complete semi-annual reviews within IOD to
+            ensure adherence to internal controls, facilitate senior
+            management’s awareness of their program’s health, and promote the
+            interdisciplinary communication necessary for successful GPC program
+            operations. Semi-annual reviews will be performed in IOD at the end
+            of the March and September billing cycles. They are a consolidation
+            of the previous six monthly reviews (20 March to 19 September and 20
+            September to 19 March each year).</p>
+        <p outputclass="List1">a. <b>A/OPC Semi-Annual Review</b>. Level 4 A/OPCs must complete this
+            review once all six prior monthly reviews have been completed. The
+            A/OPC reviews the internal controls summary and inputs requested
+            data for all applicable agents.</p>
+        <p outputclass="List1">b. <b>OA/OPC Semi-Annual Review</b>. Level 3 A/OPCs must complete
+            this review once all Level 4 A/OPCs assigned to them have completed
+            their semi-annual reviews. The Level 3 A/OPC reviews the internal
+            controls summary for their program, concurs with the findings,
+            determinations, and any corrective actions planned or taken, and
+            affirms that they have briefed results to the Head of the Activity
+            (HA).</p>
+        <p outputclass="List1">c. <b>CPM Semi-Annual Review</b>. CPMs (Level 2 A/OPCs) must complete
+            this review once all Level 3 A/OPCs assigned to them have completed
+            their semi-annual reviews.</p>
+        <p outputclass="List1">d. <b>Semi-Annual Head of the Activity Briefing and Report</b>.
+            A/OPCs and CPMs are required to perform the following actions:</p>
+        <p>1) Brief semi-annual review results to their HA and inform the HA of
+            program strengths and concerns. Conduct the briefing before
+            completing their semi-annual review in IOD.</p>
+        <p>2) Generate the Semi-Annual HA Review Report in IOD and obtain the
+            HA’s signature on this report.</p>
+        <p>3) Provide a scanned version of the signed report and other review
+            documents (as applicable) to the A/OPC at the next level above them
+            in the hierarchy.</p>
+        <p>4) Certify completion by submitting the semi-annual review in
+            IOD.</p>
+        <p>5) Retain final signed documents.</p>
+        <p id="Toc101947109">Table 11-3: Timeframe for IOD Monthly and
+            Semi-annual Reviews</p>
+        <table>
+            <tgroup cols="2">
+                <colspec colnum="1" colwidth="1*" colname="col1"/>
+                <colspec colnum="2" colwidth="1*" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>Monthly Review Completion
+                            Timeframe</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>Role</b> 
+                  </entry>
+                        <entry> 
+                     <b>Days after Cycle End Date</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>A/OPC (Level 4)</entry>
+                        <entry>30</entry>
+                    </row>
+                    <row>
+                        <entry>O/AOPC (Level 3)</entry>
+                        <entry>40</entry>
+                    </row>
+                    <row>
+                        <entry>CPM (Level 2)</entry>
+                        <entry>55</entry>
+                    </row>
+                    <row>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>Semi-annual Review Completion
+                            Timeframe</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>Role</b> 
+                  </entry>
+                        <entry> 
+                     <b>Completion Date</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>A/OPC (Level 4)</entry>
+                        <entry>1 June / 1 December</entry>
+                    </row>
+                    <row>
+                        <entry>O/AOPC (Level 3)</entry>
+                        <entry>30 June / 31 December</entry>
+                    </row>
+                    <row>
+                        <entry>CPM (Level 2)</entry>
+                        <entry>15 July / 15 January</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="List1">e. <b>IOD Reports</b>. A/OPCs can run various reports based upon
+            their role in IOD. These reports assist the A/OPC in identifying GPC
+            program trends, strengths and weaknesses, and will be monitored and
+            used in conjunction with conducting GPC annual surveillance.</p>
+    </conbody>
+</concept>

@@ -10,17 +10,17 @@
             <i>(Revised 27 February, 2023)</i>
          </p>
          <ul otherprops="TOC">
-            <li rev="Revised March 1, 2023">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5139.1.dita#AFARS_Subpart_5139.1">Subpart 5139.1 - General</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised March 1, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5139.101.dita#AFARS_5139.101">5139.101 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised February 27, 2023Revised March 1, 2023">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5139.10190.dita#AFARS_5139.10190">5139.101-90 Policy.</xref>
                            </p>
@@ -46,7 +46,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5139.76.dita#AFARS_Subpart_5139.76">Subpart 5139.76 - Cloud Computing</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised February 27, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5139.7602.dita#AFARS_5139.7602">5139.7602 Policy and Responsibilities.</xref>
                      </p>

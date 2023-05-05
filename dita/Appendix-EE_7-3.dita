@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_7-3">
+  <title>
+      <ph props="autonumber">7-3.</ph> Refund Process</title>
+  <conbody>
+      <p>The process and procedure used to distribute refunds to the Army from the servicing bank is detailed in the Army Refund SOP located on the <xref href="https://procurement.army.mil/gpc"
+               format="html"
+               scope="external">PAM's GPC website</xref>.</p>
+  </conbody>
+</concept>

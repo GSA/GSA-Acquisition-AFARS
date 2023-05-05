@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_1-6"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
+<concept id="AFARS_Appendix-EE_1-6">
+  <title>
       <ph props="autonumber">1-6.</ph> Applicability</title>
-   <conbody>
-      <p id="gqlmpI" outputclass="Normal">These procedures apply to all GPC purchases with cards issued by the Army. Non-Army tenant organizations issued Army GPCs or convenience checks by an Army contracting office are also subject to these procedures. All BOs, CHs, A/OPCs (at all levels), Resource Managers (RMs), Logisticians, and other stakeholders that participate in the GSA SmartPay Purchase Card Program under the Army Level 2 hierarchy are subject to these procedures. The policy established in this document supersedes previous guidance issued in the Draft Army Regulation (AR715-xx). Explanation of the Army level hierarchy is provided at 1-8.</p>
-   </conbody>
+  <conbody>
+      <p>These procedures apply to all GPC purchases with cards and convenience checks issued by the Army.</p>
+      <p outputclass="List1">a. Non-Army tenant organizations issued Army GPCs or convenience checks by an Army contracting office are also subject to these procedures. All BOs, CHs, A/OPCs, Resource Managers (RMs), Logisticians, and other stakeholders participating in the Army GPC program are subject to these procedures, including any non-Army tenant organizations where the Army has contracting authority and oversight responsibilities (such as ANG units).</p>
+      <p outputclass="List1">b. The ODASA(P) has overall responsibility for the Army GPC program. Each Army command, organization, or activity utilizing Army GPCs has the responsibility for the following actions:</p>
+      <p>1) Provide adequate resources and effective internal controls to ensure the appropriate management, operation, training, and oversight is in place to operate a local GPC program effectively and efficiently in compliance with Army policies and procedures.</p>
+      <p>2) Establish and maintain a command climate to prevent Army personnel or others from exercising undue influence over the actions of an A/OPC, BO or CH.</p>
+      <p>3) Take appropriate informal and formal disciplinary actions in the event of noncompliance, fraud, misuse and/or abuse. Disciplinary actions should be based on the severity and frequency of the infraction and can range from informal actions such as written or verbal counseling, to demotion, removal, loss of security clearance, or potential criminal prosecution.</p>
+  </conbody>
 </concept>

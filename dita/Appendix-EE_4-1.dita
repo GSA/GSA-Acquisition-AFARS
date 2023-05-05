@@ -1,31 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_4-1"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">4-1.</ph> Management Controls</title>
-   <conbody>
-      <p id="FjpiEf" outputclass="Normal">a. This section provides specific management controls required of GPC programs, guidelines for disciplining abusers, and other control information. Office of Management and Budget (OMB) Circular A-123, Appendix B, provides additional guidance on implementing strong internal controls. PCOLS is designed to both maintain the integrity of these controls and validate their effectiveness in safeguarding Government resources. Management officials are responsible for establishing a process of internal controls that is (1) designed to provide reasonable assurance that the GPC program is used efficiently, effectively, and legally to achieve the purpose for which the program was established and (2) is in compliance with applicable laws and regulations.</p>
-      <p id="KFvHaS" outputclass="Normal">b. Required Management Controls include:</p>
-      <p id="OWIAFN" outputclass="List2">(1) <b>Maintain Purchase Log:</b> All CHs are required to maintain either an electronic or a manual log (if not electronically enabled) for each transaction made using the card.</p>
-      <p id="qKEwdH" outputclass="List2">(2) <b>Maintain Positive System of Funds Control</b>
-         <b>:</b> Spending limits (such as monthly and office limits) are tied directly to the funding allocated for each card account (monthly, quarterly, and semiannually). Fund limits should be consistent with historical spending patterns to minimize Government exposure and ensure adequate funds availability. This provides an overall control to ensure funding is available prior to purchases being made with the card.</p>
-      <p id="huCfMV" outputclass="List2">(3) <b>Ensure Separation of Duties</b>
-         <b>:</b> For the GPC, a mandatory management control is the separation of duties. Key duties such as making purchases (CH), verifying purchases are proper (A/BO), authorizing payments (BO and FSO), certifying funding (Finance and Resource Managers), independent acceptance for accountable property, and reviewing and auditing functions (A/OPC and Property Book Officers) must be assigned to different individuals to the greatest extent possible to minimize the risk of loss to the Government.</p>
-      <p id="GcMVJW" outputclass="List2">(4) <b>Reconciliation/Approval by the CH</b>
-         <b>:</b> During each billing cycle, CHs are required to reconcile the CH statement they receive from the issuing bank against the purchase card log they are required to maintain for card purchases.</p>
-      <p id="PtSLZF" outputclass="List2">(5) <b>Reconciliation/Approval by the A/BO:</b> After the CH has approved his/her entire CH statement, he/she forwards the electronic or hard copy file to the cognizant A/BO. The A/BO is required to approve or reject each purchase made by the CHs under his/her hierarchy. When the A/BO has completed their review of each invoice submitted for his/her card accounts, the A/BO, acting in the role of Certifying Officer, can certify the entire invoice as legal, proper, and correct in accordance with his/her responsibilities.</p>
-      <p id="pjgjpQ" outputclass="List2">(6) <b>Exercise Dispute Authority</b>
-         <b>:</b> The CH has 60 days from the date of the billing statement to dispute the transaction.</p>
-      <p id="ZFfvmO" outputclass="List2">(7) <b>Exercise/Maintain Authorization Controls:</b> Appropriate spending limits and Merchant Category Code (MCC) access are tailored to each CH account. Spending limits and MCC access should reflect historical buying patterns/trends.</p>
-      <p id="MRrHSD" outputclass="List2">(8) <b>Systems Access Security:</b> Appropriate safeguards must be in place to control issuance and safeguarding of access credentials to the EAS.</p>
-      <p id="WJocDB" outputclass="List2">(9) <b>Available Funding Integrity:</b> Certified lines of accounting (LOAs) must be traceable through disbursement. All changes to LOAs must be documented and certified.</p>
-      <p id="ogBzBR" outputclass="List2">(10) <b>Invoice Integrity:</b> An electronic certification process ensures the original electronic invoice is traceable from the vendor through the certification and entitlement processes and retained in a Government record. Should the original invoice submitted by the contractor be in paper form, the Certifying Officer shall determine if the invoice is proper for payment and affix his/her signature in accordance with the governing provisions of the <xref format="pdf"
-               href="http://comptroller.defense.gov/fmr/05/05_33.pdf"
-               scope="external">
-            <u>DoDFMR</u>
-         </xref>. If appropriate, the Certifying Officer makes any required “pen and ink” changes on the original invoice to reallocate the payment to different funding lines from those reflected on the original invoice. The Certifying Officer determines whether these changes are proper and affix his/her signature with the standard certification language on the original paper invoice.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_4-1">
+    <title>
+      <ph props="autonumber">4-1.</ph> Mandatory Training</title>
+    <conbody>
+        <p>Mandatory training is divided into initial online training and formal
+            training. Prior to assuming their duties, program personnel will
+            complete the GPC training appropriate to their position. The
+            training requirements for CHs and BOs trained at a previous duty
+            station may be abbreviated or waived, in writing, as determined by
+            the A/OPC. A/OPCs will retain copies of initial and refresher
+            training certificates by uploading the certificates in PIEE.</p>
+        <p outputclass="List1">a. Level 4 A/OPCs, in coordination with the appropriate subject
+            matter experts, will provide in-person initial GPC training for all
+            new BOs and CHs prior to using the GPC. Each Level 4 A/OPC is
+            responsible for providing training to CHs and BOs utilizing the Army
+            Master Training slides and GPC program location-specific slides.
+            Training methods can be classroom, virtual or electronic.</p>
+        <p outputclass="List1">b. Resource Managers should assist the A/OPC in developing or
+            providing training on funding document maintenance, Anti-Deficiency
+            Act, and the certification and payment process.</p>
+        <p outputclass="List1">c. Small Business Specialists should assist the A/OPC in developing
+            or providing training on FAR 19, Small Business procedures and
+            achieving small business goals.</p>
+        <p outputclass="List1">d. Hazardous Materials Management Process Team should assist the
+            A/OPC in developing or providing training on the procurement,
+            maintenance, and disposal of hazardous materials.</p>
+        <p outputclass="List1">e. GPC training requirements are listed in Tables 4-1 and 4-2. Table
+            4-1 lists all mandatory training which must be completed prior to
+            issuance of an appointment letter and/or establishment of a GPC
+            account. Table 4-2 lists all recommended training as necessary to
+            carry out GPC duties. Proof of training must be documented and
+            retained by the A/OPC in PIEE/JAM. CHs, BOs, and A/OPCs are required
+            to complete mandated initial and refresher training. U.S. Bank’s
+            Access Online web-based training is optional. The initial in person
+            GPC training provided by the Level 4 A/OPC will cover training on
+            the use of U.S. Bank’s Access Online system (e.g., initiating and
+            resolving disputes, reconciling and approving statements, certifying
+            invoices, and uploading supporting documentation).</p>
+        <p outputclass="List1">f. <b>Refresher Training</b>. As required in DoD FMR Volume 5,
+            Chapter 5, Paragraph 050304, appointed Certifying Officers must
+            complete an approved Certifying Officer Legislation training course
+            before their appointment and refresher training annually. All
+            A/OPCs, BOs, and CHs must complete refresher training every two
+            years. The local command may require refresher training more
+            frequently to satisfy their training or operational needs. <xref href="https://www.acq.osd.mil/asda/dpc/ce/pc/training.html"
+               format="html"
+               scope="external">DPC GPC One-Pagers</xref> are “quick start guides”
+            that address various GPC policies and systems. Several One-Pagers
+            have been developed to address items related to SmartPay® 3 systems.
+            See the <xref href="https://www.acq.osd.mil/asda/dpc/ce/pc/training.html"
+               format="html"
+               scope="external">GPC Training page</xref> for links.</p>
+        <p outputclass="List1">g. By signing the appointment letter in JAM, CHs and BOs confirm that
+            they have received the initial GPC program training and understand
+            their roles and responsibilities and the penalties associated with
+            misuse of the card.</p>
+        <p outputclass="List1">h. All initial and refresher training certificates will be uploaded
+            into PIEE/JAM. Attendance at the annual GSA SmartPay Conference is
+            mandatory for all Level 3 and 4 A/OPCs, as funding permits.
+            Attendance is mandatory for all Level 3 and 4 A/OPCs if the GSA
+            SmartPay Conference is held virtually.</p>
+        <p id="Toc101947041">Table 4-1: Mandatory Training for A/OPCs, Billing
+            Officials and Cardholders</p>
+        <table>
+            <tgroup cols="5">
+                <colspec colnum="1" colwidth="1.2*" colname="col1"/>
+                <colspec colnum="2" colwidth="0.6*" colname="col2"/>
+                <colspec colnum="3" colwidth="0.6*" colname="col3"/>
+                <colspec colnum="4" colwidth="0.7*" colname="col4"/>
+                <colspec colnum="5" colwidth="1.7*" colname="col5"/>
+                <tbody>
+                    <row>
+                        <entry namest="col1" nameend="col5"> 
+                     <b>Mandatory Training</b> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <b>Course Name</b> 
+                  </entry>
+                        <entry> 
+                     <b>Course Number</b> 
+                  </entry>
+                        <entry> 
+                     <b>Role Level</b> 
+                  </entry>
+                        <entry> 
+                     <b>Frequency</b> 
+                  </entry>
+                        <entry> 
+                     <p> 
+                        <b>Course Offeror/</b> 
+                     </p> 
+                     <p>
+                            <b>Hyperlink</b> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>DoD Government-wide Commercial Purchase Card
+                            Overview</entry>
+                        <entry>CLG 0010</entry>
+                        <entry>All</entry>
+                        <entry> 
+                     <p>Initial/</p> 
+                     <p> Biennial</p> 
+                  </entry>
+                        <entry> 
+                     <p>DAU</p> 
+                     <p> 
+                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=12372"
+                              format="html"
+                              scope="external">CLG 0010 DoD Governmentwide
+                            Commercial Purchase Card</xref> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Certifying Officer Training for GPC
+                            Payments</entry>
+                        <entry>CLG 006</entry>
+                        <entry>A/BOs</entry>
+                        <entry>Annual</entry>
+                        <entry> 
+                     <p>DAU</p> 
+                     <p> 
+                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=2057"
+                              format="html"
+                              scope="external">CLG 006 Certifying Officer
+                            Legislation Training</xref> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <p>Overview of</p> 
+                     <p> Acquisition Ethics</p> 
+                  </entry>
+                        <entry>ACQ 0030</entry>
+                        <entry>All</entry>
+                        <entry>Initial</entry>
+                        <entry> 
+                     <p>DAU</p> 
+                     <p> 
+                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=12650"
+                              format="html"
+                              scope="external">ACQ 0030 Overview of Acquisition
+                            Ethics</xref> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <p>Insights On Demand (IOD)</p> 
+                     <p> A/BO Case
+                            Management Course</p> 
+                  </entry>
+                        <entry>Web-based Training within AXOL</entry>
+                        <entry>A/BOs</entry>
+                        <entry>Initial (<i>not required prior to issuance of a
+                            managing account)</i> 
+                  </entry>
+                        <entry> 
+                     <p> 
+                        <i>Available in</i> 
+                     </p> 
+                     <p>U.S. Bank</p>
+                            <p> 
+                        <xref href="https://wbt.access-online.com/Welcomer.aspx"
+                              format="html"
+                              scope="external">Access® Online web-based
+                            training</xref> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry> 
+                     <p>Insights on Demand (IOD)</p> 
+                     <p> A/OPC Case
+                            Management Modules</p> 
+                  </entry>
+                        <entry>Web-based Training within AXOL</entry>
+                        <entry>A/OPCs</entry>
+                        <entry>Initial (<i>not required prior to
+                            appointment)</i> 
+                  </entry>
+                        <entry> 
+                     <p> 
+                        <i>Available in</i> 
+                     </p> 
+                     <p>U.S. Bank</p>
+                            <p> 
+                        <xref href="https://wbt.access-online.com/Welcomer.aspx"
+                              format="html"
+                              scope="external">Access® Online web-based
+                            training</xref> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>Army Master Training/Local GPC Training</entry>
+                        <entry>In Person</entry>
+                        <entry>All</entry>
+                        <entry> 
+                     <p>Initial/</p> 
+                     <p> Refresher</p> 
+                  </entry>
+                        <entry>Army and Organization/Activity Slides</entry>
+                    </row>
+                    <row>
+                        <entry>Simplified Acquisition Procedures</entry>
+                        <entry>CLC 005</entry>
+                        <entry> 
+                     <p>A/OPCs;</p> 
+                     <p> A/BOs and CHs <b>spending
+                            over the MPT</b> 
+                     </p> 
+                  </entry>
+                        <entry>Initial</entry>
+                        <entry> 
+                     <p>DAU</p> 
+                     <p> 
+                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=229"
+                              format="html"
+                              scope="external">CLC 005 Simplified Acquisition
+                            Procedures</xref> 
+                     </p> 
+                  </entry>
+                    </row>
+                    <row>
+                        <entry>SOP Ordering Official Training</entry>
+                        <entry>UP TO $25,000</entry>
+                        <entry> 
+                     <p>A/OPCs;</p> 
+                     <p> A/BOs and CHs <b>spending
+                            over the MPT</b> 
+                     </p> 
+                  </entry>
+                        <entry>Initial</entry>
+                        <entry>Command Specific</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
 </concept>

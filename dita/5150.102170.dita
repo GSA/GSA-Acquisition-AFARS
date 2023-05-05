@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept
+   xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+   id="AFARS_5150.102170"
+   xml:lang="en-US"
+   ditaarch:DITAArchVersion="1.3">
+   <title
+      outputclass="Heading 4"
+      rev="Revised April 11, 2023"> <ph
+      props="autonumber">5150.102-1</ph>-70 Delegations.</title>
+   <conbody>
+      <p
+         outputclass="List1"
+         rev="Revised April 11, 2023">(a) <i>Military Departments</i>. Subject to the restrictions on delegations of authority in DFARS Part 250 and FAR 50.102-1 and 50.102-3, HCAs may exercise, without power of redelegation, the contract adjustment authority contained in the Act and Executive Order for amounts not exceeding the threshold at FAR 50.102-1(b).</p>
+      <p
+         outputclass="List3"
+         rev="Revised April 11, 2023">(i) The authority to deny contract adjustment requests, regardless of dollar value, is delegated to the head of the contracting activity, without power of redelegation. See Appendix GG.</p>
+      <p
+         outputclass="List3"
+         rev="Revised April 11, 2023">(ii) Requests for contract adjustments for amounts exceeding the threshold at FAR 50.102-1(b), and that are endorsed by the contracting activity, are adjudicated by the Army Contract Adjustment Board. See AFARS 5150.102-2.</p>
+   </conbody>
+</concept>

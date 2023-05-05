@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_1-3"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">1-3.</ph> Background</title>
-   <conbody>
-      <p id="JpqqTO" outputclass="Normal">The General Services Administration (GSA) awarded a multiple award schedule contract for U.S. Government commercial purchase card services. The contractor (hereinafter referred to as the “Servicing Bank”) provides commercial GPCs and associated services. The Army issues a task order to the servicing bank for its GPC services.</p>
-   </conbody>
+<concept id="AFARS_Appendix-EE_1-3">
+  <title>
+      <ph props="autonumber">1-3.</ph> Information and Waiver Process</title>
+  <conbody>
+      <p outputclass="List1">a. Cardholders should direct GPC-related questions to their billing
+      official. If the BO cannot resolve the issue, they should direct the issue
+      to their Agency/Organization Program Coordinator (A/OPC) (Level 4 A/OPC).
+      If the A/OPC cannot resolve an issue, the A/OPC should direct the question
+      to the Oversight Agency/Organization Program Coordinator (OA/OPC) (Level 3
+      A/OPC). If the OA/OPC cannot resolve the issue, the OA/OPC should consult
+      the Component Program Manager (CPM) (Level 2 A/OPC) for guidance.</p>
+      <p outputclass="List1">b. All waivers, exceptions, and deviations to the guidance provided in
+      AFARS Appendix EE must be in writing and routed to the ODASA(P) CPM for
+      approval. Requests to waive, take exception to, or deviate from the rules,
+      regulations, processes or procedures will be reviewed on a case-by-case
+      basis. Requests for waivers should be submitted through the GPC chain of
+      command. The CPM will retain copies of all approved waiver packages. In
+      times of emergencies, a waiver approval may be obtained either through
+      email or telephone call from the CPM with a follow up waiver request
+      letter from the requesting command/activity. The letter must detail the
+      reasons for the request and what adverse mission impact would occur if the
+      waiver was not granted.</p>
+  </conbody>
 </concept>

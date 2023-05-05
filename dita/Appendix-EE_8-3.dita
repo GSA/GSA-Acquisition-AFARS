@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_8-3">
+   <title>
+      <ph props="autonumber">8-3.</ph> FAR-based Training Actions</title>
+   <conbody>
+      <p>FAR-based training actions are subject to the applicable services MPT. They
+are not considered SF 182 payments, and the $25,000 limit does not apply. The
+following paragraphs identify the types of training requests that are considered
+FAR-based actions:</p>
+      <p outputclass="List1">a. <b>Buying an Existing (Not Tailored) Imported Course.</b> In this case,
+the purchase is for the entire COTS course, and the MPT applies to the dollar
+value of the all-inclusive total cost of the course (instructor time, materials,
+etc.). Depending on the subject matter of the training, these courses may be
+considered “professional services.” No SF 182 is needed for individuals.</p>
+      <p>1) <b>Example #1</b>. You are buying a 1-day Myers-Briggs seminar for 35
+employees at a total cost of $9,500. The GPC can be used as a PROCUREMENT and
+PAYMENT mechanism because it falls within the $10,000 MPT.</p>
+      <p>2) <b>Example #2</b>. You are buying a 3-day mid-career retirement course for
+150 participants held at the agency’s headquarters. The cost of the course is
+$30,000. Do not take the $30,000 and divide by 150 participants to arrive at a
+price per student ($200) and think you can simply pay for 150 separate slots and
+split those payments against your SPL. The MPT must be applied to the aggregate
+cost in this case, or $30,000. In this case, the cost exceeds the MPT and the
+cardholder’s SPL and must be purchased via other formal means (i.e., Contracting
+Office / Contracting Officer). The GPC cannot be used for procuring the course
+but may be used as a PAYMENT mechanism within the SPL of the CH and agency
+policy.</p>
+      <p outputclass="List1">b. <b>Subscriptions for Group Training Services</b>. Subscriptions for access
+to on-demand training are considered a supply. Cardholders can use the GPC to
+pay for subscriptions up to the supply MPT.</p>
+      <p>In this case, the purchase is a subscription for access to on-demand
+training, and the MPT applies to the dollar value of the total cost of the
+subscription. Subscription services for groups or organizations typically set a
+threshold or limit to the number of employees who can access training services
+via the subscription for the flat subscription cost; the costs are not pro-rated
+or adjusted by the number of actual employees that actually access the
+training.</p>
+      <p>1) <b>Example.</b> You are buying a subscription to a training vendor’s
+on-demand training site for a cost of $9,000. Up to 300 employees can access
+on-demand training under the subscription and the cost is not pro-rated based on
+actual use. The purchase could be made with the purchase card because it falls
+within the $10,000 MPT.</p>
+      <p outputclass="List1">c. <b>Tailored Training</b>. The GPC cannot be used to purchase tailored
+training.</p>
+   </conbody>
+</concept>

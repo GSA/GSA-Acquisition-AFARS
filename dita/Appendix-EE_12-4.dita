@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_12-4">
+  <title>
+      <ph props="autonumber">12-4.</ph> GPC Contingency Contracting Management Controls</title>
+  <conbody>
+      <p outputclass="List1">a. Designated contingency card accounts must carry written delegations of procurement authority. There will be no blanket increase of CH authority.</p>
+      <p outputclass="List1">b. The HCA must identify in writing those individuals who have permission to use an authorized increased spending threshold. See DFARS PGI 213.201. These individuals must be working directly on acquisitions related to contingency contracting. A/OPCs should ensure that CHs have sufficient training appropriate for any increased authority.</p>
+      <p outputclass="List1">c. Requiring activities should identify contingency contracting CHs in advance of these operations. A/OPCs should work with the servicing bank to pre-position cards (with initial spending limits of $1 until needed) and raise monthly and single transaction limits accordingly only when the operation is declared.</p>
+      <p outputclass="List1">d. A/OPCs should communicate policies and procedures for determining whether a transaction is in support of a particular event and therefore allowable under the related law.</p>
+      <p outputclass="List1">e. Small businesses should be provided maximum practicable opportunity under the circumstances to participate in contingency acquisitions as prime contractors and subcontractors.</p>
+      <p outputclass="List1">f. <b>Price Reasonableness</b>. Cardholders and BOs are responsible for ensuring that prices are reasonable. The common-sense determinations may take into consideration the extraordinary nature of the event.</p>
+      <p outputclass="List1">g. <b>Purchasing on Behalf of Another Agency</b>. If purchasing on behalf of another agency, the agency making the purchase will ensure the requesting agency has the authority to make the purchase and fully document the GPC transaction.</p>
+  </conbody>
+</concept>

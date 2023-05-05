@@ -39,15 +39,13 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="0.3*" colname="col1"/>
                 <colspec colnum="2" colwidth="1.7*" colname="col2"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Code</b> 
-                  </entry>
-                        <entry> 
-                     <b>Description</b> 
-                  </entry>
+                        <entry> <b>Code</b> </entry>
+                        <entry> <b>Description</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>4829</entry>
                         <entry>Money/Wire Transfer – Money Orders</entry>

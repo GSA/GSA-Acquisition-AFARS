@@ -10,15 +10,13 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="1.2*" colname="col1"/>
                 <colspec colnum="2" colwidth="0.8*" colname="col2"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Description</b> 
-                  </entry>
-                        <entry> 
-                     <b>Frequency</b> 
-                  </entry>
+                        <entry> <b>Description</b> </entry>
+                        <entry> <b>Frequency</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>CH Approval of the Billing Cycle Statement</entry>
                         <entry>Monthly</entry>

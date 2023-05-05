@@ -46,18 +46,14 @@
                 <colspec colnum="1" colwidth="1*" colname="col1"/>
                 <colspec colnum="2" colwidth="1*" colname="col2"/>
                 <colspec colnum="3" colwidth="1*" colname="col3"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Action</b> 
-                  </entry>
-                        <entry> 
-                     <b>Review Cycle Milestones</b> 
-                  </entry>
-                        <entry> 
-                     <b>Compliance Mechanism</b> 
-                  </entry>
+                        <entry> <b>Action</b> </entry>
+                        <entry> <b>Review Cycle Milestones</b> </entry>
+                        <entry> <b>Compliance Mechanism</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Level 4 A/OPC completes the monthly review and
                             A/OPC Monthly Checklist in IOD</entry>

@@ -73,7 +73,7 @@
                colnum="15"
                colname="col15"
                colwidth="10*"/>
-            <tbody>
+            <thead>
                <row>
                   <entry><ph>Part</ph></entry>
                   <entry>Title of Section</entry>
@@ -91,6 +91,8 @@
                   <entry>Delegable</entry>
                   <entry>Level</entry>
                </row>
+            </thead>
+            <tbody>
                <row>
                   <entry>1</entry>
                   <entry>Preaward Peer Reviews</entry>

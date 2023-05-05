@@ -13,20 +13,18 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="1.3*" colname="col1"/>
                 <colspec colnum="2" colwidth="0.7*" colname="col2"/>
+                <thead>
+                    <row>
+                        <entry
+                            namest="col1"
+                            nameend="col2"> <b>Supplies</b> </entry>
+                    </row>
+                    <row>
+                        <entry> <b>Government Purchaser’s Physical Location</b> </entry>
+                        <entry> <b>Authorized MPT</b> </entry>
+                    </row>
+                </thead>
                 <tbody>
-                    <row>
-                        <entry namest="col1" nameend="col2"> 
-                     <b>Supplies</b> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>Government Purchaser’s Physical Location</b> 
-                  </entry>
-                        <entry> 
-                     <b>Authorized MPT</b> 
-                  </entry>
-                    </row>
                     <row>
                         <entry>Inside United States</entry>
                         <entry>$20,000</entry>
@@ -90,21 +88,19 @@
             <tgroup cols="2">
                 <colspec colnum="1" colwidth="1.4*" colname="col1"/>
                 <colspec colnum="2" colwidth="0.6*" colname="col2"/>
+                <thead>
+                    <row>
+                        <entry
+                            namest="col1"
+                            nameend="col2"> <b>GPC Micro-purchase Threshold –
+                            Convenience Checks (CC)</b> </entry>
+                    </row>
+                    <row>
+                        <entry> <b>Government Purchaser’s Physical Location</b> </entry>
+                        <entry> <b>Authorized MPT</b> </entry>
+                    </row>
+                </thead>
                 <tbody>
-                    <row>
-                        <entry namest="col1" nameend="col2"> 
-                     <b>GPC Micro-purchase Threshold –
-                            Convenience Checks (CC)</b> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>Government Purchaser’s Physical Location</b> 
-                  </entry>
-                        <entry> 
-                     <b>Authorized MPT</b> 
-                  </entry>
-                    </row>
                     <row>
                         <entry>General – Unrelated to Contingency/Other
                             Emergency Uses</entry>

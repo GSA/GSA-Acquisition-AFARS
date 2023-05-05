@@ -32,21 +32,15 @@
                 <colspec colnum="2" colwidth="1*" colname="col2"/>
                 <colspec colnum="3" colwidth="1.3*" colname="col3"/>
                 <colspec colnum="4" colwidth="1.1*" colname="col4"/>
-                <tbody>
+                <thead>
                     <row>
-                        <entry> 
-                     <b>Commodity</b> 
-                  </entry>
-                        <entry> 
-                     <b>Examples</b> 
-                  </entry>
-                        <entry> 
-                     <b>Mandatory Source</b> 
-                  </entry>
-                        <entry> 
-                     <b>Specific Instructions</b> 
-                  </entry>
+                        <entry> <b>Commodity</b> </entry>
+                        <entry> <b>Examples</b> </entry>
+                        <entry> <b>Mandatory Source</b> </entry>
+                        <entry> <b>Specific Instructions</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Office Supplies</entry>
                         <entry>Printer toner, copy paper, pens, pencils,

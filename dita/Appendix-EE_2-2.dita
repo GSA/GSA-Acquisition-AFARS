@@ -15,39 +15,24 @@
             Table 2-1 describes the GPC roles in PIEE and JAM.</p>
         <p
             id="Toc101947016">Figure 2-1: Hierarchy Chart</p>
-        <image
-            href="Graphics/image7.png"/>
-        <p> <b>DPC</b> </p>
-        <p> <b>(Level 1)</b> </p>
-        <image
-            href="Graphics/image8.png"/>
-        <p> <b>CPM</b> </p>
-        <p> <b>(Level 2)</b> </p>
-        <image
-            href="Graphics/image9.png"/>
-        <p> <b>OA/OPC</b> </p>
-        <p> <b>(Level 3)</b> </p>
-        <image
-            href="Graphics/image10.png"/>
-        <p> <b>A/OPC</b> </p>
-        <p> <b>(Level 4)</b> </p>
-        <image
-            href="Graphics/image11.png"/>
-        <p> <b>Billing Official (BO)</b> </p>
-        <p> <b>(Level 5)</b> </p>
-        <image
-            href="Graphics/image12.png"/>
-        <p> <b>Cardholder (CH)</b> </p>
-        <p> <b>Level 6</b> </p>
-        <p> <b> <u>Office Secretary of Defense</u> </b> </p>
-        <p> <b> <u>Department of the Army (DA)</u> </b> </p>
-        <p> <b> <u>Command A/OPC</u> </b> </p>
-        <p> <b> <u>Direct A/OPC</u> </b> </p>
-        <p> <b> <u>CH’s Supervisor</u> </b> </p>
-        <p> <b>)</b> </p>
-        <p> <b>Preferred</b> </p>
-        <p> <b>(</b> </p>
-        <p> <b> <u>Requiring Activity</u> </b> </p>
+        <p><p> <b> <u>Office Secretary of Defense</u> </b> </p><p> <b>DPC</b>
+            </p><p> <b>(Level 1)</b> </p><image
+            href="Graphics/image7.png"/></p>
+        <p><p> <b> <u>Department of the Army (DA)</u> </b> </p><p> <b>CPM</b>
+            </p><p> <b>(Level 2)</b> </p><image
+            href="Graphics/image8.png"/></p>
+        <p><p> <b> <u>Command A/OPC</u> </b> </p><p> <b>OA/OPC</b> </p><p>
+            <b>(Level 3)</b> </p><image
+            href="Graphics/image9.png"/></p>
+        <p><p> <b> <u>Direct A/OPC</u> </b> </p><p> <b>A/OPC</b> </p><p>
+            <b>(Level 4)</b> </p><image
+            href="Graphics/image10.png"/></p>
+        <p><p> <b> <u>CH’s Supervisor</u> </b> </p><p> <b>(Preferred)</b>
+            </p><p> <b>Billing Official (BO)</b> </p><p> <b>(Level 5)</b> </p><image
+            href="Graphics/image11.png"/></p>
+        <p><p> <b> <u>Requiring Activity</u> </b> </p><p> <b>Cardholder (CH)</b>
+            </p><p> <b>Level 6</b> </p><image
+            href="Graphics/image12.png"/></p>
         <p
             id="Toc101947017">Figure 2-2: Hierarchy Structure</p>
         <table>
@@ -65,13 +50,15 @@
                     colnum="3"
                     colwidth="2.2*"
                     colname="col3"/>
-                <tbody>
+                <thead>
                     <row>
                         <entry
                             namest="col1"
                             nameend="col3"> <b>Army Level/Hierarchy GPC Program
                             Structure</b> </entry>
                     </row>
+                </thead>
+                <tbody>
                     <row>
                         <entry>Level 1 A/OPC</entry>
                         <entry>DoD</entry>

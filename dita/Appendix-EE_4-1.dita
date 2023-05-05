@@ -71,34 +71,24 @@
                 <colspec colnum="3" colwidth="0.6*" colname="col3"/>
                 <colspec colnum="4" colwidth="0.7*" colname="col4"/>
                 <colspec colnum="5" colwidth="1.7*" colname="col5"/>
+                <thead>
+                    <row>
+                        <entry
+                            namest="col1"
+                            nameend="col5"> <b>Mandatory Training</b> </entry>
+                    </row>
+                    <row>
+                        <entry> <b>Course Name</b> </entry>
+                        <entry> <b>Course Number</b> </entry>
+                        <entry> <b>Role Level</b> </entry>
+                        <entry> <b>Frequency</b> </entry>
+                        <entry>
+                            <p> <b>Course Offeror/</b> </p>
+                            <p> <b>Hyperlink</b> </p>
+                        </entry>
+                    </row>
+                </thead>
                 <tbody>
-                    <row>
-                        <entry namest="col1" nameend="col5"> 
-                     <b>Mandatory Training</b> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>Course Name</b> 
-                  </entry>
-                        <entry> 
-                     <b>Course Number</b> 
-                  </entry>
-                        <entry> 
-                     <b>Role Level</b> 
-                  </entry>
-                        <entry> 
-                     <b>Frequency</b> 
-                  </entry>
-                        <entry> 
-                     <p> 
-                        <b>Course Offeror/</b> 
-                     </p> 
-                     <p>
-                            <b>Hyperlink</b> 
-                     </p> 
-                  </entry>
-                    </row>
                     <row>
                         <entry>DoD Government-wide Commercial Purchase Card
                             Overview</entry>

@@ -1,0 +1,206 @@
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="copyright" content="(C) Copyright 2023"><meta name="DC.rights.owner" content="(C) Copyright 2023"><meta name="DC.Type" content="concept"><meta name="DC.Relation" scheme="URI" content="Appendix-EE_Chapter-14.html"><meta name="DC.Format" content="XHTML"><meta name="DC.Identifier" content="AFARS_Appendix-EE_14-6"><link rel="stylesheet" type="text/css" href="commonltr.css"><link rel="stylesheet" type="text/css" href="gsa-base.css"><title>14-6. Merchant Authorization Controls (MAC)</title></head><body><main role="main" id="AFARS_Appendix-EE_14-6"><article role="article" aria-labelledby="ariaid-title1">
+    <h1 class="title topictitle1" id="ariaid-title1">
+      <span class="ph autonumber">14-6.</span> Merchant Authorization Controls (MAC)</h1>
+    <div class="body conbody">
+        <p class="p List1">a. The servicing bank provides Merchant Authorization Controls (MAC)
+            in the form of Merchant Category Codes (MCC) and Merchant Category
+            Code Groups (MCCG). MCCs and MCCGs categorize merchants by the goods
+            and services they provide. They are used within the servicing bank’s
+            card processing system to authorize or decline purchase transactions
+            based on controls established for each GPC account. An MCC is a
+            four-character numeric code with a corresponding description that
+            reflects the merchant’s primary business. An MCCG is a logical
+            grouping of MCCs.</p>
+        <p class="p List1">b. <strong class="ph b">Merchant Category Code (MCC)</strong>. A code assigned by the
+            merchant’s bank to categorize each merchant according to the type of
+            business in which the merchant is engaged and the kinds of supplies
+            or services provided. These codes are used as authorized transaction
+            codes on a card/account to identify the types of businesses
+            providing authorized supplies or services. DPC maintains the list of
+            DoD-wide blocked MCC codes. The servicing bank uses MasterCard’s
+            Merchant Category Codes (MCCs) to categorize merchants based on the
+            types of goods or services they provide. When an A/OPC adds MCCs to
+            a Cardholder or Managing Account profile, it enables that specific
+            account to make purchases from vendors categorized under that
+            MCC.</p>
+        <p class="p List1">c. <strong class="ph b">Tier 1 MCCs</strong>. The servicing bank has placed a hard block on
+            merchants with Tier 1 (Very High Risk) MCCs. The bank will decline
+            all attempted transactions from vendors with these MCCs. Tier 1 MCCs
+            may be unblocked upon approval by the Level 2 A/OPC, on a
+            case-by-case basis. All purchases from merchants associated with
+            Tier 1 MCCs will generate a data mining case in IOD.</p>
+        <p class="p" id="AFARS_Appendix-EE_14-6__Toc101947143"></p>
+        <p class="p" id="AFARS_Appendix-EE_14-6__Toc118789494">Table 14-2: Tier 1 Hard Block Merchant Category
+            Codes</p>
+        <table class="table"><caption></caption><colgroup><col style="width:15%"><col style="width:85%"></colgroup><thead class="thead">
+                    <tr>
+                        <th class="entry" id="AFARS_Appendix-EE_14-6__entry__1"> 
+                     <strong class="ph b">Code</strong> 
+                  </th>
+                        <th class="entry" id="AFARS_Appendix-EE_14-6__entry__2"> 
+                     <strong class="ph b">Description</strong> 
+                  </th>
+                    </tr>
+                </thead><tbody class="tbody">
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">4829</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Money/Wire Transfer – Money Orders</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">5960</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Direct Marketing Insurance Services</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">5962</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Direct Marketing – Travel Related
+                            Services</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6010</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Financial Instructions – Manual Cash
+                            Disbursements</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6011</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Financial Instructions – Automated Cash
+                            Disbursements</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6012</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Merchandise and Service – Custom Financial
+                            Institution</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6051</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Quasi Cash – Merchant</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6211</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Securities – Broker and Dealers</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6532</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Payment Service Provider – Member Financial Inst.
+                            – Payment Trans. (M/C Only)</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">6533</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Payment Service Provider – Merchant – Payment
+                            Transaction (M/C Only)</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7012</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Timeshares</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7273</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Dating Services</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7276</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Services – Tax Preparation</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7297</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Massage Parlors</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7800</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Government-Owned Lotteries</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7801</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Government-Licensed On-Line Casinos (On-Line
+                            Gambling)</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7802</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Government-Licensed Horse/Dog Racing</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">7995</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Gambling Transactions</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">8651</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Political Organizations</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">8661</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Religious Organizations</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9211</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Court Cost Including Alimony and Child
+                            Support</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9222</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Fines</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9223</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Bail and Bond Payments</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9311</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Tax Payments</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9401</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">I-Purchasing Pilot</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9406</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Government Owned Lottery (Specific
+                            Countries)</td>
+                    </tr>
+                    <tr>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__1 ">9700</td>
+                        <td class="entry" headers="AFARS_Appendix-EE_14-6__entry__2 ">Automated Referral Service</td>
+                    </tr>
+                </tbody></table>
+        <p class="p List1">c. <strong class="ph b">Tier 2 MCCs</strong>. Tier 2 MCCs are considered high risk, and
+            their blocking can be customized within the servicing bank. Level 3
+            A/OPCs may authorize purchase from vendors with Tier 2 MCCs on a
+            case-by-case basis. Purchases from merchants associated with these
+            MCCs will not automatically generate a case in IOD. A complete list
+            of Tier 1 and 2 MCCs are located at <a class="xref" href="https://extranet.acq.osd.mil/dpap/pdi/pc/FOUO%20-%20DoD%20High-Risk%20MCC%20List_10%2028%2020.docx" target="_blank">DoD Tier 1 and 2 MCC Codes</a>.</p>
+        <p class="p List1">d. <strong class="ph b">MCC Blocking</strong>. MCC blocking is a designation attached to an
+            account, which prevents a specified MCC group from being charged
+            (e.g., casinos, pawn shops). The blocking is established by
+            attaching a merchant authorization control to a cardholder and/or
+            managing account. If authorized MCCs are attached and set to
+            approve, then non-authorized MCCs are effectively blocked. If
+            non-authorized MCCs are attached and set to decline, then those MCCs
+            are blocked and all other MCCs are effectively authorized.</p>
+        <p class="p List1">e. <strong class="ph b">Requests to Override an MCC Block</strong>. When requesting to
+            override an MCC block, the CH or BO must provide the following
+            information to the A/OPC.</p>
+        <p class="p">1) Merchant name and address</p>
+        <p class="p">2) Item/service description</p>
+        <p class="p">3) Exact dollar amount of the transaction</p>
+        <p class="p">4) Estimated date of the purchase</p>
+        <p class="p">5) CH name and last four digits of the card account number</p>
+        <p class="p">6) Justification for the purchase</p>
+        <p class="p">7) Description of efforts to locate a source other than the merchant
+            with the blocked MCC</p>
+        <p class="p">8) Blocked MCC, if known</p>
+        <p class="p">The Level 4 A/OPC will forward the request to the appropriate
+            higher-level A/OPC for approval. Upon approval, the Level 4 A/OPC
+            will update the merchant authorization control in the CH account to
+            allow the transaction to process. The CH asks the vendor to resubmit
+            the charge. After the transaction has processed, the Level 4 A/OPC
+            will reapply the merchant authorization control to the CH
+            account.</p>
+        <p class="p List1">f. <strong class="ph b">Erroneous MCCs</strong>. When a GPC transaction is declined due to
+            an erroneously identified code, the CH must contact the servicing
+            bank to determine what code is necessary to complete the transaction
+            with the declining merchant. The BO and CH should contact the A/OPC
+            to discuss a change to the CH’s merchant authorization controls.
+            Appropriate authorization is required when Tier 1 or Tier 2 MCC is
+            the concern.</p>
+    </div>
+<nav role="navigation" class="related-links"><div class="familylinks"><div class="parentlink"><strong>Parent topic:</strong> <a class="link AFARS_Appendix-EE_Chapter-14 AFARS_Appendix-EEAFARS_Appendix-EE_Chapter-14.htmlSubPart" href="Appendix-EE_Chapter-14.html">Chapter 14 - Prohibited and Restricted Purchases</a></div></div></nav></article></main></body></html>

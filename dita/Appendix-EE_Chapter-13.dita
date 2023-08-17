@@ -12,8 +12,12 @@
                 <colspec colnum="2" colwidth="0.8*" colname="col2"/>
                 <thead>
                     <row>
-                        <entry> <b>Description</b> </entry>
-                        <entry> <b>Frequency</b> </entry>
+                        <entry> 
+                     <b>Description</b> 
+                  </entry>
+                        <entry> 
+                     <b>Frequency</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

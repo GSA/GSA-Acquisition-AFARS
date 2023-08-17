@@ -58,11 +58,21 @@
                 <colspec colnum="5" colwidth="1.6*" colname="col5"/>
                 <thead>
                     <row>
-                        <entry> <b>Category</b> </entry>
-                        <entry> <b>Reportable</b> </entry>
-                        <entry> <b>Classification</b> </entry>
-                        <entry> <b>Definition</b> </entry>
-                        <entry> <b>Examples</b> </entry>
+                        <entry> 
+                     <b>Category</b> 
+                  </entry>
+                        <entry> 
+                     <b>Reportable</b> 
+                  </entry>
+                        <entry> 
+                     <b>Classification</b> 
+                  </entry>
+                        <entry> 
+                     <b>Definition</b> 
+                  </entry>
+                        <entry> 
+                     <b>Examples</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

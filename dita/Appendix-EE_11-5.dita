@@ -48,9 +48,15 @@
                 <colspec colnum="3" colwidth="1*" colname="col3"/>
                 <thead>
                     <row>
-                        <entry> <b>Action</b> </entry>
-                        <entry> <b>Review Cycle Milestones</b> </entry>
-                        <entry> <b>Compliance Mechanism</b> </entry>
+                        <entry> 
+                     <b>Action</b> 
+                  </entry>
+                        <entry> 
+                     <b>Review Cycle Milestones</b> 
+                  </entry>
+                        <entry> 
+                     <b>Compliance Mechanism</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

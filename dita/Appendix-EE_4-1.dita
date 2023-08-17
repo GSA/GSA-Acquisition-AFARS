@@ -73,18 +73,30 @@
                 <colspec colnum="5" colwidth="1.7*" colname="col5"/>
                 <thead>
                     <row>
-                        <entry
-                            namest="col1"
-                            nameend="col5"> <b>Mandatory Training</b> </entry>
+                        <entry namest="col1" nameend="col5"> 
+                     <b>Mandatory Training</b> 
+                  </entry>
                     </row>
                     <row>
-                        <entry> <b>Course Name</b> </entry>
-                        <entry> <b>Course Number</b> </entry>
-                        <entry> <b>Role Level</b> </entry>
-                        <entry> <b>Frequency</b> </entry>
+                        <entry> 
+                     <b>Course Name</b> 
+                  </entry>
+                        <entry> 
+                     <b>Course Number</b> 
+                  </entry>
+                        <entry> 
+                     <b>Role Level</b> 
+                  </entry>
+                        <entry> 
+                     <b>Frequency</b> 
+                  </entry>
                         <entry>
-                            <p> <b>Course Offeror/</b> </p>
-                            <p> <b>Hyperlink</b> </p>
+                            <p> 
+                        <b>Course Offeror/</b> 
+                     </p>
+                            <p> 
+                        <b>Hyperlink</b> 
+                     </p>
                         </entry>
                     </row>
                 </thead>

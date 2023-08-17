@@ -8,20 +8,16 @@
       <ph props="autonumber">5109.403</ph> Definitions.</title>
    <conbody>
       <p id="rWFdNN">“The Army suspension and debarment official,” as used in this subpart, means –</p>
-      <p id="lNEffO" outputclass="List2">
-         (1) Director, Soldier &amp; Family Legal Services, or other official designated by The Judge Advocate General of the Army, pursuant to Army Regulation 27-1, to impose suspension and debarment. Use the following address:
+      <p>
+         <ph rev="Revised June 15, 2023">Director, Soldier &amp; Family Legal Services, or other official designated by The Judge Advocate General of the Army, pursuant to Army Regulation 27-1, to request imposition of suspension and/or debarment. Use the following address:</ph>
       </p>
       <p id="kfKEid" outputclass="List2">
          Army Suspension and Debarment Official
       </p>
-      <p id="AAXepr" outputclass="List2">
-         ATTN: Procurement Fraud Branch
+      <p id="AAXepr" outputclass="List2"> ATTN: Procurement Fraud <ph rev="Revised June 15, 2023">Division</ph>
       </p>
-      <p id="WvtLFv" outputclass="List2">
-         U.S. Army Legal Services Agency (USALSA)
-      </p>
-      <p id="RxLvgu" outputclass="List2">
-         Contract and Fiscal Law Division
+      <p outputclass="List2">
+         <ph rev="Revised June 15, 2023">Office of The Judge Advocate General</ph> 
       </p>
       <p id="nlEvfX" outputclass="List2">
          9275 Gunston Road, Building 1450, Suite 2100
@@ -29,35 +25,10 @@
       <p id="TyPAVI" outputclass="List2">
          Fort Belvoir, VA 22060-5546;
       </p>
-      <p id="nKRcXw" outputclass="List2">
-         send electronic submissions to
-         <xref format="mailto"
-               href="mailto:usarmy.pentagon.hqda-otjag.list.usalsa-kfld-pfb@mail.mil"
-               scope="external">
-            <u>usarmy.pentagon.hqda-otjag.list.usalsa-kfld-pfb@mail.mil</u>
-         </xref>
-         ; or
-      </p>
-      <p id="Vilfob" outputclass="List2">(2) For specific issues outside the contiguous United States –</p>
-      <p id="PXbwrg" outputclass="List3">(i) In the United States Army Europe and Seventh Army area of responsibility, the Deputy Judge Advocate, at the following address:</p>
-      <p id="UlSqPg" outputclass="List3">U.S. Army Europe</p>
-      <p id="cGNwzI" outputclass="List3">Office of the Judge Advocate</p>
-      <p id="IjHbHg" outputclass="List3">Unit 29355, Box 0032</p>
-      <p id="nJMPye" outputclass="List3">APO AE 09005-9355;</p>
-      <p id="dKvHJw" outputclass="List3">send electronic submissions to <xref format="mailto"
-               href="mailto:usarmy.wiesbaden.usareur.mbx.oja-procurement-fraud@mail.mil"
-               scope="external">
-            <u>usarmy.wiesbaden.usareur.mbx.oja-procurement-fraud@mail.mil</u>
-         </xref>; or</p>
-      <p id="tVDCRH" outputclass="List3">(ii) In the United States Eighth Army, Korea, area of responsibility, the Staff Judge Advocate, U.S. Eighth Army, at the following address:</p>
-      <p id="yHpVUj" outputclass="List3">U.S. Eighth Army</p>
-      <p id="nSLwfW" outputclass="List3">PSC 303, Box 47</p>
-      <p id="qpRiAk" outputclass="List3">APO AP 96205;</p>
-      <p id="kwnJZw" outputclass="List3">send electronic submissions to <xref format="mailto"
-               href="mailto:usarmy.youngsan.8-army.mbx.administrative-law@mail.mil"
-               scope="external">
-            <u>usarmy.youngsan.8-army.mbx.administrative-law@mail.mil</u>
-         </xref>; or</p>
-      <p id="guREWV" outputclass="List3">(iii) For all other locations, see paragraph (1) of this definition.</p>
+      <p id="nKRcXw" outputclass="List2"> send electronic submissions to <ph rev="Revised June 15, 2023">
+            <xref format="mailto"
+                  href="mailto:usarmy.pentagon.hqda-otjag.list.pfd@mail.mil"
+                  scope="external"> mailto:usarmy.pentagon.hqda-otjag.list.pfd@mail.mil</xref>
+         </ph>.</p>
    </conbody>
 </concept>

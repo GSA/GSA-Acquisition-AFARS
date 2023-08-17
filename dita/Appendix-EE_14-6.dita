@@ -41,8 +41,12 @@
                 <colspec colnum="2" colwidth="1.7*" colname="col2"/>
                 <thead>
                     <row>
-                        <entry> <b>Code</b> </entry>
-                        <entry> <b>Description</b> </entry>
+                        <entry> 
+                     <b>Code</b> 
+                  </entry>
+                        <entry> 
+                     <b>Description</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

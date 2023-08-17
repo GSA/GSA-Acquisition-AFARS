@@ -6,8 +6,7 @@
       <ph props="autonumber">14-5.</ph> Split Purchases</title>
    <conbody>
       
-         <p
-                  outputclass="List1">a. A split purchase is the intentional
+         <p outputclass="List1">a. A split purchase is the intentional
                   breaking down of a known requirement to stay within a CH’s
                   single purchase limit or the MPT to avoid other procurement
                   methods or competition requirements. Split purchases are
@@ -16,60 +15,49 @@
                   office. Cardholders and A/OPCs should check with their legal
                   advisor if unsure whether a proposed purchase would be
                   considered split.</p>
-         <p
-                  outputclass="List1">b. The requirement is the total quantity
+         <p outputclass="List1">b. The requirement is the total quantity
                   and price known at the time of purchase. If a CH purchases as
                   they become aware of a requirement, the requirement is each
                   purchase. If a CH consolidates purchases and buys once a day,
                   the requirement becomes what was received during that day.</p>
-         <p
-                  outputclass="List1">c. Examples of split purchases include,
+         <p outputclass="List1">c. Examples of split purchases include,
                   but are not limited to, the following:</p>
       
-      <p
-                  outputclass="List2">1) A single CH making multiple purchases
+      <p outputclass="List2">1) A single CH making multiple purchases
                   from the same merchant on the same day, the total of which
                   exceeds the single purchase limit, and the total requirement
                   was known at the time of the first purchase.</p>
-      <p
-                  outputclass="List2">2) A single CH purchasing the same/similar
+      <p outputclass="List2">2) A single CH purchasing the same/similar
                   item(s) from multiple merchants on the same day, the total of
                   which exceeds the single purchase limit, and the total was
                   known at the time of the first purchase.</p>
-      <p
-                  outputclass="List2">3) A single CH making multiple purchases
+      <p outputclass="List2">3) A single CH making multiple purchases
                   of similar items from the same or multiple merchants over a
                   period of time when the total requirement was known at time of
                   the first purchase and the value exceeds the single purchase
                   limit.</p>
-      <p
-                  outputclass="List2">4) Multiple CHs under the same supervision
+      <p outputclass="List2">4) Multiple CHs under the same supervision
                   or BO purchasing the same/similar item(s) the same day or in a
                   compressed timeframe when the total requirement is known at a
                   given time and exceeds the single purchase limit.</p>
-      <p
-                  outputclass="List2">5) Requirements exceeding the MPT (e.g.,
+      <p outputclass="List2">5) Requirements exceeding the MPT (e.g.,
                   requirements for monthly recurring services, in which the
                   monthly payment is less than the applicable services MPT, but
                   the known yearly total exceeds the MPT).</p>
       
-         <p
-                  outputclass="List1">d. <b>What is not a Split Purchase</b>.
+         <p outputclass="List1">d. <b>What is not a Split Purchase</b>.
                   Sometimes transactions appear like a split purchase, but they
                   do not meet the definition and are allowable to purchase with
                   the GPC. See common examples below:</p>
-         <p
-                  outputclass="List2">1) Multiple purchases to the same vendor
+         <p outputclass="List2">1) Multiple purchases to the same vendor
                   which do not exceed the single purchase limit or MPT.
                   <b>Example</b>. A CH makes two separate $100 purchases from
                   the same vendor on the same day. This situation is not a split
                   purchase because the combined total of $200 is below the
                   MPT.</p>
-         <p
-                  outputclass="List1">2) Multiple purchases to the same vendor
+         <p outputclass="List1">2) Multiple purchases to the same vendor
                   when the CH purchases as requirements are received.</p>
-         <p
-                  outputclass="List1">(a) <b>Example</b>. A CH receives a $4,000
+         <p outputclass="List1">(a) <b>Example</b>. A CH receives a $4,000
                   purchase request in the morning. He obtains funding and
                   approval and places the order. In the afternoon, the CH
                   receives an $8,000 purchase request to buy items from the same

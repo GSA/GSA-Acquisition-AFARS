@@ -13,8 +13,12 @@
                 <colspec colnum="2" colwidth="1.4*" colname="col2"/>
             <thead>
                <row>
-                  <entry> <b>Regulatory Reference</b> </entry>
-                  <entry> <b>Supplies and Services</b> </entry>
+                  <entry> 
+                     <b>Regulatory Reference</b> 
+                  </entry>
+                  <entry> 
+                     <b>Supplies and Services</b> 
+                  </entry>
                </row>
             </thead>
                 <tbody>

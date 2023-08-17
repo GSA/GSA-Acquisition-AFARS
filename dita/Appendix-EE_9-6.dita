@@ -34,10 +34,18 @@
                 <colspec colnum="4" colwidth="1.1*" colname="col4"/>
                 <thead>
                     <row>
-                        <entry> <b>Commodity</b> </entry>
-                        <entry> <b>Examples</b> </entry>
-                        <entry> <b>Mandatory Source</b> </entry>
-                        <entry> <b>Specific Instructions</b> </entry>
+                        <entry> 
+                     <b>Commodity</b> 
+                  </entry>
+                        <entry> 
+                     <b>Examples</b> 
+                  </entry>
+                        <entry> 
+                     <b>Mandatory Source</b> 
+                  </entry>
+                        <entry> 
+                     <b>Specific Instructions</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

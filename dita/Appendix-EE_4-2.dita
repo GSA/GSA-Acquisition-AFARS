@@ -18,10 +18,9 @@
                 <colspec colnum="5" colwidth="1.7*" colname="col5"/>
                 <thead>
                     <row>
-                        <entry
-                            namest="col1"
-                            nameend="col5"
-                            id="Toc532909297"> <b>Recommended Training</b> </entry>
+                        <entry namest="col1" nameend="col5" id="Toc532909297"> 
+                     <b>Recommended Training</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

@@ -9,73 +9,27 @@
    </title>
    <conbody>
       <table id="table_sfm_q2m_gg56481">
-         <tgroup
-            cols="15"
-            colsep="1"
-            rowsep="1">
-            <colspec
-               colnum="1"
-               colname="col1"
-               colwidth="1*"/>
-            <colspec
-               colnum="2"
-               colname="col2"
-               colwidth="5*"/>
-            <colspec
-               colnum="3"
-               colname="col3"
-               colwidth="20*"/>
-            <colspec
-               colnum="4"
-               colname="col4"
-               colwidth="2.18*"/>
-            <colspec
-               colnum="5"
-               colname="col5"
-               colwidth="1.75*"/>
-            <colspec
-               colnum="6"
-               colname="col6"
-               colwidth="1.24*"/>
-            <colspec
-               colnum="7"
-               colname="col7"
-               colwidth="1.56*"/>
-            <colspec
-               colnum="8"
-               colname="col8"
-               colwidth="2.49*"/>
-            <colspec
-               colnum="9"
-               colname="col9"
-               colwidth="1.51*"/>
-            <colspec
-               colnum="10"
-               colname="col10"
-               colwidth="1.16*"/>
-            <colspec
-               colnum="11"
-               colname="col11"
-               colwidth="4*"/>
-            <colspec
-               colnum="12"
-               colname="col12"
-               colwidth="2.6*"/>
-            <colspec
-               colnum="13"
-               colname="col13"
-               colwidth="1.91*"/>
-            <colspec
-               colnum="14"
-               colname="col14"
-               colwidth="1.16*"/>
-            <colspec
-               colnum="15"
-               colname="col15"
-               colwidth="10*"/>
+         <tgroup cols="15" colsep="1" rowsep="1">
+            <colspec colnum="1" colname="col1" colwidth="1*"/>
+            <colspec colnum="2" colname="col2" colwidth="5*"/>
+            <colspec colnum="3" colname="col3" colwidth="20*"/>
+            <colspec colnum="4" colname="col4" colwidth="2.18*"/>
+            <colspec colnum="5" colname="col5" colwidth="1.75*"/>
+            <colspec colnum="6" colname="col6" colwidth="1.24*"/>
+            <colspec colnum="7" colname="col7" colwidth="1.56*"/>
+            <colspec colnum="8" colname="col8" colwidth="2.49*"/>
+            <colspec colnum="9" colname="col9" colwidth="1.51*"/>
+            <colspec colnum="10" colname="col10" colwidth="1.16*"/>
+            <colspec colnum="11" colname="col11" colwidth="4*"/>
+            <colspec colnum="12" colname="col12" colwidth="2.6*"/>
+            <colspec colnum="13" colname="col13" colwidth="1.91*"/>
+            <colspec colnum="14" colname="col14" colwidth="1.16*"/>
+            <colspec colnum="15" colname="col15" colwidth="10*"/>
             <thead>
                <row>
-                  <entry><ph>Part</ph></entry>
+                  <entry>
+                     <ph>Part</ph>
+                  </entry>
                   <entry>Title of Section</entry>
                   <entry>Description of Authority</entry>
                   <entry>Federal Reference (FAR)</entry>
@@ -1252,8 +1206,7 @@
                <row>
                   <entry>10</entry>
                   <entry>Market Research - Procedures</entry>
-                  <entry
-                     dir="ltr">Document the results of market research in a manner appropriate to the size and complexity of the acquisition. </entry>
+                  <entry dir="ltr">Document the results of market research in a manner appropriate to the size and complexity of the acquisition. </entry>
                   <entry>10.002(e) </entry>
                   <entry>Agency Head</entry>
                   <entry>Yes</entry>

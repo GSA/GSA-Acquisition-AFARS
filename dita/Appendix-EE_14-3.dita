@@ -4,57 +4,45 @@
 <concept id="AFARS_Appendix-EE_14-3">
     <title>
       <ph props="autonumber">14-3.</ph> Prohibited Transactions</title>
-    <conbody
-        outputclass="List1">
+    <conbody outputclass="List1">
         <p>The following list identifies supplies and services that are
             prohibited from purchase with the GPC.</p>
-        <p
-            outputclass="List1">a. Aircraft fuel and oil. The Air card is the
+        <p outputclass="List1">a. Aircraft fuel and oil. The Air card is the
             appropriate procurement method. </p>
-        <p
-            outputclass="List1">b. Auto Insurance for Government-owned vehicles. </p>
-        <p
-            outputclass="List1">c. Bail and Bond Payments. </p>
-        <p
-            outputclass="List1">d. Betting, casino gaming chips, and off-track
+        <p outputclass="List1">b. Auto Insurance for Government-owned vehicles. </p>
+        <p outputclass="List1">c. Bail and Bond Payments. </p>
+        <p outputclass="List1">d. Betting, casino gaming chips, and off-track
             betting. </p>
-        <p
-            outputclass="List1">e. Cash advances, including money orders and
+        <p outputclass="List1">e. Cash advances, including money orders and
             travelers’ checks. </p>
-        <p
-            outputclass="List1">f. Court costs, alimony, and child support. </p>
-        <p
-            outputclass="List1">g. Cyber Security Prohibitions. IOD creates DM
+        <p outputclass="List1">f. Court costs, alimony, and child support. </p>
+        <p outputclass="List1">g. Cyber Security Prohibitions. IOD creates DM
             cases for all transactions with these company names. These
             prohibitions are for the purposes of public safety, security of
             Government facilities, physical security surveillance of critical
             infrastructure, and other national security purposes.</p>
         <p>Table 14-1 – Cyber Security Prohibitions Summary</p>
         <table>
-            <tgroup
-                cols="3">
-                <colspec
-                    colnum="1"
-                    colwidth="1*"
-                    colname="col1"/>
-                <colspec
-                    colnum="2"
-                    colwidth="1*"
-                    colname="col2"/>
-                <colspec
-                    colnum="3"
-                    colwidth="1*"
-                    colname="col3"/>
+            <tgroup cols="3">
+                <colspec colnum="1" colwidth="1*" colname="col1"/>
+                <colspec colnum="2" colwidth="1*" colname="col2"/>
+                <colspec colnum="3" colwidth="1*" colname="col3"/>
                 <tbody>
                     <row>
                         <entry>
-                            <p> <b>Prohibition</b> </p>
+                            <p> 
+                        <b>Prohibition</b> 
+                     </p>
                         </entry>
                         <entry>
-                            <p> <b>Company</b> </p>
+                            <p> 
+                        <b>Company</b> 
+                     </p>
                         </entry>
                         <entry>
-                            <p> <b>Also Prohibited</b> </p>
+                            <p> 
+                        <b>Also Prohibited</b> 
+                     </p>
                         </entry>
                     </row>
                     <row>
@@ -97,18 +85,13 @@
                 </tbody>
             </tgroup>
         </table>
-        <p
-            outputclass="List1">h. <b>Dating and escort services</b>.</p>
-        <p
-            outputclass="List1">i. <b>Equal Employment Opportunity (EEO)
+        <p outputclass="List1">h. <b>Dating and escort services</b>.</p>
+        <p outputclass="List1">i. <b>Equal Employment Opportunity (EEO)
             settlements</b>.</p>
-        <p
-            outputclass="List1">j. <b>Fines</b>. Use of the GPC to settle a
+        <p outputclass="List1">j. <b>Fines</b>. Use of the GPC to settle a
             commercial or governmental fine is generally prohibited.</p>
-        <p
-            outputclass="List1">k. <b>Foreign currency</b>.</p>
-        <p
-            outputclass="List1">l. <b>Gift Certificates and Gift Cards</b>.
+        <p outputclass="List1">k. <b>Foreign currency</b>.</p>
+        <p outputclass="List1">l. <b>Gift Certificates and Gift Cards</b>.
             Buying gift certificates and cards is generally prohibited.
             Exception: Gift certificates and gift cards are considered to be
             cash advances and must not be purchased with the GPC, even to obtain
@@ -119,33 +102,23 @@
             with IRS regulations. The Department is required to file a form
             1099-MISC for payments to individuals totaling more than $600 in a
             tax year. </p>
-        <p
-            outputclass="List1">m. <b>Kaspersky Lab</b>. Prohibits the use of
+        <p outputclass="List1">m. <b>Kaspersky Lab</b>. Prohibits the use of
             hardware, software, and services of Kaspersky Lab and its related
             entities by the Federal Government.</p>
-        <p
-            outputclass="List1">n. <b>Military personnel or civilian employee
+        <p outputclass="List1">n. <b>Military personnel or civilian employee
             purchases</b> (e.g., when Government employees are acting as
             vendors). </p>
-        <p
-            outputclass="List1">o. <b>Personal use Purchases</b>.</p>
-        <p
-            outputclass="List1">p. <b>Pharmaceuticals</b>. Pharmaceuticals must
+        <p outputclass="List1">o. <b>Personal use Purchases</b>.</p>
+        <p outputclass="List1">p. <b>Pharmaceuticals</b>. Pharmaceuticals must
             be purchased through the DLA supply system.</p>
-        <p
-            outputclass="List1">q. <b>Repair of leased GSA vehicles</b>. The
+        <p outputclass="List1">q. <b>Repair of leased GSA vehicles</b>. The
             fleet card is the appropriate method for these repairs.</p>
-        <p
-            outputclass="List1">r. <b>Salaries and Wages</b>.</p>
-        <p
-            outputclass="List1">s. <b>Savings bonds</b>.</p>
-        <p
-            outputclass="List1">t. <b>Taxes</b> (e.g., personal taxes).</p>
-        <p
-            outputclass="List1">u. <b>Telecommunication Systems</b> (e.g., the
+        <p outputclass="List1">r. <b>Salaries and Wages</b>.</p>
+        <p outputclass="List1">s. <b>Savings bonds</b>.</p>
+        <p outputclass="List1">t. <b>Taxes</b> (e.g., personal taxes).</p>
+        <p outputclass="List1">u. <b>Telecommunication Systems</b> (e.g., the
             Federal Telecommunications System or DSN system).</p>
-        <p
-            outputclass="List1">v. <b>Travel Related Expenses, Advances, or
+        <p outputclass="List1">v. <b>Travel Related Expenses, Advances, or
             Claims</b>. Use of the GPC to purchase travel or travel related
             expenses is prohibited in accordance with the DPC 20 Dec 2018
             memorandum titled “Prohibition on Use of Government Purchase Card
@@ -158,12 +131,10 @@
             permanent duty station, miles to other sites, cost of fares) to
             determine whether the Government is responsible for the travel
             expense.</p>
-        <p
-            outputclass="List1">w. <b>Video Surveillance Cameras</b>. Use of the
+        <p outputclass="List1">w. <b>Video Surveillance Cameras</b>. Use of the
             GPC to purchase video surveillance cameras is prohibited in the DPC
             15 August 2018 memorandum titled “Government-Wide Commercial
             Purchase Card Prohibited Purchases.”</p>
-        <p
-            outputclass="List1">x. <b>Wire transfers</b>.</p>
+        <p outputclass="List1">x. <b>Wire transfers</b>.</p>
     </conbody>
 </concept>

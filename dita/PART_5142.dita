@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5142</ph> - Contract Administration and Audit Services</title>
       <body>
          <p>
-            <i>(Revised 10 February 2023)</i>
+            <i>(Revised 15 June 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -38,6 +38,11 @@
                         <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5142.1904.dita#AFARS_5142.1904">5142.190-4 Overage Audit Review Boards.</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised June 15, 2023">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.1905.dita#AFARS_5142.1905">5142.190-5 Overage Audit Review Boards.</xref>
                            </p>
                         </li>
                      </ul>

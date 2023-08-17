@@ -15,13 +15,17 @@
                 <colspec colnum="2" colwidth="0.7*" colname="col2"/>
                 <thead>
                     <row>
-                        <entry
-                            namest="col1"
-                            nameend="col2"> <b>Supplies</b> </entry>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>Supplies</b> 
+                  </entry>
                     </row>
                     <row>
-                        <entry> <b>Government Purchaser’s Physical Location</b> </entry>
-                        <entry> <b>Authorized MPT</b> </entry>
+                        <entry> 
+                     <b>Government Purchaser’s Physical Location</b> 
+                  </entry>
+                        <entry> 
+                     <b>Authorized MPT</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>
@@ -90,14 +94,18 @@
                 <colspec colnum="2" colwidth="0.6*" colname="col2"/>
                 <thead>
                     <row>
-                        <entry
-                            namest="col1"
-                            nameend="col2"> <b>GPC Micro-purchase Threshold –
-                            Convenience Checks (CC)</b> </entry>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>GPC Micro-purchase Threshold –
+                            Convenience Checks (CC)</b> 
+                  </entry>
                     </row>
                     <row>
-                        <entry> <b>Government Purchaser’s Physical Location</b> </entry>
-                        <entry> <b>Authorized MPT</b> </entry>
+                        <entry> 
+                     <b>Government Purchaser’s Physical Location</b> 
+                  </entry>
+                        <entry> 
+                     <b>Authorized MPT</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

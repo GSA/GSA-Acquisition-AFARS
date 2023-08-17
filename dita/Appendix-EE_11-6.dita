@@ -48,10 +48,10 @@
                 <colspec colnum="2" colwidth="1*" colname="col2"/>
                 <thead>
                     <row>
-                        <entry
-                            namest="col1"
-                            nameend="col2"> <b>Monthly Review Completion
-                            Timeframe</b> </entry>
+                        <entry namest="col1" nameend="col2"> 
+                     <b>Monthly Review Completion
+                            Timeframe</b> 
+                  </entry>
                     </row>
                 </thead>
                 <tbody>

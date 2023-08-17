@@ -6,13 +6,14 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5105</ph> - Publicizing Contract Actions</title>
       <body>
+         <p>(<i>Revised 09 August 2023</i>)</p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5105.1.dita#AFARS_Subpart_5105.1">Subpart 5105.1 - Dissemination of Information</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised June 15, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5105.101.dita#AFARS_5105.101">5105.101 Methods of disseminating information.</xref>
                      </p>

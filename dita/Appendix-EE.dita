@@ -3,13 +3,9 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="AFARS_Appendix-EE">
-      <title
-         class="- topic/title "
-         outputclass="1 heading Ctr"> <ph
-         class="- topic/ph "
-         props="autonumber">APPENDIX - EE</ph>  DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD OPERATING PROCEDURES</title>
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">APPENDIX - EE</ph>  DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD OPERATING PROCEDURES</title>
       <body>
-         <p>22 July 2015</p>
          <ul otherprops="TOC">
             <li>
                <p>

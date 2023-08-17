@@ -7,7 +7,8 @@
     <conbody>
         <p>The Army must follow all the necessary internal contracting procedures before starting the Payment Card Process. The CH has a GPC that is embossed and established for only “Contract Payments.” The RM builds the managing account with Account Validation Control (AVC) “EDI CP GFEBS.” Cardholder creates a manual purchase order for each contract. Cardholder provides the same card information to the contractor as they would for a purchase to the merchant. The person within the agency responsible for the payments is the BO who will certify the invoice “transaction(s)” for payment to the bank.</p>
         <p id="Toc118789501">Figure 15-1: Payment Card Process Flow</p>
-        <p> <image
-      href="Graphics/image22.png"/> </p>
+        <p> 
+         <image href="Graphics/image22.png"/> 
+      </p>
     </conbody>
 </concept>

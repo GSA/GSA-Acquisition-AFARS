@@ -13,10 +13,16 @@
                 <colspec colnum="2" colwidth="0.5*" colname="col2"/>
                 <thead>
                     <row>
-                        <entry> <b>Funds Center Name</b> </entry>
+                        <entry> 
+                     <b>Funds Center Name</b> 
+                  </entry>
                         <entry>
-                            <p> <b>Distribution</b> </p>
-                            <p> <b>Method</b> </p>
+                            <p> 
+                        <b>Distribution</b> 
+                     </p>
+                            <p> 
+                        <b>Method</b> 
+                     </p>
                         </entry>
                     </row>
                 </thead>

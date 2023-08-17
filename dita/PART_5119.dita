@@ -6,13 +6,15 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5119</ph> - Small Business Programs</title>
       <body>
+         <p>
+            <i>(17 May 2023</i>)</p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5119.2.dita#AFARS_Subpart_5119.2">Subpart 5119.2 - Policies</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised May 17, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5119.201.dita#AFARS_5119.201">5119.201 General policy.</xref>
                      </p>

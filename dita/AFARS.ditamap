@@ -6237,14 +6237,7 @@
                       outputclass="subtopic"
                       xtrf="subtopic"
                       xtrc="AFARS_5142.1904.html"/>
-            <topicref href="5142.1905.dita"
-                      navtitle="5142.190-5 Overage Audit Review Boards."
-                      outputclass="subtopic"
-                      props="5142.190-5"
-                      audience="AFARS_5142.1905"
-                      xtrf="subtopic"
-                      base="concept"
-                      xtrc=""/>
+            <topicref href="5142.1905.dita" navtitle="5142.190-5 Processing Audit Findings." outputclass="subtopic" props="5142.190-5" audience="AFARS_5142.1905" xtrf="subtopic" base="concept" xtrc=""/>
          </topicref>
       </topicref>
       <topicref href="Subpart_5142.2.dita"

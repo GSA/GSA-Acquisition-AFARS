@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept
-   xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-   id="AFARS_5153.217"
-   xml:lang="en-US"
-   ditaarch:DITAArchVersion="1.3">
-   <title
-      outputclass="Heading 4"
-      rev="Revised April 11, 2023"> <ph
-      props="autonumber">5153.217-90</ph> Instructions for Congressional Notification Requirement When Utilizing Army Class Deviation 2023-PP02 Multiyear Procurement Authority for Certain Munitions, dated 11 April 2023.</title>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5153.21790" xml:lang="en-US" ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4"> <ph props="autonumber">5153.217-90</ph> Instructions for Congressional Notification Requirement When Utilizing <ph rev="Revised September 28, 2023">Authorities Conferred by DPC Class Deviation 2023-O0003 REV 2 —Temporary Authorizations for Covered Contracts Related to Ukraine</ph>.</title>
    <conbody>
-      <p
-         rev="Revised April 11, 2023"><xref
-         href="https://spcs3.kc.army.mil/asaalt/procurement/ClassDeviations/T6JH_Army%20Class%20Deviation_MYP%201244(c)%20NDAA%20FY23_FINAL%20v4_11APR23.pdf"
-         format="pdf"
-         scope="external">Army Class Deviation 2023-PP02 Multiyear Procurement Authority for Certain Munitions</xref> implements section 1244(c) of the James M. Inhofe National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2023 (Public Law 117-263). This subsection allows the head of an agency to enter into one or more multiyear contracts, beginning in fiscal year 2023, for the procurement of certain munitions (see class deviation for complete list). The Joint Explanatory Statement that accompanies NDAA FY 2023 requires the Department to notify in writing the congressional defense committees not more than 30 days after using an authority provided in that subsection. This notification shall include the specific authority used, a description of such use, reason for such use, and expected outcome of such use. </p>
-      <p
-         rev="Revised April 11, 2023">To ensure compliance with this requirement, the ODASA(P) will task Commands via Enterprise Task Management Software Solution (ETMS2) monthly to provide a listing of applicable actions falling within the 30-day congressional notification period. A template will be provided in ETMS2 requiring data to include, but not limited to, specific authority used, a description of such use, reason for such use, and expected outcome of such use. Contracting Officers shall submit this data via ETMS2 and the ODASA(P) will review for completeness and submit to the congressional defense committees. </p>
+      <p> <ph rev="Revised September 28, 2023">DPC Class Deviation 2023-O0003 REV 2—Temporary Authorizations for Covered Contracts Related to Ukraine </ph>implements section 1244(c) of the James M. Inhofe National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2023 (Public Law 117-263). This subsection allows the head of an agency to enter into one or more multiyear contracts, beginning in fiscal year 2023, for the procurement of certain munitions (see <ph rev="Revised September 28, 2023">DPC C</ph>lass deviation for complete list). <ph rev="Revised September 28, 2023">Use of the authority at 1244(c) and DPC Class Devation REV 2 paragraph (G) requires the Department to notify in writing the congressional defense committees and DPC within 7-days after award.</ph> This notification shall include the specific authority used, a description of such use, reason for such use, expected outcome of such use,<ph rev="Revised September 28, 2023"> program name, contract number, and
+         modifiaton number, if applicable, total estimated contract value (including options), contracting activity, contractor name and CAGE code, quantities, Contracting Officers shall submit congressional defense and DPC notification for HQDA review, coordination, and/or approval via ETMS2 to the ODASA(P) directorate listed at AFARS 5101.290(b)(1)(ii)(B) within one-day after award in order to meet the congressional defense committees and DPC notification requirements.</ph>. </p>
    </conbody>
 </concept>

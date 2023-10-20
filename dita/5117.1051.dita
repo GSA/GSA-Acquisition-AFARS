@@ -9,6 +9,12 @@
       <ph props="autonumber">5117.105-1</ph> Uses.</title>
    <conbody>
       <p outputclass="List1">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may enter into a multi-year contract for supplies as described in FAR 17.105-1(b).  See Appendix GG for further delegation.</p>
-      <p outputclass="List1" rev="Revised April 11, 2023">(S-90) See Army Class Deviation 2023-PP02 Subject: Multiyear Procurement Authority for Certain Munitions, dated 11 April 2023.</p>
+      <p> 
+         <ph rev="Revised September 28, 2023">
+            <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA002011-23-DPC.pdf"
+                  format="html"
+                  scope="external">See DPC Class Deviation 2023-O0003 REV 2—Temporary Authorizations for Covered Contracts Related to Ukraine.</xref>
+         </ph>
+      </p>
    </conbody>
 </concept>

@@ -6238,13 +6238,13 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5142.1904.html"/>
             <topicref href="5142.1905.dita"
-                      navtitle="5142.190-5 Overage Audit Review Boards."
+                      navtitle="5142.190-5 Processing Audit Findings."
                       outputclass="subtopic"
                       props="5142.190-5"
                       audience="AFARS_5142.1905"
                       xtrf="subtopic"
                       base="concept"
-                      xtrc=""/>
+                      xtrc="AFARS_5142.1905.html"/>
          </topicref>
       </topicref>
       <topicref href="Subpart_5142.2.dita"
@@ -7179,7 +7179,16 @@
                    audience="AFARS_5153.217"
                    xtrf="subtopic"
                    base="NoTitle"
-                   xtrc=""/>
+                   xtrc="">
+            <topicref href="5153.21790.dita"
+                      navtitle="5153.217-90 Instructions for Congressional Notification Requirement When Utilizing Army Class Deviation 2023-PP02 Multiyear Procurement Authority for Certain Munitions"
+                      outputclass="subtopic"
+                      props="5153.217-90"
+                      audience="AFARS_5153.217"
+                      xtrf="subtopic"
+                      base="concept"
+                      xtrc=""/>
+         </topicref>
          <topicref href="5153.233.dita"
                    navtitle="5153.233 Protests, disputes, and appeals."
                    props="5153.233"

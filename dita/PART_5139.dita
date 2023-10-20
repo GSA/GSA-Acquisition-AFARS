@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5139</ph> - Acquisition of Information Technology</title>
       <body>
          <p>
-            <i>(Revised 12 July, 2023)</i>
+            <i>(<ph rev="Revised October 18, 2023">Revised 17 October, 2023</ph>)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5139.1.dita#AFARS_Subpart_5139.1">Subpart 5139.1 - General</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised July 12, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5139.101.dita#AFARS_5139.101">5139.101 Policy.</xref>
                      </p>
@@ -34,7 +34,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5139.74.dita#AFARS_Subpart_5139.74">Subpart 5139.74 - Telecommunications Services</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised July 12, 2023">
+                  <li rev="Revised October 17, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5139.7402.dita#AFARS_5139.7402">5139.7402 Policy.</xref>
                      </p>

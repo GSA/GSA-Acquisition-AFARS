@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5118</ph> - Emergency Acquisitions</title>
       <body>
          <p>
-            <i>(Revised 13 January 2023)</i>
+            <i>(<ph rev="Revised September 28, 2023">Revised 28 September 2023</ph>)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5118.1.dita#AFARS_Subpart_5118.1">Subpart 5118.1 - Available Acquisition Flexibilities</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="FAC 2023-05 September 22, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5118.170.dita#AFARS_5118.170">5118.170 Additional acquisition flexibilities.</xref>
                      </p>
@@ -32,7 +32,7 @@
                         <xref outputclass="fm:TOC" href="5118.201.dita#AFARS_5118.201">5118.201 Contingency operation.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised September 28, 2023">
                      <p>
                         <xref outputclass="fm:TOC" href="5118.202.dita#AFARS_5118.202">5118.202 Defense or Recovery from Certain Events.</xref>
                      </p>

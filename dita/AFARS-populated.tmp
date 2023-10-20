@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod" rev="Revised June 15, 2023">
+<map title="AFARS" outputclass="dod" rev="Revised October 18, 2023">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -6238,12 +6238,13 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5142.1904.html"/>
             <topicref href="5142.1905.dita"
-                      navtitle="5142.190-5 Overage Audit Review Boards."
+                      navtitle="5142.190-5 Processing Audit Findings."
                       outputclass="subtopic"
                       props="5142.190-5"
                       audience="AFARS_5142.1905"
                       xtrf="subtopic"
-                      base="concept"/>
+                      base="concept"
+                      xtrc=""/>
          </topicref>
       </topicref>
       <topicref href="Subpart_5142.2.dita"
@@ -7178,7 +7179,15 @@
                    audience="AFARS_5153.217"
                    xtrf="subtopic"
                    base="NoTitle"
-                   xtrc=""/>
+                   xtrc="">
+            <topicref href="5153.21790.dita"
+                      navtitle="5153.217-90 Instructions for Congressional Notification Requirement When Utilizing Army Class Deviation 2023-PP02 Multiyear Procurement Authority for Certain Munitions"
+                      outputclass="subtopic"
+                      props="5153.217-90"
+                      audience="AFARS_5153.217"
+                      xtrf="subtopic"
+                      base="concept"/>
+         </topicref>
          <topicref href="5153.233.dita"
                    navtitle="5153.233 Protests, disputes, and appeals."
                    props="5153.233"
@@ -7722,7 +7731,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="BB–100"
-                   xtrc="AFARS_AppendixBB-100.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-101.dita"
                    navtitle="BB–101 Purpose."
                    base="NoTitle"
@@ -7730,7 +7739,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="BB–101"
-                   xtrc="AFARS_AppendixBB-101.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-102.dita"
                    navtitle="BB–102 Instructions."
                    base="NoTitle"
@@ -7738,7 +7747,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="BB–102"
-                   xtrc="AFARS_AppendixBB-102.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-103.dita"
                    navtitle="BB–103 Additional Instructions for Contingency Contracting Functions Outside the Contiguous United States."
                    base="NoTitle"
@@ -7746,7 +7755,7 @@
                    outputclass="subtopic"
                    xtrf="subtopic"
                    props="BB–103"
-                   xtrc="AFARS_AppendixBB-103.html"/>
+                   xtrc=""/>
       </topicref>
       <topicref href="AppendixBB_Part_2.dita"
                 navtitle="Part 2 - Contracting Test Questions"
@@ -7763,7 +7772,7 @@
                    audience="AFARS_AppendixBB-200"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB-200.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-201.dita"
                    navtitle="BB-201 Event Cycle 2: Presolicitation."
                    props="BB-201"
@@ -7771,7 +7780,7 @@
                    audience="AFARS_AppendixBB-201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB-201.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-202.dita"
                    navtitle="BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award."
                    props="BB-202"
@@ -7779,7 +7788,7 @@
                    audience="AFARS_AppendixBB-202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB-202.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-203.dita"
                    navtitle="BB-203 Event Cycle 4: Contract Administration."
                    props="BB-203"
@@ -7787,7 +7796,7 @@
                    audience="AFARS_AppendixBB-203"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB-203.html"/>
+                   xtrc=""/>
          <topicref href="AppendixBB-204.dita"
                    navtitle="BB-204 Event Cycle 5: Special Acquisition Situations and Requirements."
                    props="BB-204"
@@ -7795,7 +7804,7 @@
                    audience="AFARS_AppendixBB-204"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_AppendixBB-204.html"/>
+                   xtrc=""/>
       </topicref>
    </topicref>
    <topicref href="Appendix-CC.dita"
@@ -7820,7 +7829,7 @@
                    audience="AFARS_Appendix-CC-100"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-100.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-101.dita"
                    navtitle="CC-101 Mission and Objectives."
                    props="CC-101"
@@ -7828,7 +7837,7 @@
                    audience="AFARS_Appendix-CC-101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-101.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-102.dita"
                    navtitle="CC-102 Applicability."
                    props="CC-102"
@@ -7836,13 +7845,13 @@
                    audience="AFARS_Appendix-CC-102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-102.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-103.dita"
                    navtitle="CC-103 ACE Contracting Risk Management."
                    props="CC-103"
                    audience="AFARS_Appendix-CC-103"
                    outputclass="subtopic"
-                   xtrc="AFARS_Appendix-CC-103.html"
+                   xtrc=""
                    xtrf="subtopic"
                    base="NoTitle"/>
          <topicref href="Appendix-CC-104.dita"
@@ -7850,7 +7859,7 @@
                    props="CC-104"
                    audience="AFARS_Appendix-CC-104"
                    outputclass="subtopic"
-                   xtrc="AFARS_Appendix-CC-104.html"
+                   xtrc=""
                    xtrf="subtopic"
                    base="NoTitle"/>
          <topicref href="Appendix-CC-105.dita"
@@ -7858,7 +7867,7 @@
                    props="CC-105"
                    audience="AFARS_Appendix-CC-105"
                    outputclass="subtopic"
-                   xtrc="AFARS_Appendix-CC-105.html"
+                   xtrc=""
                    xtrf="subtopic"
                    base="NoTitle"/>
       </topicref>
@@ -7877,7 +7886,7 @@
                    audience="AFARS_Appendix-CC-200"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-200.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-201.dita"
                    navtitle="CC-201 Policy."
                    props="CC-201"
@@ -7885,7 +7894,7 @@
                    audience="AFARS_Appendix-CC-201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-201.html"/>
+                   xtrc=""/>
       </topicref>
       <topicref href="Appendix-CC_Part_3.dita"
                 navtitle="Part 3 - Responsibilities"
@@ -7902,7 +7911,7 @@
                    audience="AFARS_Appendix-CC-300"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-300.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-301.dita"
                    navtitle="CC-301 Deputy Assistant Secretary of the Army for Procurement (DASA(P))."
                    props="CC-301"
@@ -7910,7 +7919,7 @@
                    audience="AFARS_Appendix-CC-302"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-302.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-302.dita"
                    navtitle="CC-302 Heads of Contracting Activities."
                    props="CC-302"
@@ -7918,7 +7927,7 @@
                    audience="AFARS_Appendix-CC-304"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-304.html"/>
+                   xtrc=""/>
       </topicref>
       <topicref href="Appendix-CC_Part_4.dita"
                 navtitle="Part 4 - Procedures"
@@ -7935,7 +7944,7 @@
                    audience="AFARS_Appendix-CC-400"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-400.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-401.dita"
                    navtitle="CC-401 Types of Procurement Management Reviews."
                    props="CC-401"
@@ -7943,7 +7952,7 @@
                    audience="AFARS_Appendix-CC-401"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-401.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-402.dita"
                    navtitle="CC-402 Preparation for Procurement Management Reviews."
                    props="CC-402"
@@ -7951,7 +7960,7 @@
                    audience="AFARS_Appendix-CC-402"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-402.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-CC-403.dita"
                    navtitle="CC-403 Results of Procurement Management Reviews."
                    props="CC-403"
@@ -7959,7 +7968,7 @@
                    audience="AFARS_Appendix-CC-403"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-403.html"/>
+                   xtrc=""/>
       </topicref>
       <topicref href="Appendix-CC_Part_5.dita"
                 navtitle="Part 5 - ACE Annual Summary Health Report"
@@ -7975,7 +7984,7 @@
                    audience="AFARS_Appendix-CC-500"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-500.html"
+                   xtrc=""
                    base="NoTitle"/>
          <topicref href="Appendix-CC-501.dita"
                    navtitle="CC-501 HCA Responsibilities."
@@ -7983,7 +7992,7 @@
                    audience="AFARS_Appendix-CC-501"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-501.html"
+                   xtrc=""
                    base="NoTitle"/>
          <topicref href="Appendix-CC-502.dita"
                    navtitle="CC-502 ODASA(P) Responsibilities."
@@ -7991,7 +8000,7 @@
                    audience="AFARS_Appendix-CC-502"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-CC-502.html"
+                   xtrc=""
                    base="NoTitle"/>
       </topicref>
       <topicref href="Appendix-CC-Annex.dita"
@@ -8025,7 +8034,7 @@
                    audience="AFARS_Appendix-DD-100"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-100.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-DD-101.dita"
                    navtitle="DD-101 Applicability."
                    props="DD-101"
@@ -8033,7 +8042,7 @@
                    audience="AFARS_Appendix-DD-101"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-101.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-DD-102.dita"
                    navtitle="DD-102 Goals."
                    props="DD-102"
@@ -8041,7 +8050,7 @@
                    audience="AFARS_Appendix-DD-102"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-102.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-DD-103.dita"
                    navtitle="DD-103 Evaluation Rating."
                    props="DD-103"
@@ -8049,7 +8058,7 @@
                    audience="AFARS_Appendix-DD-103"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-103.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-DD-104.dita"
                    navtitle="DD-104 Modification of Guide."
                    props="DD-104"
@@ -8057,7 +8066,7 @@
                    audience="AFARS_Appendix-DD-104"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-104.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-DD-105.dita"
                    navtitle="DD-105 Use of Preaward Surveys."
                    props="DD-105"
@@ -8065,7 +8074,7 @@
                    audience="AFARS_Appendix-DD-105"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-105.html"/>
+                   xtrc=""/>
       </topicref>
       <topicref href="Appendix-DD_Part_2.dita"
                 navtitle="Part 2 - Rating System"
@@ -8082,7 +8091,7 @@
                    audience="AFARS_Appendix-DD-201"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-201.html"/>
+                   xtrc=""/>
          <topicref href="Appendix-DD-202.dita"
                    navtitle="DD-202 Unacceptable Plans."
                    props="DD-202"
@@ -8090,7 +8099,7 @@
                    audience="AFARS_Appendix-DD-202"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-202.html"/>
+                   xtrc=""/>
       </topicref>
       <topicref href="Appendix-DD_Part_3.dita"
                 navtitle="Part 3 - Subcontracting Plan Requirements"
@@ -8107,7 +8116,7 @@
                    audience="AFARS_Appendix-DD-301"
                    outputclass="subtopic"
                    xtrf="subtopic"
-                   xtrc="AFARS_Appendix-DD-301.html"/>
+                   xtrc=""/>
       </topicref>
    </topicref>
    <topicref href="Appendix-EE.dita"

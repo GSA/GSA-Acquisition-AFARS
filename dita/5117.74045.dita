@@ -11,9 +11,15 @@
       <p outputclass="List1">(b) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may waive the limitations as described in <xref href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS_217.7404-5"
                format="html"
                scope="external">DFARS 217.7404-5</xref>. See Appendix GG for further delegation.</p>
-      <p>In accordance with subsection (D) of DPC 2023-O0003 - Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine, the Assistant Secretary of the Army (Acquisition, Logistics and Technology) may waive the limitations<xref href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS_217.7404"
+      <p>In accordance with subsection (D) of <ph rev="Revised September 28, 2023">
+            <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA002011-23-DPC.pdf"
+                  format="html"
+                  scope="external">DPC Class Deviation 2023-O0003 REV 2 – Temporary Authorizations for Covered Contracts Related to Ukraine</xref>
+         </ph>, the Assistant Secretary of the Army (Acquisition, Logistics and Technology) may waive the limitations<xref href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS_217.7404"
                format="html"
-               scope="external"> DFARS 217.7404</xref>(a) Foreign military sales contracts; 217.7404-3 Definitization schedule; and 217.7404-4, Limitations on obligations. See Appendix GG for further delegation. See AFARS 5153.206-93 and AFARS 5153.303-12 for instructions and sample format for reporting covered contracts applicable under this subpart to congressional defense committees. 
-      </p>
+               scope="external"> DFARS 217.7404</xref>(a) Foreign military sales contracts; 217.7404-3 Definitization schedule; and <xref scope="external"
+               format="html"
+               href="https://www.acquisition.gov/dfars/217.7404-4">217.7404-4</xref>, Limitations on obligations. See Appendix GG for further delegation. See AFARS <xref outputclass="fm:ParaNumOnly" href="5153.20693.dita"/> and AFARS <xref outputclass="fm:ParaNumOnly" href="5153.30312.dita"/> for
+         instructions and sample format for reporting covered contracts applicable under this subpart to congressional defense committees. </p>
    </conbody>
 </concept>

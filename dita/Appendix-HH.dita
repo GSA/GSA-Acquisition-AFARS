@@ -10,18 +10,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-HH_PAPWSL.dita#AFARS_Appendix-HH_PAPWSL">Policy and PWS Language</xref>
+                        href="Appendix-HH_TAB_A.dita#AFARS_Appendix-HH_TAB_A">TAB A CLIN Name PCS Description</xref>
                </p>
             </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-HH_CADS.dita#AFARS_Appendix-HH_CADS">Common and Data Services</xref>
+                        href="Appendix-HH_TAB_B.dita#AFARS_Appendix-HH_TAB_B">TAB B Cloud Contracting Language</xref>
                </p>
             </li>
             <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Appendix-HH_CSD.dita#AFARS_Appendix-HH_CSD">CLIN SLIN Descriptions</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-HH_TAB_C.dita#AFARS_Appendix-HH_TAB_C">TAB C Instructions</xref>
                </p>
             </li>
          </ul>

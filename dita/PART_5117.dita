@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5117</ph> - Special Contracting Methods</title>
       <body>
          <p>
-            <i>(<ph rev="Revised September 28, 2023">Revised 28 September 2023</ph>)</i>
+            <i>(Revised 28 September 2023)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -25,7 +25,7 @@
                         <xref outputclass="fm:TOC" href="5117.105.dita#AFARS_5117.105">5117.105 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised September 28, 2023">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5117.1051.dita#AFARS_5117.1051">5117.105-1 Uses.</xref>
                            </p>
@@ -44,7 +44,7 @@
                         </li>
                      </ul>
                   </li>
-                  <li rev="Revised September 28, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.108.dita#AFARS_5117.108">5117.108 Congressional notification.</xref>
                      </p>
@@ -149,12 +149,12 @@
                         <xref outputclass="fm:TOC" href="5117.74041.dita#AFARS_5117.74041">5117.7404-1 Authorization.</xref>
                      </p>
                   </li>
-                  <li rev="Revised September 28, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.74044.dita#AFARS_5117.74044">5117.7404-4 Limitations on obligations.</xref>
                      </p>
                   </li>
-                  <li rev="Revised September 28, 2023">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5117.74045.dita#AFARS_5117.74045">5117.7404-5 Exceptions.</xref>
                      </p>

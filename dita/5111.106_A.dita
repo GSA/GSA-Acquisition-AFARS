@@ -7,6 +7,6 @@
    <title outputclass="Heading 3">
       <ph props="autonumber">5111.106</ph> (S-90)</title>
    <conbody>
-      <p id="XygaQt" outputclass="List2">The Army Enterprise Cloud Management Office (ECMO) is the central point for all efforts and processes related to cloud adoption across the Army. The ECMO will establish a standardized cloud architecture intended for use by all Army mission areas.</p>
+      <p rev="Revised November 15, 2023">The Army Enterprise Cloud Management Agency (ECMA) is the central point for all efforts and processes related to cloud adoption across the Army. The ECMA established a standardized cloud architecture intended for use by all Army mission areas. Through ECMA, the Army must collect, consolidate, and report commercial cloud spending. To achieve this objective, ECMA implemented the Technology Business Management (TBM) taxonomy with associated General Services Administration Product Service Codes (PSCs) and Contract Line-Item Numbers (CLINs) to provide more accurate and comprehensive reporting of cloud investments. See Appendix HH – Cloud Computing for the TBM taxonomy.</p>
    </conbody>
 </concept>

@@ -10,20 +10,28 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-HH_TAB_A.dita#AFARS_Appendix-HH_TAB_A">TAB A CLIN Name PCS Description</xref>
+                        href="APPENDIX_HH_SUBPART.dita#AFARS_APPENDIX_HH_SUBPART">SUBPART APPENDIX HH - CLINS</xref>
                </p>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-HH_TAB_B.dita#AFARS_Appendix-HH_TAB_B">TAB B Cloud Contracting Language</xref>
-               </p>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Appendix-HH_TAB_C.dita#AFARS_Appendix-HH_TAB_C">TAB C Instructions</xref>
-               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-HH_TAB_A.dita#AFARS_Appendix-HH_TAB_A">TAB A CLIN Name PCS Description</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-HH_TAB_B.dita#AFARS_Appendix-HH_TAB_B">TAB B Cloud Contracting Language</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-HH_TAB_C.dita#AFARS_Appendix-HH_TAB_C">TAB C Instructions</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
          </ul>
       </body>

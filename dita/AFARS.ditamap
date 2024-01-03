@@ -3561,7 +3561,7 @@
          <topicref href="5119.815.dita"
                    props="5119.815"
                    outputclass="subtopic"
-                   navtitle="5119.815 Release for non-8(a) procurement."
+                   navtitle="5119.815 Release and notification requirements for non-8(a) procurement."
                    audience="AFARS_5119.815"
                    xtrf="subtopic"
                    xtrc=""
@@ -9441,7 +9441,7 @@
              audience="AFARS_Appendix-HH"
              xtrf="Part">
       <topicref href="APPENDIX_HH_SUBPART.dita"
-                navtitle="SUBPART APPENDIX HH - CLINS"
+                navtitle="APPENDIX HH SUBPART - CLINS"
                 outputclass="SubPart"
                 props="SUBPART APPENDIX HH"
                 audience="AFARS_APPENDIX_HH_SUBPART"

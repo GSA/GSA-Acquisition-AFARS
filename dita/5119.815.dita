@@ -4,17 +4,19 @@
 <concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
          id="AFARS_5119.815"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5119.815</ph> Release for non-8(a) procurement.</title>
-   <conbody>
-      <p outputclass="List1">(a) Where a procurement is awarded as an 8(a) contract, its follow-on
-         or renewable acquisition must remain in the 8(a) program unless SBA agrees to release it,
-         in accordance with 13 CFR § 124.504(d), FAR 19.815, and the DoD and SBA Partnership
-         Agreement. </p>
-      <p outputclass="List2">(3) Follow-on or renewable acquisitions can transition from a
-         stand-alone 8(a) acquisition to an award under a multiple award contract and still be
-         considered to remain in the 8(a) program. The original multiple award contract must have
-         been offered to and accepted by the SBA. </p>
+         ditaarch:DITAArchVersion="1.3"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">5119.815</ph> Release <ph rev="Revised November 29, 2023" class="- topic/ph ">and notification requirements</ph>  for non-8(a) procurement.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a) Where a procurement is awarded as an 8(a) contract, its follow-on or renewable acquisition <ph rev="Revised November 29, 2023" class="- topic/ph ">shall</ph> remain in the 8(a) program unless<ph rev="Revised November 29, 2023" class="- topic/ph ">–</ph> 
+      </p>
+      <p outputclass="List2" class="- topic/p ">(<ph rev="Revised November 29, 2023" class="- topic/ph ">1</ph>) SBA agrees to release it, in accordance with 13 CFR § 124.504(d), FAR 19.815, and the DoD and SBA Partnership Agreement.</p>
+      <p outputclass="List2"
+         class="- topic/p "
+         rev="Revised November 29, 2023">(2) Follow-on or renewable acquisitions can transition from a stand-alone 8(a) acquisition to There is a mandatory source in accordance with FAR <xref scope="external"
+               format="html"
+               href="https://www.acquisition.gov/far/19.815"
+               class="- topic/xref ">19.815</xref>.  </p>
    </conbody>
 </concept>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+     title="AFARS"
+     outputclass="dod"
+     ditaarch:DITAArchVersion="1.3"
+     class="- map/map ">
+   <title outputclass="Title" class="- topic/title ">AFARS</title>
+   <topicref navtitle="Volume VII - Parts 5101 to 5153"
+             href="Volume_I.dita"
+             outputclass="subtopic"
+             props="NoTitle"
+             audience="Volume_I"
+             otherprops="NoProp"
+             base="NoTitle"
+             xtrf="subtopic"
+             class="- map/topicref ">
+      <topicref navtitle="Army Federal Acquisition Regulation    Supplement"
+                href="Cover_1.dita"
+                props="NoTitle"
+                audience="Cover_1s"
+                otherprops="NoProp"
+                base="NoTitle"
+                outputclass="SubPart"
+                xtrf="SubPart"
+                xtrc="Cover_1s.html"
+                class="- map/topicref "/>
+   </topicref>
+</map>

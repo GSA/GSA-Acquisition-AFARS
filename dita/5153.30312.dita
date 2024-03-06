@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.30312"
+<concept id="AFARS_5153.30312"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3"> 
-      <ph props="autonumber">5153.303-12</ph> Format for Congressional Notification When Utilizing Authorities Conferred by DPC 2023-O0003 Class Deviation2023-O0003 REV 2—Temporary Authorizations for Covered Contracts Related to Ukraine. </title>
-   <conbody>
-      <p>The Honorable <i>(insert name)</i>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3"
+          class="- topic/title "
+          rev="Revised January 12, 2024"> 
+      <ph props="autonumber" class="- topic/ph ">5153.303-12</ph> Format for Advance Congressional Notification When Utilizing Authorities Conferred by DPC Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel. </title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p rev="Revised January 12, 2024" class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">(Note: Please submit the below information and the ODASA(P) will provide congressional addresses)</i>
       </p>
-      <p>Chairman</p>
-      <p>Committee on<i> (Insert Committee)</i>
-      </p>
-      <p>United States <i>(Senate or House of Representatives)</i>
-      </p>
-      <p>Washington, DC 20510</p>
-      <p>
-         <i>(Note: ODASA(P) will complete this information)</i>
-      </p>
-      <p> </p>
-      <p>Dear Mr. Chairman<i>/</i>
-         <i>Madam Chairwoman</i>:</p>
-      <p> This notification is provided pursuant to subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (NDAA 2023), Temporary authorizations related to Ukraine and other matters (Public Law 117-263).</p>
-      <p> </p>
-      <p> The Army Contracting Command – <i>(insert awarding contracting office and DoDAAC)</i> on behalf of Program Executive Office <i>(insert the responsible PEO)</i> , intends to award the (insert Program name) contract # <i>(insert contract number)</i> to <i>Company ABC</i> 
-         <i>(insert vendor name and Cage Code).</i> The contract period of performance is October 30, 2022 through October 30, 2023 <i>(insert quantities and/or  period of performance)</i> for <i>$12 million</i> dollars <i>(insert total contract value, inclusive of options)</i>.</p>
-      <p> </p>
-      <p>Pursuant to the authority at Title 10 U.S.C. 3204(a)(7), <i>Use of procedures other than competitive procedures, Public Interest</i> and subsection 1244(a)(2)of the FY23 NDAA, Temporary Authorizations for Covered Agreements Related to Ukraine, Public Law 117-263, this action has been determined to be in the public interest as it provides the most expeditious means to provide the government of Ukraine <i> (insert reason for using authority and expected outcome of using authority e.g. build the stocks of critical munitions and other defense articles for the DoD; provide material and related services to foreign allies and partners that have provided support to the government of Ukraine; and provide material and related services to the Government of Ukraine) </i>. </p>
-      <p> </p>
-      <p>
-         This procurement is  a “covered contract” in that it will expedite contract award and thereby advance important DoD and national objectives related to support for Ukraine, foreign allies and partners assisting Ukraine, and to replenish domestic stocks more rapidly. <i>(add other pertinent considerations)</i>. </p>
-      <p> The Department will not make award until seven days after notification to Congress. </p>
-      <p/>
-      <p> Thank you for your continued support of defense programs and our Service men and women.</p>
-      <p> </p>
-      <p outputclass="Ctr"> Sincerely,</p>
-      <p> </p>
-      <p outputclass="Ctr">Megan R. Dake</p>
-      <p outputclass="Ctr"> Deputy Assistant Secretary of </p>
-      <p outputclass="Ctr"> the Army (Procurement)</p>
+      <p rev="Revised January 12, 2024" class="- topic/p ">Dear Mr. Chairman:</p>
+      <p rev="Revised February 15, 2024" class="- topic/p "> This notification is provided pursuant to Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (FY23 NDAA) (Pub. L. 117-263), as amended by section 1242 of FY24 NDAA (Pub. L. 118-31). </p>
+      <p rev="Revised February 15, 2024" class="- topic/p "> The United States Army anticipates awarding the following contract action on or before <i class="+ topic/ph hi-d/i ">(<u class="+ topic/ph hi-d/u ">insert Month-Day-Year format</u>)</i> and is providing notification. </p>
+      <p rev="Revised January 12, 2024"
+         outputclass="List1"
+         class="- topic/p ">a. Program Name: </p>
+      <p rev="Revised January 12, 2024"
+         outputclass="List1"
+         class="- topic/p ">b. Contract number, and modification number: </p>
+      <p rev="Revised January 12, 2024"
+         outputclass="List1"
+         class="- topic/p ">c. Total estimated contract value (including Options):</p>
+      <p rev="Revised February 15, 2024"
+         outputclass="List1"
+         class="- topic/p ">d. Contracting activity name and Department of Defense Activity Address Code (DODAAC):</p>
+      <p class="- topic/p "
+         outputclass="List1"
+         rev="Revised February 15, 2024">e. Contractor name and Commercial and Government Entity (CAGE) Code:</p>
+      <p rev="Revised January 12, 2024"
+         outputclass="List1"
+         class="- topic/p ">f. Quantities and/or period of performance:</p>
+      <p rev="Revised January 12, 2024"
+         outputclass="List1"
+         class="- topic/p ">g. Reason for using the authority: </p>
+      <p rev="Revised January 12, 2024"
+         outputclass="List1"
+         class="- topic/p ">h. Expected outcome of using the authority, including estimated reductions in schedule: </p>
+      <p rev="Revised January 12, 2024" class="- topic/p "> The Department will not make award until seven (7) days after this congressional notification.</p>
+      <p rev="Revised January 12, 2024" class="- topic/p "> Thank you for your continued support of defense programs and our Service men and women. </p>
+      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p ">Sincerely, </p>
+      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p "> </p>
+      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p ">Megan R. Dake</p>
+      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p ">Deputy Assistant Secretary of</p>
+      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p "> the Army (Procurement)</p>
    </conbody>
 </concept>

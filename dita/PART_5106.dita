@@ -6,8 +6,8 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5106</ph> - Competition Requirements</title>
       <body>
-         <p>
-            <i>(Revised 28 September, 2023)</i>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(Revised <ph rev="Revised January 12, 2024" class="- topic/ph ">12 January, 2024</ph>)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -57,7 +57,7 @@
                               <xref outputclass="fm:TOC" href="5106.3025.dita#AFARS_5106.3025">5106.302-5 Authorized or required by statute.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised January 12, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5106.3027.dita#AFARS_5106.3027">5106.302-7 Public Interest.</xref>
                            </p>

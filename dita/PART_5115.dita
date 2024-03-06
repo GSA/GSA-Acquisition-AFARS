@@ -6,8 +6,8 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5115</ph> - Contracting by Negotiation</title>
       <body>
-         <p>
-            <i>(Revised 28 September, 2023)</i>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(Revised <ph rev="Revised January 12, 2024" class="- topic/ph ">12 January 2024</ph>)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -99,7 +99,7 @@
                         <xref outputclass="fm:TOC" href="5115.403.dita#AFARS_5115.403">5115.403 Obtaining certified cost or pricing data.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised January 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5115.4031.dita#AFARS_5115.4031">5115.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. 35).</xref>
                      </p>

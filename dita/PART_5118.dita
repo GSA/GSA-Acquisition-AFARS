@@ -6,8 +6,8 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5118</ph> - Emergency Acquisitions</title>
       <body>
-         <p>
-            <i>(Revised 28 September 2023)</i>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(Revised <ph rev="Revised January 12, 2024" class="- topic/ph ">12 January 2024</ph>)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5118.1.dita#AFARS_Subpart_5118.1">Subpart 5118.1 - Available Acquisition Flexibilities</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised January 12, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5118.170.dita#AFARS_5118.170">5118.170 Additional acquisition flexibilities.</xref>
                      </p>

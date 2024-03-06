@@ -1549,6 +1549,9 @@
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[4]/ul[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[4]/ul[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[5]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
@@ -1565,15 +1568,6 @@
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[6]/ul[1]/li[2]/p[1]
-     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[7]/p[1]
-     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[7]/ul[1]/li[1]/p[1]
-     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/ul[1]/li[7]/ul[1]/li[2]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[2]/p[1]
@@ -1616,6 +1610,9 @@
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[2]/ul[1]/li[1]/ul[1]/li[12]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[2]/ul[1]/li[1]/ul[1]/li[13]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/body[1]/ul[1]/li[1]/p[1]

@@ -4370,7 +4370,8 @@
              props="Part 5126"
              base="NoTitle"
              audience="AFARS_PART_5126"
-             xtrf="Part"/>
+             xtrf="Part"
+             xtrc="AFARS_PART_5126.html"/>
    <topicref href="PART_5127.dita"
              outputclass="Part"
              navtitle="Part 5127 - Patents, Data, and Copyrights"
@@ -7148,23 +7149,6 @@
                       xtrf="subtopic"
                       xtrc="AFARS_5153.21370.html"/>
          </topicref>
-         <topicref href="5153.217.dita"
-                   navtitle="5153.217 Special contracting methods."
-                   props="5153.217"
-                   outputclass="subtopic"
-                   audience="AFARS_5153.217"
-                   xtrf="subtopic"
-                   base="NoTitle"
-                   xtrc="">
-            <topicref href="5153.21790.dita"
-                      navtitle="5153.217-90 Instructions for Congressional Notification Requirement When Utilizing Army Class Deviation 2023-PP02 Multiyear Procurement Authority for Certain Munitions"
-                      outputclass="subtopic"
-                      props="5153.217-90"
-                      audience="AFARS_5153.21790"
-                      xtrf="subtopic"
-                      base="concept"
-                      xtrc="AFARS_5153.21790.html"/>
-         </topicref>
          <topicref href="5153.233.dita"
                    navtitle="5153.233 Protests, disputes, and appeals."
                    props="5153.233"
@@ -7353,6 +7337,14 @@
                       xtrf="subtopic"
                       base="NoTitle"
                       xtrc="AFARS_5153.30312.html"/>
+            <topicref href="5153.30313.dita"
+                      navtitle="5153.303-13 Format for Post Award Congressional Notification When Utilizing Authorities Conferred by DPC Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel."
+                      outputclass="subtopic"
+                      props="5153.30313"
+                      audience="AFARS_5153.30313"
+                      xtrf="subtopic"
+                      base="NoTitle"
+                      xtrc="AFARS_5153.30313.html"/>
          </topicref>
       </topicref>
    </topicref>

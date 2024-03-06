@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5118.202"
+<concept id="AFARS_5118.202"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3"> 
-      <ph props="autonumber">5118.202</ph> Defense or Recovery from Certain Events.</title>
-   <conbody>
-      <p>(c) In accordance with section (C)(4) of 
-            <xref href="https://www.acq.osd.mil/dpap/policy/policyvault/USA002011-23-DPC.pdf"
-               format="html"
-               scope="external">Defense Pricing and Contracting Class Deviation 2023-O0003 REV 2—Temporary Authorizations for Covered Contracts Related to Ukraine</xref>
-          contracting officers carrying out a procurement of a product or service for a covered contract may treat the product or service as a commercial product or a commercial service for the purpose of carrying out the procurement. See <xref href="5112.102.dita" outputclass="fm:ParaNumOnly"/> (a)(i)(B)(3). See AFARS <xref outputclass="fm:ParaNumOnly" href="5153.20693.dita"/> and AFARS 5153.303-12 for instructions and sample format for reporting covered contracts applicable under this subpart to congressional defense committees.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">5118.202</ph> Defense or Recovery from Certain Events.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(c) In accordance with section (C)(4) of Defense Pricing and Contracting Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel contracting officers carrying out a procurement of a product or service for a covered contract may treat the product or service as a commercial product or a commercial service for the purpose of carrying out the procurement. See <xref outputclass="fm:ParaNumOnly"
+               href="5112.102.dita"
+               class="- topic/xref "/>(a)(i)(B)(3). See AFARS <xref outputclass="fm:ParaNumOnly"
+               href="5153.20693.dita"
+               class="- topic/xref "/> and AFARS <xref outputclass="fm:ParaNumOnly"
+               href="5153.30312.dita"
+               class="- topic/xref "/> for instructions and sample format for reporting covered contracts applicable under this subpart to congressional defense committees.</p>
    </conbody>
 </concept>

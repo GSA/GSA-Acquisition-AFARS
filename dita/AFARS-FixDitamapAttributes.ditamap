@@ -3774,6 +3774,23 @@
                       xtrc="AFARS_5122.4069.html"/>
          </topicref>
       </topicref>
+      <topicref href="Subpart_5122.5.dita"
+                navtitle="Subpart 5122.5 - Labor Standards for Contracts Involving Construction"
+                outputclass="SubPart"
+                props="Subpart 5122.5"
+                audience="AFARS_Subpart_5122.5"
+                xtrc="AFARS_Subpart_5122.5.html"
+                xtrf="SubPart"
+                base="NoTitle">
+         <topicref href="5122.504.dita"
+                   navtitle="5122.504 General requirements for project labor agreements."
+                   outputclass="subtopic"
+                   props="5122.504"
+                   audience="AFARS_5122.504"
+                   xtrc=""
+                   xtrf="subtopic"
+                   base="NoTitle"/>
+      </topicref>
       <topicref href="Subpart_5122.8.dita"
                 navtitle="Subpart 5122.8 - Equal Employment Opportunity"
                 outputclass="SubPart"

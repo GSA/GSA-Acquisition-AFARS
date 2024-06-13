@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5111.60290"
+<concept id="AFARS_5111.60290"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5111.602-90</ph> Responsibilities.</title>
-   <conbody>
-      <p>The G-4 Business Transformation, Headquarters, U.S. Army Materiel Command is responsible for administering the Priorities and Allocations System within the Army.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5111.602-90</ph> Responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p rev="Revised March 20, 2024" class="- topic/p ">Deputy Assistant Secretary of The Army (Acquisition, Logistics, and Technology) (ASA(ALT)), Deputy Assistant Secretary of the Army (Sustainment) (DASA-S), Industrial Base Directorate is responsible for administering the Priorities and Allocations System for the Department of the Army.</p>
    </conbody>
 </concept>

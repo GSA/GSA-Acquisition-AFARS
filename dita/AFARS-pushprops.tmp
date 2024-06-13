@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod">
+<map title="AFARS" outputclass="dod" rev="Revised June 10, 2024">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -4673,6 +4673,27 @@
                       tables="0"
                       figures="0"/>
          </topicref>
+      </topicref>
+      <topicref href="Subpart_5122.5.dita"
+                navtitle="Subpart 5122.5 - Labor Standards for Contracts Involving Construction"
+                outputclass="SubPart"
+                props="Subpart 5122.5"
+                audience="AFARS_Subpart_5122.5"
+                xtrc="AFARS_Subpart_5122.5.html"
+                xtrf="SubPart"
+                base="NoTitle"
+                tables="0"
+                figures="0">
+         <topicref href="5122.504.dita"
+                   navtitle="5122.504 General requirements for project labor agreements."
+                   outputclass="subtopic"
+                   props="5122.504"
+                   audience="AFARS_5122.504"
+                   xtrc="AFARS_5122.504.html"
+                   xtrf="subtopic"
+                   base="NoTitle"
+                   tables="0"
+                   figures="0"/>
       </topicref>
       <topicref href="Subpart_5122.8.dita"
                 navtitle="Subpart 5122.8 - Equal Employment Opportunity"

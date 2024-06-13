@@ -6,8 +6,8 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">Part 5133</ph> - Protests, Disputes, and Appeals</title>
       <body>
-         <p>
-            <i>(Revised 20 May 2022)</i>
+         <p class="- topic/p " rev="Revised May 3, 2024">
+            <i class="+ topic/ph hi-d/i ">(Revised 03 May 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -37,7 +37,7 @@
                         </li>
                      </ul>
                   </li>
-                  <li>
+                  <li rev="Revised May 3, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5133.104.dita#AFARS_5133.104">5133.104 Protests to GAO.</xref>
                      </p>
@@ -64,7 +64,7 @@
                               <xref outputclass="fm:TOC" href="5133.1901.dita#AFARS_5133.1901">5133.190-1 Bid protest action report.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised May 3, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5133.1902.dita#AFARS_5133.1902">5133.190-2 Quarterly bid protest analysis report.</xref>
                            </p>

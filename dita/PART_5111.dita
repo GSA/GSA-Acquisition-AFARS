@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5111</ph> - Describing Agency Needs</title>
       <body>
-         <p rev="Revised March 20, 2024" class="- topic/p ">
+         <p class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(Revised 20 March 2024)</i>
          </p>
          <ul otherprops="TOC">
@@ -98,14 +98,14 @@
                         <xref outputclass="fm:TOC" href="5111.602.dita#AFARS_5111.602">5111.602 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised March 20, 2024">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5111.60290.dita#AFARS_5111.60290">5111.602-90 Responsibilities.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li rev="Revised March 20, 2024">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5111.603.dita#AFARS_5111.603">5111.603 Procedures.</xref>
                      </p>

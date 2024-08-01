@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod" rev="Revised June 10, 2024">
+<map title="AFARS" outputclass="dod" rev="Revised July 12, 2024">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -3787,7 +3787,7 @@
                    outputclass="subtopic"
                    props="5122.504"
                    audience="AFARS_5122.504"
-                   xtrc="AFARS_5122.504.html"
+                   xtrc=""
                    xtrf="subtopic"
                    base="NoTitle"/>
       </topicref>
@@ -6966,7 +6966,15 @@
                       audience="AFARS_5150.1021"
                       outputclass="subtopic"
                       xtrf="subtopic"
-                      xtrc="AFARS_5150.1021.html"/>
+                      xtrc="AFARS_5150.1021.html">
+               <topicref href="5150.102170.dita"
+                         navtitle="5150.102-1-70 Delegations."
+                         outputclass="subtopic"
+                         props="5150.102-1-70"
+                         audience="AFARS_5150.102170"
+                         xtrf="subtopic"
+                         base="concept"/>
+            </topicref>
             <topicref href="5150.1022.dita"
                       navtitle="5150.102-2 Contract adjustments boards."
                       props="5150.102-2"

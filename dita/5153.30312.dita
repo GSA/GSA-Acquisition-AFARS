@@ -4,47 +4,29 @@
 <concept id="AFARS_5153.30312"
          xml:lang="en-US"
          class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3"
-          class="- topic/title "
-          rev="Revised January 12, 2024"> 
+   <title outputclass="Heading 3" class="- topic/title "> 
       <ph props="autonumber" class="- topic/ph ">5153.303-12</ph> Format for Advance Congressional Notification When Utilizing Authorities Conferred by DPC Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel. </title>
    <conbody class="- topic/body  concept/conbody ">
-      <p rev="Revised January 12, 2024" class="- topic/p ">
+      <p class="- topic/p ">
          <i class="+ topic/ph hi-d/i ">(Note: Please submit the below information and the ODASA(P) will provide congressional addresses)</i>
       </p>
-      <p rev="Revised January 12, 2024" class="- topic/p ">Dear Mr. Chairman:</p>
-      <p rev="Revised February 15, 2024" class="- topic/p "> This notification is provided pursuant to Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (FY23 NDAA) (Pub. L. 117-263), as amended by section 1242 of FY24 NDAA (Pub. L. 118-31). </p>
-      <p rev="Revised February 15, 2024" class="- topic/p "> The United States Army anticipates awarding the following contract action on or before <i class="+ topic/ph hi-d/i ">(<u class="+ topic/ph hi-d/u ">insert Month-Day-Year format</u>)</i> and is providing notification. </p>
-      <p rev="Revised January 12, 2024"
-         outputclass="List1"
-         class="- topic/p ">a. Program Name: </p>
-      <p rev="Revised January 12, 2024"
-         outputclass="List1"
-         class="- topic/p ">b. Contract number, and modification number: </p>
-      <p rev="Revised January 12, 2024"
-         outputclass="List1"
-         class="- topic/p ">c. Total estimated contract value (including Options):</p>
-      <p rev="Revised February 15, 2024"
-         outputclass="List1"
-         class="- topic/p ">d. Contracting activity name and Department of Defense Activity Address Code (DODAAC):</p>
-      <p class="- topic/p "
-         outputclass="List1"
-         rev="Revised February 15, 2024">e. Contractor name and Commercial and Government Entity (CAGE) Code:</p>
-      <p rev="Revised January 12, 2024"
-         outputclass="List1"
-         class="- topic/p ">f. Quantities and/or period of performance:</p>
-      <p rev="Revised January 12, 2024"
-         outputclass="List1"
-         class="- topic/p ">g. Reason for using the authority: </p>
-      <p rev="Revised January 12, 2024"
-         outputclass="List1"
-         class="- topic/p ">h. Expected outcome of using the authority, including estimated reductions in schedule: </p>
-      <p rev="Revised January 12, 2024" class="- topic/p "> The Department will not make award until seven (7) days after this congressional notification.</p>
-      <p rev="Revised January 12, 2024" class="- topic/p "> Thank you for your continued support of defense programs and our Service men and women. </p>
-      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p ">Sincerely, </p>
-      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p "> </p>
-      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p ">Megan R. Dake</p>
-      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p ">Deputy Assistant Secretary of</p>
-      <p rev="Revised January 12, 2024" outputclass="Ctr" class="- topic/p "> the Army (Procurement)</p>
+      <p class="- topic/p ">Dear Mr. Chairman:</p>
+      <p class="- topic/p "> This notification is provided pursuant to Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (FY23 NDAA) (Pub. L. 117-263), as amended by section 1242 of FY24 NDAA (Pub. L. 118-31). </p>
+      <p class="- topic/p "> The United States Army anticipates awarding the following contract action on or before <i class="+ topic/ph hi-d/i ">(<u class="+ topic/ph hi-d/u ">insert Month-Day-Year format</u>)</i> and is providing notification. </p>
+      <p outputclass="List1" class="- topic/p ">a. Program Name: </p>
+      <p outputclass="List1" class="- topic/p ">b. Contract number, and modification number: </p>
+      <p outputclass="List1" class="- topic/p ">c. Total estimated contract value (including Options):</p>
+      <p outputclass="List1" class="- topic/p ">d. Contracting activity name and Department of Defense Activity Address Code (DODAAC):</p>
+      <p class="- topic/p " outputclass="List1">e. Contractor name and Commercial and Government Entity (CAGE) Code:</p>
+      <p outputclass="List1" class="- topic/p ">f. Quantities and/or period of performance:</p>
+      <p outputclass="List1" class="- topic/p ">g. Reason for using the authority: </p>
+      <p outputclass="List1" class="- topic/p ">h. Expected outcome of using the authority, including estimated reductions in schedule: </p>
+      <p class="- topic/p "> The Department will not make award until seven (7) days after this congressional notification.</p>
+      <p class="- topic/p "> Thank you for your continued support of defense programs and our Service men and women. </p>
+      <p outputclass="Ctr" class="- topic/p ">Sincerely, </p>
+      <p outputclass="Ctr" class="- topic/p "> </p>
+      <p outputclass="Ctr" class="- topic/p ">Megan R. Dake</p>
+      <p outputclass="Ctr" class="- topic/p ">Deputy Assistant Secretary of</p>
+      <p outputclass="Ctr" class="- topic/p "> the Army (Procurement)</p>
    </conbody>
 </concept>

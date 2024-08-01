@@ -4,16 +4,14 @@
 <concept id="AFARS_5153.30311"
          xml:lang="en-US"
          class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3"
-          class="- topic/title "
-          rev="Revised January 12, 2024"> 
+   <title outputclass="Heading 3" class="- topic/title "> 
       <ph props="autonumber" class="- topic/ph ">5153.303-11</ph> Format for Determination and Findings for other than full and open competition. (DPC Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel). </title>
    <conbody class="- topic/body  concept/conbody ">
-      <p rev="Revised January 12, 2024" class="- topic/p ">This form shall be used to document a public interest determination under 10 USC 3204(a)(7) and FAR 6.302-7 in support of the award of a “covered contract.” See DPC Class Deviation 2024-O0005– Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel.</p>
+      <p class="- topic/p ">This form shall be used to document a public interest determination under 10 USC 3204(a)(7) and FAR 6.302-7 in support of the award of a “covered contract.” See DPC Class Deviation 2024-O0005– Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel.</p>
       <p class="- topic/p ">Do not use letterhead for this document. </p>
-      <p class="- topic/p ">(See AFARS <xref href="5106.3027.dita"
+      <p class="- topic/p ">(See AFARS <xref href="5106.3027.dita#AFARS_5106.3027"
                outputclass="fm:ParaNumOnly"
-               class="- topic/xref "/>, AFARS <xref href="PART_5153.dita#AFARS_PART_5153"
+               class="- topic/xref ">5106.302-7</xref>, AFARS <xref href="PART_5153.dita#AFARS_PART_5153"
                outputclass="fm:Part"
                class="- topic/xref ">part  5153</xref>, and Appendix GG for further delegations) </p>
       <p outputclass="Ctr" class="- topic/p ">
@@ -26,13 +24,13 @@
          <b class="+ topic/ph hi-d/b ">Authority:</b> 
       </p>
       <p class="- topic/p ">__Section 3204(a)(7) of Title 10, United States Code (10 U.S.C. 3204(a)(7))</p>
-      <p class="- topic/p ">__Subsection 1244(a)(2), of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023<ph rev="Revised January 12, 2024" class="- topic/ph ">, as amended by Section 1242 of the FY24 NDAA</ph>
+      <p class="- topic/p ">__Subsection 1244(a)(2), of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, as amended by Section 1242 of the FY24 NDAA
       </p>
-      <p class="- topic/p ">_<ph rev="Revised January 12, 2024" class="- topic/ph "> DPC Class Deviation 2024-O0005</ph> 
+      <p class="- topic/p ">_ DPC Class Deviation 2024-O0005 
       </p>
-      <p class="- topic/p ">__Army FAR Supplement <xref href="5106.3027.dita"
+      <p class="- topic/p ">__Army FAR Supplement <xref href="5106.3027.dita#AFARS_5106.3027"
                outputclass="fm:ParaNumOnly"
-               class="- topic/xref "/> and Appendix GG</p>
+               class="- topic/xref ">5106.302-7</xref> and Appendix GG</p>
       <p class="- topic/p "> 
          <b class="+ topic/ph hi-d/b ">Requesting Activity/Program Office:</b> 
          <i class="+ topic/ph hi-d/i ">(insert requiring/program office name – e.g. PEO Missiles and Space)</i>
@@ -58,24 +56,18 @@
       <p outputclass="Ctr" class="- topic/p ">
          <b class="+ topic/ph hi-d/b ">FINDINGS</b>
       </p>
-      <p outputclass="List2" class="- topic/p ">1. Pursuant to 10 U.S.C. section 3204(a)(7), as implemented in Federal Acquisition Regulation (FAR) 6.302-7, full and open competition need not be provided for when the head of the agency determines that it is not in the public interest in the particular procurement concerned. Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (NDAA FY2023),<ph rev="Revised January 12, 2024" class="- topic/ph "> as amended by section 1242 of the FY24 NDAA,</ph>implemented in DPC Class Deviation 2024- O0005, provides  that a “covered contract” may be presumed to be in the public interest. A “covered contract” is any contract, subcontract, or modification of a contract, or subcontract awarded by the Department of Defense to:</p>
-      <p class="- topic/p " outputclass="List1"> a. Build <ph rev="Revised January 12, 2024" class="- topic/ph ">or replenish</ph> the stocks of critical munitions and other defense articles of the Department</p>
-      <p outputclass="List1"
-         rev="Revised January 12, 2024"
-         class="- topic/p ">b. Provide materiel and related services to foreign allies and partners that have provided support to Ukraine, Taiwan, or Israel; or</p>
-      <p class="- topic/p "
-         outputclass="List1"
-         rev="Revised January 12, 2024"> c. Provide materiel and related services to the Ukraine, Taiwan, or Israel.</p>
-      <p outputclass="List2" class="- topic/p ">2. Pursuant to AFARS <xref href="5106.3027.dita"
+      <p outputclass="List2" class="- topic/p ">1. Pursuant to 10 U.S.C. section 3204(a)(7), as implemented in Federal Acquisition Regulation (FAR) 6.302-7, full and open competition need not be provided for when the head of the agency determines that it is not in the public interest in the particular procurement concerned. Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (NDAA FY2023), as amended by section 1242 of the FY24 NDAA,implemented in DPC Class Deviation 2024- O0005, provides  that a “covered contract” may be presumed to be in the public interest. A “covered contract” is any contract, subcontract, or modification of a contract, or subcontract awarded by the Department of Defense to:</p>
+      <p class="- topic/p " outputclass="List1"> a. Build or replenish the stocks of critical munitions and other defense articles of the Department</p>
+      <p outputclass="List1" class="- topic/p ">b. Provide materiel and related services to foreign allies and partners that have provided support to Ukraine, Taiwan, or Israel; or</p>
+      <p class="- topic/p " outputclass="List1"> c. Provide materiel and related services to the Ukraine, Taiwan, or Israel.</p>
+      <p outputclass="List2" class="- topic/p ">2. Pursuant to AFARS <xref href="5106.3027.dita#AFARS_5106.3027"
                outputclass="fm:ParaNumOnly"
-               class="- topic/xref "/> and Appendix GG, the head of agency authority has been delegated to <i class="+ topic/ph hi-d/i ">(identify delegate).</i> 
+               class="- topic/xref ">5106.302-7</xref> and Appendix GG, the head of agency authority has been delegated to <i class="+ topic/ph hi-d/i ">(identify delegate).</i> 
       </p>
       <p outputclass="List2" class="- topic/p ">3. <i class="+ topic/ph hi-d/i ">(insert awarding contracting office i.e. Army Contracting Command) </i>on behalf of Program Executive Office <i class="+ topic/ph hi-d/i ">(insert the responsible PEO)</i> plans to award a contract for <i class="+ topic/ph hi-d/i ">(insert brief description)</i>. The planned contract is a “covered contract” because <i class="+ topic/ph hi-d/i ">(insert succinct explanation as to how it meets the above criteria)</i>. </p>
-      <p outputclass="List2" class="- topic/p "> 4. As a “covered contract” the planned award may be presumed to be in the public interest. Application of that presumption to this procurement expedites contract award and thereby advances important DoD and national objectives related to Ukraine <ph rev="Revised January 12, 2024" class="- topic/ph ">(<i class="+ topic/ph hi-d/i ">insert country</i>) </ph>support.<i class="+ topic/ph hi-d/i ">(add other pertinent considerations).</i> 
+      <p outputclass="List2" class="- topic/p "> 4. As a “covered contract” the planned award may be presumed to be in the public interest. Application of that presumption to this procurement expedites contract award and thereby advances important DoD and national objectives related to Ukraine (<i class="+ topic/ph hi-d/i ">insert country</i>) support.<i class="+ topic/ph hi-d/i ">(add other pertinent considerations).</i> 
       </p>
-      <p outputclass="List2"
-         rev="Revised January 12, 2024"
-         class="- topic/p ">5. In accordance with NDAA FY2023, subsection 1244(a)(2)(B)(iii), as amended by section 1242 of the FY24 NDAA and Class Deviation 2024-O0005, Section H(1), a written notification will be submitted to the congressional defense committees and DPC not later than 7-days before awarding a covered contract. </p>
+      <p outputclass="List2" class="- topic/p ">5. In accordance with NDAA FY2023, subsection 1244(a)(2)(B)(iii), as amended by section 1242 of the FY24 NDAA and Class Deviation 2024-O0005, Section H(1), a written notification will be submitted to the congressional defense committees and DPC not later than 7-days before awarding a covered contract. </p>
       <p class="- topic/p ">The undersigned attest that the preceding findings are accurate and complete and are sufficient to substantiate use of the public interest exception.</p>
       <p class="- topic/p ">
          <b class="+ topic/ph hi-d/b ">Contracting Officer:</b>

@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xtrc="" id="AFARS_5153.30313" class="- topic/topic concept/concept "><title class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5153.303-13</ph> Format for Post Award Congressional Notification When Utilizing Authorities Conferred by DPC Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel.</title><conbody class="- topic/body concept/conbody "><p class="- topic/p ">(Note: Please submit the below information and the ODASA(P) will provide congressional addresses) </p><p class="- topic/p ">Dear Mr. Chairman: </p><p class="- topic/p ">This notification is provided pursuant to Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (FY23 NDAA)(Pub. L. 117-263), as amended by section 1242 of FY24 NDAA(Pub. L. 118-31). </p><p class="- topic/p "> The United States Army awarded the following contract action on (<i class="+ topic/ph hi-d/i ">insert Month-Day-Year format</i>) and is providing notification. </p><p class="- topic/p " outputclass="List1">a. Program Name: </p><p class="- topic/p " outputclass="List1">b. Contract number, and modification number: </p><p class="- topic/p " outputclass="List1">c. Total estimated contract value (including Options): </p><p outputclass="List1" class="- topic/p ">d. Contracting activity name and Department of Defense Activity Address Code (DODAAC):</p><p outputclass="List1" class="- topic/p ">e. Contractor name and Commercial and Government Entity (CAGE) Code:</p><p class="- topic/p " outputclass="List1">f. Quantities and/or period of performance: </p><p class="- topic/p " outputclass="List1">g. Specific authority used: </p><p class="- topic/p " outputclass="List1">h. Reason for using the authority<ph rev="Revised July 12, 2024" class="- topic/ph "> (and insert Pursuant to the above provisions the responsible Senior Contracting Official determined that use of full and open competition is not in the public interest for the procurement.):</ph></p><p class="- topic/p " outputclass="List1">i. Expected outcome of using the authority, including estimated reductions in schedule: </p><p class="- topic/p ">Thank you for your continued support of defense programs and our Service men and women. </p><p class="- topic/p " outputclass="Ctr">Sincerely, </p><p outputclass="Ctr" class="- topic/p "/><p class="- topic/p " outputclass="Ctr">Megan R. Dake </p><p class="- topic/p " outputclass="Ctr">Deputy Assistant Secretary of the Army (Procurement) </p></conbody></concept>
+<concept xtrc=""
+         id="AFARS_5153.30313"
+         class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5153.303-13</ph> Format for Post Award Congressional Notification When Utilizing Authorities Conferred by DPC Class Deviation 2024-O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel.</title>
+   <conbody class="- topic/body concept/conbody ">
+      <p class="- topic/p ">(Note: Please submit the below information and the ODASA(P) will provide congressional addresses) </p>
+      <p class="- topic/p ">Dear Mr. Chairman: </p>
+      <p class="- topic/p ">This notification is provided pursuant to Subsection 1244(a)(2) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (FY23 NDAA)(Pub. L. 117-263), as amended by section 1242 of FY24 NDAA(Pub. L. 118-31). </p>
+      <p class="- topic/p "> The United States Army awarded the following contract action on (<i class="+ topic/ph hi-d/i ">insert Month-Day-Year format</i>) and is providing notification. </p>
+      <p class="- topic/p " outputclass="List1">a. Program Name: </p>
+      <p class="- topic/p " outputclass="List1">b. Contract number, and modification number: </p>
+      <p class="- topic/p " outputclass="List1">c. Total estimated contract value (including Options): </p>
+      <p outputclass="List1" class="- topic/p ">d. Contracting activity name and Department of Defense Activity Address Code (DODAAC):</p>
+      <p outputclass="List1" class="- topic/p ">e. Contractor name and Commercial and Government Entity (CAGE) Code:</p>
+      <p class="- topic/p " outputclass="List1">f. Quantities and/or period of performance: </p>
+      <p class="- topic/p " outputclass="List1">g. Specific authority used: </p>
+      <p class="- topic/p " outputclass="List1">h. Reason for using the authority<ph rev="Revised July 12, 2024" class="- topic/ph "> (and insert Pursuant to the above provisions the responsible Senior Contracting Official determined that use of full and open competition is not in the public interest for the procurement.):</ph>
+      </p>
+      <p class="- topic/p " outputclass="List1">i. Expected outcome of using the authority, including estimated reductions in schedule: </p>
+      <p class="- topic/p ">Thank you for your continued support of defense programs and our Service men and women. </p>
+      <p class="- topic/p " outputclass="Ctr">Sincerely, </p>
+      <p outputclass="Ctr" class="- topic/p "/>
+      <p class="- topic/p " outputclass="Ctr">Megan R. Dake </p>
+      <p class="- topic/p " outputclass="Ctr">Deputy Assistant Secretary of the Army (Procurement) </p>
+   </conbody>
+</concept>

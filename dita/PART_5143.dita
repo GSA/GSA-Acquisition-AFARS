@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5143</ph> - Contract Modifications</title>
       <body>
          <p class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(Revised <ph rev="Revised March 4, 2024" class="- topic/ph ">04 March 2024</ph>)</i>
+            <i class="+ topic/ph hi-d/i ">(Revised 04 March 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,7 +20,7 @@
                         <xref outputclass="fm:TOC" href="5143.204.dita#AFARS_5143.204">5143.204 Administration.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised March 4, 2024">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5143.204705.dita#AFARS_5143.204705">5143.204-70-5 Exceptions.</xref>
                            </p>

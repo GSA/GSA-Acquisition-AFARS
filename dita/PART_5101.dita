@@ -6,7 +6,7 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5101</ph> - Federal Acquisition Regulation System</title>
       <body>
-         <p class="- topic/p " rev="Revised May 3, 2024">
+         <p class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">(Revised 03 May 2024)</i>
          </p>
          <ul otherprops="TOC">
@@ -141,7 +141,7 @@
                         <xref outputclass="fm:TOC" href="5101.601.dita#AFARS_5101.601">5101.601 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised May 3, 2024">
+                        <li>
                            <p>
                               <xref outputclass="fm:TOC" href="5101.60190.dita#AFARS_5101.60190">5101.601-90 Department of the Army contracting authorities and responsibilities.</xref>
                            </p>

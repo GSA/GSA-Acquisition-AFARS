@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5109.403"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5109.403</ph> Definitions.</title>
-   <conbody>
-      <p id="rWFdNN">“The Army suspension and debarment official,” as used in this subpart, means –</p>
-      <p>
+<concept id="AFARS_5109.403" class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5109.403</ph> Definitions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="rWFdNN" class="- topic/p ">“The Army suspension and debarment official,” as used in this subpart, means –</p>
+      <p class="- topic/p ">
          Director, Soldier &amp; Family Legal Services, or other official designated by The Judge Advocate General of the Army, pursuant to Army Regulation 27-1, to request imposition of suspension and/or debarment. Use the following address:
       </p>
-      <p id="kfKEid" outputclass="List2">
+      <p id="kfKEid" outputclass="List2" class="- topic/p ">
          Army Suspension and Debarment Official
       </p>
-      <p id="AAXepr" outputclass="List2"> ATTN: Procurement Fraud Division
+      <p id="AAXepr" outputclass="List2" class="- topic/p "> ATTN: Procurement Fraud Division
       </p>
-      <p outputclass="List2">
+      <p outputclass="List2" class="- topic/p ">
          Office of The Judge Advocate General 
       </p>
-      <p id="nlEvfX" outputclass="List2">
+      <p id="nlEvfX" outputclass="List2" class="- topic/p ">
          9275 Gunston Road, Building 1450, Suite 2100
       </p>
-      <p id="TyPAVI" outputclass="List2">
+      <p id="TyPAVI" outputclass="List2" class="- topic/p ">
          Fort Belvoir, VA 22060-5546;
       </p>
-      <p id="nKRcXw" outputclass="List2"> send electronic submissions to 
-            <xref format="mailto"
-               href="mailto:usarmy.pentagon.hqda-otjag.list.pfd@mail.mil"
-               scope="external"> mailto:usarmy.pentagon.hqda-otjag.list.pfd@mail.mil</xref>
-         .</p>
+      <p id="nKRcXw" outputclass="List2" class="- topic/p "> Send electronic submissions to <xref href="mailto:usarmy.pentagon.hqda-otjag.list.pfd@mail.mil"
+               format="pentagon.hqda-otjag.list.pfd@mail.mil.hqda-otjag.list.pfd@mail.mil.list.pfd@mail.mil.pfd@mail.mil.mil"
+               scope="external"
+               class="- topic/xref ">usarmy.pentagon.hqda-otjag.list.pfd@mail.mil</xref> .</p>
    </conbody>
 </concept>

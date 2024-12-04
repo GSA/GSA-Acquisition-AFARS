@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_5-3">
+      <title><ph props="autonumber">5-3.</ph> Account Maintenance</title>
+      <conbody>
+        <p>The Level 4 A/OPC is required to maintain current BO and CH
+account information. Account maintenance may include the
+following:</p>
+        <p outputclass="List2">1) Updating user information (e.g., name, email
+address, office address).</p>
+        <p outputclass="List2">2) Adjusting single purchase limits.</p>
+        <p outputclass="List2">3) Adding and removing merchant category code
+filters.</p>
+        <p outputclass="List2">4) Updating BO access to applicable bank
+hierarchy.</p>
+      </conbody>
+    </concept>

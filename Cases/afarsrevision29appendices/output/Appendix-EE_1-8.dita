@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_1-8">
+      <title><ph props="autonumber">1-8.</ph> GPC Delegations of Authority and
+Appointment Letters</title>
+      <conbody>
+        <p>The different types of delegation of authority appointments
+identified in this section and Table 1-3 are available to CHs as
+needed. Each authority has unique policies, procedures, training,
+and oversight requirements. CHs must have the appropriate
+designation in their JAM appointment in order to use the
+corresponding purchasing authority. These appointments can only be
+granted to individuals who have completed training commensurate
+with their delegated authority.</p>
+        <p id="Table_1-3_GPC_Delegation_of_Authority_a">Table 1-3: GPC Delegation of Authority and
+Limits</p>
+        <table>
+          <tgroup cols="5">
+            <colspec colname="col1" colnum="1" colwidth="0.2*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.7*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
+            <colspec colname="col4" colnum="4" colwidth="0.8*"/>
+            <colspec colname="col5" colnum="5" colwidth="2.3*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>#</b>
+                </entry>
+                <entry>
+                  <b>Authority Type</b>
+                </entry>
+                <entry>
+                  <b>Delegation Authority</b>
+                </entry>
+                <entry>
+                  <b>Delegation Not to Exceed Limit</b>
+                </entry>
+                <entry>
+                  <b>Scope of Authority Limits</b>
+                </entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Micro- Purchase CH</entry>
+                <entry>
+                  <p>FAR 1.603-3(b) FAR 13.201</p>
+                  <p>DFARS 201.603- 3(b)</p>
+                </entry>
+                <entry>$10,000</entry>
+                <entry>
+                  <p>Grants authority to make authorized GPC purchases valued below
+the MPT <b>using simplified acquisition procedures.</b>
+(See FAR 2.101 “micro-purchase” definition.)</p>
+                  <p>CHs who only have this designation do <b>not</b> have
+the authority to place orders against any contract, including GSA
+federal supply schedule (FSS) orders using GSA Advantage and orders
+against FedMall contracts. CHs who will place orders against any
+contract also require the</p>
+                  <p>Contract Ordering Official CH designation in their
+appointment.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Micro- Purchase Convenience Check Writer</entry>
+                <entry>
+                  <p>FAR 1.603-3(b) FAR 13.201</p>
+                  <p>DFARS 201.603- 3(b)</p>
+                </entry>
+                <entry>$5,000</entry>
+                <entry>Grants authority to make authorized convenience check purchases
+valued below the MPT using simplified acquisition procedures. (See
+FAR 2.101 “micro-purchase” definition.)</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Higher Education Micro- Purchase CH</entry>
+                <entry>
+                  <p>FAR 1.603-3(b) FAR 13.201</p>
+                  <p>DFARS 201.603- 3(b)</p>
+                  <p>Class Deviation 2018-O0018</p>
+                </entry>
+                <entry>
+                  <p>$10,000</p>
+                  <p>but HCA determination can result in higher value (unlimited)</p>
+                </entry>
+                <entry>
+                  <p>Grants authority to make authorized open market micro-purchases
+using the GPC up to any applicable “Higher Education”
+MPT. (See MPT definition at FAR 2.101 &amp; Class Deviation
+2018-O0018.)</p>
+                  <p>This authority is generally limited to $10,000, but FAR 2.101
+MPT definition allows for higher threshold after appropriate HCA
+determination.</p>
+                  <p>Not for use to make payments against approved SF 182s.</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table>
+          <tgroup cols="5">
+            <colspec colname="col1" colnum="1" colwidth="0.2*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.7*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
+            <colspec colname="col4" colnum="4" colwidth="0.7*"/>
+            <colspec colname="col5" colnum="5" colwidth="2.3*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>#</b>
+                </entry>
+                <entry>
+                  <b>Authority Type</b>
+                </entry>
+                <entry>
+                  <b>Delegation Authority</b>
+                </entry>
+                <entry>
+                  <b>Delegation Not to Exceed Limit</b>
+                </entry>
+                <entry>
+                  <b>Scope of Authority Limits</b>
+                </entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>
+                  <p>Micro- Purchase ETO</p>
+                  <p>Cardholder and/or Check Writer</p>
+                </entry>
+                <entry>
+                  <p>FAR 1.603-3(b) FAR 13.201 FAR 13.201(g)</p>
+                  <p>DFARS 201.603- 3(b)</p>
+                </entry>
+                <entry>
+                  <p>
+                    <b>
+ETO CH:</b>
+                  </p>
+                  <p>$20,000</p>
+                  <p>Inside U.S.</p>
+                  <p>$35,000</p>
+                  <p>Outside U.S.</p>
+                  <p>
+                    <b>ETO
+ Checkwriter:</b>
+                  </p>
+                  <p>$10,000</p>
+                  <p>Inside U.S.</p>
+                  <p>$17,500</p>
+                  <p>Outside U.S.</p>
+                </entry>
+                <entry>
+                  <p>Grants authority to make authorized open market micro-purchases
+using the GPC up to the applicable “Contingency” MPT.
+(See MPT definition at FAR 2.101.)</p>
+                  <p>If intent to authorize CH to place orders against any contract,
+a Contract Ordering Official CH designation is also required.</p>
+                  <p>ETO Checkwriter limits are one half of ETO MPTs.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>
+                  <p>Warranted ETO</p>
+                  <p>Contracting CH</p>
+                </entry>
+                <entry>
+                  <p>FAR 1.603-3(a) FAR 2.101 MPT</p>
+                  <p>FAR 2.101 SAT</p>
+                  <p>DFARS 201.603- 3(b)</p>
+                  <p>DFARS 213.301(3)</p>
+                </entry>
+                <entry>
+                  <p>
+$1,500,000</p>
+                  <p>Outside the U.S.</p>
+                </entry>
+                <entry>
+                  <p>Grants Contracting Officers supporting Contingency Operations
+and Humanitarian and Peacekeeping Operations authority to make
+authorized GPC purchases outside the U.S. as authorized in DFARS
+213.301(3) for use outside the U.S. using simplified acquisition
+procedures up to the applicable Simplified Acquisition Threshold
+(SAT). (See FAR 2.101 definition of SAT.)</p>
+                  <p>The GPC appointment letter may only be issued to individuals who
+have previously been issued an SF 1402 delegating them authority
+sufficient to serve as a Contingency Contracting Officer.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>
+                  <p>Contract Ordering Official CH</p>
+                  <p>CHs who will place orders against any contract, including GSA
+FSS orders on GSA</p>
+                  <p>Advantage and FedMall contracts at any dollar level, require
+this designation.</p>
+                </entry>
+                <entry>
+                  <p>FAR 1.603-3(a) FAR 8.4</p>
+                  <p>FAR 13.301(b) FAR 13.301(c)(2)</p>
+                  <p>AFARS 5113.202- 90(c)</p>
+                  <p>DPCAP JAM Role Descriptions Guide</p>
+                </entry>
+                <entry>
+                  <p>Simplified Acquisition Threshold</p>
+                  <p>$250,000 for CHs that are trained contracting professionals in
+the contracting office (1102s)</p>
+                  <p>$25,000 for CHs outside a contracting office</p>
+                </entry>
+                <entry>
+                  <p>Grants authority to place and pay for authorized GPC purchases
+against the following:</p>
+                  <p outputclass="List2">1) Orders from GSA federal supply schedule
+contracts.</p>
+                  <p outputclass="List2">2) Orders from FedMall contracts, Computer
+Hardware Enterprise Software and Solutions (CHESS) IDIQ contracts,
+Governmentwide acquisition, and multi- agency contracts.</p>
+                  <p outputclass="List2">3) Blanket purchase agreements.</p>
+                  <p outputclass="List2">4) Indefinite Delivery, Time-and-Material, or
+Labor-Hour contracts that have firm fixed prices and pre-arranged
+terms and conditions that were awarded by a warranted contracting
+officer (KO) who designated the CH, to place orders. The KO is
+responsible for performing oversight and reporting any concerns to
+the A/OPC.</p>
+                  <p>Contract Ordering Official training must be completed before
+using this authority.</p>
+                  <p>A/OPCs must ensure additional controls and oversight procedures
+are in place before granting this authority.</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table>
+          <tgroup cols="5">
+            <colspec colname="col1" colnum="1" colwidth="0.2*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.7*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
+            <colspec colname="col4" colnum="4" colwidth="0.7*"/>
+            <colspec colname="col5" colnum="5" colwidth="2.3*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>#</b>
+                </entry>
+                <entry>
+                  <b>Authority
+Type</b>
+                </entry>
+                <entry>
+                  <b>Delegation Authority</b>
+                </entry>
+                <entry>
+                  <b>Delegation Not to Exceed Limit</b>
+                </entry>
+                <entry>
+                  <b>Scope of Authority Limits</b>
+                </entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>
+                  <p>Overseas Simplified</p>
+                  <p>Acquisition CH</p>
+                </entry>
+                <entry>
+                  <p>FAR 1.603-3(a)</p>
+                  <p>for &gt; MPT</p>
+                  <p>
+FAR 1.603-3(b)</p>
+                  <p>for &lt; MPT</p>
+                  <p>DFARS 213.301(2)</p>
+                </entry>
+                <entry>$25,000</entry>
+                <entry>
+                  <p>Grants authority to make authorized GPC purchases valued up to
+$25,000 using</p>
+                  <p>simplified acquisition procedures when the CH is outside the
+U.S. for items/services to be used outside the U.S., and that
+comply with the requirements of DFARS 213.301(2).</p>
+                </entry>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry>Contract Payment Official CH</entry>
+                <entry>FAR 13.301(c)(3)</entry>
+                <entry>As specified in the delegation of authority letter and contract.
+Not to exceed the KO’s warrant authority.</entry>
+                <entry>Grants authority to make contract payments when authorized by
+the contract terms and conditions.</entry>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry>
+                  <p>Miscellaneous Payments Official CH (SF-182</p>
+                  <p>Training Payments)</p>
+                </entry>
+                <entry>
+                  <p>DoD Charge Card Guidebook</p>
+                  <p>DoD FMR Vol 10,</p>
+                  <p>Ch. 12, Sec</p>
+                  <p>120323</p>
+                  <p>DoDI 1400.25</p>
+                  <p>Volume 410</p>
+                </entry>
+                <entry>$25,000</entry>
+                <entry>
+                  <p>Grants authority to make payments for commercial training
+requests using the SF 182, valued at or below $25,000, in lieu of
+an employee reimbursement by miscellaneous payment in accordance
+with the procedures to directly pay the provider in DoD FMR Volume
+10, Chapter 12, Section 120323, and DoDI 1400.25,</p>
+                  <p>Volume 410.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry>Inter/Intra- Govern- mental Payment Official CH</entry>
+                <entry>
+                  <p>TFM Vol. I, Part 5, Ch 7000</p>
+                  <p>DPCAP memo, “Guidance on the Implementation of Adjusted
+Government Charge Card CH Special Designation Thresholds,”
+dated Oct 6, 2020</p>
+                </entry>
+                <entry>
+$10,000</entry>
+                <entry>
+                  <p>Grants authority to make inter/intra-governmental transactions
+(IGT) or payments to another Government entity in lieu of using a
+Military Interdepartmental Purchase Request (MIPR).</p>
+                  <p>Includes payments to:</p>
+                  <p> DLA Document Services</p>
+                  <p> Department of Agriculture offered training</p>
+                  <p> FedMall GPC Requisitioning</p>
+                  <p> GSA Global Supply requisitioning</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p outputclass="List1">a. <b>Micro-Purchase Cardholder</b>.
+This authority allows CHs to use the GPC to buy commercially
+available, fixed-price supplies and services to fulfill
+mission-essential requirements. The maximum single transaction
+dollar limit for stand-alone purchases is the MPT as defined at FAR
+2.101.</p>
+        <p outputclass="List1">b. <b>Micro-Purchase Convenience Check
+Writer</b>. This authority allows CHs to use a GPC convenience
+check to buy commercially available, fixed-price supplies and
+services to fulfill mission- essential requirements. Since
+convenience checks expose the Government to greater risk, CHs must
+make every effort to use a GPC card before writing a check. CHs may
+only use this authority when use</p>
+        <p>of the GPC is not possible. All check purchases must be within
+the applicable convenience check MPT. DoD FMR Volume 10, Chapter 23
+establishes the financial management policy for convenience check
+accounts.</p>
+        <p outputclass="List1">c. <b>Micro-Purchase Emergency-Type
+Operations (ETO) CH and/or Check Writer</b>. This authority
+allows CHs to buy commercially available, fixed-price supplies and
+services to fulfill mission-essential requirements in direct
+support of a declared contingency or emergency event. The ETOs
+currently included in 41 USC 1903 are:</p>
+        <p outputclass="List2">1) Contingency Operations as defined in FAR
+2.101;</p>
+        <p outputclass="List2">2) Operations to facilitate the defense against or
+recovery from cyber, nuclear, biological, chemical, or radiological
+attack against the United States as addressed in FAR 18.001;</p>
+        <p outputclass="List2">3) Operations in support of a request from the
+Secretary of State or the Administrator of the United States Agency
+for International Development to facilitate the provision of
+international disaster assistance as addressed in FAR 18.001;
+and</p>
+        <p outputclass="List2">4) Operations to support response to an emergency
+or major disaster as defined in Section 102 of the Robert T.
+Stafford Disaster Relief and Emergency Assistance Act (42 USC
+5121</p>
+        <p>,</p>
+        <p>
+implemented in
+
+FAR 26.2). </p>
+        <p id="_2rrrqc1">The group term “ETO” also includes humanitarian or
+peacekeeping operations (as defined in FAR 2.101). Currently, when
+supporting humanitarian or peacekeeping operations in accordance
+with FAR 2.101, the MPT does not increase, regardless of whether
+the humanitarian or peacekeeping operation is taking place inside
+or outside the United States; and the SAT can increase to $500,000
+upon determination by the HCA that the respective supplies or
+services directly support the humanitarian or peacekeeping
+operation. FAR 18.2 addresses Emergency Acquisition Flexibilities
+(EAFs). It is critical to verify whether increased EAFs have been
+authorized for the particular ETO being supported. If so, each HCA
+has the authority to authorize use of EAFs. </p>
+        <p id="Table_1-4_Emergency-Type_Operations" outputclass="List1">d. <b>Warranted
+Overseas ETO Cardholder.</b> This authority allows CHs to use
+the GPC in conjunction with their separately issued SF 1402
+Certificate of Appointment to purchase supplies and services as
+prescribed in DFARS 213.301(3). Contracting officers may use this
+authority to make purchases up to the applicable simplified
+acquisition threshold in support of declared contingency or
+emergency events.</p>
+        <p outputclass="List1">e. <b>Contract Ordering Official.</b>
+This authority allows CHs with the appropriate training to issue
+fixed- price orders against existing contracts (e.g., GSA FSS,
+BPAs, FedMall contracts, CHESS contracts) to fulfill
+mission-essential requirements for supplies and services valued up
+to the Contract Ordering Official single purchase limit and to use
+the GPC to pay for these orders/purchases. When using this
+authority, CHs must 1) ensure they are authorized to place orders
+by the contract terms and conditions, 2) ensure the order will
+comply with all the contracts terms and conditions, and 3) follow
+all applicable ordering procedures. When ordering above the MPT, CH
+should obtain pricing from small business when small business can
+meet the requirements. The CH should obtain quotes from at least
+three sources. If restricting competition to fewer than three
+sources, the CH should document the circumstances in the purchase
+file. CHs with this designation will be referred to as
+“Ordering Officials” throughout this document. The <xref format="html" href="https://armyeitaas.sharepoint-mil.us/:b:/r/sites/ASA-ALT-PAM/Documents/Army%20Ordering%20Officer%20Guide%20v.1%20(Feb%202024).pdf" scope="external">Army
+Ordering Officer Guide</xref> standardizes procedures for selecting,
+appointing, and terminating ordering officers in accordance with
+AFARS 5101.602-2-92 and provides guidance for appointed
+individuals. This guide is to be utilized in conjunction with AFARS
+Appendix EE.</p>
+        <p outputclass="List1">f. <b>Overseas Simplified
+Acquisition</b>. This authority allows CHs to make authorized
+GPC purchases up to a single purchase limit of $25,000 when the CH
+is outside the U.S. for items/services to be used outside the U.S.,
+and that comply with the requirements of DFARS 213.301(2). When
+ordering above the MPT, the CH should obtain quotes from at least
+three sources. If restricting consideration to fewer than three,
+document the circumstances in the purchase file.</p>
+        <p outputclass="List1">g. <b>Contract Payment Official.</b>
+This authority allows CHs to use the GPC to make payments against
+contracts that have been signed by a Contracting Officer when the
+GPC is named as the payment method. The GPC may provide a
+streamlined way of paying for contracts when a contracting officer
+determines the use of the GPC is in the best interest of the
+Government (AFARS 5113.202-90(d)).</p>
+        <p outputclass="List1">h. <b>Miscellaneous Payments Official (SF 182
+Training Payments).</b> This authority allows CHs to make
+payments for commercial training requests using the SF 182, valued
+at or below $25,000 in accordance with the procedures to directly
+pay the provider in DoD FMR Volume 10, Chapter 12, Section 120323,
+and DoDI 1400.25, Volume 410a. The SF 182 or equivalent must be
+completed prior to the training. When provided by a non-Government
+source, the training must consist of a regularly scheduled,
+commercial-off-the-shelf (COTS) course, training conference, or
+instructional service that is available to the public and priced
+the same for everyone in the same category, e.g., price per
+student, course, program, service, or training space.</p>
+        <p outputclass="List1">i. <b>Inter/Intra-Governmental Payment
+Official.</b> This authority allows CHs to make payments to
+another Federal Government entity in lieu of using a MIPR or
+Inter-Governmental Payment and Collection (IPAC) in accordance with
+the DoD FMR. This authority includes, but is not limited to,
+payments to DLA Document Services, U.S. Department of Agriculture
+(USDA)-offered training, GSA Global Supply, Commissary, and FedMall
+GPC requisitioning. (Purchases from State and Local governments are
+considered traditional open-market micro-purchases and therefore
+are covered by the applicable authority listed above.) Special
+requirements for this authority include the following:</p>
+        <p outputclass="List2">1) The not-to-exceed value is dictated by TFM
+Volume 1, Part 5, Chapter 7000, Section 7055.20.</p>
+        <p outputclass="List2">2) Federal Government entities must limit their
+credit card collections so that individual transactions are no more
+than $10,000, which is the daily GPC credit limit for third-party
+purchases. The Treasury encourages use of IPAC for payments between
+Federal Agencies, debit cards, Automated Clearing House (ACH)
+debits/credits, and Fedwire transactions.</p>
+        <p outputclass="List2">3) Card acceptance policies can be found in TFM
+Volume I, Part 5, Chapter 7000, which addresses limitations on
+credit card transactions.</p>
+        <p outputclass="List2">4) IGTs exceeding $10,000 must be made with an
+alternative payment method (e.g., IPAC for payments between Federal
+Agencies, debit cards, ACH debits/credits, and Fedwire
+transactions).</p>
+      </conbody>
+    </concept>

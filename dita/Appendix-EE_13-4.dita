@@ -2,100 +2,71 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_13-4">
-    <title>
+      <title>
       <ph props="autonumber">13-4.</ph> Army GPC PMR Process</title>
-    <conbody>
-        <p outputclass="List1">a. The Department of the Army, through the ODASA(P), will establish,
-            execute, and provide oversight of a tiered GPC PMR program reviewing
-            each contracting activity every three years in order to achieve the
-            following:</p>
-        <p outputclass="List1">a. Assess, analyze, and communicate the health of Army contracting to
-            senior Army leadership.</p>
-        <p outputclass="List1">b. Ensure management oversight and control of contracting related
-            issues.</p>
-        <p outputclass="List1">c. Ensure compliance with Federal, Defense, and Army acquisition
-            regulations and policies.</p>
-        <p outputclass="List1">d. Provide best practices for the Army to enhance the procurement
-            process.</p>
-        <p outputclass="List1">b. <b>Purpose and Objectives of PMRs</b>.</p>
-        <p>1) Foster good stewardship of resources.</p>
-        <p>2) Improve processes.</p>
-        <p>3) Evaluate and strengthen internal controls.</p>
-        <p>4) Assess and reduce risk.</p>
-        <p>5) Ensure that agencies establish and maintain internal controls to
-            provide reasonable assurance the goals and objectives of the
-            purchase card program are being met, and safeguards against
-            fraudulent, improper, and abusive purchases are adequate.</p>
-        <p>6) Assess program results.</p>
-        <p>7) Communicate results so systemic problems can be identified and
-            addressed.</p>
-        <p>8) Implement Corrective Action Plans.</p>
-        <p>9) Improve the performance and accountability of the GPC program.</p>
-        <p outputclass="List1">c. HCAs or SCOs will conduct GPC PMRs on contracting activities, to
-            include subordinate contracting offices, regardless of the level, at
-            least once every 36 months and provide the schedule of reviews no
-            later than 31 August of the preceding fiscal year to the ODASA(P).
-            ODASA(P) may grant, in writing, an extension to four years on a
-            one-time basis when circumstances are justified. Additionally, the
-            ODASA(P) may require, in writing, more frequent reviews of
-            contracting activities as deemed necessary.</p>
-        <p outputclass="List1">d. <b>Preparation for GPC PMRs</b>. Reviewers should notify the
-            activity being reviewed 30 days before planned GPC PMR visits. The
-            activity will provide the following in advance: metrics, bank
-            reports and IOD data mining reports, completed GPC toolkit,
-            specified statistics, copies of previous reviews/corrective action
-            plans, procurement authority, and training materials. Additionally,
-            the activity may request additional areas of emphasis and assistance
-            during the GPC PMR.</p>
-        <p outputclass="List1">e. <b>Results of Procurement Management Reviews</b>.</p>
-        <p>1) Reports of GPC PMR results will contain a risk assessment,
-            analysis of issues, commendations, observations, findings, and
-            recommendations as appropriate. GPC PMR report findings must be
-            specific and include sufficient information to enable root cause
-            analysis. GPC PMR recommendations must be based on supported
-            findings and be actionable.</p>
-        <p>2) Contracting activities at all levels will perform timely GPC PMRs.
-            Untimely reporting erodes the effectiveness of the review.</p>
-        <p>3) Reviewers will submit the initial PMR report to the reviewed
-            activity within 30 business days after the outbrief.</p>
-        <p>4) The GPC contracting activity reviewed will submit a Corrective
-            Action Plan (CAP) within 30 business days of report receipt.</p>
-        <p>5) The responsible review official must review and approve the CAP
-            and prepare a Final PMR report within 30 business days of CAP
-            receipt.</p>
-        <p>6) The reviewed activity must complete corrective actions - if any -
-            within the agreed timeframe, inform the GPC PMR Team Lead of
-            corrective actions taken, and request closure of the CAP.</p>
-        <p> 
-         <b>f. Annual Summary Health Report.</b> 
-      </p>
-        <p>1) HCAs will provide to the ODASA(P), an Annual Summary Health Report
-            for their organization to include copies of all GPC PMR reports and
-            associated analyses of subordinate contracting offices GPC reviews
-            no later than 31 October each year.</p>
-        <p>2) The ODASA(P) will provide an Annual Summary Health Report to
-            DASA(P) that presents a holistic assessment of Army GPC contracting
-            no later than 31 January each year.</p>
-        <p> 
-         <b>h. GPC Review Key Areas.</b> 
-      </p>
-        <p>1) Delegation of contracting authority</p>
-        <p>2) Training requirements for program coordinators, approving
-            officials and cardholders</p>
-        <p>3) Setting of reasonable single purchase and monthly limits and
-            blocking of MCCs</p>
-        <p>4) Annual reviews to evaluate the number of CHs and BOs, CHs limits
-            and transactions</p>
-        <p>5) Uses of the GPC</p>
-        <p>6) Independent Receipt and Acceptance</p>
-        <p>7) Reconciling accounts and certification of transactions</p>
-        <p>8) Span of control for BOs and A/OPCs</p>
-        <p>9) Criteria for establishing accounts</p>
-        <p>10) Convenience checks, annual review and 1099 Reporting</p>
-        <p>11) Delinquency and Prompt Pay Interest</p>
-        <p>12) Maximizing Refunds</p>
-        <p>13) Criteria for deactivation/cancellation/termination of cards</p>
-        <p>14) Documentation/Retention (e.g., uploading transaction
-            documentation in the bank’s EAS)</p>
-    </conbody>
-</concept>
+      <conbody>
+        <p outputclass="List1">a. The Department of the Army, through the
+ODASA(P), will establish, execute, and provide oversight of a
+tiered GPC PMR program reviewing each contracting activity every
+three years to achieve the following:</p>
+        <p outputclass="List2">1) Assess, analyze, and communicate the health of
+Army contracting to senior Army leadership.</p>
+        <p outputclass="List2">2) Ensure management oversight and control of
+contracting related issues.</p>
+        <p outputclass="List2">3) Ensure compliance with Federal, Defense, and
+Army acquisition regulations and policies.</p>
+        <p outputclass="List2">4) Provide best practices for the Army to enhance
+the procurement process.</p>
+        <p outputclass="List1">b. <b>Purpose and Objectives of
+PMRs</b>.</p>
+        <p outputclass="List2">1) Foster good stewardship of resources.</p>
+        <p outputclass="List2">2) Improve processes.</p>
+        <p outputclass="List2">3) Evaluate and strengthen internal controls.</p>
+        <p outputclass="List2">4) Assess and reduce risk.</p>
+        <p outputclass="List2">5) Ensure that agencies establish and maintain
+internal controls to provide reasonable assurance the goals and
+objectives of the purchase card program are being met, and
+safeguards against fraudulent, improper, and abusive purchases are
+adequate.</p>
+        <p outputclass="List2">6) Assess program results.</p>
+        <p outputclass="List2">7) Communicate results so systemic problems can be
+identified and addressed.</p>
+        <p outputclass="List2">8) Implement Corrective Action Plans.</p>
+        <p outputclass="List2">9) Improve the performance and accountability of
+the GPC program.</p>
+        <p outputclass="List1">c. <b>Preparation for GPC PMRs</b>.
+Reviewers should notify the activity being reviewed 30 days before
+planned GPC PMR visits. The activity will provide the following in
+advance: metrics, bank reports and IOD data mining reports,
+completed GPC toolkit, specified statistics, copies of previous
+reviews/corrective action plans, procurement authority, and
+training materials. Additionally, the activity may request
+additional areas of emphasis and assistance during the GPC PMR.</p>
+        <p outputclass="List1">d. <b>Results of Procurement Management
+Reviews</b>.</p>
+        <p outputclass="List2">1) The GPC Toolkit in PCF contains a Business
+Intelligence Report which should be used to communicate the results
+of the PMR. Reports of GPC PMR results will contain a risk
+assessment, analysis of issues, commendations, observations,
+findings, and recommendations as appropriate. Report findings must
+be specific and include sufficient information to enable root cause
+analysis. GPC PMR recommendations must be based on supported
+findings and be actionable.</p>
+        <p outputclass="List2">2) The GPC contracting activity reviewed will
+submit a Corrective Action Plan (CAP) within 30 business days of
+report receipt. The reviewed activity must complete corrective
+actions - if any - within the agreed timeframe, inform the GPC PMR
+Team Lead of corrective actions taken, and request closure of the
+CAP.</p>
+        <p outputclass="List1">e. <b>Annual Summary Health
+Report</b>.</p>
+        <p outputclass="List2">1) HCAs will provide to the ODASA(P), an Annual
+Summary Health Report for their organization to include copies of
+all GPC PMR reports and associated analyses of subordinate
+contracting offices GPC reviews no later than 31 October each
+year.</p>
+        <p outputclass="List2">2) The ODASA(P) will provide an Annual Summary
+Health Report to DASA(P) that presents a holistic assessment of
+Army GPC contracting no later than 31 January each year.</p>
+      </conbody>
+    </concept>

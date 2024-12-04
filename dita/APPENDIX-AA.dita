@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">APPENDIX - AA</ph> ARMY SOURCE SELECTION SUPPLEMENT </title>
       <body>
          <p>
-            <i>28 November 2017 </i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <p>
             <i>(Appendix G revised 14 October 2018)</i>
@@ -25,7 +25,7 @@
                               href="APPENDIX-AA_Chapter-1_1-1.dita#AFARS_APPENDIX-AA_Chapter-1_1-1">1.1 Purpose</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC"
                               href="APPENDIX-AA_Chapter-1_1-2.dita#AFARS_APPENDIX-AA_Chapter-1_1-2">1.2 Applicability and Waivers</xref>
@@ -37,7 +37,7 @@
                               href="APPENDIX-AA_Chapter-1_1-3.dita#AFARS_APPENDIX-AA_Chapter-1_1-3">1.3 Best Value Continuum</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC"
                               href="APPENDIX-AA_Chapter-1_1-4.dita#AFARS_APPENDIX-AA_Chapter-1_1-4">1.4 Source Selection Team Roles &amp; Responsibilities</xref>
@@ -51,7 +51,7 @@
                         href="APPENDIX-AA_Chapter-2.dita#AFARS_APPENDIX-AA_Chapter-2">CHAPTER 2: PRESOLICITATION ACTIVITIES</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC"
                               href="APPENDIX-AA_Chapter-2_2-1.dita#AFARS_APPENDIX-AA_Chapter-2_2-1">2.1 Conduct Acquisition Planning</xref>
@@ -203,7 +203,7 @@
                               href="APPENDIX-AA_Chapter-5_APPENDIX-B.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-B">APPENDIX B Table Of Contents</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC"
                               href="APPENDIX-AA_Chapter-5_APPENDIX-C.dita#AFARS_APPENDIX-AA_Chapter-5_APPENDIX-C">APPENDIX C Table Of Contents</xref>

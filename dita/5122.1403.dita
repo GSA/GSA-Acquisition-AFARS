@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5122.1403"
+<concept id="AFARS_5122.1403"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2">
-      <ph props="autonumber">5122.1403</ph> Waivers.</title>
-   <conbody>
-      <p outputclass="List1">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may waive any requirement in this subpart when it is determined that the contract is essential to the national security.   See Appendix GG for further delegation.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5122.1403</ph> Waivers.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p rev="Revised October 1, 2024"
+         outputclass="List1"
+         class="- topic/p ">(a) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may approve waiver requests under FAR 22.1403(a). See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p outputclass="List1" class="- topic/p ">
+         <ph rev="Revised October 1, 2024" class="- topic/ph ">(c) Requests for waivers shall be submitted to the addressee in AFARS <xref outputclass="fm:ParaNumOnly"
+                  href="5101.290.dita#AFARS_5101.290"
+                  base="AFARS-5101.290"
+                  xtrc="5101.290"
+                  class="- topic/xref ">5101.290 Routing documents and mailing addresses.</xref>(b)(2)(ii)(B).</ph>
+      </p>
    </conbody>
 </concept>

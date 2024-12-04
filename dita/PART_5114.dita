@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5114</ph> - Sealed Bidding</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -36,12 +39,12 @@
                         <xref outputclass="fm:TOC" href="5114.407.dita#AFARS_5114.407">5114.407 Mistakes in bids.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5114.4073.dita#AFARS_5114.4073">5114.407-3 Other mistakes disclosed before award.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5114.4074.dita#AFARS_5114.4074">5114.407-4 Mistakes after award.</xref>
                            </p>
@@ -53,7 +56,7 @@
                         <xref outputclass="fm:TOC" href="5114.409.dita#AFARS_5114.409">5114.409 Information to bidders.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5114.4092.dita#AFARS_5114.4092">5114.409-2 Award of classified contracts.</xref>
                            </p>

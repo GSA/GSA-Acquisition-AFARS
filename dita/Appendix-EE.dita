@@ -6,11 +6,14 @@
       <title class="- topic/title " outputclass="1 heading Ctr">
          <ph class="- topic/ph " props="autonumber">APPENDIX - EE</ph>  DEPARTMENT OF THE ARMY GOVERNMENT PURCHASE CARD OPERATING PROCEDURES</title>
       <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-1.dita#AFARS_Appendix-EE_Chapter-1">Chapter 1 - The Government Purchase Card Program</xref>
+                        href="Appendix-EE_Chapter-1.dita#AFARS_Appendix-EE_Chapter-1">CHAPTER 1 - THE GOVERNMENT PURCHASE CARD PROGRAM</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -58,7 +61,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-2.dita#AFARS_Appendix-EE_Chapter-2">Chapter 2 - Program Organization, Roles, and Responsibilities</xref>
+                        href="Appendix-EE_Chapter-2.dita#AFARS_Appendix-EE_Chapter-2">CHAPTER 2 - PROGRAM ORGANIZATION, ROLES, AND RESPONSIBILITIES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -123,94 +126,64 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-3.dita#AFARS_Appendix-EE_Chapter-3">Chapter 3 - GPC Electronic Systems</xref>
+                        href="Appendix-EE_Chapter-3.dita#AFARS_Appendix-EE_Chapter-3">CHAPTER 3 - GPC ELECTRONIC SYSTEMS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-1.dita#AFARS_Appendix-EE_3-1">3-1. Procurement Integrated Enterprise Environment (PIEE)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-1.dita#AFARS_Appendix-EE_3-1">3-1. System Requirements</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-2.dita#AFARS_Appendix-EE_3-2">3-2. Joint Appointment Module (JAM)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-2.dita#AFARS_Appendix-EE_3-2">3-2. Procurement Integrated Enterprise Environment (PIEE)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-3.dita#AFARS_Appendix-EE_3-3">3-3. U.S. Bank Access Online (AXOL)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-3.dita#AFARS_Appendix-EE_3-3">3-3. Joint Appointment Module (JAM)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-4.dita#AFARS_Appendix-EE_3-4">3-4. MasterCard Insights on Demand (IOD)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-4.dita#AFARS_Appendix-EE_3-4">3-4. U.S. Bank Access Online (AXOL)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-5.dita#AFARS_Appendix-EE_3-5">3-5. Global Exchange Service (GEX)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-5.dita#AFARS_Appendix-EE_3-5">3-5. MasterCard Insights on Demand (IOD)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-6.dita#AFARS_Appendix-EE_3-6">3-6. Total System Services Payment Solutions (TSYS)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-6.dita#AFARS_Appendix-EE_3-6">3-6. Global Exchange Service (GEX)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-7.dita#AFARS_Appendix-EE_3-7">3-7. Enterprise Resource Planning (ERP)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-7.dita#AFARS_Appendix-EE_3-7">3-7. Total System Services Payment Solutions (TSYS)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-8.dita#AFARS_Appendix-EE_3-8">3-8. Federal Procurement Data System – Next Generation (FPDS-NG)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-8.dita#AFARS_Appendix-EE_3-8">3-8. Enterprise Resource Planning (ERP)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_3-9.dita#AFARS_Appendix-EE_3-9">3-9. Wide Area Workflow (WAWF)</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-10.dita#AFARS_Appendix-EE_3-10">3-10. PAM (Procurement.Army.Mil) Portal</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_3-9.dita#AFARS_Appendix-EE_3-9">3-9. Federal Procurement Data System – Next Generation (FPDS-NG)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-11.dita#AFARS_Appendix-EE_3-11">3-11. Statement Reconciliation and Certification</xref>
+                              href="Appendix-EE_3-10.dita#AFARS_Appendix-EE_3-10">3-10. Wide Area Workflow (WAWF)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-12.dita#AFARS_Appendix-EE_3-12">3-12. Confirm and Pay</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-13.dita#AFARS_Appendix-EE_3-13">3-13. File Retention</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-14.dita#AFARS_Appendix-EE_3-14">3-14. Convenience Checks and Foreign Draft Checks</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-15.dita#AFARS_Appendix-EE_3-15">3-15. Office Supply Blanket Purchase Agreements (BPAs)</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_3-16.dita#AFARS_Appendix-EE_3-16">3-16. Rebates/Credits</xref>
+                              href="Appendix-EE_3-11.dita#AFARS_Appendix-EE_3-11">3-11. Procurement.army.mil (PAM) Portal</xref>
                      </p>
                   </li>
                </ul>
@@ -218,7 +191,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-4.dita#AFARS_Appendix-EE_Chapter-4">Chapter 4 - GPC Training Requirements</xref>
+                        href="Appendix-EE_Chapter-4.dita#AFARS_Appendix-EE_Chapter-4">CHAPTER 4 - GPC TRAINING REQUIREMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -231,27 +204,12 @@
                         <xref outputclass="fm:TOC" href="Appendix-EE_4-2.dita#AFARS_Appendix-EE_4-2">4-2. Recommended Training</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_4-3.dita#AFARS_Appendix-EE_4-3">4-3. Suspected Fraud or Abuse</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_4-4.dita#AFARS_Appendix-EE_4-4">4-4. Purchase Card Online System (PCOLS)</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_4-5.dita#AFARS_Appendix-EE_4-5">4-5. Violation of Army GPC Procedures</xref>
-                     </p>
-                  </li>
                </ul>
             </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-5.dita#AFARS_Appendix-EE_Chapter-5">Chapter 5 - Establishing and Maintaining a GPC Account</xref>
+                        href="Appendix-EE_Chapter-5.dita#AFARS_Appendix-EE_Chapter-5">CHAPTER 5 - ESTABLISHING AND MAINTAINING A GPC ACCOUNT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -294,7 +252,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-6.dita#AFARS_Appendix-EE_Chapter-6">Chapter 6 - Operational Guidance and Procedures</xref>
+                        href="Appendix-EE_Chapter-6.dita#AFARS_Appendix-EE_Chapter-6">CHAPTER 6 - OPERATIONAL GUIDANCE AND PROCEDURES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -329,7 +287,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_6-7.dita#AFARS_Appendix-EE_6-7">6-7. Purchase Request and Approval Document</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_6-7.dita#AFARS_Appendix-EE_6-7">6-7. Purchase Request and Approval Sample Template</xref>
                      </p>
                   </li>
                   <li>
@@ -381,7 +339,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_6-16.dita#AFARS_Appendix-EE_6-16">6-16. Official Representation Funds</xref>
+                              href="Appendix-EE_6-16.dita#AFARS_Appendix-EE_6-16">6-16. Official Representation Funds (ORF)</xref>
                      </p>
                   </li>
                   <li>
@@ -401,7 +359,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-7.dita#AFARS_Appendix-EE_Chapter-7">Chapter 7 – Refunds</xref>
+                        href="Appendix-EE_Chapter-7.dita#AFARS_Appendix-EE_Chapter-7">CHAPTER 7 – REFUNDS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -439,37 +397,47 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-8.dita#AFARS_Appendix-EE_Chapter-8">Chapter 8 - Education, Training and Tuition Assistance</xref>
+                        href="Appendix-EE_Chapter-8.dita#AFARS_Appendix-EE_Chapter-8">CHAPTER 8 - EDUCATION, TRAINING AND TUITION ASSISTANCE</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_8-1.dita#AFARS_Appendix-EE_8-1">8-1. SF 182 Training Payments (Non-FAR based training actions)</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-1.dita#AFARS_Appendix-EE_8-1">8-1. Training, Education and Professional Development (TE&amp;PD) Services</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_8-2.dita#AFARS_Appendix-EE_8-2">8-2. Tailored Training</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-2.dita#AFARS_Appendix-EE_8-2">8-2. Individual Slots in Existing COTS Course</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_8-3.dita#AFARS_Appendix-EE_8-3">8-3. FAR-based Training Actions</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-3.dita#AFARS_Appendix-EE_8-3">8-3. Entire COTS Course (Group Training)</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_8-4.dita#AFARS_Appendix-EE_8-4">8-4. Purchase Training Examples</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-4.dita#AFARS_Appendix-EE_8-4">8-4. Tailored Training</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_8-5.dita#AFARS_Appendix-EE_8-5">8-5. Use of the GPC for Military Tuition Assistance</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-5.dita#AFARS_Appendix-EE_8-5">8-5. Subscriptions for Training Access</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_8-6.dita#AFARS_Appendix-EE_8-6">8-6. Reimbursement of Training Expenses</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-6.dita#AFARS_Appendix-EE_8-6">8-6. Training Purchase Examples</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-7.dita#AFARS_Appendix-EE_8-7">8-7. Use of the GPC for Tuition Assistance</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_8-8.dita#AFARS_Appendix-EE_8-8">8-8. Repayment of Training Expenses</xref>
                      </p>
                   </li>
                </ul>
@@ -477,7 +445,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-9.dita#AFARS_Appendix-EE_Chapter-9">Chapter 9 - Required Sources of Supplies and Services</xref>
+                        href="Appendix-EE_Chapter-9.dita#AFARS_Appendix-EE_Chapter-9">CHAPTER 9 - REQUIRED SOURCES OF SUPPLIES AND SERVICES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -487,12 +455,12 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_9-2.dita#AFARS_Appendix-EE_9-2">9-2. AbilityOne</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_9-2.dita#AFARS_Appendix-EE_9-2">9-2. UNICOR/Federal Prison Industries</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_9-3.dita#AFARS_Appendix-EE_9-3">9-3. UNICOR/Federal Prison Industries</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_9-3.dita#AFARS_Appendix-EE_9-3">9-3. AbilityOne</xref>
                      </p>
                   </li>
                   <li>
@@ -502,7 +470,7 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_9-5.dita#AFARS_Appendix-EE_9-5">9-5. U.S. Navy’s Spiral 3 Contracts</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_9-5.dita#AFARS_Appendix-EE_9-5">9-5. U.S. Navy’s Spiral 4 Contracts</xref>
                      </p>
                   </li>
                   <li>
@@ -512,12 +480,18 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_9-7.dita#AFARS_Appendix-EE_9-7">9-7. Supplemental Procurement Guidance</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_9-8.dita#AFARS_Appendix-EE_9-8">9-8. Non-Mandatory Sources of Supply</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="Appendix-EE_9-8.dita#AFARS_Appendix-EE_9-8">9-8. E-Commerce Platforms</xref>
+                        <xref outputclass="fm:TOC" href="Appendix-EE_9-9.dita#AFARS_Appendix-EE_9-9">9-9. Sustainable Procurement</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-EE_9-10.dita#AFARS_Appendix-EE_9-10">9-10. Commercial Platforms</xref>
                      </p>
                   </li>
                </ul>
@@ -525,7 +499,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-10.dita#AFARS_Appendix-EE_Chapter-10">Chapter 10 - Convenience Checks and Foreign Draft Checks</xref>
+                        href="Appendix-EE_Chapter-10.dita#AFARS_Appendix-EE_Chapter-10">CHAPTER 10 - CONVENIENCE CHECKS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -549,37 +523,13 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_10-4.dita#AFARS_Appendix-EE_10-4">10-4. Before Writing a Convenience Check</xref>
+                              href="Appendix-EE_10-4.dita#AFARS_Appendix-EE_10-4">10-4. Annual Convenience Check Review</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_10-5.dita#AFARS_Appendix-EE_10-5">10-5. Why Decrease Use of Convenience Checks?</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_10-6.dita#AFARS_Appendix-EE_10-6">10-6. Annual Convenience Check Review</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_10-7.dita#AFARS_Appendix-EE_10-7">10-7. ETO Report</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_10-8.dita#AFARS_Appendix-EE_10-8">10-8. Convenience Check Resources</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Appendix-EE_10-9.dita#AFARS_Appendix-EE_10-9">10-9. IRS Form 1099 Reporting Process</xref>
+                              href="Appendix-EE_10-5.dita#AFARS_Appendix-EE_10-5">10-5. Convenience Check Resources</xref>
                      </p>
                   </li>
                </ul>
@@ -587,19 +537,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-11.dita#AFARS_Appendix-EE_Chapter-11">Chapter 11 - Management Controls and Program Oversight</xref>
+                        href="Appendix-EE_Chapter-11.dita#AFARS_Appendix-EE_Chapter-11">CHAPTER 11 - MANAGEMENT CONTROLS AND PROGRAM OVERSIGHT</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-1.dita#AFARS_Appendix-EE_11-1">11-1. Management Oversight Controls</xref>
+                              href="Appendix-EE_11-1.dita#AFARS_Appendix-EE_11-1">11-1. Internal Controls</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-2.dita#AFARS_Appendix-EE_11-2">11-2. Internal Management Controls</xref>
+                              href="Appendix-EE_11-2.dita#AFARS_Appendix-EE_11-2">11-2. Three-Pronged Oversight Review Process</xref>
                      </p>
                   </li>
                   <li>
@@ -629,31 +579,31 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-7.dita#AFARS_Appendix-EE_11-7">11-7. Fraud Overview</xref>
+                              href="Appendix-EE_11-7.dita#AFARS_Appendix-EE_11-7">11-7. Disciplinary Requirements and Categories of GPC Violations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-8.dita#AFARS_Appendix-EE_11-8">11-8. Non-Cardholder Fraud</xref>
+                              href="Appendix-EE_11-8.dita#AFARS_Appendix-EE_11-8">11-8. Fraud Overview</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-9.dita#AFARS_Appendix-EE_11-9">11-9. Cardholder Fraud and Merchant Fraud</xref>
+                              href="Appendix-EE_11-9.dita#AFARS_Appendix-EE_11-9">11-9. Non-Cardholder Fraud</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-10.dita#AFARS_Appendix-EE_11-10">11-10. Reporting and Monitoring for Fraud</xref>
+                              href="Appendix-EE_11-10.dita#AFARS_Appendix-EE_11-10">11-10. Cardholder Fraud and Merchant Fraud</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_11-11.dita#AFARS_Appendix-EE_11-11">11-11. Violation and Disciplinary Categories</xref>
+                              href="Appendix-EE_11-11.dita#AFARS_Appendix-EE_11-11">11-11. Reporting and Monitoring for Fraud</xref>
                      </p>
                   </li>
                </ul>
@@ -661,37 +611,37 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-12.dita#AFARS_Appendix-EE_Chapter-12">Chapter 12 - Contingency Operations</xref>
+                        href="Appendix-EE_Chapter-12.dita#AFARS_Appendix-EE_Chapter-12">CHAPTER 12 – EMERGENCY TYPE OPERATIONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_12-1.dita#AFARS_Appendix-EE_12-1">12-1. Contingency Contracting</xref>
+                              href="Appendix-EE_12-1.dita#AFARS_Appendix-EE_12-1">12-1. Emergency-Type Operations</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_12-2.dita#AFARS_Appendix-EE_12-2">12-2. Emergency Acquisition Flexibility</xref>
+                              href="Appendix-EE_12-2.dita#AFARS_Appendix-EE_12-2">12-2. Increased Thresholds and Acquisition Flexibilities for ETOs</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_12-3.dita#AFARS_Appendix-EE_12-3">12-3. Emergency Thresholds</xref>
+                              href="Appendix-EE_12-3.dita#AFARS_Appendix-EE_12-3">12-3. Required Internal Controls for ETOs</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_12-4.dita#AFARS_Appendix-EE_12-4">12-4. GPC Contingency Contracting Management Controls</xref>
+                              href="Appendix-EE_12-4.dita#AFARS_Appendix-EE_12-4">12-4. Personnel Responsibilities for ETOs</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Appendix-EE_12-5.dita#AFARS_Appendix-EE_12-5">12-5. Contingency Roles and Responsibilities</xref>
+                              href="Appendix-EE_12-5.dita#AFARS_Appendix-EE_12-5">12-5. ETO-Specific Training</xref>
                      </p>
                   </li>
                   <li>
@@ -705,7 +655,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-13.dita#AFARS_Appendix-EE_Chapter-13">Chapter 13 - Management Reviews</xref>
+                        href="Appendix-EE_Chapter-13.dita#AFARS_Appendix-EE_Chapter-13">CHAPTER 13 - MANAGEMENT REVIEWS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -743,7 +693,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-14.dita#AFARS_Appendix-EE_Chapter-14">Chapter 14 - Prohibited and Restricted Purchases</xref>
+                        href="Appendix-EE_Chapter-14.dita#AFARS_Appendix-EE_Chapter-14">CHAPTER 14 - PROHIBITED AND RESTRICTED PURCHASES</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -793,7 +743,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-15.dita#AFARS_Appendix-EE_Chapter-15">Chapter 15 – Contract Payments</xref>
+                        href="Appendix-EE_Chapter-15.dita#AFARS_Appendix-EE_Chapter-15">CHAPTER 15 – CONTRACT PAYMENTS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -843,7 +793,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-16.dita#AFARS_Appendix-EE_Chapter-16">Chapter 16 - Ammunition and Weapons</xref>
+                        href="Appendix-EE_Chapter-16.dita#AFARS_Appendix-EE_Chapter-16">CHAPTER 16 - AMMUNITION AND WEAPONS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -893,7 +843,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Appendix-EE_Chapter-17.dita#AFARS_Appendix-EE_Chapter-17">Chapter 17 – METRICS AND REPORTING</xref>
+                        href="Appendix-EE_Chapter-17.dita#AFARS_Appendix-EE_Chapter-17">CHAPTER 17 – METRICS AND REPORTING</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -933,6 +883,18 @@
                      </p>
                   </li>
                </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-EE_Appendix_a.dita#AFARS_Appendix-EE_Appendix_a">APPENDIX A: ACRONYMS</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-EE_Appendix_b.dita#AFARS_Appendix-EE_Appendix_b">APPENDIX B: DEFINITIONS</xref>
+               </p>
             </li>
          </ul>
       </body>

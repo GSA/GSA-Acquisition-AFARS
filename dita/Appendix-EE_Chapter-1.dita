@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<topic id="AFARS_Appendix-EE_Chapter-1">
-        <title>Chapter 1 - The Government Purchase Card Program</title>
-        <body/>
+<topic id="AFARS_Appendix-EE_Chapter-1" class="- topic/topic ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">CHAPTER 1</ph> - THE GOVERNMENT PURCHASE CARD
+PROGRAM</title>
+   <body class="- topic/body "/>
 </topic>

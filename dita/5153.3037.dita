@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5153.3037"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5153.303-7</ph> Format for a quarterly bid protest analysis report.</title>
-   <conbody>
-      <p id="KDoORb" outputclass="Ctr">
-         <b>
-            <u>Quarterly Bid Protest Analysis Report</u>
-         </b>
+<concept id="AFARS_5153.3037" class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5153.303-7</ph> Format for a quarterly bid protest analysis report.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p "> 
+         <ph rev="Revised October 1, 2024" class="- topic/ph ">Quarterly Bid Protest Analysis Report template is available in the Army Templates and Guides section on PAM.</ph>
       </p>
-      <p id="XAhMSx" outputclass="Ctr">
-         <b>(Separate Report for Government Accountability Office (GAO) Protests)</b>
-      </p>
-      <p id="gCDvxm" outputclass="Normal">For the period covering:</p>
-      <p id="cEMKRS" outputclass="List2">1. Protests filed this quarter:</p>
-      <p id="DApFLw" outputclass="List1">a. Total number:</p>
-      <p id="iUcNeQ" outputclass="List1">b. Numbers filed by Army Command/Major Subordinate Command, Heads of Contracting Activities (HCAs):</p>
-      <p id="hElXwe" outputclass="List2">2. Number of protests sustained/granted in this quarter:</p>
-      <p id="SUrsZU" outputclass="List2">3. Number of protests resolved using GAO Flexible Alternative Procedures in accordance with 4 CFR 21.10 this quarter:</p>
-      <p id="ArApcK" outputclass="List2">4. Costs:</p>
-      <p id="jdeWPt" outputclass="List1">a. Costs and fees awarded by GAO to protester:</p>
-      <p id="sDQBgh" outputclass="List1">b. Dollar value of award:</p>
-      <p id="nzKaIy" outputclass="List2">(1) Preaward protests:</p>
-      <p id="hmWnUO" outputclass="List2">(2) Postaward protests:</p>
-      <p id="nkbYJE" outputclass="List2">5. Lessons Learned, Issues and Trends, Divergence from Precedent. Provide a copy of all decisions for sustained protests along with the lessons learned.</p>
    </conbody>
 </concept>

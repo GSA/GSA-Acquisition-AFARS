@@ -2,87 +2,276 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_9-1">
-    <title>
+      <title>
       <ph props="autonumber">9-1.</ph> Required Sources</title>
-    <conbody>
-        <p>FAR Part 8 establishes priorities for using Government sources for supplies and services. CHs must make their purchases in accordance with the priorities set forth in FAR Part 8.</p>
-        <p id="Toc101947091">Table 9-1: FAR Part 8 - Required Sources of Supplies and Services</p>
+      <conbody>
+        <p outputclass="List1">a. Cardholders must purchase in accordance with
+the priorities set forth in <xref format="html"
+               href="https://www.acquisition.gov/far/part-8"
+               scope="external">
+            <u>FAR Part
+8</u>
+
+          </xref>, along with use of mandatory sources (i.e., inventories
+of the requiring agency, excess from other agencies, FPI supplies
+on the <xref format="html"
+               href="https://www.abilityone.gov/procurement_list/index.html"
+               scope="external">Procurement
+List</xref> maintained by AbilityOne, wholesale supply sources,
+services on the <xref format="html"
+               href="https://www.abilityone.gov/procurement_list/index.html"
+               scope="external">Procurement
+List</xref> maintained by AbilityOne, and other mandatory sources as
+specified in <xref format="html"
+               href="https://www.acquisition.gov/far/8.003"
+               scope="external">FAR
+8.003</xref>) or optional sources (i.e., FSS; Governmentwide
+acquisition contracts; multi-agency contracts; any other
+procurement instruments intended for use by multiple agencies,
+including BPAs under FSS contracts; FPI; and commercial sources
+(including educational and nonprofit institutions) in the open
+market).</p>
+        <p outputclass="List1">b. <b>Coordinated Acquisition
+Assignments</b>. Requiring activities must obtain the assigned
+supplies listed in <xref format="html"
+               href="https://www.acquisition.gov/dfarspgi/pgi-208.7006-coordinated-acquisition-assignments."
+               scope="external">DFARS
+PGI 208.7006</xref> from the Component responsible to supply the
+commodity through use of a MIPR as prescribed in <xref format="html"
+               href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/208_70.htm#208.7002"
+               scope="external">
+            <u>DFARS
+208.7002</u>
+          </xref> and <xref format="html"
+               href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/current/PGI208_70.htm"
+               scope="external">
+            <u>DFARS
+PGI 208.7004</u>
+          </xref>. Examples of assigned commodities include
+flags/pennants, badges/insignia, tents, weapons, ammunition, and
+explosives.</p>
+        <p id="Table_9-1_FAR_Part_8_-_Required_Sources">Table 9-1: FAR Part 8 - Required Sources of
+Supplies and Services</p>
         <table>
-            <tgroup cols="2">
-                <colspec colnum="1" colwidth="0.6*" colname="col1"/>
-                <colspec colnum="2" colwidth="1.4*" colname="col2"/>
-            <thead>
-               <row>
-                  <entry> 
-                     <b>Regulatory Reference</b> 
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.5*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Regulatory Reference</b>
                   </entry>
-                  <entry> 
-                     <b>Supplies and Services</b> 
+                  <entry>
+                     <b>Supplies and Services</b>
                   </entry>
-               </row>
-            </thead>
-                <tbody>
-                    <row>
-                        <entry> 
-                     <p> 
-                        <b>FAR 8.002</b> 
-                     </p> 
-                     <p> 
-                        <b>Priorities for Use of Mandatory Sources</b> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>
+                     <p>
+                        <b>FAR 8.002</b>
+                     </p>
+                     <p>
+                        <b>Priorities for Use of Mandatory Sources</b>
+                     </p>
                   </entry>
-                        <entry> 
-                     <p> 
-                        <b>Supplies</b> 
-                     </p> 
-                     <p outputclass="List2">1. Inventories of the requiring agency</p> 
-                     <p outputclass="List2">2. Excess from other agencies</p> 
-                     <p outputclass="List2">3. Federal Prison Industries (UNICOR)</p> 
-                     <p outputclass="List2">4. AbilityOne – products on Procurement List</p> 
-                     <p outputclass="List2">5. Wholesale supply sources, such as stock programs of GSA, DLA, and military inventory control points</p> 
-                     <p> 
-                        <b>Services</b> 
-                     </p> 
-                     <p>Services on the Procurement List - by the Committee for Purchase from People Who Are Blind or Severely Disabled</p> 
-                     <p>Note: Sources other than those listed above may be used as prescribed in 41 CFR 101-26.301 and in an unusual and compelling urgency as prescribed in 6.302-2 and in 41 CFR 101-25.101-5.</p> 
+                  <entry>
+                     <p>
+                        <b>Supplies</b>
+                     </p>
+                     <p>1. Inventories of the requiring agency</p>
+                     <p>2. Excess from other agencies</p>
+                     <p>3. Federal Prison Industries (UNICOR)</p>
+                     <p>4. AbilityOne – products on Procurement List</p>
+                     <p>5. Wholesale supply sources, such as stock programs of GSA, DLA,
+and military inventory control points</p>
+                     <p>
+                        <b>Services</b>
+                     </p>
+                     <p>Services on the Procurement List - by the Committee for Purchase
+from People Who Are Blind or Severely Disabled</p>
+                     <p>Note: Sources other than those listed above may be used as
+prescribed in 41 CFR 101-26.301 and in an unusual and compelling
+urgency as prescribed in 6.302-2 and in 41 CFR 101-25.101-5.</p>
                   </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <p> 
-                        <b>FAR Part 8.003</b> 
-                     </p> 
-                     <p> 
-                        <b>Use of Other Mandatory Sources</b> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>
+                     <p>
+                        <b>FAR Part 8.003</b>
+                     </p>
+                     <p>
+                        <b>Use of Other Mandatory Sources</b>
+                     </p>
                   </entry>
-                        <entry> 
-                     <p outputclass="List2">1. Public utility services (See FAR 41.)</p> 
-                     <p outputclass="List2">2. Printing and related supplies (See FAR 8.8.)</p> 
-                     <p outputclass="List2">3. Leased motor vehicles (See FAR 8.11.)</p> 
-                     <p outputclass="List2">4. Strategic, critical materials (e.g., metals, ores) from inventories</p> 
-                     <p>exceeding Defense National Stockpile requirements.</p> 
-                     <p outputclass="List2">5. Helium (See FAR 8.5.)</p> 
+                  <entry>
+                     <p>1. Public utility services (See FAR 41.)</p>
+                     <p>2. Printing and related supplies (See FAR 8.8.)</p>
+                     <p>3. Leased motor vehicles (See FAR 8.11.)</p>
+                     <p>4. Strategic, critical materials (e.g., metals, ores) from
+inventories exceeding Defense National Stockpile requirements.</p>
                   </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <p> 
-                        <b>FAR Part 8.004</b> 
-                     </p> 
-                     <p> 
-                        <b>Use of Other Sources</b> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>
+                     <p>
+                        <b>FAR Part 8.004</b>
+                     </p>
+                     <p>
+                        <b>Use of Other Sources</b>
+                     </p>
                   </entry>
-                        <entry> 
-                     <p>Consider use of small businesses, including veteran-owned, service-disabled veteran-owned, HUB Zone, disadvantaged, and women-owned small business concerns.</p> 
-                     <p outputclass="List2">1. <b>Supplies</b>. Federal supply schedules (FSS), Governmentwide acquisition contracts, multi-agency contracts, and any other procurement instruments intended for use by multiple agencies, including BPAs under FSSI agreements.</p> 
-                     <p outputclass="List2">2. <b>Services</b>. Agencies are encouraged to consider Federal Prison Industries, Inc.</p> 
-                     <p outputclass="List2">3. <b>Commercial sources</b> in the open market (including educational and non-profit institutions).</p> 
+                  <entry>
+                     <p>Agencies are encouraged to consider satisfying requirements from
+the non-mandatory sources listed in paragraph (a) of this section
+before considering the non-mandatory source listed in paragraph
+(b). See 7.105(b) and part 19 regarding consideration of small
+businesses and socioeconomic programs.</p>
+                     <p>(a)</p>
+                     <p>(1) <b>Supplies</b>. FSS, Governmentwide acquisition
+contracts, multi-agency contracts, and other procurement
+instruments intended for use by multiple agencies, including BPAs
+under FSS contracts (e.g., FSSI BPAs).</p>
+                     <p>(2) <b>Services</b>. Agencies are encouraged to
+consider Federal Prison Industries, Inc., as well as the sources
+listed in paragraph (a)(1) of this section.</p>
+                     <p>(b) <b>Commercial open market sources</b> (to include
+commercial platforms).</p>
                   </entry>
-                    </row>
-                </tbody>
-            </tgroup>
+              </row>
+            </tbody>
+          </tgroup>
         </table>
-    </conbody>
-</concept>
+        <p id="Toc174981117">Table 9-2: Mandatory Sources for
+Certain Commodities</p>
+        <table>
+          <tgroup cols="4">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.1*"/>
+            <colspec colname="col3" colnum="3" colwidth="1.2*"/>
+            <colspec colname="col4" colnum="4" colwidth="1.1*"/>
+            <tbody>
+              <row>
+                  <entry id="_9-2._AbilityOne">
+                     <b>Commodity</b>
+                  </entry>
+                  <entry>
+                     <b>Examples</b>
+                  </entry>
+                  <entry>
+                     <b>Mandatory Source</b>
+                  </entry>
+                  <entry>
+                     <b>Specific Instructions</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Office Furniture</entry>
+                  <entry>Tables, file cabinets, furniture systems (cubicle dividers),
+industrial shelving</entry>
+                  <entry>
+                     <xref format="html" href="https://www.unicor.gov/" scope="external">
+                        <u>UNICOR/ Federal
+Prison</u>
+                     </xref>
+                     <xref format="html" href="https://www.unicor.gov/" scope="external">
+                        <u>Industries</u>
+                     </xref>
+                  </entry>
+                  <entry>
+                     <p>Consider UNICOR for any FPI schedule items</p>
+                     <p>
+above <b>$3,500</b>.</p>
+                     <p>
+See paragraph 9-2.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Office Supplies</entry>
+                  <entry>Printer toner, copy paper, pens, pencils, staplers, staples,
+self-stick pads, file folders</entry>
+                  <entry>
+                     <p>Local AbilityOne Base Supply Store (BSC) if available, or
+through the sources</p>
+                     <p>located at <xref format="html" href="https://www.abilityone.gov/" scope="external">
+                           <u>AbilityOne</u>
+                        </xref>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>Shop local/installation AbilityOne BSCs first, if
+applicable.</p>
+                     <p>See paragraph 9-3.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Information Technology</entry>
+                  <entry>Computers, software, video-teleconferencing equipment,
+peripherals, IT services</entry>
+                  <entry>
+                     <xref format="html" href="https://chess.army.mil/" scope="external">
+                        <u>Computer Hardware,
+Enterprise</u>
+                     </xref>
+                     <xref format="html" href="https://chess.army.mil/" scope="external">
+                        <u>Software
+and Solutions</u>
+                     </xref>
+                     <xref format="html" href="https://chess.army.mil/" scope="external">
+                        <u>(CHESS)</u>
+                     </xref>
+                  </entry>
+                  <entry>
+                     <p>Mandatory for all IT purchases, unless you obtain a SoNA.</p>
+                     <p>
+See paragraph 9-4.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Cellular Services</entry>
+                  <entry>Cellular phones, wireless tablets, wireless service</entry>
+                  <entry>
+                     <xref format="html"
+                           href="https://my.navsup.navy.mil/apps/ops$ncmpo.home"
+                           scope="external">
+                        <u>Navy
+Spiral 4 Contracts</u>
+                     </xref>
+                  </entry>
+                  <entry>See paragraph 9-5.</entry>
+              </row>
+              <row>
+                  <entry>Print Devices and Services</entry>
+                  <entry>
+                     <p>Printers, copiers, scanners. Maintenance and repairs.</p>
+                     <p>
+Banners, decals, manuals.</p>
+                  </entry>
+                  <entry>
+                     <xref format="html"
+                           href="https://www.dla.mil/Document-Services/"
+                           scope="external">DLA Document
+Services</xref>
+                  </entry>
+                  <entry>See paragraph 9-6 for details and exemptions.</entry>
+              </row>
+              <row>
+                  <entry>Heraldry</entry>
+                  <entry>Official flags, guidons, streamers</entry>
+                  <entry>
+                     <xref format="html"
+                           href="https://www.heraldry.army.mil/"
+                           scope="external">Clothing and Heraldry
+PSID</xref>
+                  </entry>
+                  <entry>
+                     <p>See para 9-7 and</p>
+                     <p>
+AR 840-10.</p>
+                  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="_9-3._UNICOR_Federal_Prison_Industries"/>
+      </conbody>
+    </concept>

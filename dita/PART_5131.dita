@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5131</ph> - Contract Cost Principles and Procedures</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -17,7 +20,7 @@
                         <xref outputclass="fm:TOC" href="5131.205.dita#AFARS_5131.205">5131.205 Selected costs.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5131.2056.dita#AFARS_5131.2056">5131.205-6 Compensation for personal services.</xref>
                            </p>

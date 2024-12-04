@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_Appendix-EE_15-5">
-    <title>
-      <ph props="autonumber">15-5.</ph> Payment Plus Process Flow</title>
-    <conbody>
-        <p>The Army must follow all the necessary internal contracting procedures before starting the Payment Request Process. The contract payments CH is the person who will receive either a Single Use Account (SUA) or a Pre-Authorized Limit (PAL) account number for each transaction and who in turn, provides the account number to the merchant. If using SUA, it is generated for each transaction, notification is sent to the CH. The SUA comes with an Expiration Date and CVV (Card Verification Value). The person within the agency responsible for the payments is the contract payments BO who will certify the invoice “transaction(s)” for payment to the bank. </p>
-        <p> </p>
-        <p id="Toc118789503">Figure 15-2: Payment Plus Process Flow</p>
-        <p> </p>
-        <p> 
-         <image href="Graphics/image23.png"/> 
-      </p>
-        <p> </p>
-    </conbody>
-</concept>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_15-5" class="- topic/topic concept/concept "><title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15-5.</ph> Payment Plus Process Flow</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">The Army must follow all the necessary internal contracting
+procedures before starting the Payment Request Process. The
+contract payments CH is the person who will receive either a Single
+Use Account (SUA) or a Pre-Authorized Limit (PAL) account number
+for each transaction and who in turn, provides the account number
+to the merchant. If using SUA, it is generated for each
+transaction, notification is sent to the CH. The SUA comes with an
+Expiration Date and CVV (Card Verification Value). The person
+within the agency responsible for the payments is the contract
+payments BO who will certify the invoice
+“transaction(s)” for payment to the bank.</p><p id="Figure_15-2_Payment_Plus_Process_Flow" class="- topic/p ">Figure 15-2: Payment Plus Process Flow</p><p class="- topic/p "> <image href="Graphics/image7.png" placement="inline" class="- topic/image "/> </p></conbody></concept>

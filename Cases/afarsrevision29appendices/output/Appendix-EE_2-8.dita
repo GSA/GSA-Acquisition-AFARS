@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_2-8">
+      <title><ph props="autonumber">2-8.</ph> GPC Support Function Duties</title>
+      <conbody>
+        <p outputclass="List1">a. Resource Manager GPC Support Function
+Duties.</p>
+        <p outputclass="List2">1) Fund GPC purchases and provide a system of
+positive funds control.</p>
+        <p outputclass="List2">2) Assist the Level 4 A/OPC in establishing and
+maintaining BO and CH accounts.</p>
+        <p outputclass="List2">3) Assign default and alternate lines of
+accounting as appropriate.</p>
+        <p outputclass="List2">4) Ensure obligations are posted prior to
+invoicing for non-Electronic Data Interchange (EDI) accounts.</p>
+        <p outputclass="List2">5) Assist with resolving accounts that are in a
+delinquent status and provide payment information when
+requested.</p>
+        <p outputclass="List2">6) Assist the Level 4 A/OPC with the surveillance
+of assigned accounts.</p>
+        <p outputclass="List2">7) Monitor General Fund Enterprise Business System
+(GFEBS) and Defense Enterprise Accounting Management System (DEAMS)
+daily to identify account payment issues, prevent and resolve GPC
+payment delinquencies, correct Intermediate Document (IDOC) errors,
+and provide payment information upon request.</p>
+        <p outputclass="List2">8) Provide guidance and training to installation
+RMs, BOs, and CHs on GFEBS/DEAMS processes.</p>
+        <p outputclass="List2">9) Provide appropriate funding for the accounts
+and enter associated lines of accounting into applicable
+systems.</p>
+        <p outputclass="List2">10) Establish spending limits that are tied
+directly to funding allocated for each billing and CH account.</p>
+        <p outputclass="List1">b. Organizational PIEE Government Administrator
+Manager (GAM) GPC Function Duties.</p>
+        <p outputclass="List2">1) Administer Location Codes.</p>
+        <p outputclass="List2">2) Look up group names and GAM information.</p>
+        <p outputclass="List2">3) View and edit user profile information.</p>
+        <p outputclass="List2">4) Activate (add) and deactivate users.</p>
+        <p outputclass="List2">5) Reset user passwords.</p>
+        <p outputclass="List2">6) Reset certificates.</p>
+        <p outputclass="List1">c. Defense Finance and Accounting Service (DFAS)
+Support Function Duties.</p>
+        <p outputclass="List2">1) Provide tax reporting guidance to checkwriters.
+See Chapter 10-3.</p>
+        <p outputclass="List2">2) Confirm the DD Form 577 for certifying
+officials.</p>
+        <p outputclass="List2">3) Process EDI transaction sets 821, Obligation
+Files; and 810, invoice files, and notify the responsible
+installation or activity when the corresponding files are not
+received.</p>
+        <p outputclass="List2">4) Notify the installation/activity, within one
+day, of rejects and interest penalties assessed to individual
+accounts.</p>
+        <p outputclass="List2">5) Process requests for manual payments, e.g.,
+bank system rejects and non-EDI accounts.</p>
+        <p outputclass="List2">6) Assist in resolving GPC payment issues.</p>
+        <p outputclass="List1">d. Senior Contracting Official (SCO), or
+equivalent Duties.</p>
+        <p outputclass="List2">1) The SCO or equivalent is responsible for the
+operation and execution of their GPC Program in compliance with
+this document and the policies and procedures issued from the
+ODASA(P).</p>
+        <p outputclass="List2">2) Develop internal management controls to
+operate, manage, provide oversight, and maintain the integrity of
+the local GPC Program.</p>
+        <p outputclass="List2">3) Ensure adequate checks and balances are in
+place to manage local GPC programs.</p>
+        <p outputclass="List2">4) Ensure CHs are not subjected to undue influence
+in performing their duties and responsibilities.</p>
+        <p outputclass="List2">5) Ensure separation of duties. Individuals
+designated as A/OPCs will not be simultaneously designated as BOs
+or CHs. Individuals designated as BOs will not be a CH on the same
+managing account.</p>
+        <p outputclass="List2">6) Manage span of control appropriately. Primary
+and alternate A/OPCs will not be responsible for more than 250 GPC
+accounts. An additional A/OPC must be appointed whenever the
+combined number of CH and managing accounts exceed the 250:1 ratio.
+The number of CH accounts assigned to a primary BO will not be more
+than seven (7:1). Additional BOs must be assigned by the
+organization whenever the number of CH accounts exceed the 7:1
+ratio.</p>
+        <p outputclass="List2">7) Ensure that A/OPCs have the necessary resources
+to accomplish program oversight.</p>
+        <p outputclass="List2">8) Delegate appointing authority when needed. The
+HCA may retain the authority to appoint A/OPCs or delegate this
+authority to the SCO or equivalent. The SCO may further delegate
+this authority in writing as necessary and ensure all appointments
+are executed through JAM.</p>
+        <p outputclass="List1">e. Accountable Property Officer (APO) GPC Support
+Function Duties.</p>
+        <p outputclass="List2">1) Assist the A/OPC in reviewing card accounts to
+ensure that property accountability procedures are being
+followed.</p>
+        <p outputclass="List2">2) Ensure property control and accountability
+procedures are developed and disseminated to all personnel who are
+entrusted with the acquisition of Army property and equipment.</p>
+        <p outputclass="List2">3) Comply with accountability procedures in Army
+Regulation (AR) 710-4 and AR 735-5.</p>
+        <p outputclass="List2">4) Record in property systems any sensitive and
+pilferable property purchased.</p>
+        <p outputclass="List2">5) Determine the accounting requirements for the
+GPC purchased property, such as nonexpendable or controlled
+(requires property to be accounted for on property book records),
+durable (requires control when issued to the user) and expendable
+(no requirement to account for on property book records).</p>
+        <p outputclass="List2">6) Pre-approve all Army purchase request forms (or
+similar local forms) for applicable items.</p>
+        <p outputclass="List2">7) Require CH to provide copy of receipt/invoice
+along with proof of independent receipt/acceptance within 5 days of
+receipt of accountable item.</p>
+        <p outputclass="List2">8) Determine if an exception applies for the
+purchase of training, services, or consumable supplies (e.g.,
+office supplies, batteries).</p>
+        <p outputclass="List1">f. Audit Agencies.</p>
+        <p outputclass="List2">1) Auditors are authorized data access to retrieve
+GPC data within the GPC EAS systems. Specific roles are established
+in all GPC EAS systems when granted access for a limited amount of
+time.</p>
+        <p outputclass="List2">2) GPC Auditor should load a scanned copy of the
+audit letter during the PIEE registration process. Each request
+must specify the purpose, scope of the review, define the access
+required, and state the desired access period (start and end
+dates). Access requests must be approved by the CPM.</p>
+        <p outputclass="List2">3) Assist Army leaders in assessing and mitigating
+GPC risk by providing solutions through independent internal
+auditing services.</p>
+        <p outputclass="List2">4) Ensure the ODASA(P) has an opportunity to
+participate in a proactive audit planning process, which is
+responsive to GPC management and acquisition needs.</p>
+      </conbody>
+    </concept>

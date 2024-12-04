@@ -2,9 +2,42 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_8-5">
-  <title>
-      <ph props="autonumber">8-5.</ph> Use of the GPC for Military Tuition Assistance</title>
-  <conbody>
-      <p>Use the GPC for the payment method of military tuition assistance invoices. DD Form 2171, Request for Tuition Assistance (TA), provides financial assistance for voluntary off duty education programs in support of soldiers’ professional and personal self-development. Advance payments are authorized under the TA Program in accordance with AR 621-5. All course enrollments must be approved prior to start of class. Soldiers must request TA through the <xref href="https://www.armyignited.com/" format="html" scope="external">ArmyIgnitED website</xref>, prior to the course start date or before the school’s late registration period.</p>
-  </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">8-5.</ph> Subscriptions for Training Access</title>
+      <conbody>
+        <p outputclass="List1">a.</p>
+        <p>Subscriptions for access to on-demand training (e.g., training
+platform, portal, or website) are FAR-based transactions and
+subject to the MPT. The MPT applies to the dollar value of the
+total cost of the subscription. Subscription services for groups or
+organizations typically set a threshold or limit to the number of
+employees who can access training services via the subscription for
+the flat subscription cost; the costs are not pro-rated or adjusted
+by the number of actual employees that</p>
+        <p>actually access</p>
+        <p>the training.</p>
+        <p>Subscriptions should be in the name of the agency.</p>
+        <p/>
+        <p/>
+        <p/>
+        <p outputclass="List1">b.</p>
+        <p>
+          <b>Example</b>
+        </p>
+        <p>
+          <b>
+            <i>.</i>
+          </b>
+        </p>
+        <p>A CH is buying a subscription to a training vendor’s
+on-demand training site for a cost of $9,000 per year. Up to 300
+employees can access on-demand training under the subscription and
+the cost is not pro-rated based on actual use. The CH may use the
+GPC to purchase the subscription because it falls within the
+$10,000 MPT. If the cost per year is $11,000, the requirement must
+be forwarded to</p>
+        <p>contracting</p>
+        <p>for action. </p>
+        <p/>
+      </conbody>
+    </concept>

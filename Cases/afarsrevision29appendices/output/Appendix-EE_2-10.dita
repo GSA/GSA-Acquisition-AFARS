@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_2-10">
+      <title><ph props="autonumber">2-10.</ph> Separation of Duties</title>
+      <conbody>
+        <p outputclass="List1">a. Separation of duties is an internal control
+activity intended to provide checks and balances to the GPC process
+and to prevent or minimize innocent errors or intentional fraud
+occurring without detection. This internal control ensures that no
+single individual has control over multiple phases of a purchase
+card transaction. To protect the integrity of the procurement
+process, no one person is responsible for an entire purchase card
+transaction. OMB standards for internal controls require that key
+duties and responsibilities be divided or segregated among
+individuals to ensure they do not exceed or abuse their assigned
+authority. See OMB Circular A-123, Appendix B Revised, paragraph
+4.3. To the greatest extent possible, GPC duties will be assigned
+to different individuals within the GPC hierarchical structure. As
+stated in the DoD FMR, “separation of duties precludes errors
+or attempts at fraud or embezzlement from going undetected.
+Internal controls generally require a four-way separation of the
+contracting, receiving/[accepting], voucher certification, and
+disbursing functions.”</p>
+        <p outputclass="List1">b. Key GPC duties include making purchases and/or
+payments (CHs); verifying purchases and/or payments are proper
+(BOs, Certifying Officers, and FSOs); certifying invoices for
+payment (BOs, Certifying Officers, and FSOs); certifying
+availability of funds (Financial RMs); receiving and accepting
+supplies and services, including independent receipt and acceptance
+(acceptors); disbursing funds (Disbursing Office); and conducting
+policy, review, and audit functions (A/OPCs and Property Book
+Officers). For example:</p>
+        <p outputclass="List2">1) BOs will not be CHs under their own MAs.</p>
+        <p outputclass="List2">2) RMs will not be CHs or BOs with responsibility
+for executing their own funds.</p>
+        <p outputclass="List2">3) Accountable Property Officers or their
+equivalents will not be CHs with authority to purchase accountable
+items (this does not apply to Property Book Hand Receipt
+Holders).</p>
+        <p outputclass="List2">4) Purchases of accountable (e.g., pilferable)
+property, and self-generated purchases, will have acceptance
+performed by someone other than the CH, BO, and Certifying
+Officer.</p>
+        <p outputclass="List2">5) CAC-enabled systems will generate a
+conflict-of-interest report to depict instances where assigned
+roles do not conform to DoD policy.</p>
+        <p outputclass="List2">6) Authorization roles will be assigned to a
+user’s profile, with each profile allowing only that
+individual the ability to perform specific tasks in the system.</p>
+        <p outputclass="List1">b. If resource constraints prevent assignment of
+the key duties to different individuals, as set forth in paragraph
+a. above, the activity must request a waiver through the Level 4
+A/OPC and the CCO to the Level 3 A/OPC for approval.</p>
+        <p outputclass="List1">c. Notwithstanding the above-described waiver
+process, certain key duties must not be assigned to the same
+individual. In no case will the same individual be both the CH and
+BO for a GPC account. In no case will the Accountable Property
+Officer or A/OPC (primary or alternate) also be a CH, BO or
+contracting officer making contract payments with a GPC or
+executing GPC purchases. A CH who is a hand receipt holder should
+not purchase property for their own use. The servicing bank
+provides the functionality to generate a report identifying
+potential conflicts of interest in GPC program duties.</p>
+      </conbody>
+    </concept>

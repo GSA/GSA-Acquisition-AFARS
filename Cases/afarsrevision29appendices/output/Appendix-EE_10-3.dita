@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_10-3">
+      <title><ph props="autonumber">10-3.</ph> Convenience Check Reporting (IRS Form
+1099)</title>
+      <conbody>
+        <p outputclass="List1">a. The DFAS Tax Office is responsible for DoD
+compliance with 1099 reporting requirements.</p>
+        <p>DFAS provides the convenience check payment data to the
+applicable A/OPC and checkwriter for determining the tax reporting
+requirements and completion of specifically identified data not
+available to, or captured by, the contracted bank. The checkwriter
+is responsible for ensuring the completion and return of the data
+to DFAS.</p>
+        <p outputclass="List1">b. The Army is required to file a Form 1099-MISC
+for payments to vendors or individuals totaling more than $600 in a
+tax year.</p>
+        <p outputclass="List1">c. 1099 reporting involves the collection of
+Personally Identifiable Information (i.e., Taxpayer Identification
+Number and Social Security Number) and must be safeguarded with
+appropriate oversight controls in accordance with the Privacy
+Act.</p>
+        <p outputclass="List1">d. IRS Form 1099 must be issued to check
+recipients for certain payment types. (See <xref format="html" href="https://www.irs.gov/instructions/i1099mec" scope="external">
+            <u>IRS
+Instructions for Form 1099 - MISC</u>
+          </xref> for more detail regarding
+payment types that are not reportable to DFAS.) Convenience check
+data must be reported to the IRS as income to the check
+recipients.</p>
+        <p outputclass="List1">e. <b>Tax Reporting</b>. The DFAS Tax
+Office emails convenience check purchasing data monthly to the
+checkwriters for verification. The email contains a spreadsheet,
+instructions, and the suspense date for return. Upon receipt of the
+spreadsheet, checkwriters must update the required columns and
+email the spreadsheet to the following mailbox, <xref format="html" href="mailto:dfas.cco-checks@mail.mil" scope="external">
+            <u>dfas.cco-checks@mail.mil</u>
+
+          </xref>,
+within five business days upon receipt. This data is used to
+process IRS 1099-MISC forms. The BO is responsible to monitor the
+checkwriter's compliance. Instructions for submitting convenience
+check 1099 tax reporting information are available on the <xref format="html" href="https://www.dfas.mil/contractorsvendors/taxinfo/Convenience-Check-1099PRO/" scope="external">
+            <u>DFAS
+DoD Government Convenience Checks website</u>
+          </xref>.</p>
+        <p>Checkwriters will obtain the vendor information and W-9 required
+for tax reporting before paying the vendor, as stated in DoD
+7000-14R FMR 26 Volume 10, Chapter 6, 060209. The checkwriter is
+responsible for tax reporting for the convenience checks they issue
+and for obtaining a signed IRS Form W9, Request for Taxpayer
+Identification Number and Certification.</p>
+        <p outputclass="List1">f. DFAS ESS Tax Office will perform the following
+actions:</p>
+        <p outputclass="List2">1) Provide monthly spreadsheets containing the
+servicing bank’s universe of convenience check payment data
+to A/OPCs, BOs, and checkwriters for completion of additional
+information.</p>
+        <p outputclass="List2">2) Provide tax reporting guidance to
+checkwriters.</p>
+        <p outputclass="List2">3) Aggregate the payment data to determine tax
+form issuance and issue tax forms to check recipients.</p>
+        <p outputclass="List2">4) Electronically report the payment data to the
+IRS.</p>
+        <p outputclass="List2">5) Provide report to A/OPCs, BOs, and checkwriters
+of data that resulted in tax form issuance.</p>
+        <p outputclass="List2">6) Provide customer service to tax form
+recipients.</p>
+        <p outputclass="List2">7) Issue corrected tax forms.</p>
+        <p outputclass="List1">g. A/OPCs, Billing Officials, and Checkwriters
+will perform the following actions:</p>
+        <p outputclass="List2">1) Supplement the payment data with the necessary
+reporting data, annotate payment as reportable or not reportable,
+and return spreadsheets to tax office.</p>
+        <p outputclass="List2">2) Maintain and update points of contact in the
+U.S. Bank account.</p>
+        <p outputclass="List2">3) Maintain final summarized spreadsheet provided
+by DFAS and copies of the check registers for audit purposes.</p>
+        <p outputclass="List2">4) Have a signed W-9 from vendors on file.</p>
+        <p outputclass="List2">5) Ensure that spreadsheets are completed
+correctly and returned by deadline.</p>
+        <p outputclass="List1">h. The checkwriter must complete the following
+fields in the DFAS spreadsheet:</p>
+        <p outputclass="List2">1) <b>Payment Description</b>. Define
+the purpose of the payment to the vendor.</p>
+        <p outputclass="List2">2) <b>Yes or No Reportable
+Transaction</b>. Indicate whether vendor and payment type are
+tax reportable. “Yes” is reportable. “No”
+is not reportable.</p>
+        <p outputclass="List2">3) For all tax reportable payments, complete the
+following fields:</p>
+        <p>(a) Vendor’s Taxpayer Identification Number: SSN, EIN,
+ITIN</p>
+        <p>(b) Vendor’s Name and Doing Business As Name</p>
+        <p>(c) Vendor’s Current mailing address</p>
+        <p>(d) Vendor’s City</p>
+        <p>(e) Vendor’s State</p>
+        <p>(f) Vendor’s Zip Code</p>
+        <p>(g) Vendor’s Country</p>
+        <p>(h) Indicate the payment amount in <b>one</b> of the
+following fields, as applicable:</p>
+        <p outputclass="List2">(1) Check paid for Rents, Rentals, Leases</p>
+        <p outputclass="List2">(2) Check paid for Royalties</p>
+        <p outputclass="List2">(3) Check paid to individual for medical
+research</p>
+        <p outputclass="List2">(4) Check Paid for Medical/Dental Services</p>
+        <p outputclass="List2">(5) Check paid to a vendor or individual not
+Government employee</p>
+        <p outputclass="List2">(6) Check paid for Attorney Fees</p>
+      </conbody>
+    </concept>

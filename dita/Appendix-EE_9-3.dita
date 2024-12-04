@@ -2,13 +2,63 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_9-3">
-  <title>
-      <ph props="autonumber">9-3.</ph> UNICOR/Federal Prison Industries</title>
-  <conbody>
-      <p>CHs with a requirement exceeding $3,500, which contains any UNICOR/Federal Prison Industries (FPI) listed items, must consider purchasing those item(s) from the FPI schedule. The FPI schedule is located at <xref href="https://www.unicor.gov/Category.aspx"
-               format="html"
-               scope="external">UNICOR - Products &amp; Services</xref>. Prior to purchasing FPI listed items above $3,500, cardholders must conduct market research to determine whether the FPI item(s) are comparable to the supplies available from the private sector that best meet the Government’s needs in terms of price, quality, and time of delivery. CHs must prepare a written determination that includes supporting rationale explaining the assessment of price, quality, and time of delivery, based on the results of market research comparing the FPI item to supplies available from the private sector.</p>
-      <p outputclass="List1">a. If the FPI item is comparable, CHs will purchase the item from FPI following the ordering procedures at <xref href="http://www.unicor.gov/" format="html" scope="external">UNICOR</xref>.</p>
-      <p outputclass="List1">b. If the FPI item is not comparable in one or more of the areas of price, quality, and time of delivery, CHs will acquire the item using traditional micro-purchase competition procedures, as applicable.</p>
-  </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">9-3.</ph> AbilityOne</title>
+      <conbody>
+        <p outputclass="List1">a. Cardholders may purchase AbilityOne <xref format="html"
+               href="https://www.abilityone.gov/procurement_list/index.html"
+               scope="external">Procurement
+List</xref> supplies directly from AbilityOne or from one of their
+authorized distributors to satisfy the mandatory
+requirement. CHs should first shop at their respective local
+AbilityOne® Base Supply Center (BSC), where such stores exist.
+AbilityOne profits are maximized for purchases made directly from
+AbilityOne, such as a BSC or an AbilityOne online catalog. The
+AbilityOne producing agency sells the supply at a set price (fair
+market value). The distributor can sell the supply at varying
+prices but is not allowed to sell below the fair market value.</p>
+        <p outputclass="List1">b. If FPI/UNICOR and AbilityOne participating
+nonprofit agencies produce identical supplies or services,
+FPI/UNICOR is the higher priority for supplies and AbilityOne is
+the higher priority for services (FAR 8.603 and 8.002). Unlike
+FPI/UNICOR procedures, AbilityOne purchasing procedures are
+applicable to all purchases regardless of dollar value and do not
+allow contracting officers to authorize purchase from an alternate
+source. If the requirement can be fulfilled with an AbilityOne
+product on the <xref format="html"
+               href="https://www.abilityone.gov/procurement_list/index.html"
+               scope="external">Procurement
+List</xref>, the CH must purchase from FPI/UNICOR unless they receive
+a waiver from FPI/UNICOR allowing them to purchase from
+AbilityOne.</p>
+        <p outputclass="List1">c. Cardholders may request a waiver from
+AbilityOne following the procedures at <xref format="html"
+               href="https://www.abilityone.gov/laws,_regulations_and_policy/documents/US%20AbilityOne%20Commission%20Policy%2051%20541%20Requirement%20to%20Purchase%20PL%20Products%20Instead%20of%20Essentially%20the%20Same%20Final.pdf"
+               scope="external">
+            <u>AbilityOne’s
+Policy 51.541</u>
+          </xref>. Before AbilityOne approves any waiver
+request, it can (1) review product information to ensure the
+alternate product is essentially the same as the AbilityOne
+product, and (2) offer a price match.</p>
+        <p outputclass="List1">d. AbilityOne purchasing procedures do not allow
+contracting officers to authorize purchase from an alternate
+source. Prices of items on the <xref format="html"
+               href="https://www.abilityone.gov/procurement_list/index.html"
+               scope="external">Procurement
+List</xref> are fair market prices as established by AbilityOne (FAR
+8.707). Purchase at these established prices is mandated without
+further consideration of prices available from the private
+sector.</p>
+        <p outputclass="List1">e. For units in Germany, Italy and the United
+Kingdom, the preferred use policy for office supplies is through
+the <xref format="html"
+               href="https://kvg.com/pages/jose-program"
+               scope="external">Joint Office
+Supply Europe program (JOSE)</xref>. For information on JOSE,
+cardholders may contact their A/OPC or view the <xref format="html"
+               href="https://cdn.shopify.com/s/files/1/0665/3152/4922/files/JOSE_Preferred_Use_Memo_-_Joint_Signed.pdf"
+               scope="external">JOSE
+Preferred Use Policy for Office Supplies memorandum</xref>.</p>
+      </conbody>
+    </concept>

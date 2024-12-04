@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5137</ph> - Service Contracting</title>
       <body>
          <p>
-            <i>(Revised 18 October, 2023)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,7 +20,7 @@
                         <xref outputclass="fm:TOC" href="5137.10290.dita#AFARS_5137.10290">5137.102-90 Policy.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.104.dita#AFARS_5137.104">5137.104 Personal services contracts.</xref>
                      </p>
@@ -64,27 +64,27 @@
                   <xref outputclass="fm:TOC" href="Subpart_5137.5.dita#AFARS_Subpart_5137.5">Subpart 5137.5 - Management Oversight of Service Contracts</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.503.dita#AFARS_5137.503">5137.503 Agency-head responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5901.dita#AFARS_5137.5901">5137.590-1 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5902.dita#AFARS_5137.5902">5137.590-2 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5903.dita#AFARS_5137.5903">5137.590-3 Review thresholds.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5904.dita#AFARS_5137.5904">5137.590-4 Review procedures.</xref>
                      </p>
@@ -94,12 +94,12 @@
                         <xref outputclass="fm:TOC" href="5137.5905.dita#AFARS_5137.5905">5137.590-5 Reserved.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5906.dita#AFARS_5137.5906">5137.590-6 Acquisition strategy content.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.5907.dita#AFARS_5137.5907">5137.590-7 Data collection and reporting.</xref>
                      </p>
@@ -111,22 +111,22 @@
                   <xref outputclass="fm:TOC" href="Subpart_5137.72.dita#AFARS_Subpart_5137.72">Subpart 5137.72 - Educational Service Agreements</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.7204.dita#AFARS_5137.7204">5137.7204 Format and clauses for educational service agreements.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.720490.dita#AFARS_5137.720490">5137.7204-90 Establishing educational service agreements.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.720491.dita#AFARS_5137.720491">5137.7204-91 Purchase requests.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.720492.dita#AFARS_5137.720492">5137.7204-92 Ordering procedures.</xref>
                      </p>
@@ -136,7 +136,7 @@
                         <xref outputclass="fm:TOC" href="5137.720493.dita#AFARS_5137.720493">5137.7204-93 Distribution of orders.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.720494.dita#AFARS_5137.720494">5137.7204-94 Gratuitous agreements.</xref>
                      </p>
@@ -148,7 +148,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5137.74.dita#AFARS_Subpart_5137.74">Subpart 5137.74 - Services at Installations Being Closed</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.7401.dita#AFARS_5137.7401">5137.7401 Policy.</xref>
                      </p>
@@ -160,7 +160,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5137.90.dita#AFARS_Subpart_5137.90">Subpart 5137.90 - Security Clearances and Identification for Contractor Personnel</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.9001.dita#AFARS_5137.9001">5137.9001 Responsibilities.</xref>
                      </p>
@@ -172,7 +172,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5137.91.dita#AFARS_Subpart_5137.91">Subpart 5137.91 - Accounting for Contract Services</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5137.9101.dita#AFARS_5137.9101">5137.9101 Policy.</xref>
                      </p>

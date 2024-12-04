@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_3-6">
+      <title><ph props="autonumber">3-6.</ph> Global Exchange Service (GEX)</title>
+      <conbody>
+        <p>GEX is the DoD enterprise capability that provides secure
+messaging, mediation, and routing services along with system
+monitoring, data audit trails, and performance scalability across
+diverse communities of interest. Routing and transformation methods
+range from simple file transfers to web services communications;
+they are secure, reliable, and dynamic, reducing the cost and
+schedule to enable systems to be interoperable. GEX delivers mass
+volumes of EDI transactions with guaranteed delivery and end-to-end
+accountability, mitigating integration risk.</p>
+      </conbody>
+    </concept>

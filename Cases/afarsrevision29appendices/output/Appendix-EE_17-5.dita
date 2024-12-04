@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_17-5">
+      <title><ph props="autonumber">17-5.</ph> Printing and Storing Reports</title>
+      <conbody>
+        <p>A/OPCs should save copies of all electronic reports that they
+generate, particularly statistical or summary reports. Due to the
+volume of information available, the bank will furnish information
+for a limited period (generally, 18 months or less) before
+archiving the data. Reports containing sensitive information (e.g.,
+account numbers, CH information) should be maintained in a secure
+location.</p>
+      </conbody>
+    </concept>

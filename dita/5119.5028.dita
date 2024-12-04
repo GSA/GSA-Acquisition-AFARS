@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5119.5028"
+<concept id="AFARS_5119.5028"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5119.502-8</ph> Rejecting Small Business Administration
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5119.502-8</ph> Rejecting Small Business Administration
       recommendations.</title>
-   <conbody>
-      <p outputclass="List1">(b) The head of the contracting activity shall make the decision as
-         described in FAR 19.505(b). See Appendix GG for further delegation.</p>
-      <p outputclass="List1">(d)(i) Process appeals, on a case-by-case basis, in accordance with the
-         appropriate FAR section (19.502-8, 19.810, 19.1305, 19.1405, 19.1505, or 19.506) and in
-         accordance with instructions from the Director, HQDA OSBP. The contracting officer will
-         prepare and submit the case file documents by email to the HQDA, OSBP Program Manager
-         through contracting and small business channels. The files shall be coordinated with the
-         Associate Director (AD), prior to contracting officer release to HQDA. </p>
-      <p outputclass="List3">(ii) The small business specialist at each level must review the case.
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(b) The<ph rev="Revised October 1, 2024" class="- topic/ph "> head of the contracting activity</ph> shall make the decision as described in FAR 19.505(b). See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p outputclass="List1" class="- topic/p ">(d)(i) Process appeals, on a case-by-case basis, in accordance with the appropriate FAR section (19.502-8, 19.810, 19.1305, 19.1405, 19.1505, or 19.506) and in accordance with instructions from the Director, H<ph rev="Revised October 1, 2024" class="- topic/ph ">eadquarters Department of the Army, Office of Small Business Programs (H</ph>QDA<ph rev="Revised October 1, 2024" class="- topic/ph ">,</ph> OSBP<ph rev="Revised October 1, 2024" class="- topic/ph ">)</ph>. The <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer will prepare and submit the case file documents by email to the HQDA, OSBP Program Manager through contracting and small business channels. The files shall be coordinated with the Associate Director (AD), prior to<ph rev="Revised October 1, 2024" class="- topic/ph "> the </ph> 
+         <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer releas<ph rev="Revised October 1, 2024" class="- topic/ph ">ing</ph> to HQDA. </p>
+      <p outputclass="List3" class="- topic/p ">(ii) The small business specialist at each level must review the case.
          The case file must include –</p>
-      <p outputclass="List4">(A) A statement of attempts to resolve the matter;</p>
-      <p outputclass="List4">(B) A response to each issue raised by SBA in its appeal;</p>
-      <p outputclass="List4">(C) Supporting documents related to controversial aspects; and</p>
-      <p outputclass="List3">(iii) Suspension of all actions on the requirement pending outcome of
+      <p outputclass="List4" class="- topic/p ">(A) A statement of attempts to resolve the matter;</p>
+      <p outputclass="List4" class="- topic/p ">(B) A response to each issue raised by SBA in its appeal;</p>
+      <p outputclass="List4" class="- topic/p ">(C) Supporting documents related to controversial aspects; and</p>
+      <p outputclass="List3" class="- topic/p ">(iii) Suspension of all actions on the requirement pending outcome of
          the appeal.</p>
    </conbody>
 </concept>

@@ -1,65 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_Appendix-EE_6-9">
-   <title>
-      <ph props="autonumber">6-9.</ph> Payments of Monthly Invoices</title>
-   <conbody>
-      <p outputclass="List1">a. <b>Payment Delinquency Monitoring</b>. A/OPCs must track managing account
-certification after the end of the billing cycle and confirm whether the
-payments processed. A/OPCs can use the Managing Account Approval Status and
-Certification and Payment Report reports to identify accounts that have not been
-certified. The servicing bank may send reports of delinquencies and potential
-past due accounts. A/OPCs can also use the Past Due report in the bank’s EAS to
-identify delinquent accounts. Past due notices (delinquencies over 30 days) must
-be handled immediately. GPC stakeholders must work together to research and
-correct any delinquency immediately. Delinquencies that are 60 days past due are
-suspended as outlined in paragraph 5-6.b. The Army goal is to pay all accounts
-on time. The Army maintains a zero tolerance for any percentage of receivables
-over 180 days past due.</p>
-      <p outputclass="List1">b. The A/OPC will monitor account certifications and may suspend any account
-that is not certified within 5 business days. If the A/OPC suspends an account,
-once the account is certified, the A/OPC may reinstate the account. If the bank
-suspends an account, once the account is certified and paid, the account is
-automatically reinstated. The request to reinstate a suspended account due to
-non-certification, must include an explanation of the delay in certification and
-a plan to avoid future delays. If the account has been suspended for late
-certification more than once, any request to reinstate the account must come
-from the activity responsible for the account.</p>
-      <p outputclass="List1">c. <b>Cardholder Statement Reconciliation and Certification</b>. Cardholders
-must match and approve transactions throughout the month to ensure accuracy and
-identify and resolve any funding errors. If a charged amount is incorrect, the
-CH must contact the vendor to resolve the discrepancy and may dispute the
-transaction, if necessary. Cardholders must also upload transaction
-documentation throughout the month to ensure BO visibility of purchase
-information. If the statement is correct at the end of the billing cycle, the CH
-must approve the statement within three business days of the billing cycle end
-date. For Army agencies that do not utilize the bank's EAS for monthly
-certification, per the DoD FMR, Vol 10 Chapter 23, Figure 23-2, the CH must
-complete a monthly certification statement as part of their reconciliation
-process.</p>
-      <p outputclass="List1">d. <b>Billing Official Certification</b>. BOs must review their CHs’
-transactions and ensure that all purchases are legal, proper, and correct.
-Billing officials must final-approve their CHs’ transactions and certify the
-billing statement within five business days of the billing cycle end date. If
-the BO finds a questionable transaction, they should not certify the statement.
-They should contact their A/OPC for further guidance. Billing officials must
-certify in order for DFAS to process the payment and the bank to receive and
-post the payment. Time certification is essential in order to avoid delinquency
-and interest from late payments. For Army agencies that do not utilize the
-bank’s EAS for monthly certification, per DoD FMR, Vol 10 Chapter 23, Figures
-23-1 and 23-2, the BO must complete a monthly review checklist and certification
-statement.</p>
-      <p outputclass="List1">e. <b>Confirm and Pay</b>. The Army certifies invoices for payment after all
-purchased items have been confirmed. This procedure is called “Confirm and Pay.”
-Before certifying the billing statement, BOs should review the uploaded
-transaction documentation to confirm that the items arrived or services were
-performed. Each BO should ensure all transactions are reconciled and approved
-for payment, receipt is verified, and all supporting documentation is loaded in
-the bank’s EAS prior to certification. Any transactions that cannot be
-reconciled and approved for payment, will not be approved in the bank’s EAS by
-the BO. ANG and certain other Army accounts supporting the Air Force certify
-invoices for payment following the Pay and Confirm model. For ANG payment
-related guidance, see DAFI 64-117.</p>
+<concept id="AFARS_Appendix-EE_6-9" class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">6-9.</ph> Payments of Monthly Invoices</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">a. <b class="+ topic/ph hi-d/b ">Payment Delinquency
+Monitoring</b>. A/OPCs must track managing account
+certification after the end of the billing cycle and confirm
+whether the payments processed. A/OPCs can use the Managing Account
+Approval Status and Certification and Payment Report reports to
+identify accounts that have not been certified. The servicing bank
+may send reports of delinquencies and potential past due accounts.
+A/OPCs can also use the Past Due report in the bank’s EAS to
+identify delinquent accounts. Past due notices (delinquencies over
+30 days) must be handled immediately. GPC stakeholders must work
+together to research and correct any delinquency immediately.
+Delinquencies that are 60 days past due should be suspended. The
+Army goal is to pay all accounts on time. The Army maintains a zero
+tolerance for any percentage of receivables over 180 days past
+due.</p>
+      <p outputclass="List1" class="- topic/p ">b. The A/OPC will monitor account certifications
+and may suspend any account that is not certified within 5 business
+days. If the A/OPC suspends an account, once the account is
+certified, the A/OPC may reinstate the account. If the bank
+suspends an account, once the account is certified and paid, the
+account is automatically reinstated. The request to reinstate a
+suspended account due to non- certification, must include an
+explanation of the delay in certification and a plan to avoid
+future delays. If the account has been suspended for late
+certification more than once, any request to reinstate the account
+must come from the activity responsible for the account.</p>
+      <p outputclass="List1" class="- topic/p ">c. The Certifying Officer’s minimum
+qualifications and eligibility are discussed in DoD FMR Volume 5,
+Chapter 33. Certifying Officers are responsible for the accuracy of
+payments, including designation of the proper appropriation(s) or
+other funds certified to the paying office and disbursing officer.
+To certify GPC invoices for payment by DFAS, the BO must be
+appointed as and accept the responsibilities of a Certifying
+Officer using the DD Form 577 generated in JAM. The BO certifies
+the statement as the Certifying Officer, and the RM certifies the
+funding in GFEBS/other.</p>
+      <p outputclass="List1" class="- topic/p ">d. <b class="+ topic/ph hi-d/b ">Cardholder Statement Reconciliation and
+Certification</b>. The Army certifies invoices for payment
+after all purchased items have been confirmed. This procedure is
+called “Confirm and Pay.” Any transactions that cannot
+be reconciled and approved for payment, will not be approved in the
+bank’s EAS by the BO. ANG and certain other Army accounts
+supporting the Air Force certify invoices for payment following the
+“Pay and Confirm” model. Cardholders must match and
+approve transactions throughout the month to ensure accuracy and
+identify and resolve any funding errors. If a charged amount is
+incorrect, the CH must contact the vendor to resolve the
+discrepancy and may dispute the transaction, if necessary.
+Cardholders must also upload transaction documentation throughout
+the month to ensure BO visibility of purchase information. If the
+statement is correct at the end of the billing cycle, the CH must
+approve the statement within three business days of the billing
+cycle end date. For Army agencies that do not utilize the bank's
+EAS for monthly certification, per the DoD FMR, Vol 10 Chapter 23,
+Figure 23-2, the CH must complete a monthly certification statement
+as part of their reconciliation process.</p>
+      <p outputclass="List1" class="- topic/p ">e. Cardholders are responsible for reconciling the
+charges appearing on each statement for their GPC with receipts,
+purchase log, and other supporting documentation. Reconciling a
+card account involves the following key actions:</p>
+      <p outputclass="List2" class="- topic/p ">1) Review the transactions on the statement from
+the card-issuing bank and match them to the purchase log. Note:
+Transaction review and invoice obligation will be completed in only
+one system (i.e., either the bank EAS or another waiver-approved
+automated system, but never both). Component policy and procedures
+will designate the automated system in which CHs will perform
+review and obligation.</p>
+      <p outputclass="List2" class="- topic/p ">2) Reconcile/reallocate/dispute transactions, as
+appropriate. For each transaction posted to the statement,
+reallocate, if appropriate, from the default to an alternate LOA
+and approve or dispute each charge as appropriate.</p>
+      <p outputclass="List2" class="- topic/p ">3) Approve the statement.</p>
+      <p outputclass="List2" class="- topic/p ">4) Upload supporting documentation in the
+bank’s EAS.</p>
+      <p outputclass="List2" class="- topic/p ">5) If the CH does not reconcile and approve the
+statement within 15 days after the close of the billing cycle, the
+CH is locked out of the file and the BO is required to perform the
+CH reconciliation/approval role. After a BO certifies a statement
+on the bank’s EAS, the transaction file is locked and no
+further changes to the invoice are permitted.</p>
+      <p outputclass="List1" class="- topic/p ">f. <b class="+ topic/ph hi-d/b ">Billing Official
+Certification</b>. Reconciling and certifying a managing
+account involves the following key actions:</p>
+      <p outputclass="List2" class="- topic/p ">1) Review transactions to ensure they are legal,
+proper, correct, and mission essential.</p>
+      <p outputclass="List2" class="- topic/p ">2) Ensure all supporting documentation is obtained
+and correct. Billing officials should review the uploaded
+transaction documentation in AXOL to confirm all transactions are
+reconciled and approved for payment, receipt is verified, and all
+supporting documentation is loaded in the bank’s EAS prior to
+certification.</p>
+      <p outputclass="List2" class="- topic/p ">3) Ensure CH reviews have been completed
+properly.</p>
+      <p outputclass="List2" class="- topic/p ">4) Ensure receipt of all accountable property has
+been properly documented.</p>
+      <p outputclass="List2" class="- topic/p ">5) Final-approve their CHs’ transactions and
+certify the billing statement within five business days of the
+billing cycle end date.</p>
+      <p outputclass="List2" class="- topic/p ">6) For improper purchases (including unauthorized
+charges made by a properly appointed CH or GPC transactions
+0intended for Government use but not permitted by law, regulation,
+or Component policy, such as splitting purchases), the Government
+is liable to pay; however, action may be taken against the CH.</p>
+      <p outputclass="List2" class="- topic/p ">7) If BOs find a questionable or fraudulent
+transaction, they should contact their A/OPC and follow the
+guidance in section 6-10.</p>
+      <p outputclass="List1" class="- topic/p ">g. <b class="+ topic/ph hi-d/b ">Processing Credits</b>. The <xref href="Appendix-EE_6-9.dita#AFARS_Appendix-EE_6-9"
+               class="- topic/xref "
+               outputclass="fm:ParaNumOnly">6-9. Payments of Monthly Invoices</xref> is the authoritative source of guidance related to application of credits. As stated in the FMR, transaction credits are funds sent back to DoD from the contracted bank resulting from returned items, billing errors, overpayments, duplicate payments, or erroneous payments. The <xref format="html"
+               href="https://smartpay.gsa.gov/about/master-contract/#gsa-smartpay-3-master-contract"
+               scope="external"
+               class="- topic/xref ">GSA SP3 Master Contract</xref> defines “credit” as “any transaction that reduces the amount due to the agency/organization or account holder.” Transaction credits must be credited to the original appropriation from which they were disbursed. Transaction credits will be posted as credits against CH statements, using the default LOA at the CH statement level, and should be reallocated as appropriate if the default LOA did not incur the original expenditure. In the case where a closed account carries a credit balance, the amount will be sent via check or using ACH to an installation account predetermined by the A/OPC. Checks will be addressed to “U.S. Treasury.” The A/OPC will work with his/her RM in identifying an account and determining how the credit will be distributed across LOAs as warranted. The BO will send the check and LOA(s) to the supporting accounting office with a request to deposit.</p>
    </conbody>
 </concept>

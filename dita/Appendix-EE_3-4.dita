@@ -2,23 +2,19 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_3-4">
-  <title>
-      <ph props="autonumber">3-4.</ph> MasterCard Insights on Demand (IOD)</title>
-  <conbody>
-      <p>IOD is the SmartPay®3 data mining (DM) tool used to adjudicate
-      transaction cases and perform oversight functions. This tool has replaced
-      the PCOLS Data Mining and the Program Audit Tool. IOD provides the
-      capabilities to identify unusual spending patterns, monitor transactions
-      for potential misuse, fraud, waste, and abuse, and flag these cases for
-      review. Billing officials and A/OPCs use this tool to review and
-      disposition system-generated cases, initiate cases, and meet all baseline
-      data mining requirements. IOD is an artificial intelligence DM platform
-      that automatically analyzes DoD’s GPC data to identify high-risk
-      transactions. IOD enables the Army to fulfill the 10 USC 4754 (as modified
-      by Public Law 112–194, Government Charge Card Abuse Prevention Act of
-      2012) requirement to “use effective systems, techniques, and technologies
-      to prevent or identify improper purchases.” IOD also facilitates
-      transaction reviews and enables documentation of any findings identified
-      and corrective actions taken.</p>
-  </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">3-4.</ph> U.S. Bank Access Online (AXOL)</title>
+      <conbody>
+        <p>U.S. Bank AXOL is the Army GPC servicing bank’s electronic
+access system (EAS) in which GPC account maintenance, transaction
+management, and order management take place. AXOL gives program
+administrators the security, functionality, reliability, and
+convenience they need to manage and report on all their GPC
+programs with a single tool. Cardholders and billing officials can
+track orders and transactions daily as purchases post transaction
+data in AXOL and upload supporting documentation to ensure timely
+approval and certification of monthly statements. Appointed CHs,
+BOs, and A/OPCs must sign in from the PIEE homepage to access the
+servicing bank’s EAS.</p>
+      </conbody>
+    </concept>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_17-4">
+      <title><ph props="autonumber">17-4.</ph> Custom Reports within the Servicing
+Bank</title>
+      <conbody>
+        <p>In addition to the ability to access and run standard reports,
+the servicing bank has created custom reports available to the
+Army. Users can run these custom reports in three basic steps:</p>
+        <p outputclass="List2">1) <b>Select the report</b>. Begin by
+accessing the custom reports function and then navigating to and
+selecting the custom report you want to run.</p>
+        <p outputclass="List2">2) <b>Specify parameters</b>. Set
+parameters for the report, such as date range.</p>
+        <p outputclass="List2">3) <b>Run the report</b>. After
+specifying any report-specific parameters, select to run the report
+or save and then run the report.</p>
+        <p id="Table_17-9_Summary_of_Custom_Reports">Table 17-9: Summary of Custom Reports</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <colspec colname="col2" colnum="2" colwidth="1*"/>
+            <tbody>
+              <row>
+                <entry id="Account_information_reports">
+                  <b>Account
+information reports</b>
+                </entry>
+                <entry id="Transaction_activity_reports">
+                  <b>Transaction
+activity reports</b>
+                </entry>
+              </row>
+              <row>
+                <entry id="Account_Approval_Status">Account Approval Status</entry>
+                <entry id="All_Convenience_Check_Transactions">All Convenience
+Check Transactions</entry>
+              </row>
+              <row>
+                <entry id="Account_List">Account List</entry>
+                <entry id="Cash_Activity_Only">Cash Activity Only</entry>
+              </row>
+              <row>
+                <entry id="Accounts_with_High_Credit_Limits">Accounts with High
+Credit Limits</entry>
+                <entry id="Declined_Transactions">Declined Transactions</entry>
+              </row>
+              <row>
+                <entry id="Accounts_with_Underutilized_Credit_Limit">Accounts
+with Underutilized Credit Limits</entry>
+                <entry id="Frequent_Credits_by_Merchant">Frequent Credits by
+Merchant</entry>
+              </row>
+              <row>
+                <entry id="Active_Accounts_with_Multiple_Lost_Stole">Active
+Accounts with Multiple Lost/Stolen Cards</entry>
+                <entry id="Frequent_Credit_Transactions">Frequent Credit
+Transactions</entry>
+              </row>
+              <row>
+                <entry id="Billing_Approval_Official_Conflict_of_In">Billing/Approval
+Official Conflict of Interest</entry>
+                <entry id="High_Cardholder_Spending_by_Merchant">High Cardholder
+Spending by Merchant</entry>
+              </row>
+              <row>
+                <entry id="Certification_and_Payment_Report">Certification and
+Payment Report</entry>
+                <entry id="Large_Dollar_Transactions">Large Dollar
+Transactions</entry>
+              </row>
+              <row>
+                <entry id="MCC_MAT_Codes_Assigned_to_CH_Accounts">MCC/MAT Codes
+Assigned to CH Accounts</entry>
+                <entry id="Mismatched_Authorizations">Mismatched
+Authorizations</entry>
+              </row>
+              <row>
+                <entry morerows="10"/>
+                <entry id="Over_Limit_Convenience_Check_Transaction">Over Limit
+Convenience Check Transactions</entry>
+              </row>
+              <row>
+                <entry id="Payment_and_Prompt_Payment_Act_Interest">Payment and Prompt Payment Act
+Interest Penalty Transactions</entry>
+              </row>
+              <row>
+                <entry id="Potential_Split_Requirement_Review">Potential Split
+Requirement Review</entry>
+              </row>
+              <row>
+                <entry id="Retail_Transaction">Retail Transaction</entry>
+              </row>
+              <row>
+                <entry id="Suspect_Merchants">Suspect Merchants</entry>
+              </row>
+              <row>
+                <entry id="Transactions_at_Blocked_MCCs">Transactions at Blocked
+MCCs</entry>
+              </row>
+              <row>
+                <entry id="Transactions_Without_Authorization">Transactions
+Without Authorization</entry>
+              </row>
+              <row>
+                <entry id="Transactions_without_Terminal_IDs">Transactions
+without Terminal IDs</entry>
+              </row>
+              <row>
+                <entry id="Transaction_Detail">Transaction Detail</entry>
+              </row>
+              <row>
+                <entry id="Travel_Industry_Transactions">Travel Industry
+Transactions</entry>
+              </row>
+              <row>
+                <entry id="Unusual_Spending_Activity">Unusual Spending
+Activity</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-10_Custom_Reports_of_Account_I">Table 17-10: Custom Reports of Account
+Information</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>Report</b>
+                </entry>
+                <entry>
+                  <b>Report Description</b>
+                </entry>
+              </row>
+              <row>
+                <entry>Account Approval Status</entry>
+                <entry>This report provides a list of accounts with the approval status
+for each account. You can use this report to track the approval
+workflow for your program.</entry>
+              </row>
+              <row>
+                <entry>Account List</entry>
+                <entry>This report provides a list of accounts by one or more
+processing hierarchy positions or one or more reporting hierarchy
+positions.</entry>
+              </row>
+              <row>
+                <entry>Accounts with High Credit Limits</entry>
+                <entry>This report provides a list of accounts that have maximum credit
+limits over a specified amount. You can use the report to mitigate
+risk and review credit limits. The report presents all credit
+limits for analysis.</entry>
+              </row>
+              <row>
+                <entry>Accounts with underutilized Credit Limits</entry>
+                <entry>You can use this report to assist in your review of cardholder
+spend against the cardholder’s maximum credit limit. In this
+way, you can identify cardholder accounts that may need credit
+limit adjustments.</entry>
+              </row>
+              <row>
+                <entry>Active Accounts with Multiple Lost and Stolen Cards</entry>
+                <entry>This report lists accounts that have multiple lost and/or stolen
+cards. You can use the report to identify accounts that may be
+misusing their cards so that you can improve program
+management.</entry>
+              </row>
+              <row>
+                <entry>Billing/Approval Official Conflict of Interest</entry>
+                <entry>This report lists cardholder accounts that the BO has approved
+in Access Online. You can use this report to identify potential
+lack of separation of duties between BOs and cardholders.</entry>
+              </row>
+              <row>
+                <entry>Certification and Payment Report</entry>
+                <entry>
+                  <p>This report provides information on certification status and
+payment, including cycle close date, amount certified, last payment
+date and last</p>
+                  <p>payment amount. You can use this report to make sure your
+approvals, certifications, and payments are on track.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>MCC/MAT Codes Assigned to CH Accounts</entry>
+                <entry>
+                  <p>This report lists merchant category codes (MCCs)/merchant
+activity type (MAT) codes assigned to cardholder accounts. You can
+use this report to gain an overall picture of which merchants are
+available for</p>
+                  <p>cardholder purchases.</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-11_Custom_Reports_of_Transacti">Table 17-11: Custom Reports of Transaction
+Activity</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>Report</b>
+                </entry>
+                <entry>
+                  <b>Report Description</b>
+                </entry>
+              </row>
+              <row>
+                <entry>All Convenience Check Transactions</entry>
+                <entry>This report lists all convenience check transactions within your
+organization to help you identify trends inconvenience check
+transactions and possible misuse of convenience checks.</entry>
+              </row>
+              <row>
+                <entry>Cash Activity Only</entry>
+                <entry>This report provides a list of accounts that have only cash
+transactions, including transaction and merchant information. You
+can use this report to monitor program compliance.</entry>
+              </row>
+              <row>
+                <entry>Declined Transactions</entry>
+                <entry>
+                  <p>This report lists transactions that a merchant declined at point
+of sale.</p>
+                  <p>You can use this report to monitor declined transactions, audit
+program compliance, and identify training needs.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>Frequent Credits by Merchant</entry>
+                <entry>
+                  <p>This report lists merchants who have a high number of credits as
+part of their overall number of transactions versus debits over a
+specified time period (e.g., 30 percent of all transactions between
+December 1 and December 31 were credits). You can use this report
+to identify</p>
+                  <p>potential card misuse at specific merchants and thereby improve
+program management.</p>
+                </entry>
+              </row>
+              <row>
+                <entry>Frequent Credit Transactions</entry>
+                <entry>This report lists accounts with a high percentage of credits
+relative to purchases (e.g., 30 percent credits and 70% debits).
+You can use this report to identify potential card misuse.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>Report</b>
+                </entry>
+                <entry>
+                  <b>Report Description</b>
+                </entry>
+              </row>
+              <row>
+                <entry>High Cardholder Spending by Merchant</entry>
+                <entry>This report lists cardholder accounts with a high level of
+spending with a specific merchant. You can use this report to
+identify potential card misuse, including cardholder collusion with
+a merchant.</entry>
+              </row>
+              <row>
+                <entry>Large Dollar Transactions</entry>
+                <entry>This report lists transactions that are over a specified
+purchase limit, which can help you identify possible misuse.</entry>
+              </row>
+              <row>
+                <entry>Mismatched Authorizations</entry>
+                <entry>This report lists transactions for which the authorization
+amount approved does not match the final transaction amount. You
+can use this report to help identify card misuse and improve
+program management.</entry>
+              </row>
+              <row>
+                <entry>Over Limit Convenience Check Transactions</entry>
+                <entry>This report lists convenience check transactions that are
+greater than a specified amount. You can use this report to help
+identify transactions that may require an independent review to
+mitigate risk.</entry>
+              </row>
+              <row>
+                <entry>Payment and Prompt Payment Act Interest Penalty Transactions</entry>
+                <entry>This report lists all Payment and Prompt Payment Act interest
+penalty transactions. You can use this report to identify timely
+certification and payment processing for your organization</entry>
+              </row>
+              <row>
+                <entry>Potential Split Requirement Review</entry>
+                <entry>
+                  <p>This report lists CHs associated to the same managing account
+who have multiple transactions with the same vendor that total a
+specified amount or more over a specified number of days (e.g.,
+Jane Doe has transactions totaling $2,000 with Quick Office Supply
+between January 10 and January 11). You can use this report to
+identify possible</p>
+                  <p>instances of CHs splitting a transaction among multiple dates to
+get around spending limits (e.g., get around a SPL of $1,500).</p>
+                </entry>
+              </row>
+              <row>
+                <entry>Retail Transaction</entry>
+                <entry>This report provides a list of retail transactions, including
+account information, merchant information, and transaction
+information. You can use this report to monitor policy and program
+compliance.</entry>
+              </row>
+              <row>
+                <entry>Suspect Merchants</entry>
+                <entry>This report provides a list of transactions with suspect
+merchants, including account information, merchant information, and
+transaction information. You can use this report to monitor policy
+and program compliance.</entry>
+              </row>
+              <row>
+                <entry>Transactions at Blocked MCCs</entry>
+                <entry>This report lists transactions at blocked merchant category
+codes (MCCs). You can use this report to track and manage vendor
+relationships and identify potential card misuse.</entry>
+              </row>
+              <row>
+                <entry>Transactions Without Authorization</entry>
+                <entry>The report shows transactions the cardholder did not obtain an
+authorization for. By tracking transactions without authorization,
+you can identify potential card misuse and improve program
+management.</entry>
+              </row>
+              <row>
+                <entry>Transactions without Terminal IDs</entry>
+                <entry>This report shows transactions for which no terminal ID was
+obtained. You can use this report to help identify potential card
+misuse and to improve program management.</entry>
+              </row>
+              <row>
+                <entry>Transaction Detail</entry>
+                <entry>This report provides detailed transaction information, including
+account, merchant, transaction, and allocation information. You can
+use this report for overall program management.</entry>
+              </row>
+              <row>
+                <entry>Travel Industry Transactions</entry>
+                <entry>This report identifies transactions (over a specified amount)
+from merchants in the travel industry. You can use this report to
+help identify potential card misuse.</entry>
+              </row>
+              <row>
+                <entry>Unusual Spending Activity</entry>
+                <entry>
+                  <p>This report lists transactions a cardholder made on a weekend or
+transactions that appear to be split transactions. You can use
+this</p>
+                  <p>report to identify potential card misuse and thereby improve
+program management.</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </conbody>
+    </concept>

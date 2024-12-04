@@ -245,7 +245,7 @@
                <row class="- topic/row ">
                   <entry class="- topic/entry ">1</entry>
                   <entry class="- topic/entry ">Career Development, Contracting Authority, and Responsibilities</entry>
-                  <entry class="- topic/entry ">Selection, Appointment, and Termination of Appointment for Contracting Officers</entry>
+                  <entry class="- topic/entry ">Selection, Appointment, and Termination of Appointment for Contracting <ph rev="Revised October 1, 2024">o</ph>fficers</entry>
                   <entry class="- topic/entry ">1.603-1</entry>
                   <entry class="- topic/entry ">Agency Head</entry>
                   <entry class="- topic/entry ">Yes</entry>
@@ -264,7 +264,7 @@
                   <entry class="- topic/entry ">Procurement Integrity</entry>
                   <entry class="- topic/entry ">Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</entry>
                   <entry class="- topic/entry ">3.104-4(a)</entry>
-                  <entry class="- topic/entry ">Agency Head or Contracting Officer</entry>
+                  <entry class="- topic/entry ">Agency Head or Contracting <ph rev="Revised October 1, 2024">o</ph>fficer</entry>
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry ">No additional Guidance</entry>
@@ -272,7 +272,7 @@
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">5103.104-4(a)</entry>
-                  <entry class="- topic/entry ">ASA(ALT) or Contracting Officer</entry>
+                  <entry class="- topic/entry ">ASA(ALT) or Contracting <ph rev="Revised October 1, 2024">o</ph>fficer</entry>
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">Personnel serving in the positions identified in AFARS 5103.104-4(a)(i) through (vii).</entry>
                </row>
@@ -969,7 +969,7 @@
                   <entry class="- topic/entry ">Limiting Sources--Justifications and Approvals</entry>
                   <entry class="- topic/entry ">Approval of Proposed order or BPA with an estimated value exceeding the simplified acquisition threshold, but not exceeding $750,000.</entry>
                   <entry class="- topic/entry ">8.405-6(d)(1)</entry>
-                  <entry class="- topic/entry ">Ordering Activity Contracting Officer</entry>
+                  <entry class="- topic/entry ">Ordering Activity Contracting <ph rev="Revised October 1, 2024">o</ph>fficer</entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">No additional Guidance</entry>
@@ -977,7 +977,7 @@
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
-                  <entry class="- topic/entry ">Contracting Officer</entry>
+                  <entry class="- topic/entry ">Contracting <ph rev="Revised October 1, 2024">o</ph>fficer</entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                </row>
@@ -1204,7 +1204,7 @@
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">9</entry>
-                  <entry class="- topic/entry ">Contracting Officer Responsibilities</entry>
+                  <entry class="- topic/entry ">Contracting <ph rev="Revised October 1, 2024">o</ph>fficer Responsibilities</entry>
                   <entry class="- topic/entry ">Approval of conflict of interest course of action</entry>
                   <entry class="- topic/entry ">9.504(c)</entry>
                   <entry class="- topic/entry ">HCA</entry>
@@ -1370,7 +1370,7 @@
                   <entry class="- topic/entry ">5112.102(a)(i)(B)(3)</entry>
                   <entry class="- topic/entry ">ASA(ALT)</entry>
                   <entry class="- topic/entry ">Yes</entry>
-                  <entry class="- topic/entry ">Contracting Officers may use this authority consistent with the terms of the class deviation</entry>
+                  <entry class="- topic/entry ">Contracting <ph rev="Revised October 1, 2024">o</ph>fficers may use this authority consistent with the terms of the class deviation</entry>
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">12</entry>
@@ -1772,11 +1772,15 @@
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">215.300 (See DoD Source Selection Procedures)</entry>
-                  <entry class="- topic/entry ">DPC</entry>
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
-                  <entry class="- topic/entry ">DPC</entry>
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                </row>
@@ -1919,7 +1923,7 @@
                <row class="- topic/row ">
                   <entry class="- topic/entry ">15</entry>
                   <entry class="- topic/entry ">Proposal Analysis Techniques</entry>
-                  <entry class="- topic/entry ">Determination that it is in the best interest of the Government to make award to offeror who does not comply with requirement to submit other than certified cost or pricing data - When the contractor continues to refuse to provide data to the contracting officer.</entry>
+                  <entry class="- topic/entry ">Determination that it is in the best interest of the Government to make award to offeror who does not comply with requirement to submit other than certified cost or pricing data - When the contractor continues to refuse to provide data to the <ph rev="Revised October 1, 2024">C</ph>ontracting officer.</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
@@ -2242,7 +2246,7 @@
                <row class="- topic/row ">
                   <entry class="- topic/entry ">16</entry>
                   <entry class="- topic/entry ">Determination of Price Reasonableness</entry>
-                  <entry class="- topic/entry ">Approval of Contracting Officer's Price reasonableness for Letter contract under dispute</entry>
+                  <entry class="- topic/entry ">Approval of Contracting <ph rev="Revised October 1, 2024">o</ph>fficer's Price reasonableness for Letter contract under dispute</entry>
                   <entry class="- topic/entry ">FAR 16.603-2(c) and 52.216-25(c) </entry>
                   <entry class="- topic/entry ">HCA</entry>
                   <entry class="- topic/entry ">No</entry>
@@ -2332,7 +2336,7 @@
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
-                  <entry class="- topic/entry ">See DPC Class Deviation 2024-O0005 Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel</entry>
+                  <entry class="- topic/entry ">See <ph rev="Revised October 1, 2024">DPCAP</ph> Class Deviation 2024-O0005 Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel</entry>
                   <entry class="- topic/entry ">Head of Agency</entry>
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No limitation</entry>
@@ -2587,7 +2591,7 @@
                   <entry class="- topic/entry ">USD(A&amp;S)</entry>
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No limitation</entry>
-                  <entry class="- topic/entry ">See DPC Memo Subject: Re-delegation of Authority Under Section 801 FY18 NDAA "Internal Controls for Procurements on Behalf of DoD by Certain Non-Defense Agencies", dated 17 June 2019.</entry>
+                  <entry class="- topic/entry ">See <ph rev="Revised October 1, 2024">DPCAP</ph> Memo Subject: Re-delegation of Authority Under Section 801 FY18 NDAA "Internal Controls for Procurements on Behalf of DoD by Certain Non-Defense Agencies", dated 17 June 2019.</entry>
                   <entry class="- topic/entry ">SPE</entry>
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No Lower than HCA</entry>
@@ -2735,7 +2739,7 @@
                <row class="- topic/row ">
                   <entry class="- topic/entry ">17</entry>
                   <entry class="- topic/entry ">Undefinitized Contract Actions (UCA) Limitations on Obligations.</entry>
-                  <entry class="- topic/entry "> Waive the limitations DFARS 217.7404(a) FMS contracts; 217.7404-3 Definitization schedule; and 217.7404-4, Limitations on obligations in accordance with subsection (D) of DPC 2024-O0005 - Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel.</entry>
+                  <entry class="- topic/entry "> Waive the limitations DFARS 217.7404(a) FMS contracts; 217.7404-3 Definitization schedule; and 217.7404-4, Limitations on obligations in accordance with subsection (D) of <ph rev="Revised October 1, 2024">DPCAP</ph> 2024-O0005 - Class Deviation—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel.</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
@@ -2883,12 +2887,12 @@
                   <entry class="- topic/entry ">5118.202(c)</entry>
                   <entry class="- topic/entry ">ASA(ALT)</entry>
                   <entry class="- topic/entry ">Yes</entry>
-                  <entry class="- topic/entry ">Contracting Officers may use this authority consistent with the terms of the class deviation</entry>
+                  <entry class="- topic/entry ">Contracting <ph rev="Revised October 1, 2024">o</ph>fficers may use this authority consistent with the terms of the class deviation</entry>
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">18</entry>
                   <entry class="- topic/entry ">Emergency Acquisitions. Head of contracting activity determinations</entry>
-                  <entry class="- topic/entry ">The term “head of the agency” is replaced with “head of the contracting activity,” as defined in FAR 2.101.</entry>
+                  <entry class="- topic/entry ">The term “head of the agency” is replaced with “<ph rev="Revised October 1, 2024">HCA</ph>,” as defined in FAR 2.101.</entry>
                   <entry class="- topic/entry ">18.2</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
@@ -3109,7 +3113,7 @@
                <row class="- topic/row ">
                   <entry class="- topic/entry ">22</entry>
                   <entry class="- topic/entry ">Labor Standards for Contracts Involving Construction</entry>
-                  <entry class="- topic/entry ">Processing of Contracting Officer's Report</entry>
+                  <entry class="- topic/entry ">Processing of Contracting <ph rev="Revised October 1, 2024">o</ph>fficer's Report</entry>
                   <entry class="- topic/entry ">22.406-8(d)</entry>
                   <entry class="- topic/entry ">Agency Head</entry>
                   <entry class="- topic/entry ">Yes</entry>
@@ -3922,7 +3926,7 @@
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">225.7301-1(b)</entry>
-                  <entry class="- topic/entry ">See DPC Class Deviation 2020-O0003 valid through Dec 31, 2020; After CoCO </entry>
+                  <entry class="- topic/entry ">See <ph rev="Revised October 1, 2024">DPCAP</ph> Class Deviation 2020-O0003 valid through Dec 31, 2020; After CoCO </entry>
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No Limitation</entry>
                   <entry class="- topic/entry ">5125.7301-1(b)</entry>
@@ -4383,11 +4387,15 @@
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry ">201.402-1(iv)</entry>
-                  <entry class="- topic/entry ">DPC</entry>
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
-                  <entry class="- topic/entry ">DPC</entry>
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                </row>
@@ -4468,11 +4476,13 @@
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry "> 201.402(1)(vi)</entry>
-                  <entry class="- topic/entry ">Director, DPC</entry>
+                  <entry class="- topic/entry ">Director, <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry ">5132.114</entry>
-                  <entry class="- topic/entry ">Director, DPC</entry>
+                  <entry class="- topic/entry ">Director, <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                </row>
@@ -4502,11 +4512,13 @@
                   <entry class="- topic/entry ">Yes</entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry ">201.402(1)(vi)</entry>
-                  <entry class="- topic/entry ">Director, DPC</entry>
+                  <entry class="- topic/entry ">Director, <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry ">5132.202-1(d)</entry>
-                  <entry class="- topic/entry ">Director, DPC</entry>
+                  <entry class="- topic/entry ">Director, <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                </row>
@@ -4570,11 +4582,14 @@
                   <entry class="- topic/entry ">Yes </entry>
                   <entry class="- topic/entry ">No limitation</entry>
                   <entry class="- topic/entry ">DFARS PGI 232.501-2</entry>
-                  <entry class="- topic/entry ">Director, DPC</entry>
+                  <entry class="- topic/entry ">Director, <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>
-                  <entry class="- topic/entry ">DPC</entry>
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024">DPCAP</ph>
+                  </entry>
                   <entry class="- topic/entry ">No</entry>
                   <entry class="- topic/entry ">-</entry>
                </row>
@@ -4801,7 +4816,8 @@
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">33</entry>
-                  <entry class="- topic/entry ">Contracting officer’s duties upon appeal.</entry>
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024">C</ph>ontracting officer’s duties upon appeal.</entry>
                   <entry class="- topic/entry ">Approval of use of the Judgment Fund for cases at or below $1M</entry>
                   <entry class="- topic/entry ">-</entry>
                   <entry class="- topic/entry ">-</entry>

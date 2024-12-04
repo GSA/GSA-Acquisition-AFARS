@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="1 heading Ctr">
          <ph class="- topic/ph " props="autonumber">APPENDIX - DD</ph> Table Of Contents</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -18,17 +21,17 @@
                         <xref outputclass="fm:TOC" href="Appendix-DD-100.dita#AFARS_Appendix-DD-100">DD-100 Purpose.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="Appendix-DD-101.dita#AFARS_Appendix-DD-101">DD-101 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="Appendix-DD-102.dita#AFARS_Appendix-DD-102">DD-102 Goals.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="Appendix-DD-103.dita#AFARS_Appendix-DD-103">DD-103 Evaluation Rating.</xref>
                      </p>
@@ -69,7 +72,7 @@
                         href="Appendix-DD_Part_3.dita#AFARS_Appendix-DD_Part_3">Part 3 - Subcontracting Plan Requirements</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="Appendix-DD-301.dita#AFARS_Appendix-DD-301">DD-301 Requirements.</xref>
                      </p>

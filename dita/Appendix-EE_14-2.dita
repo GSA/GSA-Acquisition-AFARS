@@ -2,117 +2,89 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_14-2">
-   <title>
-      <ph props="autonumber">14-2.</ph> Unauthorized Commitments and Ratification</title>
-   <conbody>
-      <p outputclass="List1">a. An unauthorized commitment (UAC) is defined by FAR 1.602-3(a) as “an
-agreement that is not binding solely because the Government representative who
-made it lacked the authority to enter into that agreement on behalf of the
-Government.” See AFARS 5101.602-3-90. The only individuals who can bind the
-Government are warranted contracting officers, ordering officials, and
-cardholders acting within the limits of their delegated authority. The
-individual making a UAC can be held personally liable to the vendor for the
-total cost of supplies or services obtained until the extent of the Government’s
-liability is determined. The primary factor in determining whether a purchase is
-considered a UAC is contracting authority. CHs have this authority from their
-appointment letter. When an individual without contracting authority initiates a
-purchase, it is considered a UAC.</p>
-      <p outputclass="List1">b. GPC purchases must be approved by the BO prior to purchase and initiated
-by the CH. The designated CH is the only person authorized to make purchases
-with a GPC. FAR 1.602-3(b) requires agencies to take positive action to preclude
-the need for ratification actions. Although procedures are available in cases
-where it is necessary to ratify a UAC, these procedures may not be used in a
-manner that encourages UACs being made by Government personnel.</p>
-      <p outputclass="List1">c. Payment for goods or services accepted in the absence of a UAC may be made
-only through the ratification process. Payment cannot be made unless a
-Contracting Officer has awarded a contract or an authorized GPC holder acting
-within his or her delegation of authority has ordered the item(s).</p>
-      <p outputclass="List1">d. <b>Examples of Unauthorized Commitments</b>.</p>
-      <p>1) The Army receives services/supplies in which a properly executed funding
-document and an authorized procurement method (e.g., contract, BPA, or GPC) was
-not established prior to the Government ordering the services/supplies.</p>
-      <p>2) Someone other than the CH contacts a vendor and asks them to provide
-supplies or perform work, without the CH’s knowledge and without prior approval
-of the billing official.</p>
-      <p>3) An individual without contracting authority orders supplies or
-services.</p>
-      <p>4) CH orders supplies or services exceeding their procurement authority.</p>
-      <p>5) A vendor mistakes a request for information as an order, ships the item,
-the receiver does not realize it is an improper order and accepts the item
-rather than reject and return the item.</p>
-      <p>6) A contractor continues to perform a service contract or provide
-leased/rented equipment after the expiration date of the contract. This
-situation frequently occurs on yearly services/maintenance/lease-type contracts
-for which there is a continuing need.</p>
-      <p>7) An individual makes a commitment for continuation of services or delivery
-of supplies under an expired contract, purchase order, or delivery order.</p>
-      <p>8) An individual makes a commitment which exceeds the call order limit on a
-blanket purchase agreement.</p>
-      <p>9) A person who does not have delegated authority makes a commitment under a
-BPA.</p>
-      <p>10) An individual makes a commitment which continues contract services over
-and above the original scope and dollar amount.</p>
-      <p outputclass="List1">e. <b>Common Reasons for UACs</b>.</p>
-      <p>1) Failure to plan procurement needs far enough in advance to utilize normal
-contracting procedures.</p>
-      <p>2) Encountering emergency program requirements and not believing there is
-enough time to go through normal procurement procedures.</p>
-      <p>3) Failure to expeditiously review, approve, and transmit procurement
-requests to the Procurement Office.</p>
-      <p>4) Failure to perform extensive market research before taking an action.</p>
-      <p>5) Government officials not understanding the parameters of their actual
-authority or lack thereof.</p>
-      <p>6) Government official not understanding that agreeing to an option presented
-by a contractor could be an unauthorized action if it creates more work or
-expense.</p>
-      <p outputclass="List1">f. <b>Ratification Process</b>. AFARS 5101.602-3-90 outlines the Army process
-for ratifying an unauthorized commitment. Unauthorized commitments may be paid
-by the Army through ratification. Ratification means the act of approving an
-unauthorized commitment by an official who has the authority to do so. The
-ratification process determines whether the Army or the initiator will pay the
-invoice. The individual who made an unauthorized commitment can be held
-personally liable to the vendor or the Government for the total cost of supplies
-or services obtained until the extent of the Government’s liability is
-determined. The Government accepts liability through ratification. When an A/OPC
-identifies a potential unauthorized commitment, the A/OPC must contact the local
-contracting office to initiate the ratification process. The ratification
-authority may be delegated in accordance with agency procedures, but in no case
-will the authority be delegated below the level of Chief of the Contracting
-office, or equivalent.</p>
-      <p outputclass="List1">g. <b>Payment of Properly Ratified Claims.</b> A contracting officer can only
-ratify the unauthorized commitment if it would have been proper to enter into a
-contract before the commitment was made. After the unauthorized commitment is
-ratified, the payment of the ratified claim may be made through an appropriate
-contract action (e.g., award of a contract, modification to a contract, purchase
-order, GPC). After ratification, the GPC may be used to satisfy the commitment
-if the amount of payment is within the cardholder’s authority; if the payment is
-made in the same fiscal year as the commitment; and if the commitment itself is
-properly chargeable to the current fiscal year. If prior fiscal year funds are
-required to satisfy the commitment, a purchase order, or other formal
-contractual instrument, payable through Government vendor payment channels, will
-be required. If the outstanding charges have already been paid in error with the
-GPC prior to the discovery of the UAC, the UAC is being processed for
-ratification only and the supporting documentation is loaded in the bank’s
-EAS.</p>
-      <p outputclass="List1">h. <b>Non-Ratifiable Commitments</b>. An improper unauthorized commitment is
-not ratifiable because it involves violation of a substantive legal requirement
-or because the commitment exceeded the Contracting Officer’s authority.</p>
-      <p>1) Actions prohibited by law or otherwise improper are considered
-non-ratifiable.</p>
-      <p>2) The Government is liable for the reasonable value of any goods or services
-received by the Government. In such cases, the contracting officer should
-document that although the UAC cannot be ratified, the vendor is entitled to
-fair and reasonable payment for goods and services accepted (not necessarily the
-same amount as the UAC). The contracting officer should resolve the UAC in a
-different manner by contacting the mission area finance office.</p>
-      <p>3) If it is determined the non-ratifiable commitment should not be paid
-(e.g., the Government did not receive and accept services) and/or the vendor
-seeks review of a disallowance (in full or in part), the Contracting Officer
-should seek legal advice.</p>
-      <p>4) FAR 1-602-3(d). Non-ratifiable commitments. Cases that are not ratifiable
-under this subsection may be subject to resolution as recommended by the
-Government Accountability Office under its claim procedure (GAO Policy and
-Procedures Manual for Guidance of Federal Agencies, Title 4, Chapter 2), or as
-authorized by FAR 50.1. Legal advice should be obtained in these cases.</p>
-   </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">14-2.</ph> Unauthorized Commitments and
+Ratification</title>
+      <conbody>
+        <p outputclass="List1">a. An unauthorized commitment (UAC) is defined by
+FAR 1.602-3(a) as “an agreement that is not binding solely
+because the Government representative who made it lacked the
+authority to enter into that agreement on behalf of the
+Government.” See AFARS 5101.602-3-90. The only individuals
+who can bind the Government are warranted contracting officers,
+ordering officials, and cardholders acting within the limits of
+their delegated authority. The primary factor in determining
+whether a purchase is considered a UAC is contracting authority.
+CHs have this authority from their appointment letter. When an
+individual without contracting authority initiates a purchase, it
+is considered a UAC. The designated CH is the only person
+authorized to make purchases with a GPC.</p>
+        <p outputclass="List1">b. Payment for goods or services accepted for an
+UAC may be made only through the ratification process. Payment
+cannot be made unless a Contracting Officer has awarded a contract
+or an authorized GPC holder acting within his or her delegation of
+authority has ordered the item(s).</p>
+        <p outputclass="List1">c. <b>Examples of Unauthorized
+Commitments</b>.</p>
+        <p outputclass="List2">1) The Army receives services/supplies in which a
+properly executed funding document and an authorized procurement
+method (e.g., contract, BPA, or GPC) was not established prior to
+the Government ordering the services/supplies.</p>
+        <p outputclass="List2">2) Someone other than the CH contacts a vendor and
+asks them to provide supplies or perform work, without the
+CH’s knowledge and without prior approval of the billing
+official.</p>
+        <p outputclass="List2">3) An individual without contracting authority
+orders supplies or services.</p>
+        <p outputclass="List2">4) CH orders supplies or services exceeding their
+procurement authority.</p>
+        <p outputclass="List2">5) A vendor mistakes a request for information as
+an order, ships the item, the receiver does not realize it is an
+improper order and accepts the item rather than rejecting and
+returning the item.</p>
+        <p outputclass="List2">6) A contractor continues to perform a service
+contract or provide leased/rented equipment after the expiration
+date of the contract. This situation frequently occurs on yearly
+services/maintenance/lease-type contracts for which there is a
+continuing need.</p>
+        <p outputclass="List2">7) An individual makes a commitment for
+continuation of services over and above the original scope and
+dollar amount, or delivery of supplies under an expired contract,
+purchase order, or delivery order.</p>
+        <p outputclass="List2">8) An individual makes a commitment which exceeds
+the call order limit on a BPA.</p>
+        <p outputclass="List2">9) A person who does not have delegated authority
+makes a commitment under a BPA.</p>
+        <p outputclass="List1">d. <b>Common Reasons for UACs</b>.</p>
+        <p outputclass="List2">1) Failure to plan procurement needs far enough in
+advance to utilize normal contracting procedures.</p>
+        <p outputclass="List2">2) Encountering emergency program requirements and
+not believing there is enough time to go through normal procurement
+procedures.</p>
+        <p outputclass="List2">3) Failure to expeditiously review, approve, and
+transmit procurement requests to the Procurement Office.</p>
+        <p outputclass="List2">4) Failure to perform extensive market research
+before taking an action.</p>
+        <p outputclass="List2">5) Government officials not understanding the
+parameters of their actual authority or lack thereof.</p>
+        <p outputclass="List2">6) Government official not understanding that
+agreeing to an option presented by a contractor could be an
+unauthorized action if it creates more work or expense.</p>
+        <p outputclass="List1">e. <b>Ratification Process</b>. AFARS
+5101.602-3-90 outlines the Army process for ratifying an
+unauthorized commitment. The Government accepts liability through
+ratification. When an A/OPC identifies a potential unauthorized
+commitment, the A/OPC must contact the local contracting office to
+initiate the ratification process.</p>
+        <p outputclass="List1">f. <b>Payment of Properly Ratified Claims
+with the GPC.</b> After the UAC is ratified, the payment of
+the ratified claim may be made through an appropriate contract
+action (e.g., award of a contract, modification to a contract,
+purchase order, GPC). After ratification, the GPC may be used to
+satisfy the commitment if the amount of payment is within the
+cardholder’s authority. If the outstanding charges have
+already been paid in error with the GPC prior to the discovery of
+the UAC, the UAC is being processed for ratification only and the
+supporting documentation is loaded in the bank’s EAS.</p>
+      </conbody>
+    </concept>

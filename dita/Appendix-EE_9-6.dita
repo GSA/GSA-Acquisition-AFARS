@@ -2,119 +2,74 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_9-6">
-    <title>
+      <title>
       <ph props="autonumber">9-6.</ph> DLA Document Services</title>
-    <conbody>
-        <p outputclass="List1">a. GPC purchases from DLA Document Services are considered IGT and
-            are subject to the IGT payment limit of $10,000. Army activities
-            will use the GPC as a payment method to procure printing and
-            high-speed, high-volume duplicating products and services from DLA
-            Document Services in accordance with DoDI 5330.03, Defense Logistics
-            Agency Document Services. If transactions do not meet the DLA
-            Document Services criteria, then activities will use other funding
-            vehicles (e.g., DD Form 448, MIPR, DD Form 282, DoD Printing
-            Requisition/Order).</p>
-        <p outputclass="List1">b. CHs must procure all printing requirements that cannot be produced
-            in-house using their respective organizational printers from Army
-            Printing Division (APD) or the local DLA Document Services.
-            Locations of local DLA Document Services offices are available here: <xref href="https://www.dla.mil/HQ/InformationOperations/Document-Services/Contact/Locations/Locations-List/"
-               format="html"
-               scope="external">DLA Document Services offices</xref>. For CHs
-            within the Washington DC metropolitan area, additional mandatory
-            printing requirements are located here: <xref href="https://armypubs.army.mil/Printing/printing.aspx"
-               format="html"
-               scope="external">https://armypubs.army.mil/Printing/printing.aspx</xref>.</p>
-        <p id="Toc101947097">Table 9-2: Mandatory Sources for Certain
-            Commodities</p>
-        <table>
-            <tgroup cols="4">
-                <colspec colnum="1" colwidth="0.6*" colname="col1"/>
-                <colspec colnum="2" colwidth="1*" colname="col2"/>
-                <colspec colnum="3" colwidth="1.3*" colname="col3"/>
-                <colspec colnum="4" colwidth="1.1*" colname="col4"/>
-                <thead>
-                    <row>
-                        <entry> 
-                     <b>Commodity</b> 
-                  </entry>
-                        <entry> 
-                     <b>Examples</b> 
-                  </entry>
-                        <entry> 
-                     <b>Mandatory Source</b> 
-                  </entry>
-                        <entry> 
-                     <b>Specific Instructions</b> 
-                  </entry>
-                    </row>
-                </thead>
-                <tbody>
-                    <row>
-                        <entry>Office Supplies</entry>
-                        <entry>Printer toner, copy paper, pens, pencils,
-                            staplers, staples, self-stick pads, file
-                            folders</entry>
-                        <entry> 
-                     <p>Local AbilityOne<sup>®</sup> Base Supply
-                            Store (BSC) if available, or through the sources</p>
-                            <p> located at <xref href="https://www.abilityone.gov/" format="html" scope="external">AbilityOne</xref> 
-                     </p> 
-                  </entry>
-                        <entry> 
-                     <p>Shop local/installation
-                            AbilityOne<sup>®</sup> BSCs first, if
-                            applicable.</p> 
-                     <p>See paragraph 9-2.</p> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry>Office Furniture</entry>
-                        <entry>Tables, file cabinets, furniture systems (cubicle
-                            dividers), industrial shelving</entry>
-                        <entry> 
-                     <xref href="https://www.unicor.gov/" format="html" scope="external">UNICOR/ Federal Prison
-                            Industries</xref> 
-                  </entry>
-                        <entry> 
-                     <p>Consider UNICOR for any FPI schedule items
-                            above <b>$3,500</b>. See</p> 
-                     <p>paragraph 9-3.</p>
-                        </entry>
-                    </row>
-                    <row>
-                        <entry>Information Technology</entry>
-                        <entry>Computers, software, video-teleconferencing
-                            equipment, peripherals, IT services</entry>
-                        <entry> 
-                     <xref href="https://chess.army.mil/" format="html" scope="external">Computer Hardware, Enterprise
-                            Software and Solutions (CHESS)</xref> 
-                  </entry>
-                        <entry>Mandatory for all IT purchases, unless you obtain
-                            a SoNA. See paragraph 9-4.</entry>
-                    </row>
-                    <row>
-                        <entry>Cellular Services</entry>
-                        <entry>Cellular phones, wireless tablets, wireless
-                            service</entry>
-                        <entry> 
-                     <xref href="https://army.deps.mil/netcom/sites/wireless"
-                           format="html"
-                           scope="external">Navy Spiral 3 Contracts</xref> 
-                  </entry>
-                        <entry>See paragraph 9-5.</entry>
-                    </row>
-                    <row>
-                        <entry>Printing</entry>
-                        <entry>All printing that cannot be completed with
-                            in-house printers</entry>
-                        <entry>Army Printing Division or <xref href="https://www.dla.mil/Document-Services/"
-                           format="html"
-                           scope="external">DLA Document Services</xref> 
-                  </entry>
-                        <entry>See paragraph 9-6.</entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
-    </conbody>
-</concept>
+      <conbody>
+        <p outputclass="List1">a. Cardholders will purchase print devices and
+services from the Defense Logistics Agency (DLA). This requirement
+applies to Unclassified and Secret-level printing devices (e.g.,
+self-service office copiers and multi-functional devices, desktop
+and stand-alone printers, and scanners) purchased or leased with
+federal funds appropriated to the Army. This requirement also
+applies to the following services:</p>
+        <p outputclass="List2">1) Maintenance of installed Government-owned or
+DLA-leased printing devices to include repairs.</p>
+        <p outputclass="List2">2) Printing, scanning, and document conversion
+(e.g., banners, decals, technical manuals), except for products
+managed by the Army Print and Media Distribution Center (APMDC)
+such as Army-wide publications.</p>
+        <p outputclass="List1">b. Cardholders must procure all printing
+requirements that cannot be produced in-house using their
+respective organizational printers from <xref format="html"
+               href="https://www.dla.mil/Document-Services/"
+               scope="external">DLA Document
+Services</xref>. See DoDI 5330.03, Single Manager of DoD Document
+Services, and Army CIO memorandum, “Army Procurement or Lease
+of Printing Devices and Services,” dated 17 November 2023.
+For CHs within the Washington DC metropolitan area, additional
+mandatory printing requirements are located here: <xref format="html"
+               href="https://armypubs.army.mil/Printing/printing.aspx"
+               scope="external">
+            <u>https://armypubs.army.mil/Printing/printing.aspx</u>.</xref>
+        </p>
+        <p outputclass="List1">c. DLA will provide an exception to policy (ETP)
+memo if the product is unavailable. ITAS approval is required prior
+to the procurement of IT, including printing devices and services.
+The requesting activity will attach the ETP memo to the ITAS
+procurement request.</p>
+        <p outputclass="List1">d. GPC purchases from DLA Document Services are
+considered IGT and are subject to the IGT payment limit of $10,000.
+If transactions do not meet the DLA Document Services criteria,
+activities will use other funding vehicles (e.g., DD Form 448,
+MIPR, DD Form 282, DoD Printing Requisition/Order).</p>
+        <p outputclass="List1">e. <b>Exemptions</b>. Products exempt
+from this policy include items that are funded or procured with
+non-Army funding and manufacturing equipment such as 3-D printers.
+Also, the following organizations are exempt from the requirement
+to buy print devices and services from DLA:</p>
+        <p outputclass="List2">1) US Army National Guard (ARNG) and US Army
+Reserve (USAR)</p>
+        <p outputclass="List2">2) Army-wide departmental printing and Army
+Headquarters printing services provided by the U.S. Army Print and
+Media Distribution Center (APMDC)</p>
+        <p outputclass="List2">3) Army intelligence printers and services
+acquired under the National Intelligence Program (NIP) or the
+Military Intelligence Program (MIP)</p>
+        <p id="Table_9-2_Mandatory_Sources_for_Certain"/>
+        <p id="Toc174981124">
+          <b>9-7.</b>
+          <b>Clothing
+&amp; Heraldry.</b>
+        </p>
+
+        <p>Flags, guidons, and streamers described in AR 840-10 will be
+requisitioned from the U.S. Army Tank-Automotive and Armaments
+Command, Clothing and Heraldry Office, Product Support Integration
+Directorate, unless otherwise indicated. Stocked items are
+available on FedMall. Stocked items include, but are not limited
+to, national flags and general officer protocol flags. The Clothing
+&amp; Heraldry Office does not provide stocked items. Requiring
+activities will submit requests for flags, guidons, and streamers
+at the following website: <xref format="html" href="https://heraldry.army.mil/" scope="external">https://heraldry.army.mil/</xref>.</p>
+      </conbody>
+    </concept>

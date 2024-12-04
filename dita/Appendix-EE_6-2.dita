@@ -1,202 +1,329 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_Appendix-EE_6-2">
-    <title>
-      <ph props="autonumber">6-2.</ph> GPC Purchasing Process</title>
-    <conbody>
-        <p>Cardholders should follow the steps in Table 6-1 when purchasing
-            items or services within the MPT.</p>
-        <p id="Toc101947056">Table 6-1: Cardholder Micro-purchase Steps</p>
-        <table>
-            <tgroup cols="3">
-                <colspec colnum="1" colwidth="0.2*" colname="col1"/>
-                <colspec colnum="2" colwidth="1.2*" colname="col2"/>
-                <colspec colnum="3" colwidth="1.5*" colname="col3"/>
-                <thead>
-                    <row>
-                        <entry>Step</entry>
-                        <entry>Action</entry>
-                        <entry>Details</entry>
-                    </row>
-                </thead>
-                <tbody>
-                    <row>
-                        <entry>1</entry>
-                        <entry>Receive and screen Purchase Request and Approval
-                            (PR&amp;A) document from requiring activity.</entry>
-                        <entry>Ensure PR&amp;A identifies a legitimate
-                            government need; market research performed; any
-                            recommended vendors; approvals obtained (e.g., APO,
-                            BO); and consideration of required sources.</entry>
-                    </row>
-                    <row>
-                        <entry>2</entry>
-                        <entry>CH must verify BO signs the form and approves the
-                            purchase prior to the purchase.</entry>
-                        <entry>The BO will verify funding availability with the
-                            Resource Manager prior to signing the form.</entry>
-                    </row>
-                    <row>
-                        <entry>3</entry>
-                        <entry>Verify appropriate procurement method. If GPC is
-                            not the appropriate method, return the form to the
-                            requiring activity with the recommendation on the
-                            proper procurement method to be used.</entry>
-                        <entry>Consider funding type and funding amount. Confirm
-                            whether the requested item/service is authorized to
-                            buy with GPC. Confirm that the purchase is within
-                            the CH’s delegation of authority.</entry>
-                    </row>
-                    <row>
-                        <entry>4</entry>
-                        <entry>Determine the appropriate vendor.</entry>
-                        <entry>Check mandatory sources first, depending on the
-                            type of item/service. See Chapter 9. If mandatory
-                            sources cannot fulfill the request, check
-                            recommended Government sources (GSA, FedMall) and
-                            commercial sources. If buying from a commercial
-                            source, include a brief justification in the
-                            purchase file. Ensure to rotate commercial
-                            sources.</entry>
-                    </row>
-                    <row>
-                        <entry>5</entry>
-                        <entry>Review the quote. Inform the vendor that the
-                            purchase is tax exempt.</entry>
-                        <entry>Confirm whether the supplies/services description
-                            meets the minimum customer needs and is readily
-                            available. Check quote for sales tax; if identified,
-                            ask vendor to remove tax. Review quote for terms and
-                            conditions. Provide Government shipping
-                            details.</entry>
-                    </row>
-                    <row>
-                        <entry>6</entry>
-                        <entry>Confirm if the vendor is 889 compliant. Check
-                            Sam.gov or use 889 robotic process automation (RPA)
-                            email.</entry>
-                        <entry>Can also use completed 889 forms from a local
-                            share site, if available. If vendor is not on
-                            SAM.gov, ask vendor to complete an 889 form. If
-                            vendor is not compliant, find another
-                            vendor.</entry>
-                    </row>
-                    <row>
-                        <entry>7</entry>
-                        <entry>Place the order.</entry>
-                        <entry>Make purchase over phone, in person, internet, or
-                            email.</entry>
-                    </row>
-                    <row>
-                        <entry>8</entry>
-                        <entry>Record the item in the Purchase Log.</entry>
-                        <entry>In the bank’s EAS (Transaction Management) or per
-                            local agency guidance.</entry>
-                    </row>
-                    <row>
-                        <entry>9</entry>
-                        <entry>Receive the items/services. Perform independent
-                            receipt and acceptance.</entry>
-                        <entry>Ensure that a Government employee (not the CH)
-                            signs and dates the invoice/receipt to confirm
-                            delivery/completion of work. Provide a copy of the
-                            receipt to the Accountable Property Officer (APO)
-                            within 5 business days, when applicable.</entry>
-                    </row>
-                    <row>
-                        <entry>10</entry>
-                        <entry>Match the transaction and upload supporting
-                            documentation into the bank’s EAS. Approve statement
-                            in EAS at the end of each billing cycle.</entry>
-                        <entry>When matching orders, complete all required
-                            fields (e.g., 889 Designation, Emergency Type
-                            Operation). Upload supporting documentation
-                            identified in 6-2.e. below.</entry>
-                    </row>
-                    <row>
-                        <entry>11</entry>
-                        <entry>Resolve any disputes. If unable to resolve with
-                            vendor, submit a dispute in the bank’s EAS.</entry>
-                        <entry>Contact vendor directly to resolve minor issues,
-                            such as shipping costs or sales tax. Ensure disputes
-                            in EAS are exercised no later than <b>90 days</b>
-                            after the transaction’s posting.</entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
-        <p outputclass="List1">a. Personnel requiring supplies/services must provide written
-            requests to the CH. Upon receipt of a purchase request, the CH
-            should identify if the requirement can be made within the scope of
-            the GPC program. Cardholders must ensure the requirement is a
-            legitimate government need and determine if the requirement can be
-            met within their credit limits.</p>
-        <p id="b_Mandatory_Determine_whether_the_requ" outputclass="List1">b. The BO must verify
-            availability of funds at the time of each purchase. No Government
-            employee may create or authorize an obligation in excess of
-            available funds or in advance of appropriations.</p>
-        <p outputclass="List1">c. Only the CH is authorized to make the purchase - no exceptions.
-            CHs cannot re-delegate their authority. Purchases can be made in
-            person or by telephone, internet or email. Cardholders must maintain
-            card security throughout the buying process. Invoices must be in
-            English.</p>
-        <p outputclass="List1">d. <b>Shipping</b>. CHs are unauthorized to ship to personal
-            residences or other commercial addresses without approval from Level
-            3 A/OPC. For OCONUS purchases, CHs should coordinate with their
-            local logistics office to determine whether commercial shipment is
-            available for purchases outside the U.S.</p>
-        <p outputclass="List1">e. <b>Purchase File Documentation</b>. Per DOD Charge Card Guidebook paragraph A.1.14
-            “GPC Record Retention” and <xref href="http://comptroller.defense.gov/Portals/45/documents/fmr/Volume_10.pdf"
-               format="html"
-               scope="external">DoD FMR Volume 10, Chapter 23, Paragraph
-            230307</xref> - CHs must document and upload transaction supporting
-            documentation using the servicing bank’s EAS, Transaction Management
-            - Attachment function. CHs must upload documentation throughout the
-            billing cycle to assist BOs, A/OPCs, and auditors in completing
-            transaction reviews per DoD SmartPay® 3 Transition Memorandum #6.
-            CHs will attach documents for each billing cycle before approving
-            their statement. BOs should review the transaction documentation
-            prior to certifying the managing account. Required file
-            documentation includes but is not limited to the following:</p>
-        <p>1) Approved Purchase Request Document</p>
-        <p>2) Special approvals (e.g., ITAS Waiver Approvals, Statement of
-            Non-Availability (SONA), Capability Requirement (CAPR), legal)</p>
-        <p>3) 889 Representation</p>
-        <p>4) Order confirmations</p>
-        <p>5) Itemized receipts</p>
-        <p>6) Quotes and invoices, if applicable</p>
-        <p>7) Documentation showing independent receipt and acceptance</p>
-        <p>8) Receiving reports or other proof of delivery</p>
-        <p>9) For training purchases, SF 182 (or equivalent) and proof of class
-            completion, with Personally Identifiable Information (PII)
-            redacted</p>
-        <p>10) APO approval</p>
-        <p>11) Other local agency requirements</p>
-        <p outputclass="List1">f. The Accountable Property Officer (APO) determines if the goods
-            purchased will be placed on APO records in accordance with AR 710-2.
-            Cardholders are required to provide receipts of accountable goods to
-            the APO within 5 business days of obtaining the receipt.</p>
-        <p outputclass="List1">g. <b>Independent Receipt and Acceptance</b>. CHs will obtain
-            independent receipt and acceptance for all purchases. The CH will
-            ensure receipt and acceptance is properly performed and confirmed
-            through proper documentation by an individual other than the CH. The
-            person verifying receipt must sign, date, and write "received" on
-            the merchant’s receipt, packing slip, invoice, or equivalent
-            document. Email confirmation is also acceptable. The individual
-            verifying receipt may be the CH’s supervisor or other designated
-            individual, as appropriate. CHs must upload the signed document or
-            email confirmation in the servicing bank’s EAS. Shipping items to a
-            home or alternative work address requires approval documentation
-            from the Level 3 A/OPC in the purchase file. The BO verifies the
-            existence of receipt and acceptance documentation during
-            reconciliation of the billing statement.</p>
-        <p outputclass="List1">h. <b>File Retention</b>. If the complete file documentation is
-            uploaded in the bank’s EAS, CHs are not required to maintain a
-            duplicate hardcopy or electronic file. The servicing bank will
-            retain all uploaded files for the required timeframe. BOs are
-            responsible for ensuring that CHs upload documentation. BOs must
-            retain existing hardcopy files for six years in accordance with FAR
-            Part 4 that are not uploaded into the bank’s EAS.</p>
-    </conbody>
+<concept id="AFARS_Appendix-EE_6-2" class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">6-2.</ph> GPC Purchasing Process</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">Cardholders should follow the steps in Table 6-1 when purchasing
+items or services within the MPT.</p>
+      <p id="Table_6-1_Cardholder_Micro-purchase_Ste" class="- topic/p ">Table 6-1: Cardholder Micro-purchase
+Steps</p>
+      <table class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="col1"
+                     colnum="1"
+                     colwidth="0.2*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="col2"
+                     colnum="2"
+                     colwidth="1.2*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="col3"
+                     colnum="3"
+                     colwidth="1.5*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">Step</b>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">Action</b>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">Details</b>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">1</b>
+                  </entry>
+                  <entry class="- topic/entry ">Receive and screen Army Purchase Request and Approval (PR&amp;A)
+or equivalent from requiring activity.</entry>
+                  <entry class="- topic/entry ">Ensure PR&amp;A identifies a legitimate government need; market
+research performed; any recommended vendors; and consideration of
+required sources.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">2</b>
+                  </entry>
+                  <entry class="- topic/entry ">Verify appropriate procurement method. If GPC is not the
+appropriate method, return the request to the requiring activity
+with the recommendation on the proper procurement method to be
+used.</entry>
+                  <entry class="- topic/entry ">Consider funding type and funding amount. Confirm whether the
+requested item/service is authorized to buy with GPC. Confirm that
+the purchase is within the CH’s delegation of authority.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">3</b>
+                  </entry>
+                  <entry class="- topic/entry ">Determine the appropriate vendor.</entry>
+                  <entry class="- topic/entry ">Check mandatory sources first. See Chapter 9. If no mandatory
+source exists, screen the requirement from recommended Government
+sources and commercial platforms/sources. Rotate commercial
+sources.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">4</b>
+                  </entry>
+                  <entry class="- topic/entry ">Review the quote. Inform the vendor that the purchase is tax
+exempt.</entry>
+                  <entry class="- topic/entry ">Confirm whether the supplies/services description meets the
+minimum customer needs and is readily available. Check quote for
+sales tax; if identified, ask vendor to remove tax. Review quote
+for terms and conditions. Provide Government shipping details.</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <table class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="col1"
+                     colnum="1"
+                     colwidth="0.2*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="col2"
+                     colnum="2"
+                     colwidth="1.2*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colname="col3"
+                     colnum="3"
+                     colwidth="1.5*"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">Step</b>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">Action</b>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">Details</b>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">5</b>
+                  </entry>
+                  <entry class="- topic/entry ">Confirm if the vendor is 889 compliant.</entry>
+                  <entry class="- topic/entry ">Use the GSA Easy Search Tool, 889 Bot, Sam.gov, or a
+vendor’s signed 889 form. If vendor is not registered in
+SAM.gov, ask vendor to complete an 889 form. If vendor is not 889
+compliant, find another vendor.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">6</b>
+                  </entry>
+                  <entry class="- topic/entry ">Verify all required approvals prior to the purchase.</entry>
+                  <entry class="- topic/entry ">The BO must approve the request in writing. The BO will verify
+funding availability prior to approval. Other approvals may be
+required depending on the purchase (e.g., APO, legal, ITAS).</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">7</b>
+                  </entry>
+                  <entry class="- topic/entry ">Place the order.</entry>
+                  <entry class="- topic/entry ">Make purchase over phone, in person, internet, or email. Only
+the CH is authorized to make the purchase.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">8</b>
+                  </entry>
+                  <entry class="- topic/entry ">Update the Purchase Log.</entry>
+                  <entry class="- topic/entry ">Match the transaction and complete all required fields (e.g.,
+889 Designation) in the bank’s EAS.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">9</b>
+                  </entry>
+                  <entry class="- topic/entry ">Obtain independent receipt and acceptance. Give receipt to the
+APO when applicable.</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Ensure that a government employee (not the CH or BO) confirms
+receipt of items/services in writing.</p>
+                     <p class="- topic/p ">
+Provide a copy of the receipt to the APO within 5 business days,
+when applicable.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">10</b>
+                  </entry>
+                  <entry class="- topic/entry ">Upload supporting documentation into the bank’s EAS.</entry>
+                  <entry class="- topic/entry ">Attach the supporting documents identified in 6-2.g. below.</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <b class="+ topic/ph hi-d/b ">11</b>
+                  </entry>
+                  <entry class="- topic/entry ">Resolve any problems. If unable to resolve with vendor, submit a
+dispute in the bank’s EAS.</entry>
+                  <entry class="- topic/entry ">Contact vendor directly to resolve minor issues, such as
+shipping costs or sales tax. Dispute transactions when appropriate.
+Ensure disputes are exercised no later than <b class="+ topic/ph hi-d/b ">45 calendar
+days</b> after the transaction’s posting.</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="List1" class="- topic/p ">a. Personnel requiring supplies/services must
+provide written requests to the CH. Upon receipt of a purchase
+request, the CH should identify if the requirement can be made
+within the scope of the GPC program. Cardholders must ensure the
+requirement is a legitimate government need and determine if the
+requirement can be met within their credit limits.</p>
+      <p outputclass="List1" class="- topic/p ">b. The BO must verify availability of funds at the
+time of each purchase. No Government employee may create or
+authorize an obligation in excess of available funds or in advance
+of appropriations.</p>
+      <p outputclass="List1" class="- topic/p ">c. Only the CH is authorized to make the purchase
+- no exceptions. CHs cannot re-delegate their authority. Purchases
+can be made in person or by telephone, internet, or email.
+Cardholders must maintain card security throughout the buying
+process. Invoices must be in English.</p>
+      <p outputclass="List1" class="- topic/p ">d. <b class="+ topic/ph hi-d/b ">Shipping</b>. CHs are unauthorized
+to ship to personal residences or other commercial addresses
+without approval from Level 3 A/OPC. For OCONUS purchases, CHs
+should coordinate with their local logistics office to determine
+whether commercial shipment is available for purchases outside the
+U.S. If it is not, ensure the vendor is provided with the necessary
+information to allow the purchase to enter the Defense
+Transportation System (DTS), which requires that the shipment has a
+Military Shipping Label (MSL) that includes a Transportation
+Control Number, Final Destination (in country) address and DoD
+Activity Address Code (DoDAAC), Priority, Required Delivery Date,
+and Transportation Accounting Code. <ph id="Toc64815327" class="- topic/ph "/>
+        </p>
+      <p outputclass="List1" class="- topic/p ">e. <b class="+ topic/ph hi-d/b ">Precautions to Avoid Frustrated
+Freight</b>. A supplier shipment that becomes
+“frustrated” is, at a minimum, delayed along the
+transportation chain and will not move until all problems are
+resolved. Many times, the shipment never reaches the intended
+recipient. When using a GPC to purchase items with delivery to a
+destination outside the United States, two methods of
+transportation generally are available: commercial door-to-door and
+the DTS. If commercial shipping is not used, a purchaser must
+coordinate with his/her transportation service support office
+(e.g., Installation Transportation Office, Transportation
+Management Office, or Supply Support Activity) before ordering the
+item. The Component ordering the item with a GPC is responsible for
+ensuring the shipper (i.e., vendor) is provided the completed MSL
+to place on the cargo before it arrives at a DoD facility for
+movement in DTS. Shipments entering the DTS require additional
+funding and shipping, marking, and packaging instructions. Prior to
+shipment of hazardous material, the shipper is required to certify
+shipment to the final destination by attaching a certification
+certificate/document on the package in accordance with
+International Air Transport Association or International Maritime
+Dangerous Goods code, etc. Using only the stateside DTS military
+transit port or intermediate point without including the final
+destination DoDAAC in-country will cause a shipment to become
+frustrated.</p>
+      <p outputclass="List1" class="- topic/p ">f. <b class="+ topic/ph hi-d/b ">Thirty</b>-<b class="+ topic/ph hi-d/b ">Day
+Delivery</b>. <ph id="Hlk152851478" class="- topic/ph "/>Cardholders generally
+should seek vendors that have the required inventory supply (or
+labor capacity, for services) to enable delivery of the purchase
+within 30 calendar days while also meeting the requirements at a
+fair and reasonable price. Delivery timeframes in excess of 30 days
+may cause problems such as tracking purchases against monthly
+billing cycle limits and shipping items charged to a closed
+account.</p>
+      <p outputclass="List1" class="- topic/p ">g. <b class="+ topic/ph hi-d/b ">Purchase File Documentation</b>. Collection and retention of GPC documentation in centralized, electronic records is mandated to support Federal-Government-wide paperless initiatives; ensure information is available to support program operations and oversight functions; and fulfill record retention requirements. Per <xref format="html"
+               href="http://comptroller.defense.gov/Portals/45/documents/fmr/Volume_10.pdf"
+               scope="external"
+               class="- topic/xref ">DoD FMR Volume 10, Chapter 23, Paragraph 230307</xref>, CHs must document and upload transaction supporting documentation for each and every purchase and its associated transaction using the servicing bank’s EAS, Transaction Management - Attachment function. CHs must upload documentation throughout the billing cycle to assist BOs, A/OPCs, and auditors in completing transaction reviews per DoD SmartPay® 3 Transition Memorandum #6. CHs will attach documents for each billing cycle before approving their statement. BOs should review the transaction documentation prior to certifying the managing account. Records retention requirements are addressed in the <xref href="Appendix-EE_6-2.dita#AFARS_Appendix-EE_6-2"
+               class="- topic/xref "
+               outputclass="fm:ParaNumOnly">6-2. GPC Purchasing Process</xref>. The <xref href="Appendix-EE_6-2.dita#AFARS_Appendix-EE_6-2"
+               class="- topic/xref "
+               outputclass="fm:ParaNumOnly">6-2. GPC Purchasing Process</xref> requires that the CH include acceptance documentation for every purchase. Required file documentation includes but is not limited to the following:</p>
+      <p outputclass="List2" class="- topic/p ">1) Army Purchase Request &amp; Approval (PR&amp;A)
+or equivalent​*</p>
+      <p outputclass="List2" class="- topic/p ">2) 889 Representation​*</p>
+      <p outputclass="List2" class="- topic/p ">3) Invoice and/or itemized receipt​</p>
+      <p outputclass="List2" class="- topic/p ">4) Proof of independent receipt and
+acceptance​</p>
+      <p outputclass="List2" class="- topic/p ">5) Other approvals, when applicable (e.g., legal,
+ITAS, Statement of Non-Availability (SONA))</p>
+      <p outputclass="List2" class="- topic/p ">6) Local agency requirements</p>
+      <p class="- topic/p ">* For individual slot training payments, CHs must upload the SF
+182 or equivalent in lieu of items 1) and 2) above. CHs must redact
+any personally identifiable information (PII) before uploading.</p>
+      <p outputclass="List1" class="- topic/p ">h. The Accountable Property Officer (APO)
+determines if the goods purchased will be placed on APO records in
+accordance with AR 710-4. Cardholders are required to provide
+receipts of accountable goods to the APO within 5 business days of
+obtaining the receipt.</p>
+      <p outputclass="List1" class="- topic/p ">i. <b class="+ topic/ph hi-d/b ">Independent Receipt and
+Acceptance</b>. CHs must obtain proof of independent receipt
+and acceptance for all purchases. The CH will ensure receipt and
+acceptance is properly performed and confirmed through
+documentation by a government employee other than the purchasing
+CH. The individual verifying receipt may be the CH’s
+supervisor or other designated individual, as appropriate. CHs must
+upload the documentation in the servicing bank’s EAS.
+Shipping items to a home or alternative work address requires
+approval documentation from the Level 3 A/OPC in the purchase file.
+The BO verifies the existence of receipt and acceptance
+documentation during reconciliation of the billing statement.
+Acceptable documentation includes (but is not limited to) the
+following:​</p>
+      <p outputclass="List2" class="- topic/p ">1) Signed invoice, packing slip or equivalent.
+​In addition to the signature, the receiver should include
+the date of receipt, printed name, telephone number, and office
+symbol or address.</p>
+      <p outputclass="List2" class="- topic/p ">2) PR&amp;A signed by the receiver.​</p>
+      <p outputclass="List2" class="- topic/p ">3) Email confirmation from the
+receiver.​</p>
+      <p outputclass="List2" class="- topic/p ">4) WAWF Purchase Card Receiving Report.</p>
+      <p outputclass="List1" class="- topic/p ">j. <b class="+ topic/ph hi-d/b ">File Retention</b>. If the
+complete file documentation is uploaded in the bank’s EAS,
+CHs are not required to maintain a duplicate hardcopy or electronic
+file. The servicing bank will retain all uploaded files for the
+required timeframe. BOs are responsible for ensuring that CHs
+upload documentation. BOs must retain existing hardcopy files for
+six years in accordance with FAR Part 4 that are not uploaded into
+the bank’s EAS.</p>
+      <p outputclass="List1" class="- topic/p ">k. <b class="+ topic/ph hi-d/b ">Cybersecurity</b>. The Army GPC
+community must be aware of cybersecurity risks when making
+purchases using the GPC. Some of the key cyber supply-chain risks
+include:</p>
+      <p outputclass="List2" class="- topic/p ">1) Services provided by vendors and other third
+parties (e.g., heating, ventilation, and air conditioning services,
+IT software engineering services, or anyone with access to the
+physical or virtual network).</p>
+      <p outputclass="List2" class="- topic/p ">2) Poor information security practices and/or
+compromised software or hardware procured from suppliers.</p>
+      <p class="- topic/p ">Purchases of hardware, software, telecommunications equipment,
+video surveillance equipment, and related services from certain
+vendors are prohibited. The <xref format="html"
+               href="https://2017-2021.state.gov/fiscal-year-2018-national-defense-authorization-act-ndaa/index.html"
+               scope="external"
+               class="- topic/xref ">FY
+2018 NDAA</xref>, Sections 1634(A) and (B) (see FAR 4.2002 and
+13.201(i)) implemented a supply/service ban that
+prohibits the use of hardware, software, and services of Kaspersky
+Lab and its related entities by the Federal Government. The <xref format="html"
+               href="https://www.acquisition.gov/Section-889-Policies"
+               scope="external"
+               class="- topic/xref ">FY 2019
+NDAA Section 889</xref> implemented broader bans as described in
+section 6-3.</p>
+   </conbody>
 </concept>

@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5109</ph> - Contractor Qualifications</title>
       <body>
          <p>
-            <i>(Revised 07 June 2023)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5109.1.dita#AFARS_Subpart_5109.1">Subpart 5109.1 - Responsible Prospective Contractors</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5109.103.dita#AFARS_5109.103">5109.103 Policy.</xref>
                      </p>
@@ -25,7 +25,7 @@
                         <xref outputclass="fm:TOC" href="5109.104.dita#AFARS_5109.104">5109.104 Standards.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.1045.dita#AFARS_5109.1045">5109.104-5 Representation and certifications regarding responsibility matters.</xref>
                            </p>
@@ -37,7 +37,7 @@
                         <xref outputclass="fm:TOC" href="5109.105.dita#AFARS_5109.105">5109.105 Procedures.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.1052.dita#AFARS_5109.1052">5109.105-2 Determinations and documentation.</xref>
                            </p>
@@ -49,7 +49,7 @@
                         <xref outputclass="fm:TOC" href="5109.108.dita#AFARS_5109.108">5109.108 Prohibition on contracting with inverted domestic corporations.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.1084.dita#AFARS_5109.1084">5109.108-4 Waiver.</xref>
                            </p>
@@ -63,7 +63,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5109.2.dita#AFARS_Subpart_5109.2">Subpart 5109.2 - Qualifications Requirements</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5109.202.dita#AFARS_5109.202">5109.202 Policy.</xref>
                      </p>
@@ -73,7 +73,7 @@
                         <xref outputclass="fm:TOC" href="5109.206.dita#AFARS_5109.206">5109.206 Acquisitions subject to qualification requirements.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.2061.dita#AFARS_5109.2061">5109.206-1 General.</xref>
                            </p>
@@ -85,7 +85,7 @@
                         <xref outputclass="fm:TOC" href="5109.270.dita#AFARS_5109.270">5109.270 Aviation and ship critical safety items.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.2703.dita#AFARS_5109.2703">5109.270-3 Policy.</xref>
                            </p>
@@ -114,17 +114,17 @@
                         <xref outputclass="fm:TOC" href="5109.404.dita#AFARS_5109.404">5109.404 System for award management exclusions.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5109.405.dita#AFARS_5109.405">5109.405 Effect of listing.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.4051.dita#AFARS_5109.4051">5109.405-1 Continuation of current contracts.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.4052.dita#AFARS_5109.4052">5109.405-2 Restrictions on subcontracting.</xref>
                            </p>
@@ -136,12 +136,12 @@
                         <xref outputclass="fm:TOC" href="5109.406.dita#AFARS_5109.406">5109.406 Debarment.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.4061.dita#AFARS_5109.4061">5109.406-1 General.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.4063.dita#AFARS_5109.4063">5109.406-3 Procedures.</xref>
                            </p>
@@ -153,12 +153,12 @@
                         <xref outputclass="fm:TOC" href="5109.407.dita#AFARS_5109.407">5109.407 Suspension.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.4071.dita#AFARS_5109.4071">5109.407-1 General.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5109.4073.dita#AFARS_5109.4073">5109.407-3 Procedures.</xref>
                            </p>
@@ -172,17 +172,17 @@
                   <xref outputclass="fm:TOC" href="Subpart_5109.5.dita#AFARS_Subpart_5109.5">Subpart 5109.5 - Organizational and Consultant Conflicts of Interests</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5109.503.dita#AFARS_5109.503">5109.503 Waiver.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5109.504.dita#AFARS_5109.504">5109.504 Contracting officers responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5109.506.dita#AFARS_5109.506">5109.506 Procedures.</xref>
                      </p>

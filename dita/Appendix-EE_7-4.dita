@@ -2,35 +2,40 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_7-4">
-   <title>
+      <title>
       <ph props="autonumber">7-4.</ph> Refund Distribution</title>
-   <conbody>
-      <p outputclass="List1">a. Refunds, also referred to as rebates, will be distributed by the servicing
-bank via ACH (electronic funds transfer) to DFAS approximately 25 days after the
-quarter end (Jan 25, Apr 25, Jul 25, Oct 25) and may be distributed/allocated at
-the discretion of each Army Major command. Refunds must be utilized in the
-fiscal year when the refund was received.</p>
-      <p outputclass="List1">b. The servicing bank will notify the GFEBS Level 2 Fund Center RM POCs by
-email with an attached spreadsheet providing the total ACH amount of their Level
-2 Fund Center refund. POCs must be identified by the Level 2 Fund Center
-G8/Comptroller. DFAS will be provided a spreadsheet which contains the refund
+      <conbody>
+        <p outputclass="List1">a. Refunds, also referred to as rebates, will be
+distributed by the servicing bank via ACH (electronic funds
+transfer) to DFAS approximately 25 days after the quarter end (Jan
+25, Apr 25, Jul 25, Oct 25) and may be distributed/allocated at the
+discretion of each Army Major command. Refunds must be utilized in
+the fiscal year when the refund was received.</p>
+        <p outputclass="List1">b. The servicing bank will notify the GFEBS Level
+2 Fund Center RM POCs by email with an attached spreadsheet
+providing the total ACH amount of their Level 2 Fund Center refund.
+POCs must be identified by the Level 2 Fund Center G8/Comptroller.
+DFAS will be provided a spreadsheet which contains the refund
 amounts for each Level 2 Fund Center.</p>
-      <p outputclass="List1">c. Level 2 Fund Centers must decide whether the refund will be processed at
-their level or delegated to Level 3/4 Fund Centers, understanding it is their
-responsibility to monitor all refunds and the subsequent clearing. Execution
-requires entering FB65 in GFEBS and submitting Cash Collection Voucher (DD1131)
-to DFAS-IN by the Level 2 RM POC within 30 days of the servicing bank’s refund
-email notification. The Major commands will make the determination as to how the
-refund will be dispersed within their command (e.g., keep refunds at HQ or major
-RM or disseminate to subordinate activities). GFEBS-SA to use Level 3
-Headquarter Fund Centers to claim refund and distribute, if desired, using
-Journal Voucher (JV) entry correction, t-code FV50, which requires JV Workflow
-Approval.</p>
-      <p outputclass="List1">d. Detailed reporting by the servicing bank Total Business Relationship (TBR)
-hierarchy will be provided to each GFEBS Level 2 Fund Center RM POC as well as
-the normal distribution process.</p>
-      <p outputclass="List1">e. DFAS will process the refund in ADS 5570 using the GFEBS FB65 document
-number and summary LOA information provided on the DD 1131, so collection is
-received via DCAS interface.</p>
-   </conbody>
-</concept>
+        <p outputclass="List1">c. Level 2 Fund Centers must decide whether the
+refund will be processed at their level or delegated to Level 3/4
+Fund Centers, understanding it is their responsibility to monitor
+all refunds and the subsequent clearing. Execution requires
+entering FB65 in GFEBS and submitting Cash Collection Voucher
+(DD1131) to DFAS-IN by the Level 2 RM POC within 30 days of the
+servicing bank’s refund email notification. The Major
+commands will make the determination as to how the refund will be
+dispersed within their command (e.g., keep refunds at HQ or major
+RM or disseminate to subordinate activities). GFEBS-SA to use Level
+3 Headquarter Fund Centers to claim refund and distribute, if
+desired, using Journal Voucher (JV) entry correction, t-code FV50,
+which requires JV Workflow Approval.</p>
+        <p outputclass="List1">d. Detailed reporting by the servicing bank Total
+Business Relationship (TBR) hierarchy will be provided to each
+GFEBS Level 2 Fund Center RM POC as well as the normal distribution
+process.</p>
+        <p outputclass="List1">e. DFAS will process the refund in ADS 5570 using
+the GFEBS FB65 document number and summary LOA information provided
+on the DD 1131, so collection is received via DCAS interface.</p>
+      </conbody>
+    </concept>

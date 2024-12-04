@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_3-10">
+      <title><ph props="autonumber">3-10.</ph> Wide Area Workflow (WAWF)</title>
+      <conbody>
+        <p outputclass="List1">a. WAWF is an application in the PIEE eBusiness
+Suite used by contractors to invoice and by Government officials to
+accept and certify for goods and services. Contractors must submit
+contract invoices electronically, mandated by Public Law: Section
+1008 of the NDAA of FY 2001. DFARS Clause 252.232-7003 (DFARS
+232.7004) requires electronic invoicing and electronic supporting
+documentation. WAWF allows vendors to submit and track invoices and
+allows the Army to receive and accept those invoices over the Web,
+enabling the Army to process those invoices in a real-time,
+paperless environment. See paragraph 15-6 for more information.</p>
+        <p outputclass="List1">b. <b>GPC Use of WAWF.</b> When the GPC
+is used as the method of payment on a contract, the contractor must
+create a receiving report in WAWF. The Government acceptor must
+then accept the receiving report in WAWF.</p>
+        <p outputclass="List1">c. WAWF users must register in <xref format="html" href="https://piee.eb.mil" scope="external">
+            <u>PIEE</u>
+
+          </xref> and request the
+corresponding role. The contractor will request the
+“Vendor” role, and the Government acceptor will request
+the “Acceptor” role. Refer to the "Registration" link
+on the PIEE home page and the Help button for details on
+registering in WAWF. For more information, contact <xref format="html" href="http://www.dfas.mil/" scope="external">
+
+            <u>DFAS Customer Service</u>:</xref>
+1-800-756-4571. See <xref format="html" href="https://piee.eb.mil/xhtml/unauth/help/help.xhtml" scope="external">
+            <u>PIEE
+web-based training</u>
+          </xref> for more information on the WAWF
+module.</p>
+      </conbody>
+    </concept>

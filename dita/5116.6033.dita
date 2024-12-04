@@ -8,6 +8,10 @@
    <title outputclass="Heading 4">
       <ph props="autonumber">5116.603-3</ph> Limitations.</title>
    <conbody>
-      <p outputclass="List1">The head of the contracting activity shall make the determination stated in FAR 16.603-3.  See Appendix GG for further delegation.</p>
+      <p outputclass="List1">The <ph rev="Revised October 1, 2024">HCA</ph> shall make the determination stated in FAR 16.603-3.  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
    </conbody>
 </concept>

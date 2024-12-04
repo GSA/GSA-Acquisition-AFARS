@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5136.201"
+<concept id="AFARS_5136.201"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5136.201</ph> Evaluation of contractor performance.</title>
-   <conbody>
-      <p outputclass="List2">(1)  See 5142.1503-90 for the requirements to prepare contractor past performance evaluations on construction contracts.</p>
-      <p outputclass="List2">(2)  At a minimum, prepare the report (DD Form 2626, Performance Evaluation (Construction)) at the final acceptance of work.  The contracting officer’s representative, or ordering officer if there is no contracting officer’s representative, must be responsible for monitoring contract performance.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5136.201</ph> Evaluation of contractor performance.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">(1)  See <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5142.1503-90 for the requirements to prepare contractor past performance evaluations on construction contracts.</p>
+      <p outputclass="List2" class="- topic/p ">(2) At a minimum, prepare the report (DD Form 2626, Performance Evaluation (Construction)) at the final acceptance of work <ph rev="Revised October 1, 2024" class="- topic/ph ">and include the signed copy in the contract file</ph>. The <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer’s representative or ordering officer if there is no <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer’s representative, must be responsible for monitoring contract performance.</p>
    </conbody>
 </concept>

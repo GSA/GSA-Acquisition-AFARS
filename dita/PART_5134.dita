@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">Part 5134</ph> - Major System Acquisition</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -23,13 +26,13 @@
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5134.2.dita#AFARS_Subpart_5134.2">Subpart 5134.2 - Earned Value Management System</xref>
                </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5134.70.dita#AFARS_Subpart_5134.70">Subpart 5134.70 - Acquisition of Major Weapon Systems as Commercial Items</xref>
+               </p>
                <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="Subpart_5134.70.dita#AFARS_Subpart_5134.70">Subpart 5134.70 - Acquisition of Major Weapon Systems as Commercial Items</xref>
-                     </p>
-                  </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5134.7002.dita#AFARS_5134.7002">5134.7002 Policy.</xref>
                      </p>

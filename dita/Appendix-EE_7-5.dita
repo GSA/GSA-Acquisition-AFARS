@@ -2,9 +2,14 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_7-5">
-  <title>
+      <title>
       <ph props="autonumber">7-5.</ph> Uncollected Refunds</title>
-  <conbody>
-      <p>Refunds not collected within 30 calendar days of the servicing bank’s refund email notification will be collected by HQDA ASA/ALT and the commands will no longer have access to the refunds for that quarter. This step provides the Army access to the refunds vice the refunds being forwarded to Treasury due to non-collection.</p>
-  </conbody>
-</concept>
+      <conbody>
+        <p>Refunds not collected within 30 calendar days of the servicing
+bank’s refund email notification will be collected by HQDA
+ASA/ALT and the commands will no longer have access to the refunds
+for that quarter. This step provides the Army access to the refunds
+vice the refunds being forwarded to Treasury due to
+non-collection.</p>
+      </conbody>
+    </concept>

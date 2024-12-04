@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_6-5">
+      <title><ph props="autonumber">6-5.</ph> Tax-Exempt Status</title>
+      <conbody>
+        <p outputclass="List1">a. GSA SmartPay GPC accounts are centrally billed
+accounts (CBAs) and, as such, should be exempt from state taxes.
+See the <xref format="html" href="https://smartpay.gsa.gov/smarttax" scope="external">
+            <u>GSA SmartPay
+website</u>
+          </xref> for state-specific information and forms.
+Cardholders can download a copy of the specific State letter to
+present to a vendor when the vendor is requesting a tax-exempt
+certificate.</p>
+        <p outputclass="List1">b. GSA also provides tax exemption best practices
+for GPC accounts under the heading “Purchase Account”
+on the linked webpage. Additional information about State sales
+taxes and CH best practices may be found in <xref format="html" href="https://smartpay.gsa.gov/policies-and-audits/smart-bulletins/020/" scope="external">GSA
+Smart Bulletin #020</xref>.</p>
+        <p outputclass="List1">c. For purchases within the U.S., CHs are
+responsible for notifying vendors of the tax exemption and ensuring
+no sales tax is included in their purchase, except where
+applicable. Cardholders must inform the merchant that the purchase
+is for official U.S. Government purposes and, therefore, is not
+subject to state or local sales tax. A/OPCs may request embossing
+of the statement “U.S. GOVT TAX EXEMPT” when ordering a
+GPC.</p>
+        <p outputclass="List1">d. <b>Exceptions</b>. Some states (e.g.,
+Hawaii, Illinois) levy a General Excise Tax (GET) on businesses
+selling tangible personal property which is allowed to be passed on
+to the Federal Government. Arizona levies a Transaction Privilege
+Tax (TPT). CHs are required to pay the GET and TPT when applied to
+a GPC purchase.</p>
+        <p id="Table_6-3_Tax_Exemptions">Table 6-3: Tax Exemptions</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.8*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.2*"/>
+            <tbody>
+              <row>
+                <entry nameend="col2" namest="col1">
+                  <b>Federal Government Tax Exemption
+Information</b>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <b>Tax Exempt</b>
+                </entry>
+                <entry>
+                  <b>Not Tax Exempt</b>
+                </entry>
+              </row>
+              <row>
+                <entry>Sales Tax</entry>
+                <entry>Certain federal and state excise taxes (e.g., Hawaii and
+Illinois)</entry>
+              </row>
+              <row>
+                <entry>Federal communications excise tax (FAR 29.203)</entry>
+                <entry>Tax on labor for work that is performed in that state, e.g., New
+Mexico Gross Receipts Tax (NMGRT).</entry>
+              </row>
+              <row>
+                <entry>Federal highway vehicle users' tax (FAR 29.203)</entry>
+                <entry>Commissary surcharges, because they are federally mandated.</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Foreign taxes on overseas purchases, unless foreign tax and
+Status of Forces Agreement (SOFA) will specify.</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Fuel purchases</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>Arizona Transaction Privilege Tax</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </conbody>
+    </concept>

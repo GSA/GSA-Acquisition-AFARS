@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5146</ph> - Quality Assurance</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -17,7 +20,7 @@
                         <xref outputclass="fm:TOC" href="5146.501.dita#AFARS_5146.501">5146.501 General.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5146.503.dita#AFARS_5146.503">5146.503 Place of acceptance.</xref>
                      </p>
@@ -29,7 +32,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5146.7.dita#AFARS_Subpart_5146.7">Subpart 5146.7 - Warranties</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5146.702.dita#AFARS_5146.702">5146.702 General.</xref>
                      </p>

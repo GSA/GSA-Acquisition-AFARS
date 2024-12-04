@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_3-3">
+      <title><ph props="autonumber">3-3.</ph> Joint Appointment Module (JAM)</title>
+      <conbody>
+        <p outputclass="List1">a. JAM is the PIEE module used to initiate,
+review, approve, store, and terminate required delegations of
+procurement authority and/or appointments. JAM GPC appointments
+result in issuance of GPC Delegation and/or Appointment letters and
+DD Form 577 Appointment/Termination Record (commonly referred to as
+a Certifying Officer Appointment). Personnel delegated the proper
+authority role identified in Table 3-1 can terminate the following
+appointments in PIEE and JAM.</p>
+        <p id="Table_3-1_Roles_and_Termination_Capabil">Table 3-1: Roles and Termination
+Capability</p>
+        <table>
+          <tgroup cols="7">
+            <colspec colname="col1" colnum="1" colwidth="2.3*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.8*"/>
+            <colspec colname="col3" colnum="3" colwidth="0.8*"/>
+            <colspec colname="col4" colnum="4" colwidth="0.9*"/>
+            <colspec colname="col5" colnum="5" colwidth="0.8*"/>
+            <colspec colname="col6" colnum="6" colwidth="0.8*"/>
+            <colspec colname="col7" colnum="7" colwidth="0.7*"/>
+            <tbody>
+              <row>
+                <entry nameend="col7" namest="col1">
+                  <b>Appointments</b>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <b>Roles for your Organization/Activity</b>
+                </entry>
+                <entry>
+                  <b>A/BO</b>
+                </entry>
+                <entry>
+                  <b>CH</b>
+                </entry>
+                <entry>
+                  <b>Certifying Officer</b>
+                </entry>
+                <entry>
+                  <b>A/OPC</b>
+                </entry>
+                <entry>
+                  <b>OA/OPC</b>
+                </entry>
+                <entry>
+                  <b>CPM</b>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <b>GPC Help Administrator Manager (HAM)</b> can
+terminate</entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <b>OA/OPC</b> can terminate</entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry/>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <b>A/OPC</b> can terminate</entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <b>DD577 Appointing Authority (AA)</b> can
+terminate</entry>
+                <entry/>
+                <entry/>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>
+                  <b>GPC Delegating/Appointing Authority (DAA)</b> can
+terminate</entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+                <entry>
+                  <b>X</b>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p outputclass="List1">b. JAM is an application within PIEE that is
+mandated by DoD for use by GPC program participants. The Army is
+not required to issue or retain paper copies of appointments issued
+using JAM. The <xref format="html" href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/smart-pay/Ref-B-JAM-GPC-Role-Descriptions_2-10-22.docx" scope="external">
+            <u>DPCAP</u>
+          </xref>
+          <xref format="html" href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/smart-pay/Ref-B-JAM-GPC-Role-Descriptions.docx" scope="external">
+            <u>Joint
+Appointment Module (JAM) GPC Role Descriptions Guide</u>
+          </xref>
+provides tables that identify GPC JAM roles and special designation
+authority types.</p>
+        <p outputclass="List1">c. JAM is mandated as the enterprise tool for
+appointing and delegating authority to GPC personnel. JAM is the
+PIEE module used to initiate, review, approve, store, and terminate
+required delegations of procurement authority and/or appointments.
+Electronic delegation of authority and/or appointment letters must
+be granted for GPC program participants as indicated in the <xref format="html" href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/systems/Ref-B-JAM-GPC-Role-Descriptions.docx" scope="external">
+            <u>JAM
+GPC Role Descriptions</u>
+
+          </xref>, which also identifies CH delegation
+limits associated with each SD. Program participant nomination,
+registration, and appointment processes are described in the <xref format="html" href="https://www.acq.osd.mil/asda/dpc/ce/pc/training.html" scope="external">
+            <u>GPC
+Program One-Pagers</u>
+          </xref>.<ph id="_12.4.2.1_Tracking_Training"/>
+        </p>
+        <p outputclass="List1">d. <b>Tracking Training in JAM</b>. PIEE
+includes capabilities to track and report training course
+completion, issue automatic training reminders for recurring
+requirements, and systemically promote compliance with requirements
+to complete training prior to appointment issuance. To promote
+compliance with training requirements, JAM system validations
+prohibit appointment of individuals who, if required for their
+roles, have not completed CLG 0010 and CLG 006. A system interface
+has been deployed to automatically record completion of all
+required and recommended DAU courses.  When tracking training
+in JAM, GPC Program PIEE users are not required to manually load
+electronic copies of training certificates for courses that
+automatically were recorded via the DAU/PIEE system interface
+(i.e., DAU is listed as the “Source”). Data is
+displayed in the JAM application and available through EDA Advance
+Reporting with DAU listed as “DAU,” as the source is
+directly from the system of record. Because DAU is the primary
+source for validating course completion, when training completion
+is recorded via the DAU interface, the trainee is not required to
+provide a copy (electronic or paper) to GPC program management,
+thereby reducing paperwork, improving auditability, and ensuring
+proper record retention. PIEE additionally includes the
+capability for GPC program participants to manually record
+completion of non-DAU training and provide/maintain an electronic
+copy of training certificates, which are then available to program
+managers and auditors as necessary. DoD GPC One-Pagers <xref format="html" href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/training/3OP010_Uploading-Training-Certificates-to-PIEE-JAM.pptx" scope="external">3OP010
+- Uploading Training Certificates to PIEE/JAM</xref> and <xref format="html" href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/training/3OP038_Tracking-Training-in-PIEE.pptx" scope="external">3OP038
+- Tracking Training in PIEE</xref>, provide details on these
+capabilities. <ph id="Hlk94774553"/>
+        </p>
+      </conbody>
+    </concept>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5108.802"
+<concept id="AFARS_5108.802"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5108.802</ph> Policy.</title>
-   <conbody>
-      <p outputclass="Normal">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology), on a non-delegable basis, shall designate a central printing authority as set forth in FAR 8.802(b).  </p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5108.802</ph> Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">(b)  The Assistant Secretary of the Army (Acquisition, Logistics and Technology), on a non-delegable basis, shall designate a central printing authority as set forth in FAR 8.802(b).  </p>
+      <p outputclass="List2"
+         rev="Revised October 1, 2024"
+         class="- topic/p ">(1) Printing Equipment, specifically, Unclassified and Secret-level printing devices purchased or leased with federal funds appropriated to the Army, shall be procured through DLA Document Services using its Equipment Management Solutions Portal (<xref href="https://www.public.dacs.dla.mil/ems/ext/"
+               format="html"
+               scope="external"
+               class="- topic/xref "/>) as described in AFARS <xref href="5139.10190.dita"
+               outputclass="fm:ParaNumOnly"
+               class="- topic/xref "/>(a)(3)(v)(D), Army CIO memorandum Army Procurement or Lease of Printing Devices and Services, dated 17 November 2023, and DODI 5330.03 Single Manager of DoD Document Services. </p>
    </conbody>
 </concept>

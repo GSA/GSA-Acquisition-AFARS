@@ -2,52 +2,47 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_7-2">
-   <title>
+      <title>
       <ph props="autonumber">7-2.</ph> Refund References</title>
-   <conbody>
-      <p id="Toc101163550" outputclass="List1">a. <b>References</b>.</p>
-      <p>1) DoD Charge Card Guidebook ,Paragraph A.4.9</p>
-      <p>2) OMB Circular A-123 Appendix B, Paragraph 7</p>
-      <p>3) Public Law 110-116, Section 8067</p>
-      <p>4) DoD FMR Volume 10 Ch. 23 Section 230207 and Vol. 10 Ch. 2 Section 020206
-and 020302</p>
-      <p id="Toc101163551" outputclass="List1">b. <b>DoD Charge Card Guidebook Paragraph A.4.9.1. Application
-of Refunds</b>. Pursuant to permanent authority enacted in the Fiscal Year 2008
-DoD Appropriation Act, P.L. 110-116, Section 8067, refunds attributable to the
-use of the GPC may be credited to operation and maintenance, and research,
-development, test and evaluation accounts of DoD that are current when the
-refunds are received. They may be applied at the agency or CH level, depending
-on the policies of the specific agency and issuing bank task order.</p>
-      <p id="Toc101163552" outputclass="List1">c. <b>OMB Circular A-123 Appendix B Paragraph 7.5.</b> Unless
-specific authority exists allowing refunds to be used for other purposes,
-refunds must be returned to the appropriation or account from which they were
-expended and can be used for any legitimate purchase by the appropriation or
-account to which they were returned, or as otherwise authorized by statute.</p>
-      <p id="Toc101163553" outputclass="List1">d. <b>Public Law 110-116, Section 8067.</b> Refunds
-attributable to the use of the purchase card may be credited to operation and
-maintenance; and research, development, test and evaluation accounts of the DoD
-which are current when the refunds are received.</p>
-      <p id="Toc101163554" outputclass="List1">e. <b>DoD FMR Vol. 10 Ch. 23 Section 230207 and Vol. 10 Ch. 2
-Section 020206 and 020302.</b> 
-      </p>
-      <p id="Toc101163555">1) <b>230207 Paragraph 2.7.2. Purchase Card Refunds.</b>
-Rebates attributable to the use of the purchase card may be credited to
-operation and maintenance; and research, development, test and evaluation
-accounts of the DoD which are current when the rebates are received. See 10 USC
-4754, “Crediting of Refunds.” In accordance with OMB Circular A-123, Appendix B,
-Chapter 7, refunds can be used for any legitimate purchase by the appropriation
-or account to which they were returned, or as otherwise authorized by statute.
-Transaction credits, which are funds sent back to DoD from the contracted bank
-resulting from returned items, billing errors, overpayments, duplicate payments,
-or erroneous payments, must be credited to the original appropriation from which
-they were disbursed. 
-      </p>
-      <p>2) <b>020206 Authoritative Guidance.</b> Vendors and contractors offer
-discounts, and banks issue various government purchase cards that provide
-refunds to encourage early payment of their receivables. DoD will take advantage
-of the discount and refund offers only when it is economically justified and
-advantageous to the DoD. The DoD will follow the supporting guidelines for
-taking discounts and refunds found in Title 5 of the Code of Federal Regulations
-(CFR) 1315, FAR 32.906(e), and OMB Circular A 123, Appendix B, Chapter 7.</p>
-   </conbody>
-</concept>
+      <conbody>
+        <p outputclass="List1">a. <b>References</b>.</p>
+        <p outputclass="List2">1) DoD Charge Card Guidebook, Paragraph A.4.9</p>
+        <p outputclass="List2">2) OMB Circular A-123 Appendix B, Paragraph 7</p>
+        <p outputclass="List2">3) Public Law 110-116, Section 8067</p>
+        <p outputclass="List2">4) DoD FMR Volume 10 Ch. 23 Section 230207 and
+Vol. 10 Ch. 2 Section 020206 and 020302</p>
+        <p outputclass="List1">b. <b>DoD Charge Card Guidebook Paragraph
+A.4.9.1. Application of Refunds</b>. Pursuant to permanent
+authority enacted in the Fiscal Year 2008 DoD Appropriation Act,
+P.L. 110-116, Section 8067 and DoD FMR Vol. 10 Ch. 23 Section
+230207 and Vol. 10 Ch. 2 Section 020206 and 020302, refunds
+attributable to the use of the GPC may be credited to operation and
+maintenance (O&amp;M), or research, development, test and
+evaluation (RDT&amp;E) current accounts when the refunds are
+received. Refunds may be applied at the Army or CH level, depending
+on Army policy and the issuing bank task order. See DoD FMR Vol. 10
+Ch. 23 Section 230207 and Vol. 10 Ch. 2 Section 020206 and
+020302.</p>
+        <p outputclass="List1">c. <b>OMB Circular A-123 Appendix B Paragraph
+7.5.</b> Unless specific authority exists allowing refunds to
+be used for other purposes, refunds must be returned to the
+appropriation or account from which they were expended and can be
+used for any legitimate purchase by the appropriation or account to
+which they were returned, or as otherwise authorized by
+statute.</p>
+        <p outputclass="List1">d. <b>Transaction Credits.</b>
+Transaction credits, which are funds sent back to DoD from the
+contracted bank resulting from returned items, billing errors,
+overpayments, duplicate payments, or erroneous payments, must be
+credited to the original appropriation from which they were
+disbursed.</p>
+        <p outputclass="List1">e. Vendors and contractors offer discounts, and
+banks issue various government purchase cards that provide refunds
+to encourage early payment of their receivables. The Army will take
+advantage of the discount and refund offers only when it is
+economically justified and advantageous to the Army. The Army will
+follow the supporting guidelines for taking discounts and refunds
+found in Title 5 of the Code of Federal Regulations (CFR) 1315, FAR
+32.906(e), and OMB Circular A 123, Appendix B, Chapter 7.</p>
+      </conbody>
+    </concept>

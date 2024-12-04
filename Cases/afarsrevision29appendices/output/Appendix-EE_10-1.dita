@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_10-1">
+      <title><ph props="autonumber">10-1.</ph> Policy and Use</title>
+      <conbody>
+        <p outputclass="List1">a. Convenience checks provide activities with the
+flexibility to issue checks for payment of supplies and services to
+support mission needs when the vendor doesn’t accept payment
+by GPC. The Army does not receive refunds or retain dispute rights
+on convenience check purchases. The authority to maintain a
+convenience check account will be justified on an individual basis.
+The number of convenience check accounts per installation must be
+kept to a minimum. Convenience check accounts are available only to
+organizations that maintain active GPC accounts in good
+standing.</p>
+        <p outputclass="List1">b. Convenience checks must not be used to avoid
+the normal GPC payment process. Before a check is issued, the
+paying agency must make every effort to use the GPC, including
+making maximum efforts to find and use merchants that accept the
+GPC. Before writing a convenience check, the checkwriter must
+obtain an IRS Form W-9 to ensure possession of all information
+required for tax form issuance.</p>
+        <p outputclass="List1">c. DFAS recommends not writing checks to foreign
+vendors. When writing a check to a foreign vendor, an IRS Form W-8
+is required before payment. To determine which W-8 form is used,
+see IRS Publication 515, Withholding of Tax on Nonresident Aliens
+and Foreign Entities. To determine if tax withholding and tax
+deposits to the IRS are required, see IRS Publication 515,
+Withholding of Tax on Nonresident Aliens and Foreign Entities
+and/or IRS Publication 901, U.S. Tax Treaties.</p>
+        <p outputclass="List1">d. If a U.S. vendor refuses to provide their TIN
+and it is a tax reportable payment, the checkwriter will choose
+another vendor.</p>
+        <p outputclass="List1">e. <b>Restrictions</b>.</p>
+        <p outputclass="List2">1) Checkwriters must not use checks for employee
+reimbursements, cash advances, cash awards, travel-related
+transportation payments, or meals.</p>
+        <p outputclass="List2">2) Convenience check purchases must not require
+detailed specifications or an inspection report.</p>
+        <p outputclass="List2">3) Convenience checks should not be used for
+recurring payments.</p>
+        <p outputclass="List2">4) Convenience checks must not be used as a method
+of payment against existing contract instruments.</p>
+        <p outputclass="List2">5) Checks will not be issued as an
+“exchange-for-cash” vehicle to establish cash funds. If
+merchants issue credits or refunds by cash or check, the funds must
+be immediately credited to the account against which the purchase
+was originally made.</p>
+        <p outputclass="List2">6) The same purchase prohibitions that apply to
+the GPC apply to convenience checks.</p>
+        <p outputclass="List1">f. <b>Micro-purchase Threshold</b>. The
+MPT for convenience checks is half the open market and contingency
+MPT per Section 806 of Public Law 115-91. See Table 1-2. Splitting
+payments across multiple checks is prohibited if the total
+requirement will exceed the applicable convenience check MPT.
+Checkwriters may use checks for purchases in support of declared
+contingency events up to the applicable convenience check MPT.</p>
+        <p outputclass="List1">g. <b>Processing Fee</b>. Convenience
+checks must be written for the exact payment amount. The payment
+amount for a check does not include the servicing bank’s
+administrative processing fee. The check processing fee is added by
+the servicing bank during processing of the transaction, and the
+addition of the processing fee is not considered a split
+requirement. Checkwriters should ensure that the total funds
+obligated include both the payment amount and the processing fee.
+The convenience check MPT is for the payment amount of the good or
+service, which does not include the processing fee (e.g., a check
+may be written up to $5,000; the processing fee is accounted for
+separately and is charged separately on the billing statement).</p>
+        <p outputclass="List1">h. <b>Security and Oversight</b>.
+Convenience checks are negotiable instruments and must be stored in
+a locked container, such as a safe or locking filing cabinet.
+Checks must be accounted for appropriately to prevent loss, theft,
+or potential forgery. Review convenience check accounts annually.
+Accounts with checks written above the allowable limit will be
+subject to suspension or termination. Commands with oversight
+responsibility will consider cancellation of convenience check
+privileges of cardholders who improperly use convenience checks
+(e.g., exceeding the convenience check limit).</p>
+        <p outputclass="List1">i. Convenience checks are pre-numbered, and their
+use is controlled with a separate convenience check purchase log
+for each account. Check purchases are reconciled just as other GPC
+transactions, as part of the monthly statement billing cycle in the
+servicing bank’s EAS. Retain copies of voided checks in the
+bank’s EAS as part of the file documentation.</p>
+        <p outputclass="List1">j. <b>Disputes</b>. The normal GPC
+dispute process is not applicable to convenience checks. Concerns
+over a check purchase must be resolved directly with the merchant.
+The checkwriter is responsible for securing credits or resolving
+problems with the merchant. Each organization is responsible for
+all checks written on an account, unless it is determined fraud is
+involved. In some cases, payments can be stopped on a convenience
+check that has been written if the check has not yet been posted to
+an account. To stop payment on a check, the checkwriter must call
+the servicing bank’s customer service department to receive
+instructions on processing the action.</p>
+      </conbody>
+    </concept>

@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5130</ph> - Cost Accounting Standards Administration</title>
       <body>
          <p>
-            <i>(Revised 30 September 2022)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,7 +20,7 @@
                         <xref outputclass="fm:TOC" href="5130.201.dita#AFARS_5130.201">5130.201 Contract requirements.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5130.2015.dita#AFARS_5130.2015">5130.201-5 Waiver.</xref>
                            </p>

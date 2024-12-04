@@ -6,13 +6,16 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5148</ph> - Value Engineering</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5148.1.dita#AFARS_Subpart_5148.1">Subpart 5148.1 - Policies and Procedures</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5148.102.dita#AFARS_5148.102">5148.102 Policies.</xref>
                      </p>
@@ -22,7 +25,7 @@
                         <xref outputclass="fm:TOC" href="5148.104.dita#AFARS_5148.104">5148.104 Sharing arrangements.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5148.1043.dita#AFARS_5148.1043">5148.104-3 Sharing collateral savings.</xref>
                            </p>
@@ -36,12 +39,12 @@
                   <xref outputclass="fm:TOC" href="Subpart_5148.2.dita#AFARS_Subpart_5148.2">Subpart 5148.2 - Contract Clauses</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5148.201.dita#AFARS_5148.201">5148.201 Clauses for supply or service contracts.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5148.202.dita#AFARS_5148.202">5148.202 Clause for construction contracts.</xref>
                      </p>

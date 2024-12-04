@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_Appendix-EE_3-11"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 2"> 
-      <ph props="autonumber">3-11.</ph>  Statement Reconciliation and Certification</title>
-   <conbody>
-      <p id="p_OLE_LINK16" outputclass="List1">a. The CH reconciles the statement of account throughout the month by reviewing it for accuracy and comparing it with his or her purchase log entries. If the statement is correct, the CH approves it within three business days from the end of the billing cycle. If the statement is incorrect, the CH must contact the merchant and request correction. If the merchant does not cooperate or provide the ordered goods and services, the CH disputes the incorrect transaction.</p>
-      <p id="dEFVdG" outputclass="List1">b. The BO must ensure GPC transactions are legal, proper, and correct in accordance with Government rules and regulations. If the billing statement is correct following the BO’s review throughout the month, certification of the billing statement is done within five business days from the end of the billing cycle. If the BO finds questionable transactions, the CH must be contacted to review supporting documentation. If the BO determines the CH is negligent, the BO takes appropriate action in accordance with DOD and Army policy, and informs the Level 4 A/OPC of the action taken. Disputes must be filed by one of three methods: calling the Servicing Bank, faxing over a Cardholder Statement of Questioned Items form or using the Servicing Bank’s dispute process in AXOL, within 60 days of the cycle end date in which the transaction appeared in order to retain the Government’s dispute rights.</p>
-      <p id="zTHuhy" outputclass="List1">c. <b>Independent</b> 
-         <b>Receipt and Acceptance</b>. The cardholder ensures receipt and acceptance of goods, services, and accountable (to include sensitive, classified, and pilferable) property purchased is properly performed and confirmed through proper documentation by an individual other than the CH. The date received, along with the signature (or electronic alternative when supported by appropriate internal controls), printed name, telephone number, and office designator or address of the receiving official will be recorded on the sales invoice, packing slip, bill of lading, or other shipping or receiving document as confirmation of receipt. The billing official verifies the existence of receipt and acceptance documentation during reconciliation of the billing statement.</p>
-   </conbody>
-</concept>
+<concept id="AFARS_Appendix-EE_3-11">
+      <title>
+      <ph props="autonumber">3-11.</ph> Procurement.army.mil (PAM) Portal</title>
+      <conbody>
+        <p outputclass="List1">a. The ODASA(P)'s interactive Knowledge Management
+portal, Procurement.army.mil (PAM), serves as an official Army-wide
+source for acquisition policy, templates, learning tools, and
+certified training. PAM provides Army contracting procedures and
+updates to critical programs and systems, including instant access
+to Army GPC policies, standard business processes and operating
+procedures. PAM's GPC page is <xref format="html"
+               href="https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx"
+               scope="external">https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx</xref>.</p>
+        <p outputclass="List1">b. A/OPCs, CHs, and BOs should use the PAM portal
+to access current GPC documents, samples, and processes as
+described throughout this AFARS Appendix EE. Available documents on
+PAM include, but are not limited to, the following:</p>
+        <p outputclass="List2">1) AFARS Appendix EE</p>
+        <p outputclass="List2">2) Army Ordering Officer Guide</p>
+        <p outputclass="List2">3) Army Purchase Request and Approval (PR&amp;A)
+Sample Template</p>
+        <p outputclass="List2">4) <xref format="html"
+               href="https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/PMR.aspx"
+               scope="external">
+            <u>Procurement
+Management Review (PMR) Process</u>
+          </xref>
+        </p>
+        <p outputclass="List2">5) GPC PMR Toolkit memo, slides, and
+information</p>
+        <p outputclass="List2">6) Ammunition Process and Waiver Request</p>
+        <p outputclass="List2">7) Refund Process</p>
+        <p outputclass="List2">8) Level 4 A/OPC Annual Management Assessment</p>
+        <p outputclass="List2">9) Army Master GPC training slides</p>
+        <p outputclass="List2">10) Section 889 Representation form</p>
+        <p outputclass="List2">11) Army SAHAR Instructions</p>
+        <p outputclass="List2">12) Lodging in Kind (LIK) / Subsistence in Kind
+(SIK) SOP</p>
+        <p id="Toc153200118"/>
+        <p id="Figure_3-1_GPC_Electronic_Systems_Overv"/>
+      </conbody>
+    </concept>

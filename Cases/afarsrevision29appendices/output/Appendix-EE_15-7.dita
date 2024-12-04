@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_15-7">
+      <title><ph props="autonumber">15-7.</ph> Purchase Card Receiving Report (PCRR)
+Process</title>
+      <conbody>
+        <p outputclass="List1">a. Wide Area Workflow must be utilized when making
+contract payments with the GPC per DFARS 232.7002, 232.7003, and
+252.232-7003. The contractor must use WAWF to create the purchase
+card receiving report (PCRR) when the GPC is used as a method of
+payment. The CH provides the following information to the
+contractor to submit PCRR into WAWF:</p>
+        <p outputclass="List2">1) Vendor Identifier: Vendor/Company Name</p>
+        <p outputclass="List2">2) Payment Office: CRCARD</p>
+        <p outputclass="List2">3) Ship to:</p>
+        <p outputclass="List2">4) Inspect by:</p>
+        <p outputclass="List2">5) Accept by:</p>
+        <p outputclass="List2">6) Card Issuing Bank ID: 556862</p>
+        <p outputclass="List1">b. The contractor then uses WAWF to create and
+submit the PCRR. Upon notification that the goods have been
+received, the Government acceptor accepts the PCRR in WAWF. The CH
+verifies that acceptance has occurred in PIEE/WAWF and that the
+contracting officer has approved the invoice. The CH submits the
+invoice, receiving report, copy of the contract and modifications,
+and a current obligation/disbursement sheet to the BO for approval.
+After acceptance of the property in WAWF, data will flow to the
+Defense Manpower Data Center (DMDC) based on the Pay
+DoDAAC<i>.</i> Indicating “CRCARD” as the payment
+office prevents double obligation and data from entering the
+payment process.</p>
+      </conbody>
+    </concept>

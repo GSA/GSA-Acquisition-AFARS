@@ -2,31 +2,31 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_13-5">
-    <title>
+      <title>
       <ph props="autonumber">13-5.</ph> Customer Feedback</title>
-    <conbody>
-        <p outputclass="List1">a. GPC personnel are expected to establish and maintain professional
-            communication with all stakeholders to establish good working
-            relationships and customer satisfaction. Customer satisfaction is
-            the most significant external indicator of the success and
-            effectiveness of all GPC services provided and can be measured
-            through customer feedback. The A/OPC, BO, or CH will acknowledge
-            valid customer feedback and investigate as appropriate. Customer
-            feedback must be in writing detailing the nature of the issue and
-            forwarded to the A/OPC, BO, or CH. Customer feedback may be obtained
-            from the results of formal customer satisfaction surveys.</p>
-        <p outputclass="List1">b. Customer feedback may be treated as a method of review. In this
-            case, the Army takes feedback from the requiring activities on the
-            quality of the GPC service provided to include services provided by
-            the GPC servicing bank. The quality of the services provided is
-            based on the following factors:</p>
-        <p>1) Quality</p>
-        <p>2) Completeness</p>
-        <p>3) Responsiveness and timeliness of providing services</p>
-        <p>4) Business relationship, i.e., professional behavior and overall
-            business-like concern for the interests of the customer</p>
-        <p>5) GPC systems reliability</p>
-        <p>6) Cost savings</p>
-        <p id="Toc101777408">7) Efficiency and effectiveness</p>
-    </conbody>
-</concept>
+      <conbody>
+        <p outputclass="List1">a. GPC personnel are expected to establish and
+maintain professional communication with all stakeholders to
+establish good working relationships and customer satisfaction. The
+A/OPC, BO, or CH will acknowledge valid customer feedback and
+investigate as appropriate. Customer feedback must be in writing
+detailing the nature of the issue and forwarded to the A/OPC, BO,
+or CH. Customer feedback may be obtained from the results of formal
+customer satisfaction surveys.</p>
+        <p outputclass="List1">b. Customer feedback may be treated as a method of
+review. In this case, the Army takes feedback from the requiring
+activities on the quality of the GPC service provided to include
+services provided by the GPC servicing bank. The quality of the
+services provided is based on the following factors:</p>
+        <p outputclass="List2">1) Quality</p>
+        <p outputclass="List2">2) Completeness</p>
+        <p outputclass="List2">3) Responsiveness and timeliness of customer
+service</p>
+        <p outputclass="List2">4) Business relationship, i.e., professional
+behavior and overall business-like concern for the interests of the
+customer</p>
+        <p outputclass="List2">5) GPC systems reliability</p>
+        <p outputclass="List2">6) Cost savings</p>
+        <p outputclass="List2">7) Efficiency and effectiveness</p>
+      </conbody>
+    </concept>

@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5104</ph> - Administrative Matters</title>
       <body>
          <p>
-            <i>Revised 18 May 2022</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5104.1.dita#AFARS_Subpart_5104.1">Subpart 5104.1 - Contract Execution</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.103.dita#AFARS_5104.103">5104.103 Contract clause.</xref>
                      </p>
@@ -27,7 +27,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5104.2.dita#AFARS_Subpart_5104.2">Subpart 5104.2 - Contract Distribution</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.201.dita#AFARS_5104.201">5104.201 Procedures.</xref>
                      </p>
@@ -44,12 +44,12 @@
                   <xref outputclass="fm:TOC" href="Subpart_5104.4.dita#AFARS_Subpart_5104.4">Subpart 5104.4 - Safeguarding Classified Information Within Industry</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.402.dita#AFARS_5104.402">5104.402 General.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.403.dita#AFARS_5104.403">5104.403 Responsibilities of contracting officers.</xref>
                      </p>
@@ -80,7 +80,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5104.6.dita#AFARS_Subpart_5104.6">Subpart 5104.6 - Contract Reporting</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.604.dita#AFARS_5104.604">5104.604 Responsibilities.</xref>
                      </p>
@@ -92,22 +92,22 @@
                   <xref outputclass="fm:TOC" href="Subpart_5104.8.dita#AFARS_Subpart_5104.8">Subpart 5104.8 - Government Contract Files</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.802.dita#AFARS_5104.802">5104.802 Contract files.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.803.dita#AFARS_5104.803">5104.803 Contents of contract files.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.804.dita#AFARS_5104.804">5104.804 Closeout of contract files.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5104.8045.dita#AFARS_5104.8045">5104.804-5 Procedures for closing out contract files.</xref>
                            </p>
@@ -121,7 +121,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5104.9.dita#AFARS_Subpart_5104.9">Subpart 5104.9 - Taxpayer Identification Number Information</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5104.903.dita#AFARS_5104.903">5104.903 Reporting contract information to the IRS.</xref>
                      </p>

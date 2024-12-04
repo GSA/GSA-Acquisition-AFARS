@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_11-4">
+      <title><ph props="autonumber">11-4.</ph> Data Mining Case Review and
+Closure</title>
+      <conbody>
+        <p id="Figure_11-1_Three-Pronged_Oversight_Rev"/>
+        <p outputclass="List1">a. <b>DM Case Management.</b> Oversight
+Systems’ IOD DM capability evaluates each transaction against
+a set of tiered business rules to identify high-risk transactions.
+Tier 1 rules are mandatory and applicable to all DoD purchase
+cards. Tier 2 rules are mandatory rules that can be tailored as
+necessary at the local level. DM cases can be system-generated or
+manually generated. The system generates a DM case whenever a
+business rule is broken. GPC program officials are required to
+manually create cases for each finding and disciplinary category
+determination they independently identify during their reviews.
+Each case is adjudicated to determine if the transaction is to be
+classified under one of five disciplinary categories standardized
+in compliance with the DPCAP memo “Final Governmentwide
+Commercial Purchase Card Disciplinary Category Definitions
+Guidance,” January 27, 2020. Disputes are also categorized as
+determinations.</p>
+        <p outputclass="List1">b. <b>Tier 2 Tailoring</b>. Tier 2
+business rules are tailorable to meet the Army’s
+organizational needs. Tailoring must be consistent with
+requirements in the DoD Charge Card Guidebook. As part of the SAHAR
+process, HAs are required to validate that any Tier 2 Tailoring of
+DM business rules are implemented appropriately. For more
+information, refer to GPC one-pager 3OP034, “Tier 2 Tailoring
+in Insights on Demand (IOD)” on the DPCAP GPC website. To
+properly manage program risk for these potentially high-risk
+transactions, IOD automatically selects a random sample of 1% of
+these Tier 2 “auto closed” cases and assigns them for
+adjudication (“1% Random Reopen”). The IST reviews Tier
+2 Tailoring data sets and trends and considers methodology changes
+based on its findings.</p>
+        <p>c. <b>Case Assignment and Review Process</b>.</p>
+        <p outputclass="List2">1) IOD flags a transaction for review, generates a
+case, and assigns it to the primary BO.</p>
+        <p outputclass="List2">2) The BO reviews the CH’s file
+documentation per section 6-2.g. The BO then locates the case in
+IOD and inputs requested data.</p>
+        <p outputclass="List2">3) After the BO submits their review, IOD assigns
+the case to the Level 4 A/OPC. The Level 4 A/OPC reviews the
+CH’s file documentation, inputs comments about the purchase,
+identifies the applicable finding, and closes the case. The
+comments should provide information about the transaction and a
+detailed explanation of any findings. For administrative findings,
+the comments must state what documents or signatures were
+missing.</p>
+        <p>Tables 11-1 and 11-2 summarize the available options for
+Findings, Determinations, and Corrective Actions in IOD.</p>
+        <p id="Toc174981140">Table 11-1. GPC IOD Findings and
+Determinations</p>
+        <p>
+          <image href="media/image4.png">
+            <alt>Graphical user interface Description automatically generated with medium confidence</alt>
+          </image>
+        </p>
+        <p id="Toc174981141">Table 11-2. GPC IOD Corrective Actions
+Taken/Planned</p>
+        <table>
+          <tgroup cols="1">
+            <colspec colname="col1" colnum="1" colwidth="1*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>Corrective Actions Taken/Planned</b>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <p> Elevate to investigative agency</p>
+                  <p> Elevate through chain of command</p>
+                  <p> Suspend or remove employee from program</p>
+                  <p> Reimbursement to program</p>
+                  <p> Formal supervisory counseling</p>
+                  <p> Card suspended or canceled</p>
+                  <p> Refresher training</p>
+                  <p> Informal counseling</p>
+                  <p> Resolve administrative discrepancy</p>
+                  <p> Report as external fraud</p>
+                  <p> Request vendor credit/dispute the transaction</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p outputclass="List1">d. <b>Case Review Timeframe</b>. Cases
+must be resolved within 30 calendar days of the billing cycle end
+date.</p>
+        <p outputclass="List2">1) Billing officials must complete their review of
+assigned IOD cases within 15 calendar days of the billing cycle end
+date. A/OPCs may suspend the managing account if IOD cases are not
+reviewed within 15 days.</p>
+        <p outputclass="List2">2) Level 4 A/OPCs must close cases within 30
+calendar days of the billing cycle end date. Level 3 A/OPCs may
+notify the Level 4 A/OPC’s chain of command if cases are not
+closed within the required timeframe.</p>
+        <p outputclass="List2">3) A/OPCs may add stricter controls regarding the
+timeline for completing IOD cases.</p>
+        <p outputclass="List1">e. At their discretion, A/OPCs may flag additional
+transactions for review within IOD. Billing officials are required
+to review these additional cases as part of the normal case review
+process and timeline.</p>
+        <p id="Table_11-1_Daily_Data_Mining_Case_Revie"/>
+        <p id="Toc174981142">Table 11-3: Daily Data Mining Case
+Review Cycle</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <colspec colname="col3" colnum="3" colwidth="1*"/>
+            <tbody>
+              <row>
+                <entry>
+                  <b>Action</b>
+                </entry>
+                <entry>
+                  <b>DM Case Review Cycle Milestones</b>
+                </entry>
+                <entry>
+                  <b>Compliance Mechanism</b>
+                </entry>
+              </row>
+              <row>
+                <entry>IOD assigns cases daily for review</entry>
+                <entry>Throughout the billing cycle</entry>
+                <entry>Not applicable</entry>
+              </row>
+              <row>
+                <entry>Billing officials complete their review of assigned cases</entry>
+                <entry>
+                  <p>Billing officials <b>should</b> complete reviews
+throughout the billing cycle to promote timely resolution (e.g.,
+transaction dispute, CH retraining). Billing officials
+<b>must</b> complete reviews within <b>15 calendar
+days</b> of the billing cycle end date.</p>
+                  <p>Note: Any case the A/OPC refers to the BO for additional review
+may require action through day 30.</p>
+                </entry>
+                <entry>A/OPCs may suspend managing accounts with open cases 15 days
+after billing cycle end date.</entry>
+              </row>
+              <row>
+                <entry>A/OPCs review and close assigned cases</entry>
+                <entry>
+                  <p>A/OPCs <b>must</b> complete reviews within <b>30
+calendar days</b> of the billing cycle end date.</p>
+                  <p>Note: Any case the OA/OPC refers to the BO for additional review
+may require action through day 30.</p>
+                </entry>
+                <entry>
+                  <p>OA/OPCs must suspend managing accounts with open cases 30 days
+after the billing</p>
+                  <p>cycle end date.</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="_11-5._Monthly_A_OPC_Reviews"/>
+      </conbody>
+    </concept>

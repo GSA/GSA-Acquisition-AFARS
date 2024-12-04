@@ -6,13 +6,16 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">Part 5149</ph> - Termination of Contracts</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5149.1.dita#AFARS_Subpart_5149.1">Subpart 5149.1 - General Principles</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5149.101.dita#AFARS_5149.101">5149.101 Authorities and responsibilities.</xref>
                      </p>
@@ -24,7 +27,7 @@
                         </li>
                      </ul>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5149.102.dita#AFARS_5149.102">5149.102 Notice of termination.</xref>
                      </p>
@@ -41,7 +44,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5149.4.dita#AFARS_Subpart_5149.4">Subpart 5149.4 - Termination for Default</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5149.401.dita#AFARS_5149.401">5149.401 General.</xref>
                      </p>
@@ -51,7 +54,7 @@
                         <xref outputclass="fm:TOC" href="5149.402.dita#AFARS_5149.402">5149.402 Termination of fixed-price contracts for default.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5149.4023.dita#AFARS_5149.4023">5149.402-3 Procedure for default.</xref>
                            </p>
@@ -70,7 +73,7 @@
                         <xref outputclass="fm:TOC" href="5149.501.dita#AFARS_5149.501">5149.501 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5149.50170.dita#AFARS_5149.50170">5149.501-70 Special termination costs.</xref>
                            </p>
@@ -84,12 +87,12 @@
                   <xref outputclass="fm:TOC" href="Subpart_5149.70.dita#AFARS_Subpart_5149.70">Subpart 5149.70 - Special Termination Requirements</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5149.7001.dita#AFARS_5149.7001">5149.7001 Congressional notification on significant contract terminations.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5149.7003.dita#AFARS_5149.7003">5149.7003 Notification of anticipated contract terminations or reductions.</xref>
                      </p>

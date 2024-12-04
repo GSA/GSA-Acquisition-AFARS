@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5133.21292"
+<concept id="AFARS_5133.21292"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5133.212-92</ph> Comprehensive report to the Chief Trial Attorney.</title>
-   <conbody>
-      <p outputclass="List1">(a)  Concurrent with forwarding the appeal file to the ASBCA, the contracting officer must send the following documents to the addressee in 5133.104(a)(3)(i)(<i>1</i>)(<i>ii</i>) or (<i>iii</i>) as applicable with a copy to the reviewing official designated in accordance with 5133.212-93:</p>
-      <p outputclass="List2">(1)  A copy of the appeal file.</p>
-      <p outputclass="List2">(2)  A trial attorney’s litigation file, except the report in paragraph 5-2e(4) of AR 335-15.  The contracting officer shall not provide this report to the ASBCA or the contractor.  The litigation file shall include the information listed in paragraphs (2)(i) through (iv) of this section.</p>
-      <p outputclass="List3">(i)  The names, current addresses and telephone numbers of all potential witnesses (including the contractor’s) who have information concerning the facts in dispute.</p>
-      <p outputclass="List3">(ii)  A signed statement of each Government witness itemizing personal knowledge of the facts to which the witness will testify under oath at hearing, or a summary if it is impossible to obtain a signed statement.  Include the following:</p>
-      <p outputclass="List4">(A)  Background and circumstances surrounding the generation of pertinent documents.</p>
-      <p outputclass="List4">(B)  Explanation, basis and/or rationale of those portions of the available documents which will require clarification at the hearing.</p>
-      <p outputclass="List4">(C)  List of any facts and events not shown by available documents.</p>
-      <p outputclass="List4">(D)  Identification of any other persons who have personal knowledge of pertinent facts.</p>
-      <p outputclass="List4">(E)  A statement regarding the expected availability of the witness for the hearing.</p>
-      <p outputclass="List3">(iii)  An analysis for the Chief Trial Attorney discussing the contractor’s individual allegations and overall position with an opinion of the validity of each, and an appraisal of the strengths and weaknesses apparent in both parties’ positions.</p>
-      <p outputclass="List3">(iv)  A memorandum by the legal advisor or the official making the decision, with input from legal counsel, setting forth an analysis of the legal issues involved in the dispute, including comments about the adequacy of the findings of fact and the legal sufficiency of the decision.</p>
-      <p outputclass="List1">(b)  The contracting officer must send a copy of all correspondence, and other data pertinent to the dispute, to the Chief Trial Attorney.  This includes all documents received after submitting the trial attorney’s litigation.  The contracting officer shall forward copies to the reviewing official.</p>
-      <p outputclass="List1">(c)  The Chief Trial Attorney may, upon discovery of new facts or circumstances, have the reviewing official reconsider the matter.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5133.212-92</ph> Comprehensive report to the Chief Trial Attorney.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a)  Concurrent with forwarding the appeal file to the ASBCA, the <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer must send the following documents to the addressee in <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5133.104(a)(3)(i)(<i class="+ topic/ph hi-d/i ">1</i>)(<i class="+ topic/ph hi-d/i ">ii</i>) or (<i class="+ topic/ph hi-d/i ">iii</i>) as applicable with a copy to the reviewing official designated in accordance with <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5133.212-93:</p>
+      <p outputclass="List2" class="- topic/p ">(1)  A copy of the appeal file.</p>
+      <p outputclass="List2" class="- topic/p ">(2) A trial attorney’s litigation file, The <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer shall not provide this report to the ASBCA or the contractor. The litigation file shall include the information listed in paragraphs (2)(i) through (iv) of this section.</p>
+      <p outputclass="List3" class="- topic/p ">(i)  The names, current addresses and telephone numbers of all potential witnesses (including the contractor’s) who have information concerning the facts in dispute.</p>
+      <p outputclass="List3" class="- topic/p ">(ii)  A signed statement of each Government witness itemizing personal knowledge of the facts to which the witness will testify under oath at hearing, or a summary if it is impossible to obtain a signed statement.  Include the following:</p>
+      <p outputclass="List4" class="- topic/p ">(A)  Background and circumstances surrounding the generation of pertinent documents.</p>
+      <p outputclass="List4" class="- topic/p ">(B)  Explanation, basis and/or rationale of those portions of the available documents which will require clarification at the hearing.</p>
+      <p outputclass="List4" class="- topic/p ">(C)  List of any facts and events not shown by available documents.</p>
+      <p outputclass="List4" class="- topic/p ">(D)  Identification of any other persons who have personal knowledge of pertinent facts.</p>
+      <p outputclass="List4" class="- topic/p ">(E)  A statement regarding the expected availability of the witness for the hearing.</p>
+      <p outputclass="List3" class="- topic/p ">(iii)  An analysis for the Chief Trial Attorney discussing the contractor’s individual allegations and overall position with an opinion of the validity of each, and an appraisal of the strengths and weaknesses apparent in both parties’ positions.</p>
+      <p outputclass="List3" class="- topic/p ">(iv)  A memorandum by the legal advisor or the official making the decision, with input from legal counsel, setting forth an analysis of the legal issues involved in the dispute, including comments about the adequacy of the findings of fact and the legal sufficiency of the decision.</p>
+      <p outputclass="List1" class="- topic/p ">(b)  The <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer must send a copy of all correspondence, and other data pertinent to the dispute, to the Chief Trial Attorney.  This includes all documents received after submitting the trial attorney’s litigation.  The <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer shall forward copies to the reviewing official.</p>
+      <p outputclass="List1" class="- topic/p ">(c)  The Chief Trial Attorney may, upon discovery of new facts or circumstances, have the reviewing official reconsider the matter.</p>
    </conbody>
 </concept>

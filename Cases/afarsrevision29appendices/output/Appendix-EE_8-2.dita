@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_8-2">
+      <title><ph props="autonumber">8-2.</ph> Individual Slots in Existing COTS
+Course</title>
+      <conbody>
+        <p outputclass="List1">a.</p>
+        <p>Cardholders may use the GPC to pay for individual student(s) to
+attend a COTS course, training conference or training event when
+the session/event already exists. All applicable event details
+(e.g., date, time, location) are known and advertised to the
+public. The cardholder is paying for slot(s) in the existing
+session or event.  For example, the CH registers a student for
+a session in which the date and location are advertised on the
+vendor’s website.</p>
+        <p/>
+        <p outputclass="List1">b.</p>
+        <p>Per DoDI 1400.25, Vol. 410, the maximum limit for training
+authorized by use of a single SF 182 is $25,000 per transaction.
+Paying for individual slot(s) in an existing course is not a
+FAR-based transaction. As such, the MPT does not apply to these
+transactions. </p>
+        <p/>
+        <p outputclass="List1">c.</p>
+        <p>Each slot may be considered its own transaction, even when paid
+together. Each student must have an approved SF 182 or equivalent.
+Each slot must be below $25,000. Cardholders may pay each slot as
+a</p>
+        <p>separate transaction or may combine the slots into a single
+transaction for the total amount. </p>
+        <p/>
+        <p outputclass="List1">d.</p>
+        <p>Cardholders will use the GPC as the method of payment for
+commercial training requests using the SF 182, only when:</p>
+        <p/>
+        <p outputclass="List2">1) SF 182 or equivalent is granted to individual
+employees; and </p>
+        <p outputclass="List2">2) The individual employees will attend a
+regularly scheduled, off-the-shelf course that is available to the
+public and priced the same for everyone in the same category (e.g.,
+priced per student, course, program, service, or training space)
+and requires no tailoring; and </p>
+        <p outputclass="List2">3) The GPC is being used to pay the training
+provider directly instead of reimbursing the employee by
+miscellaneous payment as authorized in the DoD FMR and DoDI
+1400.25, Volume 410; and </p>
+        <p outputclass="List2">4) The requirement is valued at or below
+$25,000. </p>
+        <p outputclass="List1">e.</p>
+        <p>To purchase training using the SF 182, the CH will have</p>
+        <p>the</p>
+        <p>Miscellaneous Payments Official Cardholder (SF-182 Training
+Payments) designation in their appointment letter in JAM.</p>
+        <p/>
+        <p outputclass="List1">f.</p>
+        <p>Agent authority is used to pay vendors directly for training
+approved on an SF 182 or equivalent that would otherwise be
+reimbursed to an individual.  For example, an employee obtains
+approval and registers for a class that is open to the public. A
+cardholder pays the vendor directly, thus eliminating any need to
+reimburse the employee (DoD FMR Volume 10, Chapter 12, Section
+120323).</p>
+        <p/>
+        <p outputclass="List1">g.</p>
+        <p>
+          <b>File Documentation</b>
+        </p>
+        <p>. Cardholders must redact PII (e.g., social security number)
+before uploading documents in the bank’s EAS. Cardholders
+will include the following documentation in their purchase
+file: </p>
+        <p/>
+        <p outputclass="List2">1) Signed SF 182 or equivalent. </p>
+        <p outputclass="List2">2) Invoice and/or receipt. </p>
+        <p outputclass="List2">3) Proof of class completion (e.g., signed Section
+F of SF 182, training certificate, sign-in roster, TED Credit Card
+Purchase report). </p>
+      </conbody>
+    </concept>

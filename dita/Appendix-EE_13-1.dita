@@ -2,13 +2,27 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_13-1">
-  <title>
-      <ph props="autonumber">13-1.</ph> Level 4 A/OPC Annual Management Assessment</title>
-  <conbody>
-      <p outputclass="List1">a. In addition to IOD monthly and semi-annual reviews, the primary Level 4 A/OPC must perform an annual assessment of their GPC program. This assessment will assist Level 4 A/OPCs in evaluating their GPC program’s internal controls and overall compliance with the GPC program’s objectives, policies, procedures, and best practices.</p>
-      <p outputclass="List1">b. Reports of reviews will provide information to each management level, identifying systemic weaknesses within their organization.</p>
-      <p outputclass="List1">c. The primary Level 4 A/OPC must complete the Level 4 A/OPC Annual Management Assessment template annually. The template is located at <xref href="https://procurement.army.mil/gpc"
-               format="html"
-               scope="external">https://procurement.army.mil/gpc</xref>. One assessment must be completed for each primary Level 4 A/OPC. Upon completion, the primary Level 4 A/OPC will provide the assessment to the Level 3 A/OPC. The Level 3 and 4 A/OPCs will take corrective action as needed and retain a copy for three years.</p>
-  </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">13-1.</ph> Level 4 A/OPC Annual Management
+Assessment</title>
+      <conbody>
+        <p outputclass="List1">a. In addition to IOD monthly and semi-annual
+reviews, the Level 4 A/OPC must perform an annual assessment of
+their GPC program. This assessment will assist Level 4 A/OPCs in
+evaluating their GPC program’s internal controls and overall
+compliance with the GPC program’s objectives, policies,
+procedures, and best practices.</p>
+        <p outputclass="List1">b. Reports of reviews will provide information to
+each management level, identifying systemic weaknesses within their
+organization.</p>
+        <p outputclass="List1">c. The Level 4 A/OPC must complete the Level 4
+A/OPC Annual Management Assessment template annually. The template
+and instructions are located at <xref format="html"
+               href="https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx"
+               scope="external">https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx</xref>.
+One assessment must be completed for each Level 4 A/OPC. Upon
+completion, the Level 4 A/OPC will provide the assessment to the
+Level 3 A/OPC. The Level 3 and 4 A/OPCs will take corrective action
+as needed and retain a copy for three years.</p>
+      </conbody>
+    </concept>

@@ -7,8 +7,9 @@
          <ph class="- topic/ph " props="autonumber">Part 5150</ph> - Extraordinary Contractual Actions and the Safety Act</title>
       <body>
          <p class="- topic/p ">
+            <i>(Revised 01 October 2024)</i>
             <p class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">(Revised 01 March 2024)</i>
+               <i class="+ topic/ph hi-d/i ">(Revised 01 October 2024)</i>
             </p>
          </p>
          <ul otherprops="TOC">
@@ -22,7 +23,7 @@
                         <xref outputclass="fm:TOC" href="5150.101.dita#AFARS_5150.101">5150.101 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5150.1013.dita#AFARS_5150.1013">5150.101-3 Records.</xref>
                            </p>
@@ -39,7 +40,7 @@
                               <xref outputclass="fm:TOC" href="5150.1021.dita#AFARS_5150.1021">5150.102-1 Delegation of authority.</xref>
                            </p>
                            <ul otherprops="TOC">
-                              <li>
+                              <li rev="Revised October 1, 2024">
                                  <p>
                                     <xref outputclass="fm:TOC" href="5150.102170.dita#AFARS_5150.102170">5150.102-1-70 Delegations.</xref>
                                  </p>
@@ -58,7 +59,7 @@
                         <xref outputclass="fm:TOC" href="5150.103.dita#AFARS_5150.103">5150.103 Contract adjustments.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5150.1035.dita#AFARS_5150.1035">5150.103-5 Processing cases.</xref>
                            </p>

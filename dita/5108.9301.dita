@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5108.9301"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 3">
-      <ph props="autonumber">5108.9301</ph> General.</title>
-   <conbody>
-      <p id="ivEMUs">(a) Contracting officers shall refer questions about obtaining commercial training for Army Medical Department personnel to:</p>
-      <p id="oQfiCK">Commander, AMEDDC&amp;S</p>
-      <p id="mwLnJD">Department of Health Education and Training</p>
-      <p id="bkYovy">Attn: MCCS-HE</p>
-      <p id="nkBEwv">2377 Greeley Road, Suite B</p>
-      <p id="zIQjpr">Fort Sam Houston, TX 78234-5075</p>
-      <p id="gteMPt">or by telephone to (210) 295-9528, or fax to (210) 221-2832.</p>
-      <p id="3wumlqh8"/>
-      <p id="pGGCkZ" outputclass="List1">(b) Contracting officers shall refer questions about obtaining commercial training for other Army personnel to the:</p>
-      <p id="c2pyag2" outputclass="List1"/>
-      <p id="vVwKWk" outputclass="List1">Office of The Deputy Chief Of Staff, G1</p>
-      <p id="ARGjqt" outputclass="List1">Director of Military Personnel Management</p>
-      <p id="CVFoln" outputclass="List1">Attn: DAPE-MP</p>
-      <p id="exmjLQ" outputclass="List1">300 Army Pentagon</p>
-      <p id="zgsBCo" outputclass="List1">Washington DC 20310-0300</p>
-      <p id="eNIbaB" outputclass="List1">or by telephone to DSN 225-5881 or (703) 695-5881.</p>
+<concept id="AFARS_5108.9301" class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5108.9301</ph> General.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="ivEMUs" class="- topic/p ">(a) <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers shall refer questions about obtaining commercial training for Army Medical Department personnel to:</p>
+      <p id="oQfiCK" class="- topic/p ">Commander, AMEDDC&amp;S</p>
+      <p id="mwLnJD" class="- topic/p ">Department of Health Education and Training</p>
+      <p id="bkYovy" class="- topic/p ">Attn: MCCS-HE</p>
+      <p id="nkBEwv" class="- topic/p ">2377 Greeley Road, Suite B</p>
+      <p id="zIQjpr" class="- topic/p ">Fort Sam Houston, TX 78234-5075</p>
+      <p id="gteMPt" class="- topic/p ">or by telephone to (210) 295-9528, or fax to (210) 221-2832.</p>
+      <p id="pGGCkZ" outputclass="List1" class="- topic/p ">(b) <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers shall refer questions about obtaining commercial training for other Army personnel to the:</p>
+      <p id="vVwKWk" outputclass="List1" class="- topic/p ">Office of The Deputy Chief Of Staff, G1</p>
+      <p id="ARGjqt" outputclass="List1" class="- topic/p ">Director of Military Personnel Management</p>
+      <p id="CVFoln" outputclass="List1" class="- topic/p ">Attn: DAPE-MP</p>
+      <p id="exmjLQ" outputclass="List1" class="- topic/p ">300 Army Pentagon</p>
+      <p id="zgsBCo" outputclass="List1" class="- topic/p ">Washington DC 20310-0300</p>
+      <p id="eNIbaB" outputclass="List1" class="- topic/p ">or by telephone to DSN 225-5881 or (703) 695-5881.</p>
    </conbody>
 </concept>

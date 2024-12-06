@@ -7,10 +7,19 @@
    <title outputclass="Heading 3" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5112.102</ph> Applicability.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p class="- topic/p ">(a)(i)(B)(<i class="+ topic/ph hi-d/i ">3</i>) Section 1244 of the James M. Inhofe National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2023 as amended by section 1242 of the NDAA for FY 2024. In accordance with section (C)(4) of Defense Pricing and Contracting Class Deviation 2024- O0005 Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel contracting officers carrying out a procurement of a product or service for a covered contract may treat the product or service as a commercial product or a commercial service for the purpose of carrying out the procurement. See AFARS <xref outputclass="fm:ParaNumOnly"
-               href="5153.20693.dita"
-               class="- topic/xref "/> for instructions for reporting covered contracts applicable under this subpart to congressional defense committees.</p>
-      <p outputclass="List1" class="- topic/p ">(a)(ii)(B)  The head of the contracting activity shall perform the duties under DFARS 212.102(a)(ii)(B).  See Appendix GG for further delegation.</p>
-      <p outputclass="List1" class="- topic/p ">(f)  The head of the contracting activity has the authority to make the determination as described in FAR 12.102(f).  See Appendix GG for further delegation.</p>
+      <p class="- topic/p ">(a)(i)(B)(<i class="+ topic/ph hi-d/i ">3</i>) Section 1244 of the James M. Inhofe National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2023 as amended by section 1242 of the NDAA for FY 2024. In accordance with section (C)(4) of <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP Class Deviation 2024-O0005 Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel</ph> 
+         <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers carrying out a procurement of a product or service for a covered contract may treat the product or service as a commercial product or a commercial service<ph rev="Revised October 1, 2024" class="- topic/ph ">, similar to allowances for commercial solutions openings, </ph>for the purpose of carrying out the procurement. See AFARS <xref outputclass="fm:ParaNumOnly"
+               href="5153.20693.dita#AFARS_5153.20693"
+               class="- topic/xref ">5153.206-93 Instructions for Congressional Notification Requirement When Utilizing the Authorities Conferred by paragraphs (B) – (G) of DPCAP Class Deviation 2024- O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel; Workload Forecasting Instructions</xref> for instructions for reporting covered contracts applicable under this subpart to congressional defense committees.</p>
+      <p outputclass="List1" class="- topic/p ">(a)(ii)(B)  The <ph rev="Revised October 1, 2024">HCA</ph> shall perform the duties under DFARS 212.102(a)(ii)(B).  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p outputclass="List1" class="- topic/p ">(f)  The <ph rev="Revised October 1, 2024">HCA</ph> has the authority to make the determination as described in FAR 12.102(f).  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
    </conbody>
 </concept>

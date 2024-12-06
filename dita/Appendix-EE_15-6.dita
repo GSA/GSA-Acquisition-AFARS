@@ -1,32 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_Appendix-EE_15-6">
-   <title>
-      <ph props="autonumber">15-6.</ph> Wide Area Workflow</title>
-   <conbody>
-      <p outputclass="List1">a. Wide Area Workflow (WAWF) is a secure, web-based system for electronic
-invoicing, receipt and acceptance. WAWF allows Government vendors to submit and
-track invoices and receipt/acceptance documents over the Web and allows
-Government personnel to process those invoices in a real-time, paperless
-environment. WAWF is in accordance with the 2001 National Defense Authorization
-Act (DFARS 252.232-7003/252.232.7003 Electronic Submission of Payment Requests -
-January 2004), which requires claims for payment under a DoD contract to be
-submitted in electronic form.</p>
-      <p outputclass="List1">b. DFARS Appendix F contains procedures and instructions for the use,
-preparation, and distribution of the WAWF Receiving Report (RR) and commercial
-shipping/packing lists used to document Government contract quality assurance.
-Preparation instructions and training for the WAWF RR are available at <xref href="https://piee.eb.mil/" format="html" scope="external">PIEE</xref>. The instructions on preparing a WAWF RR are part
-of the Vendor Training section.</p>
-      <p outputclass="List1">c. On March 3, 2008, DoD issued a final rule amending the DFARS to require
-use of WAWF as the only acceptable electronic system for submitting requests for
-payment (invoices and receiving reports) under DoD contracts.</p>
-      <p outputclass="List1">d. WAWF helps to mitigate interest penalty payments due to lost or misplaced
-documents and highlights vendor-offered discounts so that the DoD benefits on
-both fronts, in addition to streamlining the whole process from weeks to days or
-minutes. Benefits include online access and full spectrum view of document
-status, minimized re-keying and improving data accuracy, eliminating unmatched
-disbursements, and making all documentation required for payment easily
-accessible.</p>
+<concept id="AFARS_Appendix-EE_15-6" class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15-6.</ph> Wide Area Workflow</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">a. <xref format="html"
+               href="https://www.acquisition.gov/dfars/part-232-contract-financing#DFARS_232.7002"
+               scope="external"
+               class="- topic/xref ">DFARS 232.7002(a)(5)(b)(1)</xref> requires that only WAWF be used to create and accept receiving reports when the GPC is used as a method of payment against a contract. As specified in <xref format="html"
+               href="https://www.acquisition.gov/dfarspgi/pgi-part-253-forms#DFARS_PGI_253.213-70"
+               scope="external"
+               class="- topic/xref ">DFARS PGI 253.213-70</xref>, the code “CRCARD” must be used in the Pay Official / DoDAAC field for self-administered contracts to be paid in WAWF. Contracting Officers awarding contracts authorizing use of the GPC as a method of payment must ensure contractor compliance with the requirement for vendors to use WAWF to create and submit the receiving report in accordance with the <xref href="Appendix-EE_15-6.dita#AFARS_Appendix-EE_15-6"
+               class="- topic/xref "
+               outputclass="fm:ParaNumOnly">15-6. Wide Area Workflow</xref> requirement for written acceptance. These requirements are addressed in <xref format="html"
+               href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/232_70.htm#232.7002"
+               scope="external"
+               class="- topic/xref "> 
+            <u class="+ topic/ph hi-d/u ">DFARS 232.7002(a)(2)</u> 
+         </xref> and <xref format="html"
+               href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/232_70.htm#232.7003"
+               scope="external"
+               class="- topic/xref "> 
+            <u class="+ topic/ph hi-d/u ">232.7003(a)</u> 
+         </xref>, and <xref format="html"
+               href="https://www.acq.osd.mil/dpap/dars/pgi/pgi_htm/PGI253_213.htm"
+               scope="external"
+               class="- topic/xref "> 
+            <u class="+ topic/ph hi-d/u ">DFARS PGI 253.213-70</u> 
+         </xref>.</p>
+      <p outputclass="List1" class="- topic/p ">b. The Contracting Officer is responsible for
+ensuring the WAWF clauses are included in the contract, the vendor
+initiates the receiving report in WAWF, and the Government acceptor
+documents acceptance in WAWF. The CH is required to verify
+acceptance has occurred in WAWF prior to approving his/her billing
+statement and sending it to the BO for approval and Certifying
+Officer for certification. Contracting Officers <b class="+ topic/ph hi-d/b ">
+            <i class="+ topic/ph hi-d/i ">may
+not</i>
+
+          </b> specify the GPC as the method of payment when
+contract administration functions will be performed by other than
+the contracting organization (e.g., they will be assigned to DCMA),
+because the contract administration office does not have insight
+into contract delivery and payments. To ensure proper routing of
+contracts paid with the GPC, contracts assigned to DCMA for
+administration cannot cite the GPC as the method of payment. <xref format="html"
+               href="https://www.acquisition.gov/dfarspgi/pgi-part-242-contract-administration#DFARS_PGI_PGI_242.002"
+               scope="external"
+               class="- topic/xref ">DFARS
+PGI 242.3</xref> requires that a valid payment office be designated
+using the Contract Administration Services Directory (CASD). GPC is
+not a valid CASD payment method.</p>
+      <p outputclass="List1" class="- topic/p ">c. DFARS Appendix F contains procedures and
+instructions for the use, preparation, and distribution of the WAWF
+Receiving Report (RR) and commercial shipping/packing lists used to
+document Government contract quality assurance. Preparation
+instructions and training for the WAWF RR are available at <xref format="html"
+               href="https://piee.eb.mil/"
+               scope="external"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">PIEE</u>.</xref> The instructions on
+preparing a WAWF RR are part of the Vendor Training section.</p>
+      <p outputclass="List1" class="- topic/p ">d. On March 3, 2008, DoD issued a final rule
+amending the DFARS to require use of WAWF as the only acceptable
+electronic system for submitting requests for payment (invoices and
+receiving reports) under DoD contracts.</p>
    </conbody>
 </concept>

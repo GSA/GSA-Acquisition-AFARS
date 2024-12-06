@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">APPENDIX - BB</ph> - MANAGEMENT CONTROL EVALUATION CHECKLISTS </title>
       <body>
          <p>
-            <i>(October 1, 2014)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -44,27 +44,27 @@
                         href="AppendixBB_Part_2.dita#AFARS_AppendixBB_Part_2">Part 2 - Contracting Test Questions</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="AppendixBB-200.dita#AFARS_AppendixBB-200">BB-200 Event Cycle 1: Management of Contracting Functions.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="AppendixBB-201.dita#AFARS_AppendixBB-201">BB-201 Event Cycle 2: Presolicitation.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="AppendixBB-202.dita#AFARS_AppendixBB-202">BB-202 Event Cycle 3: Source Selection/Evaluation, Negotiation, and Award.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="AppendixBB-203.dita#AFARS_AppendixBB-203">BB-203 Event Cycle 4: Contract Administration.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="AppendixBB-204.dita#AFARS_AppendixBB-204">BB-204 Event Cycle 5: Special Acquisition Situations and Requirements.</xref>
                      </p>

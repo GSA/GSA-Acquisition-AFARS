@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="Heading 1">
          <ph class="- topic/ph " props="autonumber">Part 5141</ph> - Acquisition of Utility Services</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -24,7 +27,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5141.2.dita#AFARS_Subpart_5141.2">Subpart 5141.2 - Acquiring Utility Services</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5141.201.dita#AFARS_5141.201">5141.201 Policy.</xref>
                      </p>

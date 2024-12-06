@@ -1,40 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5106.303290"
+<concept id="AFARS_5106.303290"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5106.303-2-90</ph> Format and submission of the justification review and justification and approval documents.</title>
-   <conbody>
-      <p outputclass="List1">(a)  <i>General.</i>  The justification and approval (J&amp;A) format at 5153.303-5 is mandatory for all justifications in support of other than full and open competition.  Contracting officers will tailor the J&amp;A’s format to accommodate other type justifications in accordance with the FAR approval thresholds and required content.</p>
-      <p outputclass="List1">(b)  Reserved. </p>
-      <p outputclass="List1">(c)  <i>Instructions.</i>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5106.303-2-90</ph> Format and submission of the justification review and justification and approval documents.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">General.</i> The justification and approval (J&amp;A) format at <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5153.3035.dita#AFARS_5153.3035"
+               base="AFARS-5153.303-5"
+               xtrc="5153.303-5"
+               class="- topic/xref ">5153.303-5</xref> is mandatory for all justifications in support of other than full and open competition. Contracting officers will tailor the J&amp;A’s format to accommodate other type justifications in accordance with the FAR approval thresholds and required content.</p>
+      <p outputclass="List1" class="- topic/p ">(b)  Reserved. </p>
+      <p outputclass="List1" class="- topic/p ">(c)  <i class="+ topic/ph hi-d/i ">Instructions.</i>
       </p>
-      <p outputclass="List2">(1)  <i>Justification review document (JRD)</i>
-         <i>.</i>  The JRD serves as the cover page(s) to the J&amp;A document and may be tailored to reflect the approval thresholds and relevant functions for the instant contract action.</p>
-      <p outputclass="List2">(2)  <i>Justification and approval document.</i>
+      <p outputclass="List2" class="- topic/p ">(1)  <i class="+ topic/ph hi-d/i ">Justification review document (JRD)</i>
+         <i class="+ topic/ph hi-d/i ">.</i>  The JRD serves as the cover page(s) to the J&amp;A document and may be tailored to reflect the approval thresholds and relevant functions for the instant contract action.</p>
+      <p outputclass="List2" class="- topic/p ">(2)  <i class="+ topic/ph hi-d/i ">Justification and approval document.</i>
       </p>
-      <p outputclass="List3">(i)  Begin page numbering on the first page of the JRD, and number each subsequent page of the document sequentially.</p>
-      <p outputclass="List3">(ii)  Enter the control number in the upper right corner of each page, including the JRD and approval pages.</p>
-      <p outputclass="List3">(iii)  If a paragraph prescribed in the format does not apply to the contract action, indicate “Not applicable” and explain why.</p>
-      <p outputclass="List3">(iv)  Certifying officials must approve any material changes to the original J&amp;A contents.</p>
-      <p outputclass="List3">(v)  Paragraph 7, “Actions to Increase Competition,” must be specific and comprehensive.</p>
-      <p outputclass="List3">(vi)  Only United States Government employees formally representing the appropriate functional activity may validate and certify the JRD and J&amp;A (see 5153.303-4 and 5153.303-5).  Other government officials shall not perform this certification.</p>
-      <p outputclass="List2">(3)  <i>Amended justifications.</i>
+      <p outputclass="List3" class="- topic/p ">(i)  Begin page numbering on the first page of the JRD, and number each subsequent page of the document sequentially.</p>
+      <p outputclass="List3" class="- topic/p ">(ii)  Enter the control number in the upper right corner of each page, including the JRD and approval pages.</p>
+      <p outputclass="List3" class="- topic/p ">(iii)  If a paragraph prescribed in the format does not apply to the contract action, indicate “Not applicable” and explain why.</p>
+      <p outputclass="List3" class="- topic/p ">(iv)  Certifying officials must approve any material changes to the original J&amp;A contents.</p>
+      <p outputclass="List3" class="- topic/p ">(v)  Paragraph 7, “Actions to Increase Competition,” must be specific and comprehensive.</p>
+      <p outputclass="List3" class="- topic/p ">(vi) Only United States Government employees formally representing the appropriate functional activity may validate and certify the JRD and J&amp;A (see <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5153.3034.dita#AFARS_5153.3034"
+               base="AFARS-5153.303-4"
+               xtrc="5153.303-4"
+               class="- topic/xref ">5153.303-4</xref> and <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5153.3035.dita#AFARS_5153.3035"
+               base="AFARS-5153.303-5"
+               xtrc="5153.303-5"
+               class="- topic/xref ">5153.303-5</xref>). Other government officials shall not perform this certification.</p>
+      <p outputclass="List2" class="- topic/p ">(3)  <i class="+ topic/ph hi-d/i ">Amended justifications.</i>
       </p>
-      <p outputclass="List3">(i)  When 5106.303-1-90 requires an amended justification, the contracting officer must prepare a document entitled “Amendment to Justification for Other Than Full and Open Competition,” using the same paragraph designations used in the original justification.  Attach a copy of the original JRD and J&amp;A documents.  In addition—</p>
-      <p outputclass="List4">(A)  Number amendments sequentially;</p>
-      <p outputclass="List4">(B)  Include J&amp;A paragraphs 1, 2 and 3 in full, revised if required;</p>
-      <p outputclass="List4">(C)  Include new certifications by the contracting officer (paragraphs 13 and 14).  Include new technical and requirements certifications (paragraphs 11 and 12) only when changes in those areas of responsibility prompted the amendment;</p>
-      <p outputclass="List4">(D)  Use paragraph 10 to explain the reason for the amendment and to give any additional information that would help the reader understand the changes; and</p>
-      <p outputclass="List4">(E)  Address all remaining paragraphs of the J&amp;A by stating “No change” following the paragraph number or by inserting an entirely revised paragraph.  When there are minor changes, mark through deleted items and underline additions to the original paragraph to indicate changes to the original document.  For major revisions, including the addition of paragraphs that previously did not apply, instead of marking through and underlining, use paragraph 10 to identify the paragraph number and summarize the changes.  Include this information following the entry required by (D).</p>
-      <p outputclass="List3">(ii)  Determine the approval level for an amended J&amp;A by using the cumulative dollar value of the amended justification, e.g., original J&amp;A value plus the amount of the change.</p>
-      <p outputclass="List1">(d)  <i>Submission.</i>
+      <p outputclass="List3" class="- topic/p ">(i) When <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5106.303190.dita#AFARS_5106.303190"
+               base="AFARS-5106.303-1-90"
+               xtrc="5106.303-1-90"
+               class="- topic/xref ">5106.303-1-90</xref> requires an amended justification, the <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer must prepare a document entitled “Amendment to Justification for Other Than Full and Open Competition,” using the same paragraph designations used in the original justification. Attach a copy of the original JRD and J&amp;A documents. In addition—</p>
+      <p outputclass="List4" class="- topic/p ">(A)  Number amendments sequentially;</p>
+      <p outputclass="List4" class="- topic/p ">(B)  Include J&amp;A paragraphs 1, 2 and 3 in full, revised if required;</p>
+      <p outputclass="List4" class="- topic/p ">(C)  Include new certifications by the <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer (paragraphs 13 and 14).  Include new technical and requirements certifications (paragraphs 11 and 12) only when changes in those areas of responsibility prompted the amendment;</p>
+      <p outputclass="List4" class="- topic/p ">(D)  Use paragraph 10 to explain the reason for the amendment and to give any additional information that would help the reader understand the changes; and</p>
+      <p outputclass="List4" class="- topic/p ">(E)  Address all remaining paragraphs of the J&amp;A by stating “No change” following the paragraph number or by inserting an entirely revised paragraph.  When there are minor changes, mark through deleted items and underline additions to the original paragraph to indicate changes to the original document.  For major revisions, including the addition of paragraphs that previously did not apply, instead of marking through and underlining, use paragraph 10 to identify the paragraph number and summarize the changes.  Include this information following the entry required by (D).</p>
+      <p outputclass="List3" class="- topic/p ">(ii)  Determine the approval level for an amended J&amp;A by using the cumulative dollar value of the amended justification, e.g., original J&amp;A value plus the amount of the change.</p>
+      <p outputclass="List1" class="- topic/p ">(d)  <i class="+ topic/ph hi-d/i ">Submission.</i>
       </p>
-      <p outputclass="List2">(1)  For contracting actions exceeding the dollar threshold identified at FAR 6.304(a)(4), the contracting activity must submit the justification in sufficient time for approval, approximately 40 working days, to the address at 5101.290(b)(2)(ii)(C).  Electronic transmission is preferred.  For electronic submission, indicate the lead point of contact and the alternate (name, phone number, email address).</p>
-      <p outputclass="List2">(2)  Include with the justification the transmittal memorandum signed by the appropriate official, the current acquisition plan, and any other key documents related to the instant action.  The approval authority or his/her office may request a copy of the acquisition strategy, usually for large services or major weapons system contracts; business case analysis for performance based logistics and select Acquisition Category programs; or requirements validation separately.</p>
-      <p outputclass="List1">(e)  <i>Revisions.</i>  The Office of the Deputy Assistant Secretary of the Army (Procurement) (ODASA (P)) action officer will return J&amp;As submitted for SPE approval when directed revisions cannot be accomplished within five business days.  The contracting activity may re-submit the J&amp;A after making the requested revisions.  Once received, the ODASA(P) action officer will start anew processing the action for approval.</p>
+      <p outputclass="List2" class="- topic/p ">(1) For contracting actions exceeding the dollar threshold identified at FAR <xref scope="external"
+               format="html"
+               href="https://www.acquisition.gov/far/6.304"
+               class="- topic/xref ">6.304</xref>(a)(4), the contracting activity must submit the justification in sufficient time for approval, approximately 40 working days, to the address at <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5101.290.dita#AFARS_5101.290"
+               base="AFARS-5101.290"
+               xtrc="5101.290"
+               class="- topic/xref ">5101.290</xref>(b)(2)(ii)(<ph rev="Revised October 1, 2024" class="- topic/ph ">B</ph>). Electronic transmission is preferred. For electronic submission, indicate the lead point of contact and the alternate (name, phone number, email address).</p>
+      <p outputclass="List2" class="- topic/p ">(2)  Include with the justification the transmittal memorandum signed by the appropriate official, the current acquisition plan, and any other key documents related to the instant action.  The approval authority or his/her office may request a copy of the acquisition strategy, usually for large services or major weapons system contracts; business case analysis for performance based logistics and select Acquisition Category programs; or requirements validation separately.</p>
+      <p outputclass="List1" class="- topic/p ">(e) <i class="+ topic/ph hi-d/i ">Revisions.</i> The ODASA(P) action officer will return J&amp;As submitted for SPE approval when directed revisions cannot be accomplished within five business days. The contracting activity may re-submit the J&amp;A after making the requested revisions. Once received, the ODASA(P) action officer will start anew processing the action for approval.</p>
    </conbody>
 </concept>

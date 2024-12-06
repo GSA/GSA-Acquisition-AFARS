@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5107.9101"
+<concept id="AFARS_5107.9101"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5107.9101</ph>  Policy.</title>
-   <conbody>
-      <p outputclass="Normal">Implementation of AT and OPSEC considerations in the requirements package is the responsibility of the requiring activity and a signed AT/OPSEC cover sheet is required to be included in all requirements packages except for supply contracts under the simplified acquisition level threshold, field ordering officer actions and Government purchase card purchases.  The cover sheet, at a minimum, must include all the information and reviews listed in the Army standard cover sheet at Appendix A of the AT/OPSEC Desk Reference, available via the Internet at  <xref href="https://army.deps.mil/army/sites/PMG/prog/ATEP/AT%20in%20Contracting/AT%20OPSEC%20Guidance%20v6_webQ.pdf"
-               format="html"
-               scope="external">https://army.deps.mil/army/sites/PMG/prog/ATEP/AT%20in%20Contracting/AT%20OPSEC%20Guidance%20v6_webQ.pdf</xref>  (Army Knowledge Online login required).  This requirement also applies to orders under indefinite delivery contracts, unless each task or delivery order under the contract is for substantially the same product or service, in which case the cover sheet at the contract level is sufficient.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5107.9101</ph>  Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">Implementation of AT and OPSEC considerations in the requirements package is the responsibility of the requiring activity and a signed AT/OPSEC cover sheet is required to be included in all requirements packages except for supply contracts under the simplified acquisition level threshold, field ordering officer actions and Government purchase card purchases.  The <ph rev="Revised October 1, 2024" class="- topic/ph ">cover sheet</ph>, at a minimum, must include all the information and reviews listed in the Army standard cover sheet at Appendix A of the AT/OPSEC Desk Reference, available at <p class="- topic/p ">
+            <ph rev="Revised October 1, 2024" class="- topic/ph ">
+               <xref href="https://armyeitaas.sharepoint-mil.us/sites/HQDA-PMG-ATEP/AT%20in%20Contracting/Forms/AllItems.aspx"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref "/> 
+               <i class="+ topic/ph hi-d/i ">(Note: Access must be granted by the Antiterrorism Division of the Officer of the Provost Marshal General, HQDA, upon request.)</i>
+            </ph>.  This requirement also applies to orders under indefinite delivery contracts, unless each task or delivery order under the contract is for substantially the same product or service, in which case the cover sheet at the contract level is sufficient.</p>
+      </p>
    </conbody>
 </concept>

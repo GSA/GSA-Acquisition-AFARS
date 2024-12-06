@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5136.6024"
+<concept id="AFARS_5136.6024"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5136.602-4</ph> Selection authority.</title>
-   <conbody>
-      <p outputclass="List1">(a)  The ASA(ALT) has the authority to make the final selection decision in accordance with all appropriate source selection guidance.   See Appendix GG for further delegation. </p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5136.602-4</ph> Selection authority.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a) The <ph rev="Revised October 1, 2024" class="- topic/ph ">Assistant Secretary of the Army (Acquisition, Logistics and Technology) </ph>has the authority to make the final selection decision in accordance with all appropriate source selection guidance. See <ph rev="Revised October 1, 2024" class="- topic/ph ">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Appendix GG</xref>
+         </ph> for further delegation. </p>
    </conbody>
 </concept>

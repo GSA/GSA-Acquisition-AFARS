@@ -2,27 +2,32 @@
 <!DOCTYPE topic
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <topic id="AFARS_Appendix-EE_Chapter-14">
-  <title>Chapter 14 - Prohibited and Restricted Purchases</title>
-  <body>
-      <p outputclass="List1">a. Cardholders are presented with requests to buy a wide variety of items
-      and services, and it can be difficult for CHs to determine whether the
-      requested purchase is authorized. This chapter describes the
-      characteristics of an authorized purchase; identifies items and services
-      that are prohibited and restricted from purchase; and the exceptions under
-      which they are allowable.</p>
-      <p outputclass="List1">b. Cardholders must contact their A/OPC or other local authority (e.g.,
-      legal advisor, HCA, or resource manager) before making purchases that seem
-      questionable or have the appearance of being inappropriate. When buying
-      questionable items or services, CHs must include approval documentation in
-      the purchase file.</p>
-      <p outputclass="List1">c. All exceptions must be on a per transaction basis after consultation
-      with the A/OPC, legal counsel, HCA, SCO, CCO, or resource manager.
-      Multiple requests for the same exception must be approved by the Level 3
-      or 4 A/OPC responsible for issuing the GPC accounts. There may be
-      exceptions to the guidance in this section. For example, the armed escort
-      of prisoners may be a legitimate use of the GPC even though “escort
-      services” qualify as a prohibited transaction. CHs must include the
-      results of their consultations and determination to use the GPC in this
-      manner with their transaction supporting data.</p>
-  </body>
-</topic>
+    <title>
+      <ph props="autonumber">CHAPTER 14</ph> - PROHIBITED AND RESTRICTED
+PURCHASES</title>
+    <body>
+      <p outputclass="List1">a. Cardholders must contact their A/OPC or other
+local authority (e.g., legal advisor, HCA, or resource manager)
+before making purchases that seem questionable or have the
+appearance of being inappropriate. When buying questionable items
+or services, CHs must include approval documentation in the
+purchase file.</p>
+      <p outputclass="List1">b. All exceptions must be on a per transaction
+basis after consultation with the A/OPC, legal counsel, HCA, SCO,
+CCO, or resource manager. Multiple requests for the same exception
+must be approved by the Level 3 or 4 A/OPC responsible for issuing
+the GPC accounts. There may be exceptions to the guidance in this
+section. For example, the armed escort of prisoners may be a
+legitimate use of the GPC even though “escort services”
+qualify as a prohibited transaction. CHs must include the results
+of their consultations and determination to use the GPC with their
+transaction supporting data.</p>
+    </body>
+    
+    
+    
+    
+    
+    
+    
+  </topic>

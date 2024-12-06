@@ -6,13 +6,16 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5129</ph> - Taxes</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_5129.1.dita#AFARS_Subpart_5129.1">Subpart 5129.1 - General</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5129.101.dita#AFARS_5129.101">5129.101 Resolving tax problems.</xref>
                      </p>
@@ -24,7 +27,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5129.2.dita#AFARS_Subpart_5129.2">Subpart 5129.2 - Federal Excise Taxes</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5129.201.dita#AFARS_5129.201">5129.201 General.</xref>
                      </p>
@@ -36,7 +39,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5129.3.dita#AFARS_Subpart_5129.3">Subpart 5129.3 - State and Local Taxes</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5129.303.dita#AFARS_5129.303">5129.303 Application of state and local taxes to government contractors and subcontractors.</xref>
                      </p>

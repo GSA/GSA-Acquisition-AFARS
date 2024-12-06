@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5114.4074"
+<concept id="AFARS_5114.4074"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5114.407-4</ph> Mistakes after award.</title>
-   <conbody>
-      <p outputclass="List1">(b)  The HCA may make FAR 14.407-4(b) determinations.  See Appendix GG for further delegation.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5114.407-4</ph> Mistakes after award.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(b) The HCA may make FAR <xref scope="external"
+               format="html"
+               href="https://www.acquisition.gov/far/14.407-4"
+               class="- topic/xref ">14.407-4</xref>(b) determinations. See<ph rev="Revised October 1, 2024" class="- topic/ph "> Appendix GG</ph> for further delegation.</p>
    </conbody>
 </concept>

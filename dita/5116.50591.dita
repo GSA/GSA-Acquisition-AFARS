@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5116.50591"
+<concept id="AFARS_5116.50591"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5116.505-91</ph> Multiple award task order contracts.</title>
-   <conbody>
-      <p outputclass="List2">Contracting officers will document all critical task order decisions, such as exceptions to the fair opportunity process described at FAR 16.505(b)(2) or the selection of a higher priced proposal because of its greater technical merit, in sufficient detail to justify the decision.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5116.505-91</ph> Multiple award task order contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">
+         <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers will document<ph rev="Revised October 1, 2024" class="- topic/ph "> in the contract file</ph> all critical task order decisions, such as exceptions to the fair opportunity process described at FAR 16.505(b)(2) or the selection of a higher priced proposal because of its greater technical merit, in sufficient detail to justify the decision.</p>
    </conbody>
 </concept>

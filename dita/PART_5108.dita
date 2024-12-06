@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5108</ph> - Required Sources of Supplies and Services</title>
       <body>
          <p>
-            <i>(Revised 24 April 2023)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5108.4.dita#AFARS_Subpart_5108.4">Subpart 5108.4 - Federal Supply Schedules</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.404.dita#AFARS_5108.404">5108.404 Use of federal supply schedules.</xref>
                      </p>
@@ -24,16 +24,18 @@
                      <p>
                         <xref outputclass="fm:TOC" href="5108.405.dita#AFARS_5108.405">5108.405 Ordering procedures for federal supply schedules.</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5108.4053.dita#AFARS_5108.4053">5108.405-3 Blanket purchase agreements (BPAs).</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="5108.4056.dita#AFARS_5108.4056">5108.405-6 Limited sources.</xref>
-                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5108.4053.dita#AFARS_5108.4053">5108.405-3 Blanket purchase agreements (BPAs).</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5108.4056.dita#AFARS_5108.4056">5108.405-6 Limiting sources.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                </ul>
             </li>
@@ -42,7 +44,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5108.8.dita#AFARS_Subpart_5108.8">Subpart 5108.8 - Acquisition of Printing and Related Supplies</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.802.dita#AFARS_5108.802">5108.802 Policy.</xref>
                      </p>
@@ -54,7 +56,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5108.11.dita#AFARS_Subpart_5108.11">Subpart 5108.11 - Leasing of Motor Vehicles</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.1102.dita#AFARS_5108.1102">5108.1102 Presolicitation requirements.</xref>
                      </p>
@@ -82,7 +84,7 @@
                         <xref outputclass="fm:TOC" href="5108.7002.dita#AFARS_5108.7002">5108.7002 Assignment authority.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.700290.dita#AFARS_5108.700290">5108.7002-90 Non-standard ammunition.</xref>
                      </p>
@@ -99,7 +101,7 @@
                         <xref outputclass="fm:TOC" href="5108.740190.dita#AFARS_5108.740190">5108.7401-90 Software product manager.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.7403.dita#AFARS_5108.7403">5108.7403 Acquisition procedures.</xref>
                      </p>
@@ -133,7 +135,7 @@
                         <xref outputclass="fm:TOC" href="5108.9100.dita#AFARS_5108.9100">5108.9100 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.9101.dita#AFARS_5108.9101">5108.9101 Contracting for Video Productions.</xref>
                      </p>
@@ -155,12 +157,12 @@
                         <xref outputclass="fm:TOC" href="5108.9201.dita#AFARS_5108.9201">5108.9201 References.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.9202.dita#AFARS_5108.9202">5108.9202 Educational services contracts.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.9203.dita#AFARS_5108.9203">5108.9203 Procedures.</xref>
                      </p>
@@ -177,7 +179,7 @@
                         <xref outputclass="fm:TOC" href="5108.9300.dita#AFARS_5108.9300">5108.9300 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.9301.dita#AFARS_5108.9301">5108.9301 General.</xref>
                      </p>
@@ -199,7 +201,7 @@
                         <xref outputclass="fm:TOC" href="5108.9401.dita#AFARS_5108.9401">5108.9401 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5108.9402.dita#AFARS_5108.9402">5108.9402 Policy.</xref>
                      </p>

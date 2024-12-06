@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5109.4073"
+<concept id="AFARS_5109.4073"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5109.407-3</ph> Procedures.</title>
-   <conbody>
-      <p outputclass="List1">(a)  <i>Investigation and referral.</i>  Prepare and process reports in accordance with 5109.406-3.</p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5109.407-3</ph> Procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">Investigation and referral.</i> Prepare and process reports in accordance with <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5109.4063.dita#AFARS_5109.4063"
+               base="AFARS-5109.406-3"
+               xtrc="5109.406-3"
+               class="- topic/xref ">5109.406-3</xref>.</p>
    </conbody>
 </concept>

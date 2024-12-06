@@ -28,9 +28,9 @@
          </b>
       </p>
       <p id="difyIa" outputclass="List2">1. Federal Acquisition Regulation Part 15 https://www.acquisition.gov/browsefar</p>
-      <p id="wrjdYq" outputclass="List2">2. Defense Federal Acquisition Regulation Supplement Part 215 http://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html</p>
+      <p id="wrjdYq" outputclass="List2">2. Defense Federal Acquisition Regulation Supplement Part 215 http://www.acq.osd.mil/<ph rev="Revised October 1, 2024">dpCap</ph>/dars/dfarspgi/current/index.html</p>
       <p id="QWmFhP" outputclass="List2">3. Army Federal Acquisition Regulation Supplement Part 5115 https://spcs3.kc.army.mil/asaalt/procurement/AFARS/Home.aspx</p>
-      <p id="UYulou" outputclass="List2">4. Department of Defense Source Selection Procedures http://www.acq.osd.mil/dpap/policy/policyvault/USA007183-10-DPAP.pdf</p>
+      <p id="UYulou" outputclass="List2">4. Department of Defense Source Selection Procedures http://www.acq.osd.mil/<ph rev="Revised October 1, 2024">dpCap</ph>/policy/policyvault/USA007183-10-<ph rev="Revised October 1, 2024">DPCAP</ph>.pdf</p>
       <p id="Njldlp" outputclass="List2">5. Better Buying Power http://bbp.dau.mil/</p>
       <p id="CiEjzZ" outputclass="List2">6. Under Secretary of Defense (Acquisition, Technology, And Logistics) (USD(ATL)) memorandum, subject: Appropriate Use of Lowest Price Technically Acceptable Source Selection Process and Associated Contract Type (March 04, 2015) http://bbp.dau.mil/docs/Appropriate_Use_of_Lowest_Priced_Technically_Acceptable_Source_Selec_Process_Assoc_Con_Type.pdf</p>
       <p id="sRvsmm" outputclass="List2">7. ASA (ALT) memorandum, subject: Use of Lowest Price Technically Acceptable Source Selection Process (April 20, 2015), issued as Policy Alert #15-73: Use of Lowest Price Technically Acceptable Source Selection Process (April 21, 2015) https://spcs3.kc.army.mil/asaalt/procurement/PARC/PARC.aspx</p>
@@ -555,10 +555,11 @@
                <row rowsep="1">
                   <entry>
                      <p id="aZzBtW">52.215-1, Instructions to Offerors – Competitive Acquisition enables the Government to provide notice to prospective Offerors of the intent to make award without discussions as well as limit the number of proposals in the competitive range to the number at which an efficient competition can be conducted.</p>
-                     <p id="wsogOX">Contracting officer can provide the opportunity for offerors to eliminate weaknesses and deficiencies through the discussion process.</p>
+                     <p id="wsogOX">
+                        <ph rev="Revised October 1, 2024">C</ph>ontracting officer can provide the opportunity for offerors to eliminate weaknesses and deficiencies through the discussion process.</p>
                   </entry>
                   <entry>
-                     <p id="QvORsf">If few or no acceptable offers are received or proposals indicate that the requirements are misunderstood, the contracting officer may set a competitive range and conduct discussions with technically unacceptable Offerors and provide them the opportunity to eliminate deficiencies.</p>
+                     <p id="QvORsf">If few or no acceptable offers are received or proposals indicate that the requirements are misunderstood, the <ph rev="Revised October 1, 2024">C</ph>ontracting officer may set a competitive range and conduct discussions with technically unacceptable Offerors and provide them the opportunity to eliminate deficiencies.</p>
                      <p id="ivuKPZ">A proposal rated technically acceptable cannot be further improved through the discussion process. However, all Offerors in the competitive range must be afforded the opportunity to submit a revised proposal after discussions have concluded. See <i>Commercial Design Group, Inc.,</i> B-400923.4, August 6, 2009, CPD ¶ 157.</p>
                   </entry>
                </row>

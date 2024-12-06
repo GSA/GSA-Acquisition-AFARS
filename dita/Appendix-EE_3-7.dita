@@ -2,9 +2,14 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_3-7">
-  <title>
-      <ph props="autonumber">3-7.</ph> Enterprise Resource Planning (ERP)</title>
-  <conbody>
-      <p>ERP systems are large commercial-off-the-shelf platforms that are designed to contain the primary components of the business operations of an agency. Implementing ERP systems allows agencies to manage business functions as an integrated solution.</p>
-  </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">3-7.</ph> Total System Services Payment Solutions
+(TSYS)</title>
+      <conbody>
+        <p>TSYS is a federally registered service mark of Total System
+Services LLC. TSYS is a provider of seamless, secure, and
+innovative solutions to card issuers. TSYS provides payment,
+processing, merchant, and related payment services to financial and
+nonfinancial institutions.</p>
+      </conbody>
+    </concept>

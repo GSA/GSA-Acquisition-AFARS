@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5143</ph> - Contract Modifications</title>
       <body>
          <p class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(Revised 04 March 2024)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -20,19 +20,19 @@
                         <xref outputclass="fm:TOC" href="5143.204.dita#AFARS_5143.204">5143.204 Administration.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5143.204705.dita#AFARS_5143.204705">5143.204-70-5 Exceptions.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5143.204706.dita#AFARS_5143.204706">5143.204-70-6 Allowable profit.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5143.205.dita#AFARS_5143.205">5143.205 Contract clauses.</xref>
                      </p>

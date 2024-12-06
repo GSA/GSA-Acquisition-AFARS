@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5119.2021"
+<concept id="AFARS_5119.2021"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5119.202-1</ph> Encouraging small business participation in acquisitions.</title>
-   <conbody>
-      <p outputclass="List2">(1) If circumstances dictate consolidation, the contracting officer
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5119.202-1</ph> Encouraging small business participation in acquisitions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">(1) If circumstances dictate consolidation, the <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer
          must obtain from the program manager or requiring activity written justification supporting
-         the consolidated action. The head of the contracting activity must determine that a
+         the consolidated action. The <ph rev="Revised October 1, 2024" class="- topic/ph ">HCA</ph> must determine that a
          consolidated requirement cannot be placed under one of the preference programs prior to
-         release of the solicitation. See Appendix GG for further delegation.</p>
-      <p outputclass="List2">(2) When the acquisition strategy contemplates full and open, multiple
-         award, indefinite delivery indefinite quantity (IDIQ) contracts, the contracting officer
-         shall insert language in the solicitation that allows for requirements to be set aside
-         (totally or partially) for small businesses. Additionally, where two or more small
-         businesses hold IDIQ contracts, the contracting officer shall reserve the right to set
-         aside any and all contract task order requirements for small business firms. Contracting
-         officers shall document why the rule of two cannot be applied to the available small
-         business awardees prior to soliciting to the entire awardee pool, seek approval one level
-         above the contracting officer, and submit supporting documentation to the small business
-         specialist and PCR during small business coordination. </p>
+         release of the solicitation. See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p outputclass="List2" class="- topic/p ">(2) When the acquisition strategy contemplates <ph rev="Revised October 1, 2024" class="- topic/ph ">full and open competition for </ph> multiple award, <ph rev="Revised October 1, 2024" class="- topic/ph ">IDIQ </ph>contracts, the <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer shall insert language in the solicitation that allows for requirements to be set aside (totally or partially) for small businesses. Additionally, <ph rev="Revised October 1, 2024" class="- topic/ph ">the Contracting officer has the discretion to set aside all task or delivery order requirements for small businesses where two or more small businesses hold IDIQ contracts. </ph>Contracting officers shall document why the rule of two cannot be applied to the available small business awardees prior to soliciting to the entire awardee pool, seek approval one level above the <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officer, and submit supporting documentation to the small business specialist and PCR during small business coordination. </p>
    </conbody>
 </concept>

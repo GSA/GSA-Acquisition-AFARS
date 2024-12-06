@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5142.1901"
+<concept id="AFARS_5142.1901"
          xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5142.190-1</ph> Responsibilities.</title>
-   <conbody>
-      <p outputclass="List1">(a)  The Deputy Assistant Secretary of the Army (Procurement) is the Army’s contract audit follow-up official.</p>
-      <p outputclass="List1">(b)  The senior contracting official (SCO) shall perform the functions of the Army’s contract audit follow-up official for their respective commands.  SCOs shall –</p>
-      <p outputclass="List2">(1)  Establish Overage Audit Review Boards;</p>
-      <p outputclass="List2">(2)  Ensure that the effective resolution and disposition of audit findings and recommendations in a timely manner while fully protecting the Government’s interests is a factor in organizational and individual performance standards and objectives; and</p>
-      <p outputclass="List2">(3)  Maintain close surveillance of all contract audit reports, resolve, and dispose any audit reported.</p>
-      <p outputclass="List1">(c)  Chiefs of contracting or contract administration offices shall track and assist contracting officers in the resolution and disposition of those audit recommendations which appear unlikely to be resolved within six months of the date of an audit report.</p>
-      <p outputclass="List1">(d) Contract Audit Follow Up Monitor </p>
-      <p outputclass="List2">(1) The Monitor shall receive new audits and coordinate with Contracting Officers, their SCO and the ODASA(P) to resolve and disposition audits in a timely manner. </p>
-      <p outputclass="List2">(2) The Monitor shall ensure Contracting Officers receive a copy of the audit and status updates on the resolution and disposition of the audit on a monthly basis. </p>
-      <p outputclass="List2">(3) The Monitor shall maintain current information and status of the audits in the Contract Audit Follow Up system. </p>
-      <p outputclass="List1">(e) Contracting officers shall –</p>
-      <p outputclass="List2">(1)  Resolve the recommendations as described in DoD Instruction (DoDI) 7640.02 not later than six months from the date of the audit report and dispose those recommendations within 12 months;</p>
-      <p outputclass="List2">(2)  Invite the auditor to participate in the review when it is considered necessary; and</p>
-      <p outputclass="List2">(3) Appear before the Overage Audit Review Board to discuss the
-         resolution and disposition of any audit reported in accordance with 
-            <xref href="5142.1904.dita" outputclass="fm:ParaNumOnly"/>(a)(4).
-      </p>
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5142.190-1</ph> Responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a)  The Deputy Assistant Secretary of the Army (Procurement) is the Army’s contract audit follow-up official.</p>
+      <p outputclass="List1" class="- topic/p ">(b)  The senior contracting official (SCO) shall perform the functions of the Army’s contract audit follow-up official for their respective commands.  SCOs shall –</p>
+      <p outputclass="List2" class="- topic/p ">(1)  Establish Overage Audit Review Boards;</p>
+      <p outputclass="List2" class="- topic/p ">(2)  Ensure that the effective resolution and disposition of audit findings and recommendations in a timely manner while fully protecting the Government’s interests is a factor in organizational and individual performance standards and objectives; and</p>
+      <p outputclass="List2" class="- topic/p ">(3)  Maintain close surveillance of all contract audit reports, resolve, and dispose any audit reported.</p>
+      <p outputclass="List1" class="- topic/p ">(c)  Chiefs of contracting or contract administration offices shall track and assist <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers in the resolution and disposition of those audit recommendations which appear unlikely to be resolved within six months of the date of an audit report.</p>
+      <p outputclass="List1" class="- topic/p ">(d) Contract Audit Follow Up Monitor </p>
+      <p outputclass="List2" class="- topic/p ">(1) The Monitor shall receive new audits and coordinate with Contracting <ph rev="Revised October 1, 2024" class="- topic/ph ">o</ph>fficers, their SCO and the ODASA(P) to resolve and disposition audits in a timely manner. </p>
+      <p outputclass="List2" class="- topic/p ">(2) The Monitor shall ensure Contracting <ph rev="Revised October 1, 2024" class="- topic/ph ">o</ph>fficers receive a copy of the audit and status updates on the resolution and disposition of the audit on a monthly basis. </p>
+      <p outputclass="List2" class="- topic/p ">(3) The Monitor shall maintain current information and status of the audits in the Contract Audit Follow Up system. </p>
+      <p outputclass="List1" class="- topic/p ">(e) Contracting officers shall –</p>
+      <p outputclass="List2" class="- topic/p ">(1)  Resolve the recommendations as described in DoD Instruction (DoDI) 7640.02 not later than six months from the date of the audit report and dispose those recommendations within 12 months;</p>
+      <p outputclass="List2" class="- topic/p ">(2)  Invite the auditor to participate in the review when it is considered necessary; and</p>
+      <p outputclass="List2" class="- topic/p ">(3) Appear before the Overage Audit Review Board to discuss the resolution and disposition of any audit reported in accordance with <xref href="5142.1904.dita#AFARS_5142.1904"
+               outputclass="fm:ParaNumOnly"
+               class="- topic/xref ">5142.190-4</xref>(a)(4). </p>
    </conbody>
 </concept>

@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5127</ph> - Patents, Data, and Copyrights</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -43,12 +46,12 @@
                   <xref outputclass="fm:TOC" href="Subpart_5127.3.dita#AFARS_Subpart_5127.3">Subpart 5127.3 - Patent Rights Under Government Contracts</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5127.303.dita#AFARS_5127.303">5127.303 Contract clauses.</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5127.304.dita#AFARS_5127.304">5127.304 Procedures.</xref>
                      </p>
@@ -65,7 +68,7 @@
                         <xref outputclass="fm:TOC" href="5127.675.dita#AFARS_5127.675">5127.675 Foreign license and technical assistance agreements between a domestic concern and a foreign government or concern.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5127.6752.dita#AFARS_5127.6752">5127.675-2 Review of agreements.</xref>
                            </p>
@@ -79,19 +82,19 @@
                   <xref outputclass="fm:TOC" href="Subpart_5127.70.dita#AFARS_Subpart_5127.70">Subpart 5127.70 - Infringement Claims, Licenses, and Assignments</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5127.7004.dita#AFARS_5127.7004">5127.7004 Requirements for filing an administrative claim for patent infringement.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5127.700690.dita#AFARS_5127.700690">5127.7006-90 Investigation and administrative disposition of claims.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5127.7011.dita#AFARS_5127.7011">5127.7011 Procurement of rights in inventions, patents, and copyrights.</xref>
                      </p>
@@ -103,9 +106,9 @@
                   <xref outputclass="fm:TOC" href="Subpart_5127.71.dita#AFARS_Subpart_5127.71">Subpart 5127.71 - Rights in Technical Data</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5127.7103.dita#AFARS_5127.7103">5127.7103 Noncommerical items or processes.</xref>
+                        <xref outputclass="fm:TOC" href="5127.7103.dita#AFARS_5127.7103">5127.7103 Other than commercial products, commercial services, or commercialprocesses.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>
@@ -113,7 +116,7 @@
                               <xref outputclass="fm:TOC" href="5127.710313.dita#AFARS_5127.710313">5127.7103-13 Government right to review, verify, challenge, and validate asserted restrictions.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5127.710314.dita#AFARS_5127.710314">5127.7103-14 Conformity, acceptance, and warranty of technical data.</xref>
                            </p>
@@ -122,14 +125,14 @@
                   </li>
                </ul>
             </li>
-            <li>
+            <li rev="Revised October 1, 2024">
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_5127.72.dita#AFARS_Subpart_5127.72">Subpart 5127.72 - Rights In Computer Software and Computer Software Documentation</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_5127.72.dita#AFARS_Subpart_5127.72">Subpart 5127.72 - Computer Software, Computer Software Documentation and Associated Rights.</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="5127.7203.dita#AFARS_5127.7203">5127.7203 Noncommercial computer software and noncommercial computer software documentation.</xref>
+                        <xref outputclass="fm:TOC" href="5127.7203.dita#AFARS_5127.7203">5127.7203 Other than commercial computer software and other than commercial computer software documentation.</xref>
                      </p>
                      <ul otherprops="TOC">
                         <li>

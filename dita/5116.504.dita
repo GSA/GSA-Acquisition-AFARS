@@ -8,7 +8,11 @@
    <title outputclass="Heading 3">
       <ph props="autonumber">5116.504</ph> - Indefinite Quantity Contracts.</title>
    <conbody>
-      <p outputclass="List1">(a)(1) The contracting officer shall ensure an order that fulfills the minimum quantity of supplies or services is issued at the time of contract award.</p>
-      <p outputclass="List1">(c)(1)(ii)(D)(<i>1</i>)  The senior procurement executive shall approve actions as stated in DFARS 216.504(c)(1)(ii)(D)(<i>1</i>).  See Appendix GG for further delegation.</p>
+      <p outputclass="List1">(a)(1) The <ph rev="Revised October 1, 2024">C</ph>ontracting officer shall ensure an order that fulfills the minimum quantity of supplies or services is issued at the time of contract award.</p>
+      <p outputclass="List1">(c)(1)(ii)(D)(<i>1</i>)  The senior procurement executive shall approve actions as stated in DFARS 216.504(c)(1)(ii)(D)(<i>1</i>).  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
    </conbody>
 </concept>

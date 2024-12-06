@@ -6,6 +6,9 @@
       <title class="- topic/title " outputclass="Ctr 1 heading">
          <ph class="- topic/ph " props="autonumber">APPENDIX - HH</ph> Table Of Contents</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
             <li>
                <p>
@@ -19,7 +22,7 @@
                               href="Appendix-HH_TAB_A.dita#AFARS_Appendix-HH_TAB_A">TAB A CLIN Name PCS Description</xref>
                      </p>
                   </li>
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC"
                               href="Appendix-HH_TAB_B.dita#AFARS_Appendix-HH_TAB_B">TAB B Cloud Contracting Language</xref>

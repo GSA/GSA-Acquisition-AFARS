@@ -2,140 +2,32 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_3-2">
-    <title>
-      <ph props="autonumber">3-2.</ph> Joint Appointment Module (JAM)</title>
-    <conbody>
-        <p outputclass="List1">a. JAM is the PIEE module used to initiate, review, approve, store, and terminate required delegations of procurement authority and/or appointments. As appropriate, JAM GPC appointments result in issuance of not only GPC Delegation and/or Appointment letters, but also limited-scope SF 1402 Certificate of Appointment (commonly referred to as a Warrant) and DD Form 577 Appointment/Termination Record – Authorized Signature (commonly referred to as a Certifying Officer Appointment). Personnel delegated the proper authority role identified in Table 3-1 can terminate the following appointments in PIEE and JAM.</p>
-        <p id="Toc118789368">Table 3-1: Roles and Termination Capability</p>
-        <table>
-            <tgroup cols="7">
-                <colspec colnum="1" colwidth="2.3*" colname="col1"/>
-                <colspec colnum="2" colwidth="0.8*" colname="col2"/>
-                <colspec colnum="3" colwidth="0.8*" colname="col3"/>
-                <colspec colnum="4" colwidth="0.9*" colname="col4"/>
-                <colspec colnum="5" colwidth="0.8*" colname="col5"/>
-                <colspec colnum="6" colwidth="0.8*" colname="col6"/>
-                <colspec colnum="7" colwidth="0.7*" colname="col7"/>
-                <tbody>
-                    <row>
-                        <entry namest="col1" nameend="col7"> 
-                     <b>Appointments</b> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>Roles for your Organization/Activity</b> 
-                  </entry>
-                        <entry> 
-                     <b>A/BO</b> 
-                  </entry>
-                        <entry> 
-                     <b>CH</b> 
-                  </entry>
-                        <entry> 
-                     <b>Certifying Officer</b> 
-                  </entry>
-                        <entry> 
-                     <b>A/OPC</b> 
-                  </entry>
-                        <entry> 
-                     <b>O/AOPC</b> 
-                  </entry>
-                        <entry> 
-                     <b>CPM</b> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>GPC Help Administrator Manager (HAM)</b> can terminate</entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>OA/OPC</b> can terminate</entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry/>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry/>
-                        <entry/>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>A/OPC</b> can terminate</entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry/>
-                        <entry/>
-                        <entry/>
-                        <entry/>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>DD577 Appointing Authority (AA)</b> can terminate</entry>
-                        <entry/>
-                        <entry/>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry/>
-                        <entry/>
-                        <entry/>
-                    </row>
-                    <row>
-                        <entry> 
-                     <b>GPC Delegating/Appointing Authority (DAA)</b> can terminate</entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                        <entry> 
-                     <b>X</b> 
-                  </entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
-        <p outputclass="List1">b. JAM is an application within PIEE that is mandated by DoD for use by GPC program participants. The Army is not required to issue or retain paper copies of appointments issued using JAM. The <xref href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/smart-pay/Ref-B-JAM-GPC-Role-Descriptions_2-10-22.docx"
-               format="html"
-               scope="external">DPC Joint Appointment Module (JAM) GPC Role Descriptions Guide</xref> provides tables that identify GPC JAM roles and special designation authority types.</p>
-    </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">3-2.</ph> Procurement Integrated
+Enterprise Environment (PIEE)</title>
+      <conbody>
+        <p outputclass="List1">a. <xref format="html"
+               href="https://piee.eb.mil/xhtml/unauth/help/help.xhtml"
+               scope="external">
+            <u>PIEE</u>
+          </xref>
+is the primary enterprise procure-to-pay (P2P) application for DoD
+and its supporting agencies. PIEE is a procurement portfolio
+capability that uses a Common Access Card (CAC) enabled
+single-sign-on capability to grant access to system modules (e.g.,
+Electronic Document Access and Joint Appointment Module (JAM))
+hosted both internal and external to that environment. Army
+mandates 100% use of PIEE single-sign-on.</p>
+        <p outputclass="List1">b. A/OPCs nominate cardholders and billing
+officials and track nominations and workflows within PIEE. <xref format="html"
+               href="https://www.acq.osd.mil/asda/dpc/ce/pc/training.html#gpc1pager"
+               scope="external">
+            <u>GPC
+one-pagers</u>
+          </xref> are an excellent resource on how to perform
+actions within PIEE modules.</p>
+        <p outputclass="List1">c. Government Administrator Managers (GAMs) must
+activate roles in PIEE as part of the GPC appointment process. See
+section 2-8.b. for additional GAM duties.</p>
+      </conbody>
+    </concept>

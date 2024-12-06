@@ -8,9 +8,13 @@
    <title outputclass="Heading 4">
       <ph props="autonumber">5101.603-1</ph> General.</title>
    <conbody>
-      <p outputclass="List2">The Secretary of the Army or one of the following individuals may select, appoint, and terminate contracting officers:</p>
+      <p outputclass="List2">The Secretary of the Army or one of the following individuals may select, appoint, and terminate <ph rev="Revised October 1, 2024">C</ph>ontracting officers:</p>
       <p outputclass="List2">(1)  The ASA(ALT).</p>
       <p outputclass="List2">(2)  The DASA(P).</p>
-      <p outputclass="List2">(3)  The HCA.  See Appendix GG for further delegation.</p>
+      <p outputclass="List2">(3)  The HCA.  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
    </conbody>
 </concept>

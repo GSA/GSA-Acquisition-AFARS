@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 5111</ph> - Describing Agency Needs</title>
       <body>
          <p class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">(Revised 20 March 2024)</i>
+            <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,7 +15,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5111.1.dita#AFARS_Subpart_5111.1">Subpart 5111.1 - Selecting and Developing Requirements Documents</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5111.103.dita#AFARS_5111.103">5111.103 Market acceptance.</xref>
                      </p>
@@ -52,12 +52,12 @@
                         <xref outputclass="fm:TOC" href="5111.274.dita#AFARS_5111.274">5111.274 Item identification and valuation requirements.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5111.2742.dita#AFARS_5111.2742">5111.274-2 Policy for item unique identification.</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5111.2742_A.dita#AFARS_5111.2742_A">5111.274-2 (S-90)</xref>
                            </p>
@@ -67,7 +67,7 @@
                               <xref outputclass="fm:TOC" href="5111.2742_B.dita#AFARS_5111.2742_B">5111.274-2 (S-91)</xref>
                            </p>
                         </li>
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5111.2746.dita#AFARS_5111.2746">5111.274-6 Contract clauses.</xref>
                            </p>
@@ -81,7 +81,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5111.5.dita#AFARS_Subpart_5111.5">Subpart 5111.5 - Liquidated Damages</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Revised October 1, 2024">
                      <p>
                         <xref outputclass="fm:TOC" href="5111.501.dita#AFARS_5111.501">5111.501 Policy.</xref>
                      </p>
@@ -98,7 +98,7 @@
                         <xref outputclass="fm:TOC" href="5111.602.dita#AFARS_5111.602">5111.602 General.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li>
+                        <li rev="Revised October 1, 2024">
                            <p>
                               <xref outputclass="fm:TOC" href="5111.60290.dita#AFARS_5111.60290">5111.602-90 Responsibilities.</xref>
                            </p>

@@ -2,72 +2,95 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_6-13">
-   <title>
+      <title>
       <ph props="autonumber">6-13.</ph> File Retention</title>
-   <conbody>
-      <p outputclass="List1">a. GPC transaction documentation must be retained for six years in accordance
-with FAR 4.805 and DoD Charge Card Guidebook Section A.1.14. Billing officials
-are responsible for ensuring that record retention requirements are met. GPC
-transactions with foreign military sales (FMS) funding must follow the retention
-guidance in DoD FMR Volume 15, Chapter 6, and ensure the FMS documents are
-retained for 10 years from the date of final case closure.</p>
-      <p outputclass="List1">b. <b>Uploading Supporting Documentation</b>. CHs must upload all transaction
-supporting documentation in the bank’s EAS. The uploaded documentation is the
-CH’s official purchase file. If the complete file is uploaded in the EAS, CHs do
-not need to maintain a duplicate hardcopy or electronic file. For purchases that
-do not have uploaded documentation, the CH or BO must retain the corresponding
+      <conbody>
+        <p outputclass="List1">a. GPC transaction documentation must be retained
+for six years in accordance with FAR 4.805. Billing officials are
+responsible for ensuring that record retention requirements are
+met. GPC transactions with foreign military sales (FMS) funding
+must follow the retention guidance in DoD FMR Volume 15, Chapter 6,
+and ensure the FMS documents are retained for 10 years from the
+date of final case closure.</p>
+        <p outputclass="List1">b. <b>Uploading Supporting
+Documentation</b>. CHs must upload all transaction supporting
+documentation in the bank’s EAS. The uploaded documentation
+is the CH’s official purchase file. If the complete file is
+uploaded in the EAS, CHs do not need to maintain a duplicate
+hardcopy or electronic file. For purchases that do not have
+uploaded documentation, the CH or BO must retain the corresponding
 hardcopy or electronic files for six years.</p>
-      <p outputclass="List1">c. <b>Corrective Action</b>. When documentation is not retained in accordance
-with the GPC file retention policy, A/OPCs must evaluate the CH/BO’s record
-retention processes and develop corrective action plans with target completion
-dates to prevent recurrence. A/OPCs should take disciplinary action as necessary
-for negligent CHs (e.g., suspending card accounts).</p>
-      <p outputclass="List1">d. FAR 4.805 provides the following guidance on file storage: “Agencies must
-prescribe procedures for the handling, storing, and disposing of contract
-files…These procedures must take into account documents held in all types of
-media. Agencies may change the original medium to facilitate storage as long as
-the requirements of the part, law, and other regulations are satisfied. The
-process used to create and store records must record and reproduce the original
-document, including signatures and other written and graphic images completely,
-accurately, and clearly. Data transfer, storage, and retrieval procedures must
-protect the original data from alteration. Unless law or other regulations
-require signed originals to be kept, they may be destroyed after the responsible
-agency official verifies that record copies on alternate media and copies
-reproduced from the record copy are accurate, complete, and clear
-representations of the originals.”</p>
-      <p outputclass="List1">e. Original disbursing office records (BO or Certifying Officer), along with
-CH supporting documents in electronic format, negate the need for the CH to
-store duplicate hardcopy documents.</p>
-      <p outputclass="List1">f. Electronic record storage requires adequate controls to ensure the digital
-images accurately represent the corresponding paper documentation and to detect
-changes to an original digital image. In addition, electronic storage must be in
-a centrally managed location that has an established backup process.</p>
-      <p outputclass="List1">g. See 6-2.e for GPC transaction documentation and disbursing office records.
-For additional examples of documents classified as disbursing office records,
-see DoD FMR Volume 5, Chapter 15, 150803.</p>
-      <p id="OLE_LINK9" outputclass="List1">h. Receipts are considered supporting documents for the certified
-billing statement. Original receipts are preferred; however, printed electronic
-forms or copies of an itemized receipt are acceptable. The receipt must be
-legible and indicate vendor’s name and address, date of the purchase, and paid
-by credit card or zero amount due. Goods must be itemized/detailed with the item
-description, quantity, price, and extended price. The BO maintains these records
-in physical possession, or when appropriate, transfers them to a records holding
-area. However, if certifying electronically, the CH and BO may rely on the
-servicing bank’s EAS for supporting documentation. Original records are
-considered Government property and may not be removed from Government control by
-the BO for any reason.</p>
-      <p outputclass="List1">i. <b>Appointment Letters</b>. Delegation of authority letters and GPC
-appointment letters, executed by both the appointer and the appointee, will be
-retained in PIEE/JAM for six years after the delegation has been terminated
-through personnel action such as the appointee’s separation, retirement, or
-transfer.</p>
-      <p outputclass="List1">j. A/OPCs must retain any paper-based or email requests relating to new
-account issuance and maintenance for six years after the date of account
-issuance or update.</p>
-      <p outputclass="List1">k. Data residing in the bank’s EAS is maintained by the bank for six years.
-Reports may be retrieved from the bank’s EAS for the previous two years. Reports
-covering data for periods beyond the previous two years are available from the
-bank upon request.</p>
-      <p id="Toc532909321"/>
-   </conbody>
-</concept>
+        <p outputclass="List1">c. <b>Corrective Action</b>. When
+documentation is not retained in accordance with the GPC file
+retention policy, A/OPCs must evaluate the CH/BO’s record
+retention processes and develop corrective action plans with target
+completion dates to prevent recurrence.</p>
+        <p outputclass="List1">d. <b>Storage, Handling, and Contract files
+(FAR 4.805)</b>
+        </p>
+        <p outputclass="List2">1) Procedures for the handling, storing, and
+disposing of contract files must be in accordance with the National
+Archives and Records Administration (NARA) General Records Schedule
+1.1, Financial Management and Reporting Records.</p>
+        <p outputclass="List2">2) The Financial Management and Reporting Records
+can be found at <xref format="html"
+               href="http://www.archives.gov/records-mgmt/grs.html"
+               scope="external">http://www.archives.gov/records-mgmt/grs.html</xref>.</p>
+        <p outputclass="List2">3) Procedures must consider documents held in all
+types of media, including microfilm and various electronic
+media.</p>
+        <p outputclass="List2">4) The Army may change the original medium to
+facilitate storage if the requirements of the FAR 4.8, law, and
+other regulations are satisfied.</p>
+        <p outputclass="List2">5) The process used to create and store records
+must record and reproduce the original document, including
+signatures and other written and graphic images completely,
+accurately, and clearly.</p>
+        <p outputclass="List2">6) Data transfer, storage, and retrieval
+procedures must protect the original data from alteration. Unless
+law or other regulations require signed originals to be kept, they
+may be destroyed after the responsible agency official verifies
+that record copies on alternate media and copies reproduced from
+the record copy are accurate, complete, and clear representations
+of the originals.</p>
+        <p outputclass="List1">e. Original disbursing office records, along with
+CH supporting documents in electronic format, negate the need for
+the CH to store duplicate hardcopy documents.</p>
+        <p outputclass="List1">f. Electronic record storage requires adequate
+controls to ensure the digital images accurately represent the
+corresponding paper documentation and to detect changes to an
+original digital image. In addition, electronic storage must be in
+a centrally managed location that has an established backup
+process.</p>
+        <p outputclass="List1">g. See 6-2.g. for GPC transaction documentation
+and disbursing office records. For additional examples of documents
+classified as disbursing office records, see DoD FMR Volume 5,
+Chapter 15, 150803.</p>
+        <p outputclass="List1">h. Receipts are considered supporting documents
+for the certified billing statement. Original receipts are
+preferred; however, printed electronic forms or copies of an
+itemized receipt are acceptable. The receipt must be legible and
+indicate vendor’s name and address, date of the purchase, and
+paid by credit card or zero amount due. Goods must be
+itemized/detailed with the item description, quantity, price, and
+extended price. The BO maintains these records electronically. The
+CH and BO may rely on the servicing bank’s EAS for supporting
+documentation. Original records are considered Government property
+and may not be removed from Government control by the BO for any
+reason.</p>
+        <p outputclass="List1">i. <b>Appointment Letters</b>.
+Delegation of authority letters and GPC appointment letters,
+executed by both the appointer and the appointee, will be retained
+in PIEE/JAM for six years after the delegation has been terminated
+through personnel action such as the appointee’s separation,
+retirement, or transfer.</p>
+        <p outputclass="List1">j. A/OPCs must retain any paper-based or email
+requests relating to new account issuance and maintenance for six
+years after the date of account issuance or update.</p>
+        <p outputclass="List1">k. Data residing in the bank’s EAS is
+maintained by the bank for six years. Reports may be retrieved from
+the bank’s EAS for the previous two years. Reports covering
+data for periods beyond the previous two years are available from
+the bank upon request.</p>
+      </conbody>
+    </concept>

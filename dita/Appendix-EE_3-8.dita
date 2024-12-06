@@ -2,26 +2,12 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_3-8">
-  <title>
-      <ph props="autonumber">3-8.</ph> Federal Procurement Data System – Next Generation
-    (FPDS-NG)</title>
-  <conbody>
-      <p>FPDS-NG is a web-based Government central repository for collecting,
-      developing, and disseminating procurement data to Congress, the Executive
-      Branch, and private sector. The Federal Government uses the reported data
-      to measure and assess the impact of federal procurement on the nation’s
-      economy, the extent to which awards are made to businesses in the various
-      socio-economic categories, the impact of full and open competition on the
-      acquisition process, and other procurement policy purposes. FPDS-NG
-      contains data that the Federal Government uses to create recurring and
-      special reports to the President, Congress, the Government Accountability
-      Office, Federal executive agencies and the general public (FAR 4.606,
-      Reporting Data). FPDS-NG access, training, and instruction manuals are
-      available on <xref href="https://fpds.gov/" format="html" scope="external">FPDS.gov</xref>. Agencies are responsible for collecting
-      and reporting Contract Action Report (CAR) procurement data to FPDS-NG as
-      required by FAR 4.6. The requirements for reporting GPC actions to FPDS-NG
-      are contained in DFARS PGI 204.6, DoD Charge Card Guidebook A.1.6, and <xref href="https://www.acq.osd.mil/asda/dpc/ce/pc/docs/archive/Reporting_GPC_to_FPDS_-_Oct_2010.pdf"
-               format="html"
-               scope="external">DPAP memo dated 26 October 2010</xref>.</p>
-  </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">3-8.</ph> Enterprise Resource Planning (ERP)</title>
+      <conbody>
+        <p>ERP systems are large commercial-off-the-shelf platforms that
+are designed to contain the primary components of the business
+operations of an agency. Implementing ERP systems allows agencies
+to manage business functions as an integrated solution.</p>
+      </conbody>
+    </concept>

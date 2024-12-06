@@ -6,8 +6,11 @@
       <title class="- topic/title " outputclass="1 heading Ctr">
          <ph class="- topic/ph " props="autonumber">APPENDIX - FF</ph> Table Of Contents</title>
       <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
          <ul otherprops="TOC">
-            <li>
+            <li rev="Revised October 1, 2024">
                <p>
                   <xref outputclass="fm:TOC"
                         href="Appendix-FF_DOTRPFCONC.dita#AFARS_Appendix-FF_DOTRPFCONC">DEPARTMENT OF THE ARMY PLAN FOR CONTROL OF NONSTANDARD CLAUSES</xref>

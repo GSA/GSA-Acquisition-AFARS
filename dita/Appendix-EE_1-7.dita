@@ -2,106 +2,114 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_1-7">
-    <title>
-      <ph props="autonumber">1-7.</ph> Micro-purchase Thresholds (MPT)</title>
-    <conbody>
-        <p>The definition and current dollar values of the MPT are located at <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
-               format="html"
-               scope="external">FAR 2.101(b)</xref> and summarized in Table 1-2.</p>
-        <p id="Toc101947011">Table 1-2: DoD Micro-purchase Thresholds</p>
+      <title>
+      <ph props="autonumber">1-7.</ph> Micro-purchase Thresholds
+(MPT)</title>
+      <conbody>
+        <p>The definition and current dollar values are located at <xref format="html"
+               href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+               scope="external">
+            <u>FAR
+2.101(b)</u>
+          </xref> and summarized in Table 1-2.</p>
+        <p id="Table_1-2_DoD_Micro-purchase_Thresholds">Table 1-2: DoD Micro-purchase Thresholds</p>
         <table>
-            <tgroup cols="4">
-                <colspec colnum="1" colwidth="0.2*" colname="col1"/>
-                <colspec colnum="2" colwidth="1.9*" colname="col2"/>
-                <colspec colnum="3" colwidth="0.5*" colname="col3"/>
-                <colspec colnum="4" colwidth="1.4*" colname="col4"/>
-                <tbody>
-                    <row>
-                        <entry namest="col1" nameend="col4"> 
-                     <b>DoD Micro-purchase Thresholds</b> 
+          <tgroup cols="4">
+            <colspec colname="col1" colnum="1" colwidth="0.2*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.9*"/>
+            <colspec colname="col3" colnum="3" colwidth="0.5*"/>
+            <colspec colname="col4" colnum="4" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                  <entry nameend="col4" namest="col1">
+                     <b>DoD Micro-purchase Thresholds</b>
                   </entry>
-                    </row>
-                    <row>
-                        <entry/>
-                        <entry> 
-                     <b>Function</b> 
+              </row>
+              <row>
+                  <entry/>
+                  <entry>
+                     <b>Function</b>
                   </entry>
-                        <entry> 
-                     <b>Threshold</b> 
+                  <entry>
+                     <b>Threshold</b>
                   </entry>
-                        <entry> 
-                     <b>Authority</b> 
+                  <entry>
+                     <b>Authority</b>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>1</entry>
-                        <entry>Federal-Wide Open Market</entry>
-                        <entry>$10,000</entry>
-                        <entry>FAR 2.101, FAR 13.2</entry>
-                    </row>
-                    <row>
-                        <entry>2</entry>
-                        <entry>Construction subject to 40 USC Chapter 31, subchapter IV, Davis-Bacon Wage Rate Requirements</entry>
-                        <entry>$2,000</entry>
-                        <entry>FAR 2.101, FAR 13.2</entry>
-                    </row>
-                    <row>
-                        <entry>3</entry>
-                        <entry> 
-                     <p>Services subject to 41 USC Chapter 67,</p> 
-                     <p> Service Contract Labor Standards</p> 
+              </row>
+              <row>
+                  <entry>1</entry>
+                  <entry>Federal-Wide Open Market</entry>
+                  <entry>$10,000</entry>
+                  <entry>FAR 2.101, FAR 13.2</entry>
+              </row>
+              <row>
+                  <entry>2</entry>
+                  <entry>Construction subject to 40 USC Chapter 31, subchapter IV,
+Davis-Bacon Wage Rate Requirements</entry>
+                  <entry>$2,000</entry>
+                  <entry>FAR 2.101, FAR 13.2</entry>
+              </row>
+              <row>
+                  <entry>3</entry>
+                  <entry>Services subject to 41 USC Chapter 67, Service Contract Labor
+Standards</entry>
+                  <entry>$2,500</entry>
+                  <entry>FAR 2.101, FAR 13.2</entry>
+              </row>
+              <row>
+                  <entry>4</entry>
+                  <entry>GPC Emergency-Type Operations (ETO) Inside U.S.</entry>
+                  <entry>$20,000</entry>
+                  <entry>FAR 2.101, DFARS 213.270(c)(3) DFARS PGI 213.201</entry>
+              </row>
+              <row>
+                  <entry>5</entry>
+                  <entry>GPC ETO Outside U.S.</entry>
+                  <entry>$35,000</entry>
+                  <entry>FAR 2.101, DFARS 213.270(c)(3) DFARS PGI 213.201</entry>
+              </row>
+              <row>
+                  <entry>6</entry>
+                  <entry>Federal-Wide Higher Education Open Market</entry>
+                  <entry>$10,000 or greater</entry>
+                  <entry>Class Deviation 2018-O0018</entry>
+              </row>
+              <row>
+                  <entry>7</entry>
+                  <entry>GPC Convenience Checks (General – Unrelated to ETO and
+Other Emergency Uses)</entry>
+                  <entry>$5,000</entry>
+                  <entry>
+                     <p>P.L. 115-91, National Defense Authorization Act for Fiscal
+Year</p>
+                     <p>2018, Sec. 806(b)</p>
                   </entry>
-                        <entry>$2,500</entry>
-                        <entry>FAR 2.101, FAR 13.2</entry>
-                    </row>
-                    <row>
-                        <entry>4</entry>
-                        <entry> 
-                     <p>GPC Emergency-Type Operations (ETO)</p> 
-                     <p> Inside U.S.</p> 
+              </row>
+              <row>
+                  <entry>8</entry>
+                  <entry>GPC Convenience Checks for ETO and Other Emergency Uses (Inside
+U.S.)</entry>
+                  <entry>$10,000</entry>
+                  <entry>
+                     <p>P.L. 115-91, National Defense Authorization Act for Fiscal
+Year</p>
+                     <p>2018, Sec. 806(b)</p>
                   </entry>
-                        <entry>$20,000</entry>
-                        <entry> 
-                     <p>FAR 2.101, DFARS 213.270(c)(3)</p> 
-                     <p>DFARS PGI 213.201</p> 
+              </row>
+              <row>
+                  <entry>9</entry>
+                  <entry>GPC Convenience Checks for ETO and Other Emergency Uses (Outside
+U.S.)</entry>
+                  <entry>$17,500</entry>
+                  <entry>
+                     <p>P.L. 115-91, National Defense Authorization Act for Fiscal
+Year</p>
+                     <p>2018, Sec. 806(b)</p>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>5</entry>
-                        <entry>GPC ETO Outside U.S.</entry>
-                        <entry>$35,000</entry>
-                        <entry> 
-                     <p>FAR 2.101, DFARS 213.270(c)(3)</p> 
-                     <p>DFARS PGI 213.201</p> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry>6</entry>
-                        <entry>Federal-Wide Higher Education Open Market</entry>
-                        <entry>$10,000 or greater</entry>
-                        <entry>Class Deviation 2018-O0018</entry>
-                    </row>
-                    <row>
-                        <entry>7</entry>
-                        <entry>GPC Convenience Checks (General – Unrelated to ETO and Other Emergency Uses)</entry>
-                        <entry>$5,000</entry>
-                        <entry>P.L. 115-91, National Defense Authorization Act for Fiscal Year 2018, Sec. 806(b)</entry>
-                    </row>
-                    <row>
-                        <entry>8</entry>
-                        <entry>GPC Convenience Checks for ETO and Other Emergency Uses (Inside U.S.)</entry>
-                        <entry>$10,000</entry>
-                        <entry>P.L. 115-91, National Defense Authorization Act for Fiscal Year 2018, Sec. 806(b)</entry>
-                    </row>
-                    <row>
-                        <entry>9</entry>
-                        <entry>GPC Convenience Checks for ETO and Other Emergency Uses (Outside U.S.)</entry>
-                        <entry>$17,500</entry>
-                        <entry>P.L. 115-91, National Defense Authorization Act for Fiscal Year 2018, Sec. 806(b)</entry>
-                    </row>
-                </tbody>
-            </tgroup>
+              </row>
+            </tbody>
+          </tgroup>
         </table>
-        <p id="Toc101163502"/>
-    </conbody>
-</concept>
+      </conbody>
+    </concept>

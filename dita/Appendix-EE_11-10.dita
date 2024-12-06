@@ -2,40 +2,69 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_11-10">
-   <title>
-      <ph props="autonumber">11-10.</ph> Reporting and Monitoring for Fraud</title>
-   <conbody>
-      <p outputclass="List1">a. <b>Reports for Identifying and Preventing Fraud</b>. A/OPCs should use the
-following reports to identify potential card misuse and fraud and to prevent
-fraud from occurring:</p>
-      <p>1) <b>Declined Transaction Authorizations Report</b>. This report identifies
-cardholders who have attempted to use an account to buy an item for which they
-are not authorized, that exceeds their single purchase limit, that exceeds their
-monthly purchase limit, or from a merchant that falls under a blocked MCC.</p>
-      <p>2) <b>Transaction Detail Report</b>. This report identifies the date,
-merchant, reason code, dollar amount, and status of each dispute filed by CH.
-BOs and A/OPCs should track and follow up on disputes to determine their
-outcomes. Cardholders should attempt to resolve disputes directly with merchants
-prior to filing a disputes report. If a merchant is consistently appearing on
-the disputes report, the A/OPC should determine whether the merchant may have
-billing issues, quality issues, or is attempting to commit fraud by submitting
-false transactions.</p>
-      <p>3) <b>Unusual Spending Activity Report</b>. This report identifies
-transactions that may warrant further review.</p>
-      <p>4) <b>Account Status Change Report.</b> This report lists accounts with a
-change status of lost/stolen, closed, or reopened accounts. This status may
-either be an indicator that the CH needs to secure the account or that the CH is
-attempting to disguise misuse or fraudulent activity by denying the charges.</p>
-      <p outputclass="List1">b. <b>Reporting Fraud</b>. All identified instances of suspected fraud or
-abuse must be reported. Various channels of reporting include the Chain of
-Command, the A/OPC, the command’s procurement fraud advisor (Staff/Command Judge
-Advocate), the servicing Criminal Investigation Division office, internal review
-organizations, and Inspector Generals at all levels. When a Defense criminal
-investigative organization or Defense organizational element responsible for
-investigating potential misconduct involving the GPC initiates an investigation
-into allegations of charge card violations regarding a GPC, the CH’s commander
-or second-line supervisor, as appropriate, and security manager must be
-notified. Whenever possible, this notification should take place within 72 hours
-of the initiation. See DoD Charge Card Guidebook A.1.11.</p>
-   </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">11-10.</ph> Cardholder Fraud and Merchant
+Fraud</title>
+      <conbody>
+        <p outputclass="List1">a. <b>Cardholder Fraud, Misuse and
+Abuse</b>. This type of fraud occurs when a cardholder uses
+their account to transact business that is not sanctioned, not
+authorized, not in one’s official Government capacity, not
+for the purpose for which the card was issued, and/or not as part
+of official Government business. Intentional use of a GPC account
+for other than official Government business constitutes abuse, and
+depending on the situation, may constitute fraud.</p>
+        <p id="Figure_11-2_Violation_Category_Decision" outputclass="List1">b.
+<b>Consequences of Cardholder Fraud</b>. Cardholders have
+a responsibility to use the account to procure supplies and
+services at the direction of the Army under official purchase
+authorization. If a CH abuses the GPC or participates in fraud, the
+Army may cancel the purchase account and take appropriate
+disciplinary action against the CH. In the case of account abuse,
+any participating employee may be held personally liable to the
+Federal Government for the amount of any unauthorized transaction.
+Depending on the facts involved, an employee may be subject to fine
+or imprisonment for action relating to purchase account abuse and
+fraud. There are guidelines and procedures for disciplinary action
+to be taken against individuals for the improper, fraudulent, or
+abusive use of the purchase account. Purchase account abuse/fraud
+may have the following potential consequences:</p>
+        <p outputclass="List2">1) Counseling</p>
+        <p outputclass="List2">2) Cancellation of card account</p>
+        <p outputclass="List2">3) Notation in employee performance evaluation</p>
+        <p outputclass="List2">4) Reprimand</p>
+        <p outputclass="List2">5) Suspension of employment</p>
+        <p outputclass="List2">6) Termination of employment</p>
+        <p outputclass="List2">7) Criminal prosecution</p>
+        <p outputclass="List1">c. <b>If Cardholder Fraud Occurs</b>. If
+an A/OPC suspects that a BO or CH has committed fraud, the A/OPC
+should first contact the individual’s command. The A/OPC may
+file a complaint with the Army Inspector General. Investigations
+are initiated upon receipt of a complaint or other information that
+gives a reasonable account of the wrongful or fraudulent act. The
+DoD hotline phone number is 800-424-9098 to report fraud. A/OPCs
+should be as specific as possible when reporting fraud. The
+following information should be provided:</p>
+        <p outputclass="List2">1) Employee's full name</p>
+        <p outputclass="List2">2) Rank or pay grade</p>
+        <p outputclass="List2">3) Duty station</p>
+        <p outputclass="List2">4) Specific suspected fraudulent act or
+wrongdoing</p>
+        <p outputclass="List2">5) Specific dates and times</p>
+        <p outputclass="List2">6) Specific location of where the suspected
+fraudulent act occurred</p>
+        <p outputclass="List2">7) How the individual completed the alleged
+fraudulent act</p>
+        <p outputclass="List1">d. <b>Merchant Fraud</b>. This type of
+fraud is committed by the merchant. Merchant fraud can occur either
+with or without the CH’s knowledge or consent. Rotating
+sources may help prevent this type of fraud. Billing errors, such
+as duplicate charges, are not considered merchant fraud. Examples
+include:</p>
+        <p outputclass="List2">1) A vendor intentionally charges for items not
+delivered/services not performed.</p>
+        <p outputclass="List2">2) A vendor offers bribes and gratuities to a
+government employee in exchange for gaining purchasing
+activity.</p>
+      </conbody>
+    </concept>

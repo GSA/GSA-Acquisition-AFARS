@@ -2,193 +2,168 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_4-2">
-    <title>
+      <title>
       <ph props="autonumber">4-2.</ph> Recommended Training</title>
-    <conbody>
+      <conbody>
+
         <p>CHs, BOs, and A/OPCs are encouraged to take additional training
-            identified in Table 4-2.</p>
-        <p id="Toc101947043">Table 4-2: Recommended Training for A/OPCs,
-            Billing Officials and Cardholders</p>
+identified in Table 4-2 and <xref format="html"
+               href="https://www.acq.osd.mil/asda/dpc/ce/pc/training.html"
+               scope="external">DPCAP
+Purchase Cards - Training</xref>.</p>
+        <p id="Table_4-2_Recommended_Training_for_A_OP">Table 4-2: Recommended Training for A/OPCs,
+Billing Officials and Cardholders</p>
         <table>
-            <tgroup cols="5">
-                <colspec colnum="1" colwidth="1.2*" colname="col1"/>
-                <colspec colnum="2" colwidth="0.7*" colname="col2"/>
-                <colspec colnum="3" colwidth="0.7*" colname="col3"/>
-                <colspec colnum="4" colwidth="0.7*" colname="col4"/>
-                <colspec colnum="5" colwidth="1.7*" colname="col5"/>
-                <thead>
-                    <row>
-                        <entry namest="col1" nameend="col5" id="Toc532909297"> 
-                     <b>Recommended Training</b> 
+          <tgroup cols="5">
+            <colspec colname="col1" colnum="1" colwidth="1.2*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.7*"/>
+            <colspec colname="col3" colnum="3" colwidth="0.7*"/>
+            <colspec colname="col4" colnum="4" colwidth="0.7*"/>
+            <colspec colname="col5" colnum="5" colwidth="1.7*"/>
+            <tbody>
+              <row>
+                  <entry nameend="col5" namest="col1">
+                     <b>Recommended Training</b>
                   </entry>
-                    </row>
-                </thead>
-                <tbody>
-                    <row>
-                        <entry> 
-                     <b>Course Name</b> 
+              </row>
+              <row>
+                  <entry>
+                     <b>Course Name</b>
                   </entry>
-                        <entry> 
-                     <b>Course Number</b> 
+                  <entry>
+                     <b>Course Number</b>
                   </entry>
-                        <entry> 
-                     <b>Role Level</b> 
+                  <entry>
+                     <b>Role Level</b>
                   </entry>
-                        <entry> 
-                     <b>Frequency</b> 
+                  <entry>
+                     <b>Frequency</b>
                   </entry>
-                        <entry> 
-                     <p> 
-                        <b>Course Offeror/</b> 
-                     </p> 
+                  <entry>
+                     <b>Course Offeror/ Hyperlink</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>GSA SmartPay Purchase Training for Program Coordinators</entry>
+                  <entry>
+                     <p>A/OPC</p>
+                     <p>Training - Purchase</p>
+                  </entry>
+                  <entry>A/OPCs</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <p>GSA</p>
                      <p>
-                            <b>Hyperlink</b> 
-                     </p> 
+                        <xref format="html"
+                              href="https://training.smartpay.gsa.gov/gsa-smartpay-purchase-training-program-coordinators-aopcs"
+                              scope="external">
+                           <u>GSA
+SmartPay Purchase Training</u>
+                        </xref>
+                        <xref format="html"
+                              href="https://training.smartpay.gsa.gov/gsa-smartpay-purchase-training-program-coordinators-aopcs"
+                              scope="external">
+                           <u>for
+Program Coordinators (A/OPCs)</u>
+                        </xref>
+                     </p>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>GSA SmartPay Purchase Training for Program
-                            Coordinators</entry>
-                        <entry>A/OPC Training - Purchase</entry>
-                        <entry>A/OPCs</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>GSA</p> 
-                     <p> 
-                        <xref href="https://training.smartpay.gsa.gov/gsa-smartpay-purchase-training-program-coordinators-aopcs"
-                              format="html"
-                              scope="external">GSA SmartPay Purchase Training for
-                            Program Coordinators (A/OPCs)</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>Certifying Officer Training for GPC Payments</entry>
+                  <entry>CLG 006</entry>
+                  <entry>A/OPCs</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <xref format="html" href="https://id.dau.edu/" scope="external">DAU</xref>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>Certifying Officer Training for GPC
-                            Payments</entry>
-                        <entry>CLG 006</entry>
-                        <entry>A/OPCs</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>DAU</p> 
-                     <p> 
-                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=2057"
-                              format="html"
-                              scope="external">CLG 006 Certifying Officer
-                            Legislation Training</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>Contracting for the Rest of Us</entry>
+                  <entry>CLC 011</entry>
+                  <entry>CHs/A/BOs (not in a Contracting Office)</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <xref format="html" href="https://id.dau.edu/" scope="external">DAU</xref>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>Contracting for the Rest of Us</entry>
-                        <entry>CLC 011</entry>
-                        <entry>CHs/A/BOs (not in a Contracting Office)</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>DAU</p> 
-                     <p> 
-                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=232"
-                              format="html"
-                              scope="external">CLC 011 Contracting for the Rest of
-                            Us</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>DoD Sustainable Procurement Program</entry>
+                  <entry>CLC 046</entry>
+                  <entry>All</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <xref format="html" href="https://id.dau.edu/" scope="external">DAU</xref>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>DoD Sustainable Procurement Program</entry>
-                        <entry>CLC 046</entry>
-                        <entry>All</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>DAU</p> 
-                     <p> 
-                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=497"
-                              format="html"
-                              scope="external">CLC 046 DoD Sustainable Procurement
-                            Program</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>DAU AbilityOne Training</entry>
+                  <entry>CLM 023</entry>
+                  <entry>All</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <xref format="html" href="https://id.dau.edu/" scope="external">DAU</xref>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>DAU AbilityOne Training</entry>
-                        <entry>CLM 023</entry>
-                        <entry>All</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>DAU</p> 
-                     <p> 
-                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=418"
-                              format="html"
-                              scope="external">CLM 023 DAU AbilityOne
-                            Training</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>Procurement Fraud Indicators</entry>
+                  <entry>CLM 049</entry>
+                  <entry>All</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <xref format="html" href="https://id.dau.edu/" scope="external">DAU</xref>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>Procurement Fraud Indicators</entry>
-                        <entry>CLM 049</entry>
-                        <entry>All</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>DAU</p> 
-                     <p> 
-                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=1689"
-                              format="html"
-                              scope="external">CLM 049 Procurement Fraud
-                            Indicators</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>
+                     <p>Section 889: Prohibition on Contracting for Certain Telecom
+and</p>
+                     <p>Video Surveillance Services/Equipment</p>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>Section 889: Prohibition on Contracting for
-                            Certain Telecom and Video Surveillance
-                            Services/Equipment</entry>
-                        <entry>FAC 889</entry>
-                        <entry>All</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>DAU</p> 
-                     <p> 
-                        <xref href="https://icatalog.dau.edu/onlinecatalog/courses.aspx?crs_id=12380"
-                              format="html"
-                              scope="external">FAC 889 Section 889: Prohibition on
-                            Telecomm &amp; Video Equip</xref> 
-                     </p> 
+                  <entry>FAC 889</entry>
+                  <entry>All</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <xref format="html" href="https://id.dau.edu/" scope="external">DAU</xref>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>Micro-purchases and Section 508
-                            Requirements</entry>
-                        <entry>Online</entry>
-                        <entry>CHs</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>GSA</p> 
-                     <p> 
-                        <xref href="https://www.section508.gov/training-home/#Onlinetraining"
-                              format="html"
-                              scope="external">Accessibility Training |
-                            Section508</xref> 
-                     </p> 
+              </row>
+              <row>
+                  <entry>Micro-purchases and Section 508 Requirements</entry>
+                  <entry>Online</entry>
+                  <entry>CHs</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <p>GSA</p>
+                     <p>
+                        <xref format="html"
+                              href="https://www.section508.gov/training-home/#Onlinetraining"
+                              scope="external">
+                           <u>Accessibility
+Training | Section508</u>
+                        </xref>
+                     </p>
                   </entry>
-                    </row>
-                    <row>
-                        <entry>GSA SmartPay Purchase Training for Account
-                            Holders and Approving Officials</entry>
-                        <entry>Purchase Card Training for Account Holders &amp;
-                            A/BO</entry>
-                        <entry>CHs/A/BOs</entry>
-                        <entry>Initial</entry>
-                        <entry> 
-                     <p>GSA</p> 
-                     <p> 
-                        <xref href="https://smartpay.gsa.gov/gsa-smartpay-online-training"
-                              format="html"
-                              scope="external">GSA SmartPay Online Training</xref>
-                            </p> 
+              </row>
+              <row>
+                  <entry>GSA SmartPay Purchase Training for Account Holders and Approving
+Officials</entry>
+                  <entry>Purchase Card Training for Account Holders &amp; A/BO</entry>
+                  <entry>CHs/A/BOs</entry>
+                  <entry>Initial</entry>
+                  <entry>
+                     <p>GSA</p>
+                     <p>
+                        <xref format="html"
+                              href="https://smartpay.gsa.gov/gsa-smartpay-online-training"
+                              scope="external">
+                           <u>GSA
+SmartPay Online Training</u>
+                        </xref>
+                     </p>
                   </entry>
-                    </row>
-                </tbody>
-            </tgroup>
+              </row>
+            </tbody>
+          </tgroup>
         </table>
-    </conbody>
-</concept>
+      </conbody>
+    </concept>

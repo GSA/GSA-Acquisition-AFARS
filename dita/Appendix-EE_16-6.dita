@@ -2,137 +2,16 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_Appendix-EE_16-6">
-    <title>
-      <ph props="autonumber">16-6.</ph> Approved Exceptions </title>
-    <conbody>
-        <p> </p>
-        <p>The organizations below have been granted an approved exception to purchase small quantities of commercial-off-the-shelf Non-Standard Ammunition (NSA) and/or Small Arms Parts: </p>
-        <p id="Toc101947152">Table 16-1: Approved Organization NSA Exceptions</p>
-        <table>
-            <tgroup cols="4">
-                <colspec colnum="1" colwidth="0.2*" colname="col1"/>
-                <colspec colnum="2" colwidth="1.4*" colname="col2"/>
-                <colspec colnum="3" colwidth="1*" colname="col3"/>
-                <colspec colnum="4" colwidth="1.4*" colname="col4"/>
-                <thead>
-                    <row>
-                        <entry/>
-                        <entry> 
-                     <b>Approved Organization</b> 
-                  </entry>
-                        <entry> 
-                     <b>Description</b> 
-                  </entry>
-                        <entry> 
-                     <b>Purpose</b> 
-                  </entry>
-                    </row>
-                </thead>
-                <tbody>
-                    <row>
-                        <entry>a.</entry>
-                        <entry>U.S. Army JPEO Armaments &amp; Ammunition (JPEO A&amp;A) and Aberdeen Test Center</entry>
-                        <entry>NSA and Arms Parts</entry>
-                        <entry>Conducts tests on numerous weapon systems, including small arms, foreign weapons tests, failure analysis, and other firing activities with NSA at DEVCOM – AC Test Facility.</entry>
-                    </row>
-                    <row>
-                        <entry>b.</entry>
-                        <entry>U.S. Army Accessions Support Brigade</entry>
-                        <entry>Non-combat weapons and NSA</entry>
-                        <entry>In support of the U.S. Army Marksmanship Unit IAW AR 710-2.</entry>
-                    </row>
-                    <row>
-                        <entry>c.</entry>
-                        <entry>U.S. Army Criminal Investigation Lab (USCIL)</entry>
-                        <entry>Test weapons and NSA</entry>
-                        <entry>Forensic testing of evidence seized during criminal investigations.</entry>
-                    </row>
-                    <row>
-                        <entry>d.</entry>
-                        <entry>U.S. Army Special Operations Command (USASOC)</entry>
-                        <entry>NSA - Testing</entry>
-                        <entry>Testing - RDT&amp;E ammunition in limited quantities on a regular recurring basis to determine accuracy, lethality, and safety and whether to invest in larger quantities for follow on testing or deployment.</entry>
-                    </row>
-                    <row>
-                        <entry>e.</entry>
-                        <entry>U.S. Army Development Command Armaments Center (DEVCOM-AC)</entry>
-                        <entry>Arms parts and Arms Accessories</entry>
-                        <entry>Conduct weapons tests and failure analysis. Support PM SL Soldier Enhancement Programs (SEP) and JPEO A&amp;A engineering test and evaluations.</entry>
-                    </row>
-                    <row>
-                        <entry>f.</entry>
-                        <entry>U.S. Army NAFI MWR activities at Forts: Benning, Campbell, Carson, Knox, Stewart, Jackson, Gordon, Bragg, Hood, McCoy, Drum, Redstone Arsenal, West Point, Fort Leavenworth</entry>
-                        <entry> 
-                     <p>NSA – IAW AR 215-1</p> 
-                     <p outputclass="List2">1. Resale for shooting ranges</p> 
-                     <p outputclass="List2">2. Ranges used to qualify Army military personnel on small arms. (NAF does not provide the NSA for this)</p> 
-                  </entry>
-                        <entry>Purchase Rifle Ammunition, Shotgun Shells, Repair Parts, and Pistol Ammunition to support Outdoor Recreation Recreational Shooting Programs.</entry>
-                    </row>
-                    <row>
-                        <entry>g.</entry>
-                        <entry>Project Manager Soldier Lethality</entry>
-                        <entry>Arms parts and Arms Accessories</entry>
-                        <entry>Purchase repair parts and accessories for RDT&amp;E of COTS arms. Soldier Enhancement Programs (SEP).</entry>
-                    </row>
-                    <row>
-                        <entry>h.</entry>
-                        <entry>Air National Guard (ANG)</entry>
-                        <entry> 
-                     <p>Non-toxic ammunition</p> 
-                     <p>AFI 91-212, Bird/wildlife Aircraft Strike Hazard (BASH) Management Program</p> 
-                  </entry>
-                        <entry> 
-                     <p>Migratory game bird population conflicts with normal safe flying operations presenting a clear hazard to military aircraft operating in the air space.</p> 
-                     <p>Use of non-toxic ammunition to manage the bird strike risk and dispatch migratory game birds when necessary.</p> 
-                  </entry>
-                    </row>
-                    <row>
-                        <entry>i.</entry>
-                        <entry>U.S. Army Fort Hood 1CD: Horse Cavalry Detachment Ceremony</entry>
-                        <entry>NSA for No load ceremonial ammunition</entry>
-                        <entry>Need for no load ceremonial ammunition during Command Ceremonies where the Horse Cavalry Detachment performs.</entry>
-                    </row>
-                    <row>
-                        <entry>j.</entry>
-                        <entry>U.S. Army Ground Vehicle Systems Center (GVSC) Survivability Armor Ballistic Lab (SABL)</entry>
-                        <entry>NSA to support SABL mission</entry>
-                        <entry>Sole test agency for qualification and acceptance testing of Transparent Armor (TA) fielded on all Army Systems.</entry>
-                    </row>
-                    <row>
-                        <entry>k.</entry>
-                        <entry>U.S. Army Garrisons</entry>
-                        <entry> 
-                     <p>All purchases of air rifles and associated pellets authorized on</p> 
-                     <p>Table 63 of CTA 50-909</p> 
-                  </entry>
-                        <entry>All purchases of air rifles and associated pellets, in support of Pest Management Activities.</entry>
-                    </row>
-                    <row>
-                        <entry>l.</entry>
-                        <entry>U.S. Army Research, Development and Engineering Command (ARDEC) that has changed name to DEVCOM-AC</entry>
-                        <entry> 
-                     <p>Two Waivers:</p> 
-                     <p outputclass="List2">1. Purchase of small quantities of COTS NSA - 5 Feb 13</p> 
-                     <p outputclass="List2">2. Purchase of required explosives and munitions, including energetics, NSA and ammunition components - 24 Aug 18</p> 
-                  </entry>
-                        <entry>NSA to conduct foreign weapons tests, failure analysis, and other firing activities with NSA at their Armaments Test Facility (ATF). Need small quantities of NSA that they are unable to supply efficiently through the contracting office.</entry>
-                    </row>
-                    <row>
-                        <entry/>
-                        <entry/>
-                        <entry/>
-                        <entry/>
-                    </row>
-                    <row>
-                        <entry namest="col1" nameend="col4"> 
-                     <p>Note 1: Future approved waivers will be maintained on the Army PAM site</p> 
-                     <p>Note 2: Each approved organization must submit an annual report of expenditures to ODASA(P) and JPEO A&amp;A (See Section 16-7d.)</p> 
-                  </entry>
-                    </row>
-                </tbody>
-            </tgroup>
-        </table>
-        <p id="Toc101775753"/>
-    </conbody>
-</concept>
+      <title>
+      <ph props="autonumber">16-6.</ph> Approved Exceptions</title>
+      <conbody>
+
+        <p>Organizations granted an approved exception to purchase small
+quantities of commercial-off-the-shelf Non-Standard Ammunition
+(NSA) and/or Small Arms Parts are listed and maintained on the PAM
+website: <xref format="html"
+               href="https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx"
+               scope="external">https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx</xref>
+          <ph id="Table_16-1_Approved_Organization_NSA_Ex"/>.0.</p>
+      </conbody>
+    </concept>

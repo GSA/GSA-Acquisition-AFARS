@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_14-3">
+      <title>
+      <ph props="autonumber">14-3.</ph> Prohibited Transactions</title>
+      <conbody>
+        <p>The following list identifies supplies and services that are
+prohibited from purchase with the GPC.</p>
+        <p outputclass="List1">a. <b>Aircraft fuel and oil</b>. The Air
+card is the appropriate procurement method.</p>
+        <p outputclass="List1">b. <b>Auto Insurance for Government-owned
+vehicles</b>.</p>
+        <p outputclass="List1">c. <b>Bail and Bond Payments</b>.</p>
+        <p outputclass="List1">d. <b>Betting, casino gaming chips, and
+off-track betting</b>.</p>
+        <p outputclass="List1">e. <b>Cash advances, including money orders
+and travelers’ checks</b>.</p>
+        <p outputclass="List1">f. <b>Court costs, alimony, and child
+support</b>.</p>
+        <p id="Table_14-1_Cyber_Security_Prohibitions" outputclass="List1">g.
+<b>Dating and escort services</b>.</p>
+        <p outputclass="List1">h. <b>Equal Employment Opportunity (EEO)
+settlements</b>.</p>
+        <p outputclass="List1">i. <b>Equipment, Systems, and Services Using
+Covered Telecommunications Equipment or Services as a Substantial
+Component or Critical Technology</b>. FAR 13.201(j)(1)
+prohibits use of the GPC to “procure, obtain, or extend or
+renew a contract to procure or obtain, any equipment, system, or
+service that uses covered telecommunications equipment or services
+as a substantial or essential component of any system, or as a
+critical technology as part of any system, unless an exception
+applies or a waiver is granted.”</p>
+        <p outputclass="List1">j. <b>Fines</b>. Use of the GPC to
+settle a commercial or governmental fine is generally
+prohibited.</p>
+        <p outputclass="List1">k. <b>Foreign currency</b>.</p>
+        <p outputclass="List1">l. <b>Gift Certificates and Gift
+Cards</b>. Buying gift certificates and cards is generally
+prohibited. Gift certificates and gift cards are considered cash
+advances and must not be purchased with the GPC, even to obtain
+items from merchants that do not accept the GPC. As with cash and
+near-cash, gift certificates and gift cards are prohibited because
+they are easily misappropriated, and the award of gift certificates
+or gift cards requires the submission of 1099 reports in accordance
+with IRS regulations. The Army is required to file a form 1099-MISC
+for payments to individuals totaling more than $600 in a tax
+year.</p>
+        <p outputclass="List1">m. <b>Perfluorooctane Sulfonate (PFOS) or
+Perfluorooctanoic Acid (PFOA) Containing Items</b>.
+Cardholders must not procure any covered items that contain PFOS or
+PFOA. Covered items include (1) nonstick cookware or cooking
+utensils for use in galleys or dining facilities; and (2)
+upholstered furniture, carpets, and rugs that have been treated
+with stain-resistant coatings.</p>
+        <p outputclass="List1">n. <b>Personal use Purchases.</b>
+        </p>
+        <p outputclass="List1">o. <b>Pharmaceuticals</b>.
+Pharmaceuticals must be purchased through the DLA supply
+system.</p>
+        <p outputclass="List1">p. <b>Repair of leased GSA vehicles</b>.
+The fleet card is the appropriate method for these repairs.</p>
+        <p outputclass="List1">q. <b>Salaries and Wages.</b>
+        </p>
+        <p outputclass="List1">r. <b>Savings bonds</b>.</p>
+        <p outputclass="List1">s. <b>Supplies or Services from military
+personnel or civilian employees</b> (e.g., when Government
+employees are acting as vendors).</p>
+        <p outputclass="List1">t. <b>Taxes.</b> Use of the GPC for
+personal tax payments is prohibited because personal expenses
+cannot be charged to the GPC. As a Federal Government entity, DoD
+is exempt from paying most taxes to any other Federal, State, or
+local authority. (Some states, like New Mexico, levy taxes the
+Federal Government must pay.) For more information, see the GSA
+State Tax Exemption Information for Government Charge Cards.</p>
+        <p outputclass="List1">u. <b>Tax on Certain Foreign
+Procurements.</b> CHs will not use the GPC as a method of
+payment or purchase when a contract instrument contains FAR Clause
+52.229-12, unless DFARS Clause 252.229-7014 is also present. In
+certain circumstances, the Government must withhold a two percent
+excise tax on foreign payments to vendors to comply with the FAR
+and IRS regulations. The GPC does not provide a method to
+accomplish this withholding. As a result, the GPC is prohibited
+from being used.</p>
+        <p outputclass="List1">v. <b>Telecommunication Systems</b>. Use
+of the GPC to purchase major telecommunication systems, such as
+Federal Telecommunications System or Defense Switched Network (DSN)
+systems, is prohibited. A contract vehicle is required because such
+purchases include special terms and conditions. DFARS 239.74
+governs DoD’s acquisition of telecommunications.</p>
+        <p outputclass="List1">w. <b>TikTok</b>. In accordance with FAR
+13.201(k), the prohibition in FAR 4.2202 on use of a ByteDance
+covered application (“TikTok”) applies to purchases at
+or below the MPT where the performance of the contract may require
+the presence or use of a covered application (e.g., where social
+media advertising services might be part of the procurement),
+unless an exception is granted.</p>
+        <p outputclass="List1">x. <b>Video Surveillance
+Cameras</b>.</p>
+        <p id="Toc153185523" outputclass="List1">y. <ph id="Toc153185524"/>
+          <b>Wire
+transfers.</b>
+        </p>
+      </conbody>
+    </concept>

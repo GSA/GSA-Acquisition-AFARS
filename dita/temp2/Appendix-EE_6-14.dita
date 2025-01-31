@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_6-14">
+      <title>
+      <ph props="autonumber">6-14.</ph>
+Services</title>
+      <conbody>
+        <p outputclass="List1">a. The GPC may be used to purchase non-personal
+services up to the applicable MPT, whether recurring or
+non-recurring. If recurring, the requirement is the total estimated
+cost per fiscal year. Recurring services estimated to exceed the
+MPT per fiscal year will be acquired through the contracting
+office. Recurring services are performed at regular intervals and
+have a demand that can be accurately predicted on a yearly basis.
+Non-recurring services involve one-time, unpredictable, or
+occasional requirements, and may be purchased with the GPC up to
+the MPT whenever a requirement occurs.</p>
+        <p outputclass="List1">b. When a CH receives a request to purchase
+services, it is crucial to identify if the services are subject to
+the Service Contract Labor Standards (SCLS) and determine the
+applicable MPT.</p>
+        <p outputclass="List1">c. <b>Services Subject to Service Contract
+Labor Standards</b>. Examples include services performed by
+carpenters, electricians, mechanics, plumbers, iron workers,
+craftsmen, operating engineers, and other laborers. Other examples
+include court reporters, administrative assistants, engineering
+technicians, and paralegals. To determine whether a service is
+subject to SCLS, CHs and A/OPCs can search the Service Contract Act
+wage determinations in SAM.gov to locate a list of applicable
+occupations for a specified state and county.</p>
+        <p outputclass="List1">d. <b>Services Not Subject to Service
+Contract Labor Standards</b>. The following services are not
+subject to SCLS:</p>
+        <p outputclass="List2">1) <b>Professional Services</b>.
+Examples include services performed by architects, engineers,
+professors, chemists, lawyers, doctors of medicine or dentistry,
+and software engineers. These services may include office work
+related to operations, teaching, practice of law or medicine, and
+skilled services such as computer services, sales, and business
+management. The primary duty must be the performance of work by
+persons requiring knowledge of an advanced type in a field of
+science or learning customarily acquired by a prolonged course of
+specialized intellectual instruction or the performance of work
+requiring invention, imagination, originality, or talent in a
+recognized field of artistic or creative endeavor. If unsure, CHs
+and A/OPCs can search the Service Contract Act wage determinations
+in SAM.gov to confirm whether the type of worker is on the list for
+the applicable location.</p>
+        <p outputclass="List2">2) <b>Statutory Exemptions from SCLS
+Coverage</b>. These services include the following:</p>
+        <p>(a) Construction, alteration, or repair, including painting, and
+decorating, of public buildings or public works (These services are
+covered by the Davis-Bacon Act.)</p>
+        <p>(b) Transporting freight or personnel where published tariff
+rates are in effect</p>
+        <p>(c) Furnishing services by radio, telephone, telegraph, or cable
+companies subject to the Communications Act of 1934</p>
+        <p>(d) Public utility service</p>
+        <p>(e) U.S. Postal Service</p>
+        <p>(f) Services performed outside the U.S. (except in territories
+administered by the U.S., as defined in the Act)</p>
+        <p outputclass="List2">3) <b>Regulatory Exemptions from SCLS
+Coverage</b>. These services include the following:</p>
+        <p>(a) Shipping by common carrier, when the Government packs the
+item for a company to pick up and ship (e.g., UPS or FedEx)</p>
+        <p>(b) Maintenance, calibration, or repair of the following types
+of equipment:</p>
+        <p outputclass="List2">(1) Automated data processing equipment</p>
+        <p outputclass="List2">(2) Scientific equipment and medical apparatus or
+equipment if the application of micro- electronic circuitry or
+other technology of at least similar sophistication is an essential
+element</p>
+        <p outputclass="List2">(3) Office/business machines not otherwise exempt
+if such services are performed by the manufacturer or supplier of
+the equipment</p>
+        <p outputclass="List2">4) <b>Commercially Exempt</b>. The below
+services are exempt when the following criteria apply: The service
+is offered and sold regularly, furnished at “market” or
+“catalog” prices, and provided by merchant employee
+spending a small portion of available hours for Government
+services.</p>
+        <p>(a) Maintenance and servicing of motorized vehicles owned by
+Federal agencies</p>
+        <p>(b) Lodging, meals, and space in hotels/motels for
+conferences</p>
+        <p>(c) Real estate services</p>
+        <p>(d) Transportation on regularly scheduled routes</p>
+        <p>(e) Relocation services</p>
+        <p>(f) Maintenance, calibration, repair, and/or installation
+services for all types of equipment obtained from manufacturer or
+supplier of the equipment under a sole source contract.</p>
+      </conbody>
+    </concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5107.503"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5107.503</ph>  Policy.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(e)(i)  <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers must ensure that requiring officials provide a written determination as required by FAR 7.503(e) and DFARS 207.503(e) prior to issuance of a solicitation for award of a service contract, including those contract types described in FAR 16.5, a services task order awarded under FAR 16.5, or modification of an awarded service contract’s or task order’s statement of work.  <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers shall document the official contract file with the determination.  </p>
+      <p outputclass="List3" class="- topic/p ">(ii)  The Request for Services Contract Approval (RSCA) form (see Army Regulation (AR) 70-13), or the acquisition plan, acquisition strategy, or memorandum for file satisfies the requirement in <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5107.503(e)(i).</p>
+      <p outputclass="List1" class="- topic/p ">      (iii)  RSCA policy for requiring activities is available at AR 70-13, sections 2-2 and 2-9, and at the <xref href="https://www.army.mil/asamra#org-resources"
+               format="html"
+               scope="external"
+               class="- topic/xref ">Office of the Assistant Secretary of the Army (Manpower and Reserve Affairs) (ASA M&amp;RA) website</xref> under ASA M&amp;RA Resources<ph rev="Revised October 1, 2024" class="- topic/ph ">, Total Force Management/Manpower Mix and Request for Service Contract Approval Form.</ph>and Service Contract Requirement Approval <ph rev="Revised October 1, 2024" class="- topic/ph ">form</ph>. </p>
+      <p outputclass="List1" class="- topic/p "> </p>
+   </conbody>
+</concept>

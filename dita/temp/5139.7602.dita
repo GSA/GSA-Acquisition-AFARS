@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5139.7602"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5139.7602</ph> Policy and Responsibilities.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List2" class="- topic/p ">(1) Contracting <ph rev="Revised October 1, 2024" class="- topic/ph ">o</ph>fficers are responsible to ensure that Purchase Request Packages for NEW Contracts include a PWS with the approved/standard language in accordance with <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+         <xref outputclass="fm:ParaNumOnly"
+               href="5111.106.dita#AFARS_5111.106"
+               base="AFARS-5111.106"
+               xtrc="5111.106"
+               class="- topic/xref ">5111.106 Cloud Requirements.</xref> unless a waiver approved by ECMA is included. The standard language is provided in Appendix HH. The waiver must be filed in the official contract file. This includes follow-on contracts. </p>
+   </conbody>
+</concept>

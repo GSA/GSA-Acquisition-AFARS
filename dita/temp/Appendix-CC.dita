@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_Appendix-CC">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">APPENDIX - CC</ph> Army Procurement Management Review Program </title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(Revised 01 October 2024)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_Part_1.dita#AFARS_Appendix-CC_Part_1">PART 1 - INTRODUCTION</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-100.dita#AFARS_Appendix-CC-100">CC-100 Purpose and Application.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-101.dita#AFARS_Appendix-CC-101">CC-101 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-102.dita#AFARS_Appendix-CC-102">CC-102 Army Contracting Enterprise Strategic Objectives.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-103.dita#AFARS_Appendix-CC-103">CC-103 ACE Contracting Risk Management.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-104.dita#AFARS_Appendix-CC-104">CC-104 ACE Contracting Risk Tolerance.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_Part_2.dita#AFARS_Appendix-CC_Part_2">PART 2 - PMR PROGRAM PHILOSOPHY AND POLICY</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-200.dita#AFARS_Appendix-CC-200">CC-200 Philosophy.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-201.dita#AFARS_Appendix-CC-201">CC-201 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_Part_3.dita#AFARS_Appendix-CC_Part_3">PART 3 - PMR RESPONSIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-300.dita#AFARS_Appendix-CC-300">CC-300 Assistant Secretary of the Army (Acquisition, Logistics and Technology) (ASA(ALT)).</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_Part_4.dita#AFARS_Appendix-CC_Part_4">PART 4 - PROCEDURES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-400.dita#AFARS_Appendix-CC-400">CC-400 Scheduling.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-401.dita#AFARS_Appendix-CC-401">CC-401 Types of Procurement Management Reviews.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-402.dita#AFARS_Appendix-CC-402">CC-402 
+      Preparation for Procurement Management Reviews.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-403.dita#AFARS_Appendix-CC-403">CC-403 
+      Results of Procurement Management Reviews.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-404.dita#AFARS_Appendix-CC-404">CC-404 Types of Procurement Management Reviews.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-CC_Part_5.dita#AFARS_Appendix-CC_Part_5">PART 5 - ACE ANNUAL SUMMARY HEALTH REPORT</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-500.dita#AFARS_Appendix-CC-500">CC-500 Purpose.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-501.dita#AFARS_Appendix-CC-501">CC-501 HCA Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-CC-502.dita#AFARS_Appendix-CC-502">CC-502 ODASA(P) Responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

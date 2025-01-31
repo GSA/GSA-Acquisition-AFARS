@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5117.7404"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5117.7404</ph> Limitations.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a) Foreign military sales contracts.</p>
+      <p outputclass="List2" class="- topic/p ">(1)(ii) The <ph rev="Revised October 1, 2024" class="- topic/ph ">HCA</ph> shall approve actions as stated in<xref href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS_217.7404"
+               format="html"
+               scope="external"
+               class="- topic/xref "> DFARS 217.7404</xref>(a)(1)(ii). See <xref href="Appendix-GG_Apendix-GG.dita#AFARS_Appendix-GG_Apendix-GG"
+               outputclass="fm:ParaNumOnly"
+               class="- topic/xref ">Appendix GG</xref> for further delegation.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_17-3">
+      <title>
+      <ph props="autonumber">17-3.</ph> Standard Reports in the Servicing
+Bank’s EAS</title>
+      <conbody>
+        <p>U.S. Bank Access Online features a full range of reports that
+enable users to analyze vital program data to support program
+management and vendor relationships. All Access Online reports are
+parameter- driven and have different parameters based on the data
+elements available for each report. Users can run reports by
+performing three basic steps:</p>
+        <p outputclass="List2">1) <b>Select the report</b>. Begin by
+accessing the custom reports function and then navigating to and
+selecting the custom report you want to run.</p>
+        <p outputclass="List2">2) <b>Specify parameters</b>. Set
+parameters for the report, such as date range.</p>
+        <p outputclass="List2">3) <b>Run the report</b>. After
+specifying any report-specific parameters, select to run the report
+or save and then run the report.</p>
+        <p id="Table_17-3_Summary_of_Standard_Report_C">Table 17-3: Summary of Standard Report
+Categories</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.7*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.3*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report Category</b>
+                  </entry>
+                  <entry>
+                     <b>Category Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Program management</entry>
+                  <entry>The reports in this category enable you to monitor compliance
+with your organization’s program policies. You can also use
+these reports for general program management activities.</entry>
+              </row>
+              <row>
+                  <entry>Financial management</entry>
+                  <entry>These reports contain detailed transaction information,
+including transaction data and allocation.</entry>
+              </row>
+              <row>
+                  <entry>Supplier management</entry>
+                  <entry>You can use the reports in this category to manage your supplier
+relationships, support negotiations and manage spending by
+category.</entry>
+              </row>
+              <row>
+                  <entry>Tax and compliance management</entry>
+                  <entry>You can use the reports in this category to estimate sales/use
+tax, track spending for 1099/1057 vendors, and perform other
+regulatory reporting (e.g., with minority-owned suppliers).</entry>
+              </row>
+              <row>
+                  <entry>Administration</entry>
+                  <entry>You can use the reports in this category to manage the
+functionality you use in Access Online.</entry>
+              </row>
+              <row>
+                  <entry>User Activity Audit reports</entry>
+                  <entry>These reports capture activity that users take in Access
+Online.</entry>
+              </row>
+              <row>
+                  <entry>Scheduled reports</entry>
+                  <entry>These reports are standard reports that Program Administrators
+can set up to run on specific dates in the future.</entry>
+              </row>
+              <row>
+                  <entry>Flex Data reports</entry>
+                  <entry>These are basic ad hoc reports that Program Administrators
+create based on pre-created report templates.</entry>
+              </row>
+              <row>
+                  <entry>Custom reports</entry>
+                  <entry>These are complex, highly customized ad hoc reports we worked
+with clients to create to meet specific program management
+needs.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-4_Program_Management_Reports">Table 17-4: Program Management Reports</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report</b>
+                  </entry>
+                  <entry>
+                     <b>Report Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Account History</entry>
+                  <entry>This report provides information on the history of changes to
+accounts so that you can easily manage and track updates.</entry>
+              </row>
+              <row>
+                  <entry>Account List</entry>
+                  <entry>You can use this report to give you a comprehensive list of all
+the accounts in your program. With a single, complete list you can
+quickly and easily review and make decisions about your program
+accounts.</entry>
+              </row>
+              <row>
+                  <entry>Account Spend Analysis</entry>
+                  <entry>This report helps you audit CH accounts to ensure program
+compliance.</entry>
+              </row>
+              <row>
+                  <entry>Account Status Change</entry>
+                  <entry>This report lets you quickly identify an account with changes
+within a given period. This information lets you track correct
+changes and spot trends that may need addressing (e.g., a high
+number of lost/stolen cards).</entry>
+              </row>
+              <row>
+                  <entry>Account Suspension</entry>
+                  <entry>This report lets you quickly identify suspended accounts and
+review program policy adherence rates. You can leverage this
+information to manage policy guidelines.</entry>
+              </row>
+              <row>
+                  <entry>Declined Transaction Authorizations</entry>
+                  <entry>
+                     <p>This report provides details of declined transaction
+authorizations along with related account and merchant information
+to help you</p>
+                     <p>monitor program compliance, card usage, and merchant program
+parameters.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Order File History</entry>
+                  <entry>
+                     <p>This report provides a history of your order file loading and
+matching to</p>
+                     <p>help you monitor and manage the order management function in the
+system.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Past Due</entry>
+                  <entry>
+                     <p>This report lets you quickly identify problem accounts and
+review</p>
+                     <p>program policy adherence rates. You can leverage this
+information to manage policy guidelines.</p>
+                  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-5_Financial_Management_Reports">Table 17-5: Financial Management Reports</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report</b>
+                  </entry>
+                  <entry>
+                     <b>Report Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Full Transaction and Order Detail</entry>
+                  <entry>This report provides full expenditure detail, including Level
+III data, for complete analysis of orders and transactions.</entry>
+              </row>
+              <row>
+                  <entry>Managing Account Approval Status</entry>
+                  <entry>
+                     <p>This report provides a history of managing account and
+cardholder account statement approvals and certifications. You can
+use this report to track the status and progress of account
+approvals as they align with your internal operating procedures. In
+this way, you can</p>
+                     <p>ensure compliance with established procedures and actively
+manage and improve the efficiency of your program.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Order Detail</entry>
+                  <entry>This report provides detailed order data, including line-item
+detail.</entry>
+              </row>
+              <row>
+                  <entry>Transaction Detail</entry>
+                  <entry>This report provides detailed transaction data, including
+merchant detail, transaction allocation information, and
+transaction comment data.</entry>
+              </row>
+              <row>
+                  <entry>Transaction Summary</entry>
+                  <entry>This report provides a summary of the transactions. It also
+includes information if an electronic attachment is present and/or
+the ability to view the attachment.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-6_Supplier_Management_Reports">Table 17-6: Supplier Management Reports</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.6*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.4*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report</b>
+                  </entry>
+                  <entry>
+                     <b>Report Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Merchant Spend Analysis</entry>
+                  <entry>
+                     <p>This report gives you an overall view of total supplier base
+activity or</p>
+                     <p>total commodity type. You can use this information to support
+service- level and pricing requests with your suppliers.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Merchant Spend Analysis by Line Item</entry>
+                  <entry>
+                     <p>This report provides summary and detail information for
+analyzing</p>
+                     <p>merchant spend activity by purchasing line item to help support
+purchasing strategy and vendor negotiations.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Top Merchant Spend Analysis</entry>
+                  <entry>
+                     <p>This report lets you compare vendors based on purchase activity.
+When you combine this information with information on supplier
+service, you can put together a comprehensive profile of your
+key</p>
+                     <p>vendors.</p>
+                  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-7_Administration_Reports">Table 17-7: Administration Reports</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.5*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report</b>
+                  </entry>
+                  <entry>
+                     <b>Report Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>System User List Detail</entry>
+                  <entry>
+                     <p>This report gives you detailed information about users in a
+single</p>
+                     <p>organization. You can use this report to manage the cardholders
+and other users who work in Access Online.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>System User List</entry>
+                  <entry>
+                     <p>This report gives you information about user IDs and associated
+user profiles. The report includes a list of user hierarchy access
+and user</p>
+                     <p>functional entitlements. You can use this report to manage the
+cardholders and other users who work in Access Online.</p>
+                  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p id="Table_17-8_User_Activity_Audit_reports">Table 17-8: User Activity Audit reports</p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.5*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report</b>
+                  </entry>
+                  <entry>
+                     <b>Report Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Transaction Management</entry>
+                  <entry>You can use this report to review a detailed history of activity
+and changes for transaction-related actions such as transaction
+approval, rejection, reallocation, and extraction.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.5*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Report</b>
+                  </entry>
+                  <entry>
+                     <b>Report Description</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Order Management</entry>
+                  <entry>You can use this report to track users’ actions within
+Order Management, including maintaining orders, matching multiple
+orders to transactions, and managing order receipt.</entry>
+              </row>
+              <row>
+                  <entry>User Profiles</entry>
+                  <entry>
+                     <p>You can use this report to review a detailed history of activity
+and changes for user profile-related actions such as changing
+login</p>
+                     <p>information, contact information, updating processing hierarchy
+position, or adding/removing an account.</p>
+                  </entry>
+              </row>
+              <row>
+                  <entry>PIEE Task Queue</entry>
+                  <entry>
+                     <p>Detailed History of PIEE appointment task activity including
+creation and maintenance of User Profiles, Point of Contacts,
+Cardholder Accounts,</p>
+                     <p>and Managing Accounts.</p>
+                  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </conbody>
+    </concept>

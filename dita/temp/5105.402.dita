@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5105.402"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5105.402</ph> General public.</title>
+   <conbody>
+      <p outputclass="Normal">The <ph rev="Revised October 1, 2024">C</ph>ontracting officer must obtain concurrence from Office of the Chief Legislative Liaison, Department of the Army, prior to releasing information regarding a congressional inquiry response to the general public, including information proposed to be released to the news media.</p>
+   </conbody>
+</concept>

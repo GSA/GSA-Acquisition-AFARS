@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5117.74045"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5117.7404-5</ph> Exceptions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(b) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may waive the limitations as described in <xref href="https://www.acquisition.gov/dfars/part-217-special-contracting-methods#DFARS_217.7404-5"
+               format="html"
+               scope="external"
+               class="- topic/xref ">DFARS 217.7404-5</xref>. See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p class="- topic/p ">
+         <p class="- topic/p ">In accordance with <ph rev="Revised October 1, 2024" class="- topic/ph ">S</ph>ection (D) of <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> Class Deviation 2024- O0005 – Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel, the Assistant Secretary of the Army (Acquisition, Logistics and Technology) may waive the limitations DFARS 217.7404(a) Foreign military sales contracts; 217.7404-3 Definitization schedule; and 217.7404-4, Limitations on obligations. See <ph rev="Revised October 1, 2024">
+               <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                     format="html"
+                     scope="external">Appendix GG</xref>
+            </ph> for further delegation. See AFARS <xref outputclass="fm:ParaNumOnly"
+                  href="5153.20693.dita#AFARS_5153.20693"
+                  class="- topic/xref ">5153.206-93</xref> and AFARS <xref outputclass="fm:"
+                  href="5153.30312.dita#AFARS_5153.30312"
+                  class="- topic/xref "/> for instructions and sample format for reporting covered contracts applicable under this subpart to congressional defense committees.</p> 
+      </p>
+   </conbody>
+</concept>

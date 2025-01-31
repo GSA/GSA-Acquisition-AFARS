@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5116.505"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5116.505</ph> Ordering.</title>
+   <conbody>
+      <p outputclass="List1">(b)(2)(ii)(C)(3)  The <ph rev="Revised October 1, 2024">HCA</ph> shall approve actions as stated in FAR 16.505(b)(2)(ii)(C)(3).  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p outputclass="List1">(b)(8) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall designate a task and delivery order ombudsman for the contracting activity.  The ombudsman shall be a senior official, who is independent of the <ph rev="Revised October 1, 2024">C</ph>ontracting officer and may be the command advocate for competition.  The ombudsman shall be responsible for reviewing complaints from the contractors under multiple award task or delivery order contracts and ensuring they receive a fair opportunity for consideration, consistent with the procedures in the contract.  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+   </conbody>
+</concept>

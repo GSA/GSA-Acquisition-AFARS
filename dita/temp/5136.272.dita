@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5136.272"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5136.272</ph> Prequalification of sources.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(b) The <ph rev="Revised October 1, 2024" class="- topic/ph ">HCA</ph> must perform the functions at DFARS 236.272(b). See<ph rev="Revised October 1, 2024" class="- topic/ph "> 
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Appendix GG</xref>
+         </ph> for further delegation.</p>
+   </conbody>
+</concept>

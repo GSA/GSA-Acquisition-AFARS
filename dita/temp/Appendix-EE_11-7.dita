@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_11-7" class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">11-7.</ph> Disciplinary Requirements and Categories of
+GPC Violations</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">a. The Disciplinary Category Definitions Policy
+has been established to foster consistency across DoD. These
+definitions are defined in and required by the <xref format="html"
+               href="https://www.whitehouse.gov/wp-content/uploads/2019/08/Issuance-of-Revised-Appendix-B-to-OMB-Circular-A-123.pdf"
+               scope="external"
+               class="- topic/xref ">OMB
+Circular A-123</xref> to ensure accurate and complete reporting. All
+the disciplinary categories are reportable to DPCAP. The first four
+(abuse, internal fraud, misuse, and delinquency) are violations.
+The latter two (administrative discrepancy and external fraud),
+while disciplinary categories, are not violations.</p>
+      <p id="Table111" outputclass="List1" class="- topic/p ">b. Of the categories of defined DoD GPC
+violations, abuse and internal fraud are considered more serious
+than the other categories, as they are intentional in nature.
+Misuse is considered unintentional. Intent is not applicable to
+infrequent delinquencies, as the determination of such violations
+is strictly quantitative (i.e., all undisputed account balances
+that are unpaid for more than 61 days past the statement date). Figure 11-2 depicts the
+decision framework to be used when determining which violation
+category is applicable.</p>
+      <p class="- topic/p ">Figure 11-2. Violation Category Decision Framework<image href="Graphics/image5.jpg"
+                id="Toc174981148"
+                placement="inline"
+                class="- topic/image ">
+            <alt class="- topic/alt ">þÿ</alt>
+         </image> 
+      </p>
+   </conbody>
+</concept>

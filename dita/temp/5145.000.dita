@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5145.000"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 2">
+      <ph props="autonumber">5145.000</ph> Scope of part.</title>
+   <conbody>
+      <p>As used in this part—</p>
+      <p>“Accounting Requirements Code” (ARC)isa code assigned to each item of supply to identify
+         its specific classification and the degree of accounting and control that must be applied
+         at the user level. Logistics Support Activity assigns the accounting requirements code
+         (ARC) using the ARC assignment criteria contained in DA Pam 708–2, Cataloging and Supply
+         Management Data Procedures for the Army Enterprise Material Master.</p>
+      <p> “Nonexpendable”, as used in the definition of equipment at AR 735-5, Property
+         Accountability Policies refers to an item that is not consumed in use and that retains its
+         original identity during the period of use. These items have an ARC of “N” contained in the
+         Federal Logistics Data Base (FEDLOG)</p>
+   </conbody>
+</concept>

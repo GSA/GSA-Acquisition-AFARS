@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5153.20693"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">5153.206-93</ph> Instructions for Congressional Notification Requirement When Utilizing the Authorities Conferred by paragraphs (B) – (G) of <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> Class Deviation 2024- O0005—Temporary Authorizations for Covered Contracts Related to Ukraine, Taiwan, and Israel; Workload Forecasting Instructions</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">a. When using the authority at paragraph (B) of of <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> Class Devaition 2024-O0005 – Temporary Authoritzation for Covered Contracts Related to Ukraine, Taiwan, and Israel, subparagraph (H)(1) of the class deviation requires written Congressional and <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> notification not later than seven days before contract award. <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers shall use the sample format at AFARS 5153.303-12 for the notification.
+      </p>
+      <p outputclass="List1" class="- topic/p ">b. When using the authorities at paragraphs (B) thorough (G) of <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> Class Devaition 2024- O0005 – Temporary Authoritzation for Covered Contracts Related to Ukraine, Taiwan, and Israel, subparagraph (H)(2) of the class deviation requires written Congressional and <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> notification within seven days after contract award. Contracting officers shall use the sample format at AFARS 5153.303-13 for the notification.</p>
+      <p outputclass="List1" class="- topic/p ">c. Contracting <ph rev="Revised October 1, 2024" class="- topic/ph ">o</ph>fficers shall submit congressional defense and <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph> notification for HQDA review, coordination, and/or approval via ETMS2 to the ODASA(P) directorate listed at AFARS 5101.290(b)(1)(ii)(B) within one-day after award in order to meet the congressional defense committee requirement. c. Furthermore, to forecast workload requirements, the ODASA(P) will task Commands via the Enterprise Task Management Software Solution (ETMS2) bi-weekly to provide a listing of applicable actions. A template will be provided in ETMS2 to collect the following information for all applicable actions.</p>
+      <p outputclass="List2" class="- topic/p ">(1) Program name. </p>
+      <p outputclass="List2" class="- topic/p ">(2) Contract number, and modification number, if applicable. </p>
+      <p outputclass="List2" class="- topic/p ">(3) Total estimated contract value (including options). </p>
+      <p outputclass="List2" class="- topic/p ">(4) Contracting activity name and DoDAAC. </p>
+      <p outputclass="List2" class="- topic/p ">(5) Contractor name and Commercial and Government Entity (CAGE) code. </p>
+      <p outputclass="List2" class="- topic/p ">(6) Quantities and/or period of performance. </p>
+      <p outputclass="List2" class="- topic/p ">(7) Reason for using the authority. </p>
+      <p outputclass="List2" class="- topic/p ">(8) Expected outcome of using the authority, including estimated reductions in schedule. </p>
+      <p class="- topic/p "> Contracting <ph rev="Revised October 1, 2024" class="- topic/ph ">o</ph>fficers shall submit this data via ETMS2 as instructed.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5111.106_C"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5111.106</ph> (S-92)</title>
+   <conbody>
+      <p>All cloud requirements owners shall use the CLIN descriptions aligned to the prescribed PSCs, located in AFARS Appendix HH, for all new cloud-related requirements for entry into contract management and portfolio management systems. The requiring organization shall identify the cloud activity, the assigned TBM tower, and PSC to enable clear mapping of the requirement to an appropriate CLIN(s). The prescribed PSCs are further aligned to the designated TBM investment areas for government-wide reporting requirements. Cloud requirements owners shall include applicable Performance Work Statement language, identified in Appendix HH, and ensure all cloud-related requirements and resulting contract action(s) implement the Army’s Common Cloud Contracting Language. </p>
+   </conbody>
+</concept>

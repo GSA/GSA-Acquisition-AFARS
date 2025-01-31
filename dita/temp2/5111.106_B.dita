@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5111.106_B"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5111.106</ph> (S-91)</title>
+   <conbody>
+      <p>ECMA provides enterprise-level contracts for commercial Cloud Service Providers (CSP) offerings, common services, and application migration support. Where feasible and cost effective, the ECMA will leverage DoD Enterprise contracts such as the Joint Warfighting Cloud Capability (JWCC) contract; while establishing Army Enterprise Cloud Contracts based on mission requirements. </p>
+      <p outputclass="List1"> (a) Army requiring activities will continue to use the Cloud Account Management Optimization (CAMO) production contract for Impact Level (IL) 5 and below cloud requirements.
+      </p>
+      <p outputclass="List1">
+         (b) Army requiring activities will leverage the DoD JWCC contract for all new non-intelligence Secret (IL 6) cloud requirements; however, the Army will continue to centrally manage the procurement of cloud resources through ECMA to comply with reporting and tracking requirements. Army requiring activities will contact ECMA at armycloud@army.mil with their cloud service offering (CSO). 
+      </p>
+      <p outputclass="List1">
+         (c) Army requiring activities with existing CSO procurements that fund CSO usage with other means (e.g., Other Direct Costs on existing contracts), will coordinate with ECMA to develop transition plans to the Army approved CSO contract vehicles. 
+      </p>
+      <p outputclass="List1">
+         (d) The Army will continue to centrally manage the procurement of all existing and new Intelligence Community (IC) Component and Top-Secret cloud requirements through the Army Military Intelligence Cloud Computing Service Provider (AC2SP), using the Commercial Cloud Services (C2S) and Commercial Cloud Enterprise (C2E) contracts through the IC CloudWorks Program Management Office. Army requiring activities with Intelligence CSO requirements will contact the HQDA-DCS-G2 for AC2SP. 
+      </p>
+   </conbody>
+</concept>

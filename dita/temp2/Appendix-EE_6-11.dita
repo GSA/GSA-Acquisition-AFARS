@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_6-11">
+      <title>
+      <ph props="autonumber">6-11.</ph> Non-Disputable Charges</title>
+      <conbody>
+        <p outputclass="List1">a. <b>Card Misuse by Cardholder</b>.
+Charges that involve misuse or abuse by the CH are not disputable
+with the servicing bank. If the transaction was processed in
+accordance with established controls (e.g., within the purchase
+limits, not from a merchant with a blocked Merchant Category Code,
+then the bank has fulfilled its responsibilities under the
+contract, and the Government is obligated to make payment for the
+transaction. The Government will take appropriate action, as
+prescribed in Chapter 11, Disciplinary actions, to seek restitution
+because of the improper misuse or abuse.</p>
+        <p outputclass="List1">b. <b>Sales Tax</b>. If a charge
+involves sales tax erroneously invoiced by the merchant, the amount
+of the tax cannot be disputed with the bank. The CH should try to
+obtain a credit from the merchant. If a credit is not obtained, the
+CH should inform and request assistance from the A/OPC. The CH
+should seek restitution via the guidance provided by the <xref format="html"
+               href="https://smartpay.gsa.gov/smarttax/tax-information-by-state/"
+               scope="external">
+            <u>GSA
+SmartPay Tax Exemption website</u>.</xref> The CH should document the
+file accordingly.</p>
+        <p outputclass="List1">c. <b>Shipping Costs</b>. If a charge
+involves shipping costs erroneously invoiced by the merchant, the
+amount of the erroneous shipping costs cannot be disputed. The CH
+should try to obtain a credit for the transportation costs from the
+merchant. If a credit is not obtained, the CH should inform and
+request assistance from the servicing bank. The CH should document
+the file accordingly.</p>
+        <p outputclass="List1">d. <b>Convenience Checks</b>. There is
+no convenience check dispute process within the bank. Any concerns
+with a purchase made by check must be resolved directly with the
+merchant. The checkwriter is responsible for securing restitution
+and/or credit for disputed purchases. The checkwriter will notify
+the A/OPC and request assistance to resolve disputes if necessary.
+Each organization is responsible for checks written on the account,
+unless it is determined fraudulent activity is involved.</p>
+        <p outputclass="List1">e. <b>Third-party Payments</b>. If a
+dispute with a merchant involves a third-party payer (e.g., Google
+Pay, PayPal), the dispute is not with the third-party payer, but
+with the merchant. The bank has no privity to the transaction, and
+the CH must resolve the dispute with the merchant and/or the credit
+card company.</p>
+      </conbody>
+    </concept>

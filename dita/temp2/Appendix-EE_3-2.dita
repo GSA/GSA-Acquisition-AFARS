@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_3-2">
+      <title>
+      <ph props="autonumber">3-2.</ph> Procurement Integrated
+Enterprise Environment (PIEE)</title>
+      <conbody>
+        <p outputclass="List1">a. <xref format="html"
+               href="https://piee.eb.mil/xhtml/unauth/help/help.xhtml"
+               scope="external">
+            <u>PIEE</u>
+          </xref>
+is the primary enterprise procure-to-pay (P2P) application for DoD
+and its supporting agencies. PIEE is a procurement portfolio
+capability that uses a Common Access Card (CAC) enabled
+single-sign-on capability to grant access to system modules (e.g.,
+Electronic Document Access and Joint Appointment Module (JAM))
+hosted both internal and external to that environment. Army
+mandates 100% use of PIEE single-sign-on.</p>
+        <p outputclass="List1">b. A/OPCs nominate cardholders and billing
+officials and track nominations and workflows within PIEE. <xref format="html"
+               href="https://www.acq.osd.mil/asda/dpc/ce/pc/training.html#gpc1pager"
+               scope="external">
+            <u>GPC
+one-pagers</u>
+          </xref> are an excellent resource on how to perform
+actions within PIEE modules.</p>
+        <p outputclass="List1">c. Government Administrator Managers (GAMs) must
+activate roles in PIEE as part of the GPC appointment process. See
+section 2-8.b. for additional GAM duties.</p>
+      </conbody>
+    </concept>

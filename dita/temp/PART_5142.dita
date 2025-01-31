@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5142">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5142</ph> - Contract Administration and Audit Services</title>
+      <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.1.dita#AFARS_Subpart_5142.1">Subpart 5142.1 - Contract Audit Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.190.dita#AFARS_5142.190">5142.190 Follow-up on contract audit reports.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.1901.dita#AFARS_5142.1901">5142.190-1 Responsibilities.</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.1902.dita#AFARS_5142.1902">5142.190-2 Tracking of contract audit report recommendations.</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.1903.dita#AFARS_5142.1903">5142.190-3 Reporting.</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.1904.dita#AFARS_5142.1904">5142.190-4 Overage Audit Review Boards.</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.1905.dita#AFARS_5142.1905">5142.190-5 Processing Audit Findings.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.2.dita#AFARS_Subpart_5142.2">Subpart 5142.2 - Contract Administration Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.202.dita#AFARS_5142.202">5142.202 Assignment of contract administration.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.3.dita#AFARS_Subpart_5142.3">Subpart 5142.3 - Contract Administration Office Functions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.302.dita#AFARS_5142.302">5142.302 Contract administration functions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li rev="Revised October 1, 2024">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.6.dita#AFARS_Subpart_5142.6">Subpart 5142.6 - Corporate Administrative Contracting officer</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.602.dita#AFARS_5142.602">5142.602 Assignment and location.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.7.dita#AFARS_Subpart_5142.7">Subpart 5142.7 - Indirect Cost Rates</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.703.dita#AFARS_5142.703">5142.703 General.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.7032.dita#AFARS_5142.7032">5142.703-2 Certification of indirect costs.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.15.dita#AFARS_Subpart_5142.15">Subpart 5142.15 - Contractor Performance Information</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.1502.dita#AFARS_5142.1502">5142.1502 Policy.</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.1503.dita#AFARS_5142.1503">5142.1503 Procedures.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5142.150390.dita#AFARS_5142.150390">5142.1503-90 Policy.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5142.71.dita#AFARS_Subpart_5142.71">Subpart 5142.71 - Voluntary Refunds</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5142.7100.dita#AFARS_5142.7100">5142.7100 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

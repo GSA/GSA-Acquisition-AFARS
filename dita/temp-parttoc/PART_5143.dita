@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5143">
+      <title class="- topic/title " outputclass="Heading 1">
+         <ph class="- topic/ph " props="autonumber">Part 5143</ph> - Contract Modifications</title>
+      <body>
+         <p class="- topic/p ">
+            <i>(Revised 01 October 2024)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5143.2.dita#AFARS_Subpart_5143.2">Subpart 5143.2 - Change Orders</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="5143.204.dita#AFARS_5143.204">5143.204 Administration.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5143.204705.dita#AFARS_5143.204705">5143.204-70-5 Exceptions.</xref>
+                           </p>
+                        </li>
+                        <li rev="Revised October 1, 2024">
+                           <p>
+                              <xref outputclass="fm:TOC" href="5143.204706.dita#AFARS_5143.204706">5143.204-70-6 Allowable profit.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5143.205.dita#AFARS_5143.205">5143.205 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

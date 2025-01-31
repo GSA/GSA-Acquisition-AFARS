@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5118.270"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">5118.270</ph> Head of contracting activity determinations.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(e) See <xref href="Appendix-GG.dita#AFARS_Appendix-GG"
+               outputclass="fm:ParaNumOnly"
+               class="- topic/xref ">
+            <ph rev="Revised October 1, 2024" class="- topic/ph ">for further delegation</ph>APPENDIX - GG Table Of Contents</xref>.</p>
+      <p class="- topic/p ">See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5118.aspx"
+               format="html"
+               scope="external"
+               class="- topic/xref ">AFARS PGI 5118.2-1</xref> for additional information on acquisition flexibilities. </p>
+   </conbody>
+</concept>

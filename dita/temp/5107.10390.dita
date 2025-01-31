@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5107.10390"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5107.103-90</ph> Acquisition plan        approvals.</title>
+   <conbody>
+      <p outputclass="List1">(a)  For acquisition plan approval, the dollar thresholds identified at DFARS 207.103(d)(i) apply to the following:</p>
+      <p outputclass="List2">(1)  For programs assigned to program executive officers (PEOs) or program managers reporting directly to the Army Acquisition Executive (DRPM), the designated milestone decision authority (MDA), on a nondelegable basis, is the acquisition plan approval authority.  In the case of PEO-DRPM-managed efforts for which no MDA has been designated, the PEO/DRPM, on a nondelegable basis, is the acquisition plan approval authority.  </p>
+      <p outputclass="List2">(2)  For all non-PEO/direct-reporting program manager acquisitions, the Assistant Secretary of the Army (Acquisition, Logistics and Technology) is the acquisition plan approval authority.  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+      <p outputclass="List1">(b)  Approval of acquisition plans for procurements below the thresholds identified at DFARS 207.103(d)(i) shall be in accordance with contracting activity procedures.</p>
+      <p outputclass="List1">(c)  For Army Acquisition Executive-designated special interest acquisitions, the Assistant Secretary of the Army (Acquisition, Logistics and Technology) or the Deputy Assistant Secretary of the Army (Procurement) must approve the acquisition plans.  Process acquisition plans for special interest acquisitions in the same manner as other acquisition plans and include all the concurrences listed in paragraph (c). </p>
+      <p outputclass="List1">(d)  The requests for approval of acquisition plans in accordance with the thresholds identified at DFARS 207.103(d)(i) must include the concurrence of the –</p>
+      <p outputclass="List2">(1)  <ph rev="Revised October 1, 2024">C</ph>ontracting officer;</p>
+      <p outputclass="List2">(2)  Local advocate for competition;</p>
+      <p outputclass="List2">(3)  Local office of small business programs or small business specialist;</p>
+      <p outputclass="List2">(4)  Legal office; and</p>
+      <p outputclass="List2">(5)  Appropriate elements from the supporting contracting activity chain of command.</p>
+   </conbody>
+</concept>

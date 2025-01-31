@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_1-5">
+      <title>
+      <ph props="autonumber">1-5.</ph> GPC Authority</title>
+      <conbody>
+        <p outputclass="List1">a. GPC programs require procurement authority to
+operate and cannot be established or maintained unless procurement
+authority is granted in accordance with governing laws and
+regulations and delegated through a contracting activity identified
+in Defense Federal Acquisition Regulation Supplement (DFARS)
+Procedures, Guidance, and Information (PGI) 202.101 and the DoD
+Charge Card Guidebook. Contracting authority flows from authorities
+granted in Titles 10 and 41, United States Code (10 and 41 USC)
+from DoD to the Secretary of the Army to the Heads of Contracting
+Activities (HCAs). The HCA re- delegates contracting authority to
+local procurement offices. The Senior Contracting Official (SCO) or
+Chief of Contracting Office (CCO) may re-delegate their GPC
+procurement authority listed in Table 1-3 to OA/OPCs or A/OPCs for
+OA/OPCs and A/OPCs to appoint cardholders and convenience check
+account holders through the Delegation of Contracting Authority
+Letter produced in the Joint Appointment Module (JAM) within the <xref format="html"
+               href="https://piee.eb.mil/xhtml/unauth/home/login.xhtml"
+               scope="external">
+            <u>Procurement
+Integrated Enterprise Environment (PIEE)</u>.</xref> See sections 1-8
+and 5-1 for more information. Cardholders must countersign to
+acknowledge this responsibility.</p>
+        <p outputclass="List1">b. The Joint Appointment Module (JAM), an
+application within PIEE, is the mandatory enterprise tool for
+appointing and delegating authority to GPC personnel.</p>
+        <p outputclass="List1">c. Orientation and training are prerequisites to
+receiving GPC delegated authority via an appointment in JAM.
+Training requirements are listed in Chapter 4.</p>
+        <p outputclass="List1">d. Generally, only a government employee can be a
+cardholder or billing official. National Guard traditional members
+and State employees should not be CHs or BOs. The following
+exceptions apply:</p>
+        <p outputclass="List2">1) Foreign nationals may be appointed as CHs only
+if they are direct-hires working for the U.S. Government. However,
+commanders/directors should consider the potential consequences of
+appointing foreign nationals as CHs in countries where Status of
+Forces Agreements (SOFAs) or local laws do not subject the foreign
+national employee to the same pecuniary or general financial
+liability or disciplinary actions for charge card violation as U.S.
+citizens.</p>
+        <p outputclass="List2">2) Junior Reserve Officer Training Corps (JROTC)
+instructors are members of the Armed Forces in accordance with
+USACC Regulation 145-2, section 4-2, and may be designated micro-
+purchase procurement authority as GPC cardholders. See FAR
+1.603-3(b).</p>
+      </conbody>
+    </concept>

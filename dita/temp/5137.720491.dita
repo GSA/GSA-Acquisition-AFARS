@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5137.720491"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5137.7204-91</ph> Purchase requests.</title>
+   <conbody>
+      <p id="rIZYOX" outputclass="Normal">(a) Requests to issue an order under the educational service agreement must include –</p>
+      <p id="ojYPXG" outputclass="List2">(1) The estimated cost of training by year, semester, term, or quarter;</p>
+      <p id="LexmbJ" outputclass="List2">(2) The authority to adjust cost figures without requesting approval whenever the actual cost of a course will exceed the estimated cost by less than $100, except when the course is taught by professors of military science; and</p>
+      <p id="AoXvhM" outputclass="List2">(3) The information in <ph rev="Revised October 1, 2024">AFARS </ph>5137.7204-92(c)(1)-(4).</p>
+      <p id="ctbONb" outputclass="Normal">(b) The <ph rev="Revised October 1, 2024">C</ph>ontracting officer shall obtain additional funds in writing from the funding activity when the actual cost of a course will exceed the estimated cost by $100 or more, except when professors of military science teach the course.</p>
+   </conbody>
+</concept>

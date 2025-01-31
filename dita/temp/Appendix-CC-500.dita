@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_Appendix-CC-500"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4"> 
+      <ph props="autonumber">CC-500</ph> Purpose.</title>
+   <conbody>
+      <p>The ACE annual SHR is designed to strategically assess the ACE’s collective risk management and internal control-related activities identify systemic issues, and to effectively evaluate the extent to which risks to the ACE strategic objectives have been mitigated. The goal of the process is to develop systematic evidence in order to support decision-making, understand how well policies and programs are working, and identify or promote possible changes that improve performance.</p>
+   </conbody>
+</concept>

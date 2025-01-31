@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_3-1">
+      <title>
+      <ph props="autonumber">3-1.</ph> System Requirements</title>
+      <conbody>
+        <p>All bank and Government systems used in support of GPC accounts
+will include the following internal controls:</p>
+        <p outputclass="List2">1) Systems access security,</p>
+        <p outputclass="List2">2) Systems administration integrity,</p>
+        <p outputclass="List2">3) Data exchange security, and</p>
+        <p outputclass="List2">4) Functional responsibility controls.</p>
+        <p id="Toc149838209" outputclass="List1">a. <b>Systems
+Access Security</b>. Appropriate safeguards will be in place
+to control access to systems. All DoD systems will utilize CAC
+login for user authentication. Electronic systems used to support
+the DoD GPC Program must limit access to various functions to only
+individuals with appropriate authority. DoD GPC personnel are
+required to use the PIEE SSO capability to log into the
+card-issuing bank’s EAS, unless granted a waiver by DPCAP. <ph id="_12.2.1.1_Authorization_Roles"/>
+        </p>
+        <p outputclass="List1">b. <b>Systems Administration
+Integrity</b>. Changes to existing
+interfaces, or creation of new interfaces, must be approved by
+DPCAP in advance of planning and implementation. <xref format="html"
+               href="https://www.acquisition.gov/dfars/subpart-204.73-safeguarding-covered-defense-information-and-cyber-incident-reporting"
+               scope="external">DFARS
+204.73</xref> provides information on basic requirements that all DoD
+system contractors must meet. All DoD systems that support the GPC
+will be documented in accordance with the requirements of <xref format="html"
+               href="https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/500075p.PDF"
+               scope="external">DoDI
+5000.75</xref> (for internal DoD systems) and <xref format="html"
+               href="https://www.acq.osd.mil/dpap/dars/dfars/html/current/204_73.htm"
+               scope="external">DFARS
+204.73</xref> for contractor systems. <ph id="_12.2.3_Exchange_of"/>
+        </p>
+        <p outputclass="List1">c. <b>Data Exchange Security</b>.
+Transmission of all electronic account data will be processed
+through secure lines of communication. <ph id="_12.3_Use_of"/>DPCAP requires that any interface used to
+send files via file transfer must utilize GEX. DPCAP-approved
+interfaces that leverage an application program interface to make
+system-to-system calls are exempt from utilizing GEX as an
+intermediary. “EDI” refers to the automated process for
+receiving electronic transactions, obligations, invoice, receiving,
+and other records from a card-issuing bank via GEX to the
+accounting, ERP, DFAS, or other system. To ensure funding
+confirmation and reconciliation information integrity, original
+transactions/invoices will be maintained and cannot be altered.
+Cardholders will not be able to alter their statements of account
+once they approve them unless a BO returns a statement to a CH for
+corrections. Billing officials and Certifying Officers will not be
+able to alter billing statements (invoices) once they are
+certified.</p>
+        <p outputclass="List1">d. <b>Invoice Integrity</b>. An
+electronic certification process will be used to ensure that the
+official (i.e., original, unaltered) electronic invoice is
+traceable from the card-issuing bank through the certification and
+entitlement processes and retained in a government record. The BO
+will ensure any corrections or additions to the original invoice
+(e.g., reallocations to different funding lines) are proper and the
+payment totals have not changed. Altering a voucher that is already
+certified invalidates the original certification. Known or
+suspected fraudulent transactions not initiated by the authorized
+CH will be reported as external fraud directly to the card-issuing
+bank. When external fraud is properly reported to the bank, the
+current card account must be closed and a new account issued. The
+BO and A/OPC must be notified immediately, and the CH will comply
+with the bank’s external fraud reporting procedures. <ph id="Toc149838217"/>
+        </p>
+        <p outputclass="List1">e. <b>Functional Responsibility
+Controls</b>. Systems must be able to segregate role-based
+capabilities and limit access to these functions to individuals
+with appropriate authority. The systems must be able to identify
+who made any data/file content changes in the end-to-end GPC
+process. Management oversight reports will be available to report
+on individual personnel roles and responsibilities.</p>
+      </conbody>
+    </concept>

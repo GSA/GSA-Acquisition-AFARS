@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5145.57090"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5145.570-90</ph> Storage at the Governments expense.</title>
+   <conbody>
+      <p outputclass="List1">The approval authority for determinations that contractor inventory may be stored at the Government’s expense for one year or more must be one level higher than the <ph rev="Revised October 1, 2024">C</ph>ontracting officer.</p>
+   </conbody>
+</concept>

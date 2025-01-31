@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-CC-101"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">CC-101</ph> Definitions.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">As used in this appendix— </p>
+      <p class="- topic/p ">
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Answer” means a reply to a specific review question. Any “No” answer shall also include a “Deficiency” that helps to categorize why the response was “No”.</p>
+         <p class="- topic/p ">“Best Practice” means an innovative, novel, or otherwise noteworthy approach or practice used to comply with one or more internal controls.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Checkpoint” means a moment during the corrective action process where Organizations shallprovide ODASA(P) with status updates at 90-day increments (i.e. calendar days).</p>
+         <p class="- topic/p ">“Contingency Contracting” means a military operation that is designated by the Secretary of Defense as an operation in which members of the armed forces are or may become involved in military actions, operations, or hostilities against an enemy of the United States or against an opposing military force in accordance with 10 USC 101(a)(13)(A) (see also FAR subpart 2.1). The support may be provided in a mature or immature operational environment and may be long term or short term.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Contract Execution Review (CER)” means a contract review that can be conducted automated or manually. CER generally refers to an automated contract review (i.e. contract/order/modification) within a Review Event in the VCE-PMR Assistant application. </p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Corrective Action” means the actions taken by an organization to improve the findings associated with Non-compliance. Corrective action is the activity of reacting to a process problem, improving it, and ensuring internal controls are in place to reduce the likelihood of reoccurrence.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Corrective Action Plan (CAP)” means a report or document that provides an organization with systemic deficiencies to complete corrective action to strengthen an organization’s internal control environment for contract operations.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Deficiency” means a categorization of why the question was answered with a “No”.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Finding” means the explanation why a particular question was deficient to warrant taking corrective action.</p>
+         <p class="- topic/p ">“Internal Controls” or also known as “internal management controls” means the rules, procedures, techniques, and devices employed by managers to ensure that what should </p>
+         <p class="- topic/p ">occur in their daily operations does occur on a continuing basis. For the purposes of this appendix, internal controls include the policies in the FAR, DFARS, and AFARS, and the associated processes and procedures of the contracting activity’s acquisition instruction (see AFARS 5101.304-90).</p>
+         <p class="- topic/p ">“Key Internal Controls” means the internal controls that must be implemented and sustained in daily operations to ensure organizational effectiveness and compliance with legal requirements. The effectiveness of key internal controls is assessed through the PMR Program and other management review processes.</p>
+         <p class="- topic/p ">“Lesson Learned” means a noteworthy flaw in the design, implementation, or operational effectivenessof one or more internal controls.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Toolkit” means a collection of questions that is managed for a PMR Program ManagementReview or Non-Contract Review.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Question” means a specific review question included in a question set. For CERs, a questionwill be included in a Review based on specific question categorizations/filters (e.g. Competitive/Non-competitive, MOD type, SME Review). For SME Reviews, all questions associated with the Subject will be included. A question can have a Yes/No or Yes/No/N/A answer.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Question Set” means a collection of questions that is managed by a PMR Administrator or Subject Matter Expert (SME) and selected for use in Review Events. The Internal Control (IC) Question Set will be the default Question Set for all Contract Execution Reviews (CERs). The IC Question Set and any supplemental Question Sets are managed by PMR System.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Root Cause Analysis” means an administrator or Subject Matter Expert (SME) and selected for use in Review Events. The Internal Control (IC) Question Set will be the default Question Set for all Contract Execution Reviews (CERs). The IC Question Set and any supplemental Question Sets are managed by PMR System.</p>
+         <p class="- topic/p ">“Strategic Controls” means those controls that are directly linked to ACE contracting strategic objectives. The primary focus of strategic controls is on operations (i.e., cost, schedule, and performance) objectives.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Virtual Contracting Enterprise (VCE)” means a suite of web-based contracting tools used by its employees and their customers in the performance of their daily duties acquiring supplies and services for the US Army.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Self-Assessment” means any review other than an official PMR that internally assesses either organizational or individual compliance.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Procurement Management Review (PMR)” means an official review that assesses the effectiveness of internal controls, key internal controls, and strategic controls to mitigate risks to the ACE strategic objectives.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Risk” means the probable or potential adverse effects from inadequate internal controls that may result in the loss of government resources through fraud, error, or mismanagement Risk Management A series of coordinated activities to direct and control challenges or threats toachieving an organization’s goals and objectives.</p>
+         <p rev="Revised October 1, 2024" class="- topic/p ">“Risk Tolerance” means the acceptable level of variance in performance relative to the achievement of objectives.</p>
+      </p>
+   </conbody>
+</concept>

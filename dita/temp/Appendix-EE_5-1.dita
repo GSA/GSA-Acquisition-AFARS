@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_5-1">
+      <title>
+      <ph props="autonumber">5-1.</ph> Nomination, Selection, and Appointment
+of Cardholders and Billing Officials</title>
+      <conbody>
+        <p outputclass="List1">a. Nomination, selection, and appointment of BOs
+and CHs are in accordance with DoD Charge Card Guidebook Chapters
+A.1.1 and A.3. A/OPCs must receive written and signed approval from
+the BO/CH’s supervisory chain of command before initiating
+their appointment process. BOs should be in the supervisory chain
+of command of the CH.</p>
+        <p outputclass="List1">b. Army BOs will receive both Approving/Billing
+Official and Certifying Officer appointments. Army BOs both approve
+and certify statements during the certification process. Approving
+Officials (AOs) follow pay and confirm procedures and are not
+appointed as Certifying Officers, e.g., Air Force AOs under the
+Army program.</p>
+        <p outputclass="List1">c. GPC Delegation of Authority and appointment
+letters will clearly state the duties of the program participant,
+any dollar limit of the procurement authority (when applicable),
+and any limitations on the scope of authority to be exercised other
+than those contained in applicable law or regulation. All
+delegates/appointees must countersign their letters electronically
+in JAM to acknowledge they understand and concur with their GPC
+program responsibilities prior to establishing any accounts in the
+bank’s EAS.</p>
+        <p outputclass="List1">d. A/OPCs will maintain and monitor all
+delegations, appointments letters, and training certificates
+electronically in JAM in accordance with section 6-13. If
+electronic versions are available, the Level 4 A/OPC is not
+required to maintain a hard copy. Audit agencies can request access
+to PIEE modules when required. Ensure military and civilian
+out-processing checklists include a mandatory A/OPC sign-off for
+BOs and CHs.</p>
+        <p outputclass="List1">e. <b>Receiving a GPC</b>. Standard
+practice is to have the card mailed to the CH’s work address
+in accordance with the GSA SmartPay®3 contract. Using a
+CH’s home address may be a fraud indicator and should not be
+a normal practice. Whether the card is mailed to the CH’s
+primary work address or an alternate address, the CH must maintain
+the physical security of the card. Examples of alternate address
+uses include, but are not limited to, the following:</p>
+        <p outputclass="List2">1) When an A/OPC wants all cards mailed to the
+A/OPC’s work address, and then the A/OPC provides each card
+to the new CH’s work location.</p>
+        <p outputclass="List2">2) When the A/OPC feels it is more reliable to
+have the card mailed to the A/OPC’s work address and then
+sent by express mail to a CH’s work address overseas.</p>
+        <p outputclass="List2">3) When the organization has a policy that all
+cards will be sent to the work address of the responsible BO, who
+will then deliver each card to the CH in person or to the
+CH’s work address.</p>
+        <p outputclass="List2">4) When the CH will not be at the work location
+(duty station) for an extended period (COVID-19 stay-at-home orders
+would be one such example), the CH’s home address could be
+used. If</p>
+        <p>the CH’s home address is used for card delivery, a note or
+memorandum for record must be added to the account notes stating
+why the home address was used.</p>
+        <p id="Table_5-1_Delegations_and_Appointments">Table 5-1: Delegations and Appointments for
+each Program Role</p>
+        <table>
+          <tgroup cols="4">
+            <colspec colname="col1" colnum="1" colwidth="1.9*"/>
+            <colspec colname="col2" colnum="2" colwidth="0.7*"/>
+            <colspec colname="col3" colnum="3" colwidth="0.7*"/>
+            <colspec colname="col4" colnum="4" colwidth="0.7*"/>
+            <tbody>
+              <row>
+                  <entry>
+                     <b>Role</b>
+                  </entry>
+                  <entry>
+                     <b>Delegation of Procurement Authority Letter
+Required</b>
+                  </entry>
+                  <entry>
+                     <p>
+                        <b>GPC</b>
+                     </p>
+                     <p>
+                        <b>Appointment Letter Required</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <b>DD Form 577 Required</b>
+                  </entry>
+              </row>
+              <row>
+                  <entry>Level 1</entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Level 2 Component Program Manager</entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Level 3 A/OPC <b>with</b> Authority to Delegate
+Procurement Authority</entry>
+                  <entry>Yes</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Level 3 A/OPC <b>without</b> Authority to Delegate
+Procurement Authority</entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Level 4 A/OPC <b>with</b> Authority to Delegate
+Procurement Authority</entry>
+                  <entry>Yes</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Level 4 A/OPC <b>without</b> Authority to Delegate
+Procurement Authority</entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Resource Managers (All Levels)</entry>
+                  <entry>No</entry>
+                  <entry>No</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Billing Officials who are Certifying Officers</entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+                  <entry>Yes</entry>
+              </row>
+              <row>
+                  <entry>Certifying Officers</entry>
+                  <entry>No</entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+              </row>
+              <row>
+                  <entry>
+                     <p>Pay and Confirm Officials</p>
+                     <p>(Departmental Accountable Official (DAO))</p>
+                  </entry>
+                  <entry>No</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+              <row>
+                  <entry>Cardholders</entry>
+                  <entry>Yes</entry>
+                  <entry>Yes</entry>
+                  <entry>No</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </conbody>
+    </concept>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5137.5903"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5137.590-3</ph> Review thresholds.</title>
+   <conbody>
+      <p outputclass="Normal">(a)  DoDI 5000.74, Defense Acquisition of Services, dated 5 January 2016 (incorporating change 2, 31 August 2018) sets forth review thresholds for review of Acquisition Strategies.  The Army Acquisition Executive (AAE) has delegated the authority for Army Acquisition of Services Categories. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+               scope="external"
+               format="aspx">
+            <u>Appendix GG</u>
+         </xref> for delegations.  Special interest programs may be designated by the USD(AT&amp;L)  regardless of the estimated dollar value.  </p>
+      <p outputclass="Normal">(b)  After approval of the acquisition strategy, the acquisition may proceed, and the <ph rev="Revised October 1, 2024">C</ph>ontracting officer may release the final solicitation, subject to the separate peer review process outlined in DFARS 201.170 and in AFARS 5101.170, and any other required local reviews.</p>
+      <p id="p__Toc7073997" outputclass="Normal"/>
+   </conbody>
+</concept>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_PART_5124">
+      <title class="- topic/title " outputclass="1 Heading">
+         <ph class="- topic/ph " props="autonumber">Part 5124</ph> - Protection of Privacy and Freedom of Information</title>
+      <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5124.1.dita#AFARS_Subpart_5124.1">Subpart 5124.1 - Protection of Individual Privacy</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5124.103.dita#AFARS_5124.103">5124.103 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_5124.2.dita#AFARS_Subpart_5124.2">Subpart 5124.2 - Freedom of Information Act</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="5124.203.dita#AFARS_5124.203">5124.203 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

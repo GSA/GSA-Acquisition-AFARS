@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_7-1">
+      <title>
+      <ph props="autonumber">7-1.</ph> Refunds Overview</title>
+      <conbody>
+        <p outputclass="List1">a. The servicing bank will provide the CPM a
+summary report of refunds broken down by quarter, Level 3
+hierarchy, and Level 2 fund centers. The report is due 30 calendar
+days after the quarter ends. The servicing bank will provide
+training and assistance to the CPM and Level 3 A/OPCs in
+recalculating the Army refunds as required by DPCAP and the GSA
+SmartPay® 3 Contract. The servicing bank, in coordination with
+the CPM, will annually review refunds such as merchant credits,
+uncashed checks, and other miscellaneous refunds (foreign currency
+exchange fee) to ensure the Army receives all refunds due (both
+CONUS and OCONUS).</p>
+        <p outputclass="List1">b. Any refunds or credits due to the Army may be
+received in a manner agreed to between the Army and the servicing
+bank (e.g., ACH, checks).</p>
+        <p outputclass="List1">c. The Army will coordinate with DFAS quarterly
+regarding collected and outstanding refunds.</p>
+        <p outputclass="List1">d. If DFAS does not receive the DD 1131 within 30
+calendar days of the servicing bank’s refund email
+notification, HQDA ASA/ALT (SAAR-ZR) will collect the outstanding
+refunds. If the refunds are not collected within 60 calendar days,
+DFAS will forward the refunds to Treasury account 21R3210.</p>
+      </conbody>
+    </concept>

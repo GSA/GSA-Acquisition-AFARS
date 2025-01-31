@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_9-6">
+      <title>
+      <ph props="autonumber">9-6.</ph> DLA Document Services</title>
+      <conbody>
+        <p outputclass="List1">a. Cardholders will purchase print devices and
+services from the Defense Logistics Agency (DLA). This requirement
+applies to Unclassified and Secret-level printing devices (e.g.,
+self-service office copiers and multi-functional devices, desktop
+and stand-alone printers, and scanners) purchased or leased with
+federal funds appropriated to the Army. This requirement also
+applies to the following services:</p>
+        <p outputclass="List2">1) Maintenance of installed Government-owned or
+DLA-leased printing devices to include repairs.</p>
+        <p outputclass="List2">2) Printing, scanning, and document conversion
+(e.g., banners, decals, technical manuals), except for products
+managed by the Army Print and Media Distribution Center (APMDC)
+such as Army-wide publications.</p>
+        <p outputclass="List1">b. Cardholders must procure all printing
+requirements that cannot be produced in-house using their
+respective organizational printers from <xref format="html"
+               href="https://www.dla.mil/Document-Services/"
+               scope="external">DLA Document
+Services</xref>. See DoDI 5330.03, Single Manager of DoD Document
+Services, and Army CIO memorandum, “Army Procurement or Lease
+of Printing Devices and Services,” dated 17 November 2023.
+For CHs within the Washington DC metropolitan area, additional
+mandatory printing requirements are located here: <xref format="html"
+               href="https://armypubs.army.mil/Printing/printing.aspx"
+               scope="external">
+            <u>https://armypubs.army.mil/Printing/printing.aspx</u>.</xref>
+        </p>
+        <p outputclass="List1">c. DLA will provide an exception to policy (ETP)
+memo if the product is unavailable. ITAS approval is required prior
+to the procurement of IT, including printing devices and services.
+The requesting activity will attach the ETP memo to the ITAS
+procurement request.</p>
+        <p outputclass="List1">d. GPC purchases from DLA Document Services are
+considered IGT and are subject to the IGT payment limit of $10,000.
+If transactions do not meet the DLA Document Services criteria,
+activities will use other funding vehicles (e.g., DD Form 448,
+MIPR, DD Form 282, DoD Printing Requisition/Order).</p>
+        <p outputclass="List1">e. <b>Exemptions</b>. Products exempt
+from this policy include items that are funded or procured with
+non-Army funding and manufacturing equipment such as 3-D printers.
+Also, the following organizations are exempt from the requirement
+to buy print devices and services from DLA:</p>
+        <p outputclass="List2">1) US Army National Guard (ARNG) and US Army
+Reserve (USAR)</p>
+        <p outputclass="List2">2) Army-wide departmental printing and Army
+Headquarters printing services provided by the U.S. Army Print and
+Media Distribution Center (APMDC)</p>
+        <p outputclass="List2">3) Army intelligence printers and services
+acquired under the National Intelligence Program (NIP) or the
+Military Intelligence Program (MIP)</p>
+        <p id="Table_9-2_Mandatory_Sources_for_Certain"/>
+        <p id="Toc174981124">
+          <b>9-7.</b>
+          <b>Clothing
+&amp; Heraldry.</b>
+        </p>
+
+        <p>Flags, guidons, and streamers described in AR 840-10 will be
+requisitioned from the U.S. Army Tank-Automotive and Armaments
+Command, Clothing and Heraldry Office, Product Support Integration
+Directorate, unless otherwise indicated. Stocked items are
+available on FedMall. Stocked items include, but are not limited
+to, national flags and general officer protocol flags. The Clothing
+&amp; Heraldry Office does not provide stocked items. Requiring
+activities will submit requests for flags, guidons, and streamers
+at the following website: <xref format="html" href="https://heraldry.army.mil/" scope="external">https://heraldry.army.mil/</xref>.</p>
+      </conbody>
+    </concept>

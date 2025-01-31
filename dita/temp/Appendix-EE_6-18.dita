@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_6-18">
+      <title>
+      <ph props="autonumber">6-18.</ph> Freedom of Information Act
+(FOIA) Requests</title>
+      <conbody>
+        <p outputclass="List1">a. Local A/OPCs will respond to FOIA requests made
+at the installation, base, or activity level, from the appropriate
+FOIA offices, for the organizational addresses and telephone
+numbers of CHs. FOIA requests will only be released as required by
+the Freedom of Information Act, 5 USC 552, and 29 Jun 2006 DoD
+Memorandum “FOIA Policy on Release of Credit Card
+Data.”</p>
+        <p outputclass="List1">b. In response to FOIA requests submitted by the
+public for transaction-related GPC data, only the following
+specific data is authorized for release:</p>
+        <p outputclass="List2">1) Merchant Category Code</p>
+        <p outputclass="List2">2) Transaction amount</p>
+        <p outputclass="List2">3) Merchant name</p>
+        <p outputclass="List2">4) Merchant city, state, ZIP code, and phone
+number</p>
+        <p outputclass="List2">5) Transaction date</p>
+        <p outputclass="List1">c. When the servicing bank is needed to provide
+transaction data to comply with FOIA requests from the public, the
+servicing bank charges a $350 fee to the party requesting the data
+to be paid prior to the search. In instances where search results
+in no data or limited data, the servicing bank does not refund the
+charge, since they have performed the data search and provided the
+results. If the party desires another search, a new fee of $350 is
+required.</p>
+      </conbody>
+    </concept>

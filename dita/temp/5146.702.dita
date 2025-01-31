@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5146.702"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5146.702</ph> General.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(c) See <ph rev="Revised October 1, 2024" class="- topic/ph ">
+            <xref href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r700_139.pdf"
+                  format="pdf"
+                  scope="external"
+                  class="- topic/xref ">Army Regulation 700-139</xref> 
+         </ph>for procedures on tracking and accumulating data on warranty costs.</p>
+   </conbody>
+</concept>

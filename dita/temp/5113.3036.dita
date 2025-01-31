@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5113.3036"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5113.303-6</ph> Review procedures.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(b)  In addition to the review procedures in FAR 13.303-6, <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers who authorize individuals to place calls under BPAs shall –</p>
+      <p outputclass="List3" class="- topic/p ">(i)  Ensure that individuals equitably distribute calls among suppliers with BPAs;</p>
+      <p outputclass="List3" class="- topic/p ">(ii)  Ensure that individuals do not split requirements to evade monetary limitations;</p>
+      <p outputclass="List3" class="- topic/p ">(iii) Require that individuals refer all cases where prices<ph rev="Revised October 1, 2024" class="- topic/ph "> are not considered</ph> to be reasonable<ph rev="Revised October 1, 2024" class="- topic/ph "> to the Contracting officer for consideration</ph>; and</p>
+      <p outputclass="List3" class="- topic/p ">(iv)  Maintain continuing surveillance over individuals to ensure compliance with acquisition regulations.</p>
+   </conbody>
+</concept>

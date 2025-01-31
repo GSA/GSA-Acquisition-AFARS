@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5136.290"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5136.2-90</ph> Special procedures for job order contracts.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">Before awarding a job order contract, <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers must review all performance evaluations in <ph rev="Revised October 1, 2024" class="- topic/ph ">CPARS</ph> on those offerors in range for award. <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers may rely solely on <ph rev="Revised October 1, 2024" class="- topic/ph ">CPARS</ph> database information in assessing past performance.</p>
+   </conbody>
+</concept>

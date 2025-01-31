@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-EE_3-11">
+      <title>
+      <ph props="autonumber">3-11.</ph> Procurement.army.mil (PAM) Portal</title>
+      <conbody>
+        <p outputclass="List1">a. The ODASA(P)'s interactive Knowledge Management
+portal, Procurement.army.mil (PAM), serves as an official Army-wide
+source for acquisition policy, templates, learning tools, and
+certified training. PAM provides Army contracting procedures and
+updates to critical programs and systems, including instant access
+to Army GPC policies, standard business processes and operating
+procedures. PAM's GPC page is <xref format="html"
+               href="https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx"
+               scope="external">https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/GPC.aspx</xref>.</p>
+        <p outputclass="List1">b. A/OPCs, CHs, and BOs should use the PAM portal
+to access current GPC documents, samples, and processes as
+described throughout this AFARS Appendix EE. Available documents on
+PAM include, but are not limited to, the following:</p>
+        <p outputclass="List2">1) AFARS Appendix EE</p>
+        <p outputclass="List2">2) Army Ordering Officer Guide</p>
+        <p outputclass="List2">3) Army Purchase Request and Approval (PR&amp;A)
+Sample Template</p>
+        <p outputclass="List2">4) <xref format="html"
+               href="https://armyeitaas.sharepoint-mil.us/sites/ASA-ALT-PAM-ProcProc/SitePages/PMR.aspx"
+               scope="external">
+            <u>Procurement
+Management Review (PMR) Process</u>
+          </xref>
+        </p>
+        <p outputclass="List2">5) GPC PMR Toolkit memo, slides, and
+information</p>
+        <p outputclass="List2">6) Ammunition Process and Waiver Request</p>
+        <p outputclass="List2">7) Refund Process</p>
+        <p outputclass="List2">8) Level 4 A/OPC Annual Management Assessment</p>
+        <p outputclass="List2">9) Army Master GPC training slides</p>
+        <p outputclass="List2">10) Section 889 Representation form</p>
+        <p outputclass="List2">11) Army SAHAR Instructions</p>
+        <p outputclass="List2">12) Lodging in Kind (LIK) / Subsistence in Kind
+(SIK) SOP</p>
+        <p id="Toc153200118"/>
+        <p id="Figure_3-1_GPC_Electronic_Systems_Overv"/>
+      </conbody>
+    </concept>

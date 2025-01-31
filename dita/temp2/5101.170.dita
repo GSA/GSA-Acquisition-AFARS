@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5101.170"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5101.170</ph> Peer reviews.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="List1" class="- topic/p ">(a) <i class="+ topic/ph hi-d/i ">DoD peer reviews</i>. </p>
+      <p outputclass="List2" class="- topic/p ">(1)<i class="+ topic/ph hi-d/i "> </i>The SCO will concur, in writing, on all solicitation and contract packages submitted for each phase of any DoD peer review. For the first phase only, the SCO will send a copy of the written concurrence to the DASA(P) (see <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5101.290) and provide a copy to the <ph rev="Revised October 1, 2024">HCA</ph>. <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external"
+               class="- topic/xref ">See AFARS PGI 5101.170-2</xref>.<?oxy_comment_start author="GregPangborn" timestamp="20241107T114423-0500" comment="Note additional paragraph missing in AFARS update. Use git to see the change."?></p>
+      <?oxy_comment_end?>
+      <p outputclass="List2" class="- topic/p ">(2) Contracting activities shall provide their rolling annual forecast of acquisitions that will be subject to DoD peer reviews to the address at 5101.290(b)(2)(ii)(A) at the end of each quarter. See <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5104.802(f)(4) for peer review forecast requirements. <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external"
+               class="- topic/xref ">See AFARS PGI 5101.170-3</xref>.</p>
+      <p outputclass="List1" class="- topic/p ">(b) <i class="+ topic/ph hi-d/i ">Component peer reviews.</i> 
+      </p>
+      <p outputclass="List3"
+         rev="Revised October 1, 2024"
+         class="- topic/p ">
+         <ph class="- topic/ph ">(i) <i class="+ topic/ph hi-d/i ">Army peer reviews.</i> 
+         </ph>See AFARS 5101.170(c) Table 5101-1 for Army level peer reviews, thresholds and approval authority. The SCO will establish a threshold for when a CRB is required for contract modifications that increase total evaluated price or otherwise increase scope. A CRB is not required for modifications that exercise an option or add incremental funding. The SRB and CRB will be comprised of senior level experts from teams not directly involved with the procurement being reviewed. These multi-functional teams will include, at a minimum, representatives from the contracting activity, small business office, office of counsel, requirements community, and the advocate for competition, as applicable. The same representatives should participate in both the SRB and the CRB to ensure consistency.</p>
+      <p outputclass="List3" class="- topic/p ">(ii) <i class="+ topic/ph hi-d/i ">Objective of Army peer reviews.</i> The SRB/CRB will review and assess the presolicitation, solicitation and contract award documents for consistency, sufficiency, compliance and application of sound business practices. The SRB/CRB will verify that the procurement represents an overall good value to the Government and appropriate obligation of taxpayer funds.</p>
+      <p outputclass="List3" class="- topic/p ">(iii) <i class="+ topic/ph hi-d/i ">Resolution of comments.</i> The SCO will establish procedures for resolving all SRB and CRB comments.</p>
+      <p outputclass="List3" class="- topic/p ">(iv) <i class="+ topic/ph hi-d/i ">Peer review statistics. </i>Contracting activities will collect peer review statistics, to include annual data on the number of SRB/CRB reviews conducted and waived, identification of any systemic issues or trends, best practices, lessons learned, overall effectiveness of the process, and other data as determined necessary. </p>
+      <p outputclass="List1" class="- topic/p ">(c) <i class="+ topic/ph hi-d/i ">Peer Review Thresholds.</i> 
+      </p>
+      <p outputclass="List1" class="- topic/p ">Table <ph rev="Revised October 1, 2024" class="- topic/ph ">510</ph>1-1 designates the Army peer reviews, thresholds and approval authorities. </p>
+      <table id="table_tvt_pzs_q5b" class="- topic/table ">
+         <tgroup cols="4" class="- topic/tgroup ">
+            <colspec colnum="1"
+                     colname="col1"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colnum="2"
+                     colname="col2"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colnum="3"
+                     colname="col3"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <colspec colnum="4"
+                     colname="col4"
+                     rowheader="headers"
+                     class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry namest="col1"
+                         nameend="col4"
+                         outputclass="Ctr_SmCaps"
+                         class="- topic/entry ">TABLE <ph rev="Revised October 1, 2024" class="- topic/ph ">510</ph>1-1, Peer Reviews, Thresholds and Approval Authorities</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "> 
+                     <b class="+ topic/ph hi-d/b ">Level</b> 
+                  </entry>
+                  <entry class="- topic/entry "> 
+                     <b class="+ topic/ph hi-d/b ">Threshold</b> 
+                  </entry>
+                  <entry class="- topic/entry "> 
+                     <b class="+ topic/ph hi-d/b ">Parameters</b> 
+                  </entry>
+                  <entry class="- topic/entry "> 
+                     <b class="+ topic/ph hi-d/b ">Approval Authority</b> 
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                  </entry>
+                  <entry class="- topic/entry ">$1 Billion or More</entry>
+                  <entry class="- topic/entry ">Pre-award Non-Competitive</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Director, Price, Cost and Finance, <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                     </p>
+                     <p class="- topic/p ">(Note 1)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                  </entry>
+                  <entry class="- topic/entry ">Actions designated by USD(A&amp;S) as requiring peer review, regardless of value</entry>
+                  <entry class="- topic/entry ">Pre-award Non-Competitive</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Director, Price, Cost and Finance, <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                     </p>
+                     <p class="- topic/p ">(Note 1)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                  </entry>
+                  <entry class="- topic/entry ">$1 Billion or More MDAPs for which USD(A&amp;S) is the MDA</entry>
+                  <entry class="- topic/entry ">Pre-award, Competitive</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Director, Contract Policy, <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                     </p>
+                     <p class="- topic/p ">(Note 1)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                  </entry>
+                  <entry class="- topic/entry ">Actions designated by USD(A&amp;S) as requiring peer review, regardless of value</entry>
+                  <entry class="- topic/entry ">All Pre-award, Competitive</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Director, Contract Policy, <ph rev="Revised October 1, 2024" class="- topic/ph ">DPCAP</ph>
+                     </p>
+                     <p class="- topic/p ">(Note 1)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army</entry>
+                  <entry class="- topic/entry ">$1 Billion or More</entry>
+                  <entry class="- topic/entry ">Pre-award, Competitive</entry>
+                  <entry class="- topic/entry ">HCA Non-delegable, Except DASA(P) for Special Interest Acquisitions</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army</entry>
+                  <entry class="- topic/entry ">$250 Million or More but Less than $1 Billion</entry>
+                  <entry class="- topic/entry ">Pre-award, Competitive and Non-Competitive</entry>
+                  <entry class="- topic/entry ">HCA, with authority to delegate No Lower than the SCO</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army </entry>
+                  <entry class="- topic/entry ">$50 Million or More but Less than $250 Million</entry>
+                  <entry class="- topic/entry ">Pre-award, Competitive and Non-Competitive </entry>
+                  <entry class="- topic/entry ">SCO, with authority to delegate to No Lower than the CoCO</entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army</entry>
+                  <entry class="- topic/entry ">Below $50 Million</entry>
+                  <entry class="- topic/entry ">Pre-award, Competitive and Non-Competitive</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">SCO or Designee</p>
+                     <p class="- topic/p ">(Note 2)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army</entry>
+                  <entry class="- topic/entry ">$1 Billion or More</entry>
+                  <entry class="- topic/entry ">Independent Management Review Contracts for Services</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">DASA (P) or SSM; without authority to further delegate.</p>
+                     <p class="- topic/p "> </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army</entry>
+                  <entry class="- topic/entry ">$100 Million or More but Less than $1 Billion</entry>
+                  <entry class="- topic/entry ">Independent Management Review Contracts for Services</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">HCA, with authority to delegate to No Lower than the SCO</p>
+                     <p class="- topic/p "> </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">Army </entry>
+                  <entry class="- topic/entry ">Procurements identified as Special Interest by the DASA(P). </entry>
+                  <entry class="- topic/entry ">All Peer Reviews, Special Interest</entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">DASA(P), without power to further delegate.</p>
+                     <p class="- topic/p ">(Note 3)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="col1" nameend="col4" class="- topic/entry ">
+                     <p class="- topic/p ">Notes: </p>
+                     <ol id="ol_uvt_pzs_q5b" class="- topic/ol ">
+                        <li class="- topic/li ">See DFARS 201.170. </li>
+                        <li class="- topic/li ">The contracting activity’s business clearance process (see <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS</ph> 5115.406) normally satisfies the oversight function of peer reviews for acquisitions below $50 million. If the SCO determines, in accordance with a risk-based analysis, that a separate peer review is necessary for an acquisition valued below $50 million, the SCO or designee shall conduct the peer review consistent with the procedures set forth for Army peer reviews in this section.</li>
+                        <li class="- topic/li ">Other Army peer reviews identified in <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS</ph> 5101.170(b) are not required when the ODASA(P) conducts a special interest peer review for a procurement.</li>
+                     </ol>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="List3" class="- topic/p ">(v) <i class="+ topic/ph hi-d/i ">Independent Management Reviews (IMRs)</i> 
+         <i class="+ topic/ph hi-d/i ">(Postaward peer reviews) of contracts for services.</i> Independent Management Reviews shall be conducted if the base period is greater than one year, the IMR takes place prior to the end of the second year of the base period of performance. If the base period of performance is one year or less, the IMR occurs prior to the exercise of the second option period. </p>
+      <p outputclass="List6" class="- topic/p "> (a) The ODASA(P) will conduct an Independent Management Review (IMR) for contracts for services valued at $1 billion or more. The reviews will be conducted in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external"
+               class="- topic/xref ">AFARS PGI 5101.170-4(a).</xref> 
+      </p>
+      <p outputclass="List6" class="- topic/p "> (b) The HCA will conduct an IMR for contracts for services valued at $100 million or more but less than $1 billion. See <xref href="https://spcs3.kc.army.mil/asaalt/procurement/AFARS/AFARS_AppGG.aspx"
+               format="html"
+               scope="external"
+               class="- topic/xref ">Appendix GG</xref> for further delegation. For HCA reviews, the HCA will provide the Senior Services Manager a summary report. The summary report will address the independent management review required elements in DoDI 5000.74 Defense Acquisition of Services and shall be filed within PCF in accordance with <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5101.aspx"
+               format="html"
+               scope="external"
+               class="- topic/xref ">AFARS PGI 5101.170-4(b)</xref>; no later than 45 days after completion of the review.</p>
+   </conbody>
+</concept>

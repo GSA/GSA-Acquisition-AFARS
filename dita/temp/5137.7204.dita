@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5137.7204"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5137.7204</ph> Format and clauses for educational service agreements.</title>
+   <conbody>
+      <p outputclass="List2">
+         <ph rev="Revised October 1, 2024">C</ph>ontracting officers may use DD Form 1155 or Standard Form 26, as appropriate, as order forms under educational service agreements.</p>
+   </conbody>
+</concept>

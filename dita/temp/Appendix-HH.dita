@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="AFARS_Appendix-HH">
+      <title class="- topic/title " outputclass="Ctr 1 heading">
+         <ph class="- topic/ph " props="autonumber">APPENDIX - HH</ph> Table Of Contents</title>
+      <body>
+         <p>
+            <i>(Revised 01 October 2024)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="APPENDIX_HH_SUBPART.dita#AFARS_APPENDIX_HH_SUBPART">APPENDIX HH SUBPART - CLINS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-HH_TAB_A.dita#AFARS_Appendix-HH_TAB_A">TAB A CLIN Name PCS Description</xref>
+                     </p>
+                  </li>
+                  <li rev="Revised October 1, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-HH_TAB_B.dita#AFARS_Appendix-HH_TAB_B">TAB B Cloud Contracting Language</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-HH_TAB_C.dita#AFARS_Appendix-HH_TAB_C">TAB C Instructions</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

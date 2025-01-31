@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5122.1011"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 3">
+      <ph props="autonumber">5122.101-1</ph> General.</title>
+   <conbody>
+      <p outputclass="Normal">The labor advisor grants departmental approval for the actions listed in DFARS PGI 222.101-1.  The <ph rev="Revised October 1, 2024">HCA</ph> may contact a national office of a labor organization, a regional office of the Federal Mediation and Conciliation Service, National Mediation Board, or National Labor Relations Board for information.  However, when a contract has been transferred to the Defense Contract Management Agency for administration, request the information from the Defense Contract Management Agency.  See <ph rev="Revised October 1, 2024">
+            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
+                  format="html"
+                  scope="external">Appendix GG</xref>
+         </ph> for further delegation.</p>
+   </conbody>
+</concept>

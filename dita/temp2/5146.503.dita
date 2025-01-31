@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5146.503"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5146.503</ph> Place of acceptance.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">When contemplating destination acceptance in solicitations and contracts, <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers shall—</p>
+      <p outputclass="List2" class="- topic/p ">(1) Verify the Department of Defense Activity Address Code (DoDAAC) of each receiving activity in the solicitation or contract (DoDAAC verification information is available <ph rev="Revised October 1, 2024" class="- topic/ph ">
+            <xref href="https://home.daas.dla.mil/DAASINQ/"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref "/>
+         </ph>;</p>
+      <p outputclass="List2" class="- topic/p ">(2)  Prior to assigning acceptance responsibility, ensure that there is a registered acceptor available in Wide Area Workflow (WAWF) for each destination acceptance point (WAWF acceptor information is available at <xref href="https://wawf.eb.mil"
+               scope="external"
+               format="mil"
+               class="- topic/xref ">
+            <u class="+ topic/ph hi-d/u ">https://wawf.eb.mil</u>
+         </xref>  under “Active DoDAACs and Roles”);</p>
+      <p outputclass="List2" class="- topic/p ">(3)  When no WAWF acceptor is available at destination, use source acceptance or “acceptance at other” in WAWF;</p>
+      <p outputclass="List2" class="- topic/p ">(4)  Not designate destination acceptance at a contractor location, but shall instead clearly designate a Government acceptance point within Section E of the contract schedule; and</p>
+      <p outputclass="List2" class="- topic/p ">(5)  Clearly define the acceptance procedures in Section E.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         id="AFARS_5101.69490"
+         xml:lang="en-US"
+         ditaarch:DITAArchVersion="1.3">
+   <title outputclass="Heading 4">
+      <ph props="autonumber">5101.694-90</ph> Program or Project-specific Senior contracting official.</title>
+   <conbody>
+      <p outputclass="List2">(1)  A Program or Project-specific SCO focuses solely on the management of that program’s or project’s contract action(s).  The appointment may be tailored to align with the risk or complexity, and dollar value of the pertinent program or project.  The Program or Project-specific SCO will exercise procurement authority in accordance with the FAR and its supplements and perform delegated HCA contracting authorities.  Procurement authority is delegated by the HCA and is not position dependent.</p>
+      <p outputclass="List2">(2) Program or Project-specific SCOs may be appointed on a temporary basis, typically for the duration of that contract action(s), within an Army contracting activity.  The individual must meet the position requirements listed in DoDI 5000.66.</p>
+      <p outputclass="List2">(3)  Program or Project-specific SCOs will –</p>
+      <p outputclass="List3">(i)  Report directly to the HCA on all matters regarding the pertinent contract action(s).  </p>
+      <p outputclass="List3"> (ii) Have direct access to the personnel and other essential resources
+         necessary to perform all assigned functions.</p>
+   </conbody>
+</concept>

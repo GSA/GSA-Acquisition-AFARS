@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_5115.201"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5115.201</ph> Exchanges with industry before receipt of proposals.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p outputclass="Normal" class="- topic/p ">(c) Early involvement is essential for maximizing industry’s contribution to the planning, requirements definition, and acquisition processes. Communications with industry should start prior to drafting any solicitation. Measures will be taken to protect any intellectual property (IP) discussed during the planning/pre-solicitation phase, to include non-disclosure agreements as applicable <ph rev="Revised October 1, 2024" class="- topic/ph ">(<xref href="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN14261_AD2018_26_Final.pdf"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">see Appendices of the Implementation Guidance for Army Directive 2018-26</xref>).</ph>
+      </p>
+      <p class="- topic/p " outputclass="List2">(6) When a written acquisition plan is required per DFARS 207.103(d) and a draft request for proposal is not used, <ph rev="Revised October 1, 2024" class="- topic/ph ">C</ph>ontracting officers must include the rationale for not using a draft request for proposal in the plan.</p>
+      <p outputclass="List1" class="- topic/p ">(f)  All non-public contractor-owned IP discussed will be considered proprietary information and will not be disclosed publicly.  This includes IP the Government is privy to as a result of discussions, documentation, or demonstrations.</p>
+   </conbody>
+</concept>

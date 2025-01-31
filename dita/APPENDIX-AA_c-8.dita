@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_c-8">
+        <title>
+      <ph props="autonumber">C-8</ph> Common Concerns for Each Methodology</title>
+        <conbody>
+          <p>It is important to understand and consider the benefits and
+possible down-sides of each approach in order to ensure you select
+the one that will help you achieve best value for the
+customer/program. Below are some of the common concerns.</p>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry nameend="col2" namest="col1">
+                    <b>COMPARING COMMON CONCERNS</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>TRADEOFF</b>
+                  </entry>
+                  <entry>
+                    <b>LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>
+                        <b>Will the Government Get What</b>
+                    </p>
+                    <p>
+                        <b>It Is Paying More For?</b>
+                    </p>
+                  </entry>
+                  <entry>
+                    <p>
+                        <b>Will the Government Get What It</b>
+                    </p>
+                    <p>
+                        <b>Needs At the Price Proposed?</b>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>The government shall incorporate evaluated strengths as a
+contractually binding requirement to the greatest extent possible
+(particularly when offeror was selected under VATEP).</p>
+                    <p>Post-award management must follow through to ensure receipt of
+the anticipated benefits.</p>
+                  </entry>
+                  <entry>
+                    <p>The government sometimes has difficulty identifying with enough
+clarity and specificity what its requirements are (even when we
+think we’ve done a good job).</p>
+                    <p>If this occurs, the contract may require modifications to ensure
+the government’s needs are met, which may increase the price
+over time.</p>
+                    <p>Thorough, upfront analysis is essential. Careful post-award
+management is equally as important.</p>
+                    <p>Apply lessons learned to appropriately determine the source
+selection methodology for follow-on contracts.</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Ensure the Tradeoff Decision Is Sound</b>
+                  </entry>
+                  <entry>
+                    <b>Low Acceptability Standards/Evaluation Criteria Increase
+Performance Risk</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>Does the order of importance of factors and subfactors reflect
+the goals of the program, and what is most important to the
+customer and the end user/warfighter?</p>
+                    <p>Was the order of importance adequately described in the RFP?</p>
+                    <p>Did the evaluation follow the Source Selection Plan and RFP?</p>
+                  </entry>
+                  <entry>
+                    <p>Acceptability standards that are set too low can result in low
+prices that are also too low, resulting in award to the wrong
+Offeror at increased performance risk.</p>
+                    <p>LPTA should not mean buying cheaper goods or services. Minimum
+requirements does not mean “bare bones”.</p>
+                    <p>No additional credit for exceeding standards</p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </conbody>
+      </concept>

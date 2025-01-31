@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_operator_and_maintainer_training">
+   <title>
+      <ph props="autonumber">Operator</ph> and Maintainer Training</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror’s proposal shall explain how the offeror will
+address the requirement &lt;PWS Section XX.XX&gt; for the
+Government to support platform training development and the
+availability of instructor and maintainer training and training
+package that addresses the &lt;Program Title&gt; as installed on
+individual platforms. The proposal shall clearly address the
+proposed level of Government accessibility to test benches,
+technical manuals, training manuals, documentation, etc. in order
+to conduct tests, swap out batteries, troubleshoot and/or debug the
+&lt;Program Title&gt;.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the Government has the ability to support
+platform training development, availability of instructor and
+maintainer training and training package that addresses the
+&lt;Program Title&gt; as installed on individual platforms, and the
+accessibility to test benches, technical manuals, training manuals,
+documentation, etc. in order to conduct tests, swap out batteries,
+troubleshoot and/or debug the &lt;Program Title&gt;.</p>
+   </conbody>
+</concept>

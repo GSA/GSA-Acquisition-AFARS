@@ -1,20 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_16-7" class="- topic/topic concept/concept "><title class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">16-7.</ph> NSA Exception Process</title><conbody class="- topic/body  concept/conbody "><p id="Figure_16-1_Army_NSA_Exception_Process" class="- topic/p ">Figure 16-1: Army NSA Exception Process</p><p class="- topic/p "> <image href="Graphics/image8.jpeg" placement="inline" class="- topic/image "/> </p><p outputclass="List1" class="- topic/p ">a. All organizations/activities will ensure proper
+<concept id="AFARS_Appendix-EE_16-7" class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">16-7.</ph> NSA Exception Process</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p id="Figure_16-1_Army_NSA_Exception_Process" class="- topic/p ">Figure 16-1: Army NSA Exception Process</p>
+      <p class="- topic/p "> 
+         <image href="Graphics/image8.jpeg"
+                placement="inline"
+                class="- topic/image "/> 
+      </p>
+      <p outputclass="List1" class="- topic/p ">a. All organizations/activities will ensure proper
 accountability of all NSA, whether contained in sets or issued as
-individual items.</p><p outputclass="List1" class="- topic/p ">b. All organizations/activities will comply with
+individual items.</p>
+      <p outputclass="List1" class="- topic/p ">b. All organizations/activities will comply with
 safety, storage and transportation procedures in regulations and
 directives governing those functions including reference
-16-1.b.</p><p outputclass="List1" class="- topic/p ">c. The Army’s goals are to maintain
+16-1.b.</p>
+      <p outputclass="List1" class="- topic/p ">c. The Army’s goals are to maintain
 ammunition supply activity supply levels as close to the validated
-need as possible while avoiding shortfalls and overages.</p><p outputclass="List1" class="- topic/p ">d. <b class="+ topic/ph hi-d/b ">Provide an annual report of
+need as possible while avoiding shortfalls and overages.</p>
+      <p outputclass="List1" class="- topic/p ">d. <b class="+ topic/ph hi-d/b ">Provide an annual report of
 expenditures</b>. All organizations/activities with an
 exception to use the GPC to purchase small quantities of NSA are
 required to provide a report, through command channels, to the
 ODASA(P) CPM and JPEO A&amp;A upon completion of the event for
 which the NSA was required and at the end of each FY. The report of
 expenditures is due by October 31 and must include for each
-munition the following information:</p><p outputclass="List2" class="- topic/p ">1) Nomenclature.</p><p outputclass="List2" class="- topic/p ">2) Quantity procured.</p><p outputclass="List2" class="- topic/p ">3) Quantity and location of remaining
-munitions.</p></conbody></concept>
+munition the following information:</p>
+      <p outputclass="List2" class="- topic/p ">1) Nomenclature.</p>
+      <p outputclass="List2" class="- topic/p ">2) Quantity procured.</p>
+      <p outputclass="List2" class="- topic/p ">3) Quantity and location of remaining
+munitions.</p>
+   </conbody>
+</concept>

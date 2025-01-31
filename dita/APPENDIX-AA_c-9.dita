@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_c-9">
+        <title>
+      <ph props="autonumber">C-9</ph> Tips and Best Practices for Using LPTA</title>
+        <conbody>
+          <p>Below are some general tips and agreed-upon best practices to
+guide application of LPTA techniques.</p>
+          <table>
+            <tgroup cols="1">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <b>Tips and Best Practices for Using LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Establishing Technical Factors For
+Evaluation</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>When establishing technical factors for evaluation, each must
+link to specific critical technical requirements in the
+PWS/SOW/SOO.</p>
+                    <p>Using a Technical Information Questionnaire (TIQ), which
+includes the requirement (and PWS/SOW/SOO reference), the criteria,
+and the “standard of proof” will make the job of the
+evaluator far easier.</p>
+                    <p>Also, providing a technical information questionnaire to the
+Offeror to complete which includes the requirement (and PWS/SOW/SOO
+reference), the criteria, and the “standard of proof”
+required, will ensure consistency throughout the process. <i>See
+Attachment C-1, Technical Information Questionnaire.</i>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>“Buy-In” and Performance Risk Can be
+Mitigated</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>
+                        <b>
+                           <i>In LPTA –a very low price is often the result
+of acceptability standards (criteria) that are set too low or are
+ill-defined.</i>
+                        </b>
+                    </p>
+                    <p>
+                        <u>Rigorous Definition and Evaluation of “Technical
+Acceptability” is key to success</u>. By
+associating minimum standards with relative risks for execution of
+each task, the overall performance risk can be mitigated or
+decreased.</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Source Selection Evaluation Training</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Train the SSEB on the specific process of evaluating the
+proposal against the <b>
+                        <i>standard of proof</i>
+                    </b>
+relative to each evaluation criteria and documentation.</entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Brand Name or Equal RFPs</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Ensure the salient characteristics are included in the
+solicitation. If a firm is offering an equal product, the proposal
+must demonstrate that the product conforms to the salient
+characteristics listed in the solicitation. If the firm fails to
+comply, its product is properly rejected as technically
+unacceptable. <i>Nas/Corp-Telmah, Inc.,</i> B-405893, Jan.10,
+2012, 2012 CPD ¶ 88 at 2.</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </conbody>
+      </concept>

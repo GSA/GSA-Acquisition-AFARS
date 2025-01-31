@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_appendix_f">
+   <title>
+      <ph props="autonumber">APPENDIX F</ph> Small Business Participation Commitment
+Document</title>
+   <conbody>
+      <p>Small Business Participation Commitment Document (SBPCD) (Sample Format)</p>
+      <p>The SBPCD format is designed to streamline and bring uniformity to responses and evaluations for small business participation when required under FAR 15.304. The format is distinctly different than the small business subcontracting plan required for other than small businesses (FAR 52.219-9). Proposals addressing the extent of small business participation (SBPCDs) shall be submitted separately from small business subcontracting plans (DFARS 215.305(c)(i)(B). A copy of the SBPCD is recommended to be provided in your instructions to offerors or as an attachment to the RFP.</p>
+      <p> 
+         <b>Other than small businesses</b> are required to complete a SBPCD which will be incorporated into the resulting award by reference or attachment as an enforceable contractual requirement. Offerors should propose the level of participation of small businesses (as a small business prime, joint venture, teaming arrangement, and/or small business subcontractors) in the performance of the acquisition relative to the objectives/goals set forth in the evaluation of this area.</p>
+      <p> 
+         <b>NOTE</b>: Proposals including WOSB, HUBZone, VOSB, and SDVOSB percentages must ensure those socio-economic category submissions are SBA Certified.</p>
+      <p> 
+         <b>(a)</b> Check the applicable size and categories for the <b>PRIME</b> Offeror only -- Check all applicable boxes:</p>
+      <p>{ } Other than Small Business</p>
+      <p>or</p>
+      <p>{ } Small Business Prime; also categorized as a</p>
+      <p>{ } Small Disadvantaged Business (SDB)</p>
+      <p>{ } Women-Owned Small Business (WOSB)</p>
+      <p>{ } Historically Underutilized Zone (HUBZone) Small Business</p>
+      <p>{ } Veteran Owned Small Business (VOSB)</p>
+      <p>{ } Service-Disabled Veteran Owned Small Business (SDVOSB)</p>
+      <p> 
+         <b>(b)</b> Submit the total combined dollar value and percentage of work to be performed by both other than small and small businesses (include the percentage of work to be performed both by Prime, joint venture, teaming arrangement, and subcontractors):</p>
+      <p> 
+         <b>Example:</b> If the Prime proposes a price of $1,000,000 (including all options), and small business(es) will provide $250,000 in services/supplies as a prime, joint venture, teaming arrangement, or subcontractor, the % planned for small businesses is 25%; and 75% for other than small business, equaling 100%.</p>
+      <p>Total Percentage planned for Other than Small Business(es) ____75_% = $ 750,000</p>
+      <p id="OLE_LINK1">Total Percentage planned for Small Business(es) ____25_% = $ 250,000</p>
+      <p>
+         <image href="Graphics/ImageF-1.jpeg"
+                placement="inline"/> 
+         <b>
+            <ph rev="">100% = $1,000,000</ph>
+         </b> 
+      </p>
+      <p>
+         <b>(c)</b> Please indicate the total percentage and dollar value of participation to be performed by each type of subcategory small business. The percentage of work performed by Small Businesses that qualify in multiple small business categories may be counted in each category:</p>
+      <p> 
+         <b>Example:</b> Victory Prop Mgt (WOSB and SDVOSB) performing 2%; and Williams Group (SDB, HUBZone and WOSB) performing 3%. Results equate to: SB 5%; SDB 3%; HUBZone 3%; WOSB 5%; SDVOSB 2%; VOSB 2%;). SDVOSBs are also VOSBs automatically; however VOSBs are not automatically SDVOSBs.</p>
+      <p> Small Disadvantaged Business _________% $_________</p>
+      <p>HUBZone Small Business _________% $_________</p>
+      <p>Women-Owned Small Business _________% $_________</p>
+      <p>Service-Disabled Veteran Owned SB _________% $_________</p>
+      <p>Veteran Owned Small Business _________% $_________</p>
+      <p> 
+         <b>(d)</b> Identify the prime offeror and type of service/supply that the prime offeror will provide. Then list each of the intended subcontractors and principal supplies/services to be provided by that subcontractor. Provide the Commercial and Government Entity (CAGE) code for the prime and each intended subcontractor. Also, provide the anticipated NAICS codes(s) that the prime offeror believes best describes the product or services being acquired by its subcontracts with each intended subcontractor. Small business Primes and small business subcontractors that qualify as small businesses in multiple small business categories should be listed in each applicable small business category.</p>
+      <p> 
+         <b>Example:</b> If a Small Business qualifies as a WOSB and a SDVOSB, you can add them to each category below in which they qualify.</p>
+      <p>Name of Company Anticipated NAICS Code Type of Service/Service</p>
+      <p>(Include CAGE Code) for Each Subcontractor (1)</p>
+      <p>Prime Offeror: ________________ __________________ _________________</p>
+      <p>Other than</p>
+      <p>Small Business: ________________ __________________ _________________</p>
+      <p>Small Business: ________________ __________________ _________________</p>
+      <p>SDB: ________________ __________________ _________________</p>
+      <p>________________ __________________ _________________</p>
+      <p>WOSB: ________________ __________________ _________________</p>
+      <p>________________ __________________ _________________</p>
+      <p>HUBZone Small: ________________ __________________ _________________</p>
+      <p>________________ __________________ _________________</p>
+      <p>VOSB: ________________ __________________ _________________</p>
+      <p>________________ __________________ _________________</p>
+      <p>SDVOSB: ________________ __________________ _________________</p>
+      <p>________________ __________________ _________________</p>
+      <p> 
+         <b>NOTE</b>: Pursuant to Sections 8(d) of the Small Business Act, a business is considered small for government procurements if it does not exceed the size standard for the NAICS code that the prime contractor believes best describes the product or services being acquired. In other words, the size of the prime’s suppliers is determined by the applicable NAICS code of their joint venture, teaming partner, or subcontract, which may or may not be the same NAICS code as the one for your prime contract with the government.</p>
+      <p> 
+         <b>(e)</b> Describe the extent of commitment to use small businesses (e.g., what types of commitments, if any, are in place for this specific acquisition either – small business prime, written contract, verbal, enforceable, non-enforceable, joint venturing, mentor-protégé, etc.). Provide documentation regarding commitments to small business for this effort. Copies of such agreements should be provided as part of your SBPCD and will not count against the page limitation for this volume.</p>
+      <p id="APPENDIX_J"/>
+   </conbody>
+</concept>

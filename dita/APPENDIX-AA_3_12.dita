@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_3_12">
+      <title>3.12
+Integrating Proposal into the Contract</title>
+      <conbody>
+        <p>When planning the acquisition/source selection, coordinate
+closely with legal counsel to select the best method to incorporate
+beneficial aspects, such as the small business participation
+commitment document or above-threshold performance, into the award
+document. This is vital when aspects of a proposal are cited or
+emphasized in the SSDD because they were identified as beneficial
+to the government, especially when the aspects of the proposal
+support a price premium paid by the government. The following
+methods may be considered:</p>
+        <p>
+          <b>Use of Attachment<i>.</i>
+          </b>  Beneficial
+aspects can be captured in a separate document attached to the
+PWS/Statement of Work (SOW)/SOO which clearly defines the changes
+to requirements based on specific beneficial aspects but leaves the
+original PWS/SOW/SOO untouched. </p>
+        <p>
+          <b>Section C PWS/ SOW/ SOO, System Specifications, Section
+H – Special Contract Requirements, or
+Other<i>.</i>
+          </b> Above-threshold performance may be
+captured within the PWS/SOW/SOO, System Specifications, Section H -
+Special Contract Requirements, or otherwise captured in the
+contract document, depending upon what is proposed. If using this
+method, care must be executed not to permanently increase the
+government’s requirements in future RFPs unless it is an
+intentional decision on the part of the organization to do
+so. </p>
+        <p> <b>
+            <i>Best Practice:</i>
+          </b>
+          <i>Methods
+other than an addendum to the PWS/SOW/SOO addendum may be preferred
+due to the possibility of inadvertent inclusion in subsequent
+contracts (causing requirements creep). The intent is not to
+increase the government’s minimum requirements, but to hold a
+particular offeror to their proposal. (The government may
+later determine that the minimum requirement should include the
+higher performance and include it at time of re-compete).</i>
+        </p>
+        <p>
+          <b>Model Contract Process.</b> The RFP should
+discuss the model contract process (if used) in Section L (or
+equivalent) to ensure that offerors know that they will be
+contractually bound to their proposed above-threshold performance.
+Include language in the RFP describing how the government will
+capture the promised above-threshold performance prior to award.
+Above-threshold performance and significant strengths the
+government expects to capture in the contract should be addressed
+with the offerors during the discussions process.</p>
+        <p>When used, model contracts are typically sent to offerors prior
+to closing discussions and submission of Final Proposal Revisions
+(FPRs) to include the above-threshold performance that will be
+captured upon contract award, thereby ensuring that all parties are
+aware of what is expected of the prospective awardee. Ensure that
+each offeror’s proposed above-threshold performance is
+carefully and correctly incorporated into each model contract and
+the final narrative is consistent with the letter to the offeror
+requesting the FPR.</p>
+        <p>
+          <b>Incorporation of Portions of Offeror’s Technical
+Proposal by Reference. </b>The RFP should advise
+offerors that any part of their proposal can be incorporated by
+reference. Only incorporate those portions of an offeror’s
+technical proposal that provide benefit to the government.</p>
+        <p id="Toc307819167">
+          <b>
+            <i>
+              <u>Awarding the
+Contract(s) and Posting to SAM.gov</u>
+            </i>
+          </b>
+        </p>
+        <p>After the SSA has signed the source selection decision document,
+the PCO will execute and distribute the contract award(s) and post
+to SAM.gov in accordance with FAR 5.303, DFARS 205.303, and AFARS
+5105.303 Announcement of contract awards. Congressional
+notification may be required IAW FAR 5.303 and AFARS 5105.303. For
+Section 8(a) Set-Asides, the SBA shall be notified IAW FAR 19.804.
+For Small Business Programs, the apparent unsuccessful offerors
+shall be provided the pre-award notice required by FAR 15.503.</p>
+        <p id="Toc499524465"/>
+        <p>
+          <b>
+            <i>
+              <u>Notification to Unsuccessful
+Offerors</u>
+            </i>
+          </b>
+        </p>
+        <p>The PCO must notify unsuccessful offerors in writing after
+contract award or whenever their proposals are eliminated from the
+competition within the timeframe identified in Figure 3-5 below.
+This chart provides a side-by-side comparison of the differences
+between preaward and postaward notices. The type of information
+that must be included in the notice will depend upon whether it is
+sent before or after contract award.</p>
+        <table>
+          <tgroup cols="3">
+            <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+            <colspec colname="col2" colnum="2" colwidth="1.2*"/>
+            <colspec colname="col3" colnum="3" colwidth="1.3*"/>
+            <tbody>
+              <row>
+                  <entry/>
+                  <entry>
+                     <p>
+                        <b>PREAWARD NOTICE</b>
+                     </p>
+                     <p>
+                        <b>FAR 15.503(a)</b>
+                     </p>
+                  </entry>
+                  <entry>
+                     <p>
+                        <b>POSTAWARD NOTICE</b>
+                     </p>
+                     <p>
+                        <b>FAR 15.503(b)</b>
+                     </p>
+                  </entry>
+              </row>
+              <row>
+                  <entry id="Toc307819169">
+                     <b>Who Must be
+Notified?</b>
+                  </entry>
+                  <entry>Any offeror whose proposal was excluded from the competitive
+range or otherwise eliminated from the competition before contract
+award.</entry>
+                  <entry>Any offeror whose proposal was in the competitive range but was
+not selected for award or who had not received a preaward
+notice.</entry>
+              </row>
+              <row>
+                  <entry id="Toc307819170">
+                     <b>When Must it be
+Sent?</b>
+                  </entry>
+                  <entry>Promptly after the offeror’s proposal was eliminated from
+the competition.</entry>
+                  <entry>Within three days after the date of contract award.</entry>
+              </row>
+              <row>
+                  <entry id="Toc307819171">
+                     <b>What is Included in the
+Notice?</b>
+                  </entry>
+                  <entry>
+                     <p> A summary of the basis for the determination.</p>
+                     <p> A statement that the government will not consider any
+further proposal revisions from the offeror.</p>
+                     <p>
+
+                        <b>NOTE</b>: Small business offerors are entitled to
+additional information as well as the timelines associated with
+small business offerors as described at FAR <xref format="html"
+                              href="http://farsithttp:/farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/15.htm#P508_37432"
+                              scope="external">Part
+15.</xref>
+                        <ph id="Hlt498146871"/>503(a)(2) and FAR Part 19.302(d).</p>
+                     <p>After contract award, and upon request from an offeror who
+previously received a preaward notice, the PCO must provide the
+offeror the information normally provided as part of a postaward
+notice.</p>
+                  </entry>
+                  <entry>
+                     <p> Number of offerors solicited.</p>
+                     <p> Number of proposals received.</p>
+                     <p> Name(s) and address(s) of awardee(s)</p>
+                     <p> Items, quantities, and unit prices of each awardee.
+However, unit prices may not be freely releasable under Freedom of
+Information Act (FOIA). <b>Therefore, PCOs should
+always consult legal counsel prior to disclosing unit
+prices.</b>
+                     </p>
+                     <p> A summary of the reason(s) the offeror’s proposal
+was not selected, unless the price information readily reveals the
+reason.</p>
+                     <p>
+                        <sup></sup> Notice of right to request a debriefing.
+</p>
+                  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>
+          <i>Figure 3-5: Comparison of Preaward and Postaward
+Notices</i>
+        </p>
+        <p id="Hlt507924486"/>
+        <p id="Toc178607324"/>
+      </conbody>
+    </concept>

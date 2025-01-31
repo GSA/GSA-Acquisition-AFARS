@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_4_2">
+      <title>4.2
+Electronic Source Selection</title>
+      <conbody>
+        <p>If the PCO determines use of an electronic system for storing
+and handling source selection documentation is appropriate for the
+acquisition, the Army’s Virtual Contracting Enterprise (VCE)
+Acquisition Source Selection Interactive Support Tool (ASSIST) is
+available.</p>
+
+        <p>ASSIST is a secure web-based contracting tool, accessible by
+Common Access Card (CAC) or External Certificate Authority (ECA),
+used to facilitate the coordination and management of all
+evaluation documentation generated in a source selection. For more
+information, please reference the ASSIST user guide at <xref format="html" href="https://assist1.army.mil" scope="external">https://assist1.army.mil</xref>.</p>
+        <p id="CHAPTER_5"/>
+      </conbody>
+    </concept>

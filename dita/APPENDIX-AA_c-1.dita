@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_c-1">
+        <title>
+      <ph props="autonumber">C-1</ph> Purpose</title>
+        <conbody>
+          <p>The purpose of this Appendix is to assist acquisition
+professionals in making sound decisions for determining whether to
+use a Tradeoff or LPTA source selection process to obtain best
+value. LPTA is an available source selection approach. However, a
+lack of understanding of when it is an appropriate choice may
+result in misapplication of this process. This Appendix includes
+“side-by-side” comparisons of LPTA vs. Tradeoff
+characteristics, methodologies, common concerns associated with
+each, tips and best practices.</p>
+          <p id="references"/>
+        </conbody>
+      </concept>

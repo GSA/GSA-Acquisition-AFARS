@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_c-6">
+        <title>
+      <ph props="autonumber">C-6</ph> Comparing Key Characteristics</title>
+        <conbody>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row id="s6_key">
+                  <entry nameend="col2" namest="col1">
+                    <b>Tradeoff vs LPTA Methods of Source
+Selection</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>TRADEOFF</b>
+                  </entry>
+                  <entry>
+                    <b>LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>SUMMARY OVERVIEW</b>
+                  </entry>
+                  <entry>
+                    <b>SUMMARY OVERVIEW</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>A Tradeoff process is appropriate when it may be in the best
+interest of the government to:</p>
+                    <p>a) consider award to other than the lowest-priced Offeror
+or:</p>
+                    <p>b) other than the highest technically rated Offeror.</p>
+                    <p>Therefore, if the ability to distinguish between the quality of
+non-cost/price factors and cost/price factors within
+Offerors’ proposals and give credit (assign strengths) for
+aspects which provide a benefit to the government and for which it
+might be willing to pay more for (premium), then the tradeoff
+process is the best approach.</p>
+                    <p> Less definitive</p>
+                    <p> More complex and time-consuming development work</p>
+                    <p> Greater performance risk/integration risk</p>
+                    <p> Technical and past performance considerations more
+important than price</p>
+                    <p> Price based on performance-based approach</p>
+                    <p> Past performance is critical in reducing risk</p>
+                  </entry>
+                  <entry>
+                    <p>An LPTA process is appropriate when best value is expected to
+result from selection of the technically acceptable proposal with
+the lowest price.</p>
+                    <p>Award is made to the responsible contractor who is technically
+acceptable and has the lowest evaluated price.</p>
+                    <p> government design or stable requirements, clearly
+definable</p>
+                    <p> Risk of unsuccessful performance is minimal</p>
+                    <p> No mission-related reason to pay a premium for quality
+or performance exceeding the acceptable level</p>
+                    <p> Only use LPTA when able to clearly define and strictly
+evaluate Offerors’ proposals based on technical
+acceptability</p>
+                    <p> Technical evaluation lends itself to
+acceptable/unacceptable basis</p>
+                    <p> When requirement is easy to price</p>
+                    <p> When past performance is not critical to reducing
+risk</p>
+                    <p> When a <u>“standard of proof”</u> is
+identifiable for each evaluation criteria</p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry nameend="col2" namest="col1">
+                    <b>Tradeoff vs LPTA Methods of Source
+Selection</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>TRADEOFF</b>
+                  </entry>
+                  <entry>
+                    <b>LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Encourages Innovation</b>
+                  </entry>
+                  <entry>
+                    <b>Innovation Not Needed, Encouraged, nor
+Rewarded</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Proposals can offer various technical approaches that may be of
+benefit to the government and the competitive environment should
+encourage this depending upon what the solicitation places the most
+value/importance upon.</entry>
+                  <entry>LPTA inherently places the most value on the technical
+acceptability to provide known, stable requirements for the lowest
+price and the government will not benefit from/is not willing to
+pay for above threshold performance.</entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Maximum Flexibility</b>
+                  </entry>
+                  <entry>
+                    <b>Minimum Flexibility</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>The tradeoff process provides the most discretion/flexibility
+when it comes to the award decision.</p>
+                    <p>The Source Selection Evaluation Board (SSEB) can identify
+strengths within proposals that may benefit the government and
+increase the value of the proposal.</p>
+                    <p>The Source Selection Authority can give consideration to the
+benefit/value of non-cost/price factor differences between Offerors
+to determine if those differences justify paying the cost/price
+differential between them.</p>
+                  </entry>
+                  <entry>
+                    <p>Tradeoffs not permitted – intended to be a simple
+selection process based upon technical acceptability/lowest price.
+</p>
+                    <p>Use a checklist or form to document the technical evaluation (1)
+to ensure the requirements/criteria/standards are suitable for this
+process; and (2) enable the offeror to provide the standard of
+proof and determine whether the offeror should be rated as
+acceptable or unacceptable for that item.</p>
+                    <p>- You must be able to evaluate everything included in your
+“checklist” using an <u>objective</u> standard of
+proof.</p>
+                    <p>- By associating minimum standards with relative risks for
+execution of each task, risk of unsuccessful performance can be
+mitigated or decreased.</p>
+                    <p>-The offeror is required to provide clear proof that they meet
+the requirement (and the government determines what the standard of
+proof is and announces it in the RFP).</p>
+                    <p>No additional “credit” can be given for exceeding
+established standards.</p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry nameend="col2" namest="col1">
+                    <b>Tradeoff vs LPTA Methods of Source
+Selection</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>TRADEOFF</b>
+                  </entry>
+                  <entry>
+                    <b>LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Competitive Range and Discussions</b>
+                  </entry>
+                  <entry>
+                    <b>Competitive Range and Discussions</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>52.215-1, Instructions to Offerors – Competitive
+Acquisition enables the government to provide notice to prospective
+Offerors of the intent to make award without discussions as well as
+limit the number of proposals in the competitive range to the
+number at which an efficient competition can be conducted.</p>
+                    <p>Contracting officer can provide the opportunity for offerors to
+eliminate weaknesses and deficiencies through the discussion
+process.</p>
+                  </entry>
+                  <entry>
+                    <p>If few or no acceptable offers are received or proposals
+indicate that the requirements are misunderstood, the contracting
+officer may set a competitive range and conduct discussions with
+technically unacceptable Offerors and provide them the opportunity
+to eliminate deficiencies.</p>
+                    <p>A proposal rated technically acceptable cannot be further
+improved through the discussion process. However, all offerors in
+the competitive range must be afforded the opportunity to submit a
+revised proposal after discussions have concluded. See
+<i>Commercial Design Group, Inc.,</i> B-400923.4, August 6, 2009,
+CPD ¶ 157.</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Enables Meaningful Comparisons</b>
+                  </entry>
+                  <entry>
+                    <b>No Comparisons Permitted</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Tradeoff allows for meaningful comparisons and discrimination
+between and among competing proposals.</entry>
+                  <entry>If some, but not all, evaluation criteria fit the LPTA
+requirements, a combination approach may be a consideration. If a
+combination approach is used, comparison is allowable only for
+those factors based on tradeoff.</entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Evaluation is More Complex But Can Be Simplified Using a
+Hybrid Approach When Appropriate</b>
+                  </entry>
+                  <entry>
+                    <b>Evaluation is Straightforward</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>By using a combination approach, the government can simplify
+some aspects of the evaluation where criteria are clear, can be
+evaluated on an acceptable/unacceptable basis, and a clear standard
+of proof can be linked to each one.</p>
+                    <p>Examples of may include professional qualifications, special
+certifications, licensing.</p>
+                  </entry>
+                  <entry>
+                    <p>Well-written evaluation criteria and “standard of
+proof” that the Offeror must provide to satisfy each, should
+enable the evaluation to be conducted in an efficient and
+straightforward manner.</p>
+                    <p>If not all evaluation criteria is clear and objective with an
+objective standard of proof for evaluation, a combination approach
+may be appropriate.</p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry nameend="col2" namest="col1">
+                    <b>Tradeoff vs LPTA Methods of Source
+Selection</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>TRADEOFF</b>
+                  </entry>
+                  <entry>
+                    <b>LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Performance Risk and Past Performance
+Assessment</b>
+                  </entry>
+                  <entry>
+                    <b>Past Performance Rated Acceptable or
+Unacceptable</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>In the case of an offeror without a record of recent/relevant
+past performance, or for whom information on past performance is
+not available, or so sparse that no meaningful past performance
+rating can be assigned, you must evaluate the offeror’s lack
+of past performance as “Neutral Confidence”, having no
+favorable or unfavorable impact on the evaluation.</entry>
+                  <entry>
+                    <p>Past performance shall be evaluated unless waived. However, a
+comparative assessment is not allowed. When using LPTA, unknown
+past performance shall be considered acceptable.</p>
+                    <p>- You may utilize a combination approach where past performance
+is evaluated as part of the tradeoff and technical approach is
+assessed on acceptable/unacceptable basis.</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Planning Considerations</b>
+                  </entry>
+                  <entry>
+                    <b>Planning Considerations</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>The tradeoff methodology generally involves in-depth planning
+and more time and resources.</p>
+                    <p>Tradeoffs must be clearly documented and supported.</p>
+                  </entry>
+                  <entry>
+                    <p>The LPTA process is not necessarily faster.</p>
+                    <p>Requires significant up-front time investment to clearly
+identify the critical technical requirements (standards) for
+evaluation and the standard of proof (evidence of the
+offeror’s compliance with the requirement) to determine
+whether each one is met (technical acceptability).</p>
+                    <p>
+                        <b>
+                           <i>The time investment is key to establishing whether
+the requirement is suitable for LPTA, and if so, setting up the
+procurement for success.</i>
+                        </b>
+                    </p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </conbody>
+      </concept>

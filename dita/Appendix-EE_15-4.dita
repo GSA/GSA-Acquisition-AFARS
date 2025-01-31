@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix-EE_15-4" class="- topic/topic concept/concept "><title class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">15-4.</ph> Payment Card Process Flow</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">The Army must follow all the necessary internal contracting
+<concept id="AFARS_Appendix-EE_15-4" class="- topic/topic concept/concept ">
+   <title class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">15-4.</ph> Payment Card Process Flow</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">The Army must follow all the necessary internal contracting
 procedures before starting the Payment Card Process. The CH has a
 GPC that is embossed and established for only “Contract
 Payments.” The RM builds the managing account with Account
@@ -11,4 +14,12 @@ creates a manual purchase order for each contract. Cardholder
 provides the same card information to the contractor as they would
 for a purchase to the merchant. The person within the agency
 responsible for the payments is the BO who will certify the invoice
-“transaction(s)” for payment to the bank.</p><p id="Figure_15-1_Payment_Card_Process_Flow" class="- topic/p ">Figure 15-1: Payment Card Process Flow</p><p class="- topic/p "> <image href="Graphics/image6.png" placement="inline" class="- topic/image "/> </p></conbody></concept>
+“transaction(s)” for payment to the bank.</p>
+      <p id="Figure_15-1_Payment_Card_Process_Flow" class="- topic/p ">Figure 15-1: Payment Card Process Flow</p>
+      <p class="- topic/p "> 
+         <image href="Graphics/image6.png"
+                placement="inline"
+                class="- topic/image "/> 
+      </p>
+   </conbody>
+</concept>

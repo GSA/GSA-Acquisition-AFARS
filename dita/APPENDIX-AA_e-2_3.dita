@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_e-2_3">
+          <title>
+      <ph props="autonumber">E-2.3</ph> Develop the Request for Proposals (RFP)</title>
+          <conbody>
+            <p>In accordance with FAR 15.203, an RFP is used in negotiated
+acquisitions to communicate the Government’s requirement(s)
+to prospective offerors and to solicit proposals. When developing
+the RFP, consider the following:</p>
+            <p>1. The RFP should clearly and effectively communicate the
+Government’s IP and data rights priorities. Incorporate
+delivery requirements and require offerors to assert their specific
+restrictions, if any.</p>
+            <p>2. Establish a clear understanding of the IP, data deliverables,
+and associated license rights requirements.</p>
+            <p>3. The required data or software must be a deliverable, assigned
+to a CLIN and associated with a CDRL.</p>
+            <p>4. Be transparent in articulating IP, data deliverables, and
+associated license rights requirements. Also, provide transparency
+for requirements related to data for operation, maintenance,
+installation, and training (OMIT); modernization; advanced/additive
+manufacturing; and sustainment objectives with industry.</p>
+            <p>5. Communicate early with industry. Provide
+details of the Army’s intended program product
+support/sustainment strategy (including sustainment needs and broad
+categories of data and/or software required).</p>
+            <p>6. Determine whether an offeror has the capability to deliver
+license rights for technical data and computer software necessary
+for depot level maintenance.</p>
+            <p>7. Consistent with 10 U.S.C. §§ 3771-3775, the
+contractor or subcontractor is not required to sell or relinquish
+to the Government any additional rights in technical data the
+Government is not already entitled to as a condition of being
+responsive to a solicitation or as a condition of contract award.
+However, additional rights conveyed to the Government may be
+considered part of a source selection tradeoff.</p>
+            <p>8. Once the technical data and/or software required to
+complement the maintenance and supply support strategies has been
+identified, include solicitation provisions and contract clauses
+related to patent, data, and software license rights. Typical
+clauses that should be considered for inclusion are:</p>
+            <p>
+              <b>Federal Acquisition Regulation (FAR)</b>
+            </p>
+            <p>FAR 52.227-1 Authorization and Consent</p>
+            <p>FAR 52.227-2 Notice and Assistance Regarding Patent and
+Copyright Infringement</p>
+            <p>FAR 52.227-3 Patent Indemnity</p>
+            <p>52.227-5 Waiver of Indemnity</p>
+            <p>FAR 52.227-6 Royalty Information</p>
+            <p>52.227-7 Patents-Notice of Government Licensee</p>
+            <p>FAR 52.227-9 Refund of Royalties</p>
+            <p>52.227-10 Filing of Patent Applications-Classified Subject
+Matter</p>
+            <p>FAR 52.227-11 Patent Rights – Ownership By the
+Contractor</p>
+            <p>FAR 52.227-13 Patent Rights – Ownership By the
+Government</p>
+            <p>FAR 52.232-39 Unenforceability of Unauthorized Obligations</p>
+            <p>
+              <b>Defense Federal Acquisition Regulation Supplement
+(DFARS)</b>
+            </p>
+            <p>DFARS 252.227-7013Rights in Technical Data—Other Than
+Commercial Products and Commercial Services.</p>
+            <p>DFARS 252.227-7014Rights in Other Than Commercial Computer
+Software and Other Than Commercial Computer Software
+Documentation.</p>
+            <p>DFARS 252.227-7015 Technical Data–Commercial Products and
+Commercial Services.</p>
+            <p>DFARS 252.227-7016 Rights in Bid or Proposal Information.</p>
+            <p>DFARS 252.227-7017 Identification and Assertion of Use, Release,
+or Disclosure Restrictions.</p>
+            <p>252.227-7018, Rights in Other Than Commercial Technical Data and
+Computer Software--Small Business Innovation Research (SBIR)
+Program</p>
+            <p>DFARS 252.227-7019 Validation of Asserted Restrictions--Computer
+Software.</p>
+            <p>DFARS 252.227-7020 Rights in Special Works.</p>
+            <p>DFARS 252.227-7025 Limitations on the Use or Disclosure of
+Government-Furnished Information Marked with Restrictive
+Legends.</p>
+            <p>DFARS 252.227-7026 Deferred Delivery of Technical Data or
+Computer Software.</p>
+            <p>DFARS 252.227-7027 Deferred Ordering of Technical Data or
+Computer Software.</p>
+            <p>DFARS 252.227-7028 Technical Data or Computer Software
+Previously Delivered to the Government.</p>
+            <p>DFARS 252.227-7030 Technical Data--Withholding of Payment.</p>
+            <p>DFARS 252.227-7037 Validation of Restrictive Markings on
+Technical Data.</p>
+            <p>(NOTE: Regulations change over time and should be checked
+frequently for currency and content. Not all of the listed clauses
+above are appropriate together in any particular solicitation or
+contract. Other clauses may also be appropriate when there is
+development other than exclusively at private expense. Contract
+provision and FAR/DFARS clause selection should be modified to fit
+each effort. In addition to the standard acquisition attorney
+review, an IP attorney should be consulted prior to the release of
+any solicitation/contract award involving IP deliverables and
+associated license rights.)</p>
+            <p>9. Request that offerors propose their own sustainment
+transition plan and use it as an evaluation factor (technical sub
+factor – Supportability and Maintenance).</p>
+            <p>10. For trademark license rights and protection of Government
+Program names and model designators consult a Government IP or
+patent attorney for guidance.</p>
+            <p>11. Require offerors to submit computer software and data rights
+assertions of restrictions in a table consistent with DFARS
+252.227-7013, DFARS 252.227-7014, or DFARS 252.227-7017.</p>
+            <p>12. Request that offerors propose all cost(s)/price(s) to
+acquire additional license and patent rights than the Government is
+entitled to and explain any limitations that may be imposed by the
+offeror. Include FAR 52.227-6 in solicitation if appropriate and
+certifies cost and pricing data is required. (Note: The offeror is
+required to identify/disclose any royalty cost(s)/price(s) for
+third-party patents proposed to be used in performance of the
+contract.)</p>
+            <p>13. Ensure the MOSA requirements are set forth in the PWS, SOW,
+or Statement of Objectives (SOO), (Section C) of RFP, for a
+proposed Open Systems Management Plan and incorporated in resulting
+contract.</p>
+          </conbody>
+        </concept>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_organic_field_level_support_provisioning">
+   <title>
+      <ph props="autonumber">Organic</ph> Field Level Support Provisioning</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror shall identify how it will give the Government the
+ability to disseminate base software loads as well as updates to
+field/depot support assets for loading and provisioning, in
+accordance with PWS section &lt;XX.XX&gt;.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the offeror will ensure the Government’s ability to
+disseminate base software loads as well as updates to field/depot
+support assets for loading and provisioning.</p>
+   </conbody>
+</concept>

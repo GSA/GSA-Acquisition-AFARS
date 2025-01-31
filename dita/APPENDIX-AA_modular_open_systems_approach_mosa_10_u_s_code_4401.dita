@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="AFARS_APPENDIX-AA_modular_open_systems_approach_mosa_10_u_s_code_4401">
+   <title>
+      <ph props="autonumber">Modular</ph> Open Systems Approach (MOSA) (10 U.S. Code § 4401)</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror’s proposal shall clearly:</p>
+      <p> Describe how a MOSA is to be used for the &lt;Program
+Title&gt; and differentiate between Major Systems
+Platform (MSPs), Major System Components (MSCs), and Modular System
+Interfaces <b>(</b>MSIs.).</p>
+      <p> Differentiate and describe the MSI(s) and non-MSI
+interfaces.</p>
+      <p> Describe the evolution of the MSCs that are anticipated
+to be added, removed, or replaced in subsequent increments.</p>
+      <p> Identify additional MSCs that might be added in the
+future.</p>
+      <p> Describe how IP and related issues, such as technical
+data deliverables and license rights necessary to support a MOSA,
+will be addressed.</p>
+      <p> Describe how a MOSA will preclude the need for
+purchasing of licenses or Government Purpose Rights (GPR) by
+requiring the application of open, widely-used, consensus based
+standards &lt;[e.g. Future Airborne Capability Environment
+(FACE™) and Sensor Open Systems Architecture (SOSA)]&gt; in
+the solicitation.</p>
+      <p> Describe the MSI(s) and where MSI(s) are in the system
+architecture. To the maximum extent practicable, ensure that MSI(s)
+incorporate commercial standards and other widely supported
+consensus based standards that are validated, published, and
+maintained by recognized standards organizations.</p>
+      <p> Describe which MSI(s) are required for segregation and
+reintegration purposes.</p>
+      <p> Describe the approach to systems integration and
+systems-level configuration management to ensure mission and
+information assurance.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the offeror’s ability to address both business and
+technical needs in support of the Government’s objective to
+achieve lifecycle goals, as stated in the &lt;PWS&gt;, for a
+product or family of products.</p>
+      <p>&lt;Consult: Army Directive 2018-26, Enabling Modernization
+through Management of Intellectual Property, 7 December 2018;
+Change 1, Implementation Guidance for Army Directive 2018-26, dated
+17 December 2020; and DoDI 5010.44, Intellectual Property (IP)
+Acquisition and Licensing and Modular Open Systems Approach (MOSA)
+Implementation Guide, Version 1.1, 10 Jun 2020&gt;</p>
+   </conbody>
+</concept>

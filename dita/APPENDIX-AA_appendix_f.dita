@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_appendix_f">
+<concept id="AFARS_Appendix-AA_appendix_f">
    <title>
-      <ph props="autonumber">APPENDIX F</ph> Small Business Participation Commitment
+      <ph props="autonumber">Appendix F</ph> Small Business Participation Commitment
 Document</title>
    <conbody>
       <p>Small Business Participation Commitment Document (SBPCD) (Sample Format)</p>
@@ -67,6 +67,6 @@ Document</title>
          <b>NOTE</b>: Pursuant to Sections 8(d) of the Small Business Act, a business is considered small for government procurements if it does not exceed the size standard for the NAICS code that the prime contractor believes best describes the product or services being acquired. In other words, the size of the prime’s suppliers is determined by the applicable NAICS code of their joint venture, teaming partner, or subcontract, which may or may not be the same NAICS code as the one for your prime contract with the government.</p>
       <p> 
          <b>(e)</b> Describe the extent of commitment to use small businesses (e.g., what types of commitments, if any, are in place for this specific acquisition either – small business prime, written contract, verbal, enforceable, non-enforceable, joint venturing, mentor-protégé, etc.). Provide documentation regarding commitments to small business for this effort. Copies of such agreements should be provided as part of your SBPCD and will not count against the page limitation for this volume.</p>
-      <p id="APPENDIX_J"/>
+      <p id="Appendix_J"/>
    </conbody>
 </concept>

@@ -4,7 +4,7 @@
 <dita>
    <topic id="AFARS_Appendix-HH">
       <title class="- topic/title " outputclass="Ctr 1 heading">
-         <ph class="- topic/ph " props="autonumber">APPENDIX - HH</ph> Table Of Contents</title>
+         <ph class="- topic/ph " props="autonumber">Appendix - HH</ph> Table Of Contents</title>
       <body>
          <p>
             <i>(Revised 01 October 2024)</i>
@@ -13,7 +13,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="APPENDIX_HH_SUBPART.dita#AFARS_APPENDIX_HH_SUBPART">APPENDIX HH SUBPART - CLINS</xref>
+                        href="Appendix_HH_SUBPART.dita#AFARS_Appendix_HH_SUBPART">APPENDIX HH SUBPART - CLINS</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

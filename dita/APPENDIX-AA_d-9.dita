@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_APPENDIX-AA_d-9">
+<concept id="AFARS_Appendix-AA_d-9">
         <title>
       <ph props="autonumber">D-9</ph> Useful Websites and Training</title>
         <conbody>
@@ -13,6 +13,6 @@ Templates and Guides Library:</p>
                href="https://spcs3.kc.army.mil/asaalt/procurement/SitePages/NewTemplates.aspx"
                scope="external">https://spcs3.kc.army.mil/asaalt/procurement/SitePages/NewTemplates.aspx</xref>
           </p>
-          <p id="APPENDIX_F"/>
+          <p id="Appendix_F"/>
         </conbody>
       </concept>

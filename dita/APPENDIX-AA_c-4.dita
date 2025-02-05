@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_c-4">
+        <title>
+      <ph props="autonumber">C-4</ph> What is Risk?</title>
+        <conbody>
+          <p>Whether using Tradeoff or LPTA, the focus should always be on
+identifying the key discriminators based upon market research and
+the assessment of risk. Risk, as it pertains to source selection,
+is the potential for unsuccessful contract performance. Increased
+risk comes with numerous possible complicating factors
+including:</p>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <b>Disruption of Schedule</b>
+                  </entry>
+                  <entry>
+                    <b>Funding/Budget Availability</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Increased Cost or Degradation of
+Performance</b>
+                  </entry>
+                  <entry>
+                    <b>Contract Type – Pricing Arrangement</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Need for Increased Government Oversight</b>
+                  </entry>
+                  <entry>
+                    <b>Dependencies on Other Projects/Systems</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>The Likelihood of Unsuccessful Contract
+Performance</b>
+                  </entry>
+                  <entry>
+                    <b>Possible Effect on Other Simultaneous
+Projects</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Technical Feasibility</b>
+                  </entry>
+                  <entry>
+                    <b>Operational Risk</b>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <p>While it is impossible to eliminate all risk, the objective is
+to reduce or mitigate risks by selecting the best value offeror
+through a sound source selection evaluation process.</p>
+          <p>
+            <b>The Government’s risk is increased where the
+criteria (standards) are set too low.</b> The source selection
+team must work together to ensure the PWS/SOW/SOO/ Specification is
+complete and reflects the government’s needs at the
+<b>
+              <i>
+                <u>right</u>
+              </i>
+            </b> quality level.</p>
+          <p>Identifying key discriminators that are linked to the critical
+requirements where key risks lie is one of the most important steps
+in the process of determining the right process to achieve best
+value.</p>
+          <table>
+            <tgroup cols="1">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry>
+                    <p>
+                        <b>Key Risk Areas = Discriminators = Possible Evaluation
+Criteria</b>
+                    </p>
+                    <p>
+                        <b>Crystal Clear, Non-Debatable Evaluation
+Criteria</b>
+                    </p>
+                    <p>
+                        <b>+ Evaluation on Basis of Technical
+Acceptability</b>
+                    </p>
+                    <p>
+                        <b>+ <u>Objective Standard of Proof for Each
+Criteria</u>
+                        </b>
+                    </p>
+                    <p/>
+                    <p>
+                        <b>= Candidate for LPTA Source Selection
+Process</b>
+                    </p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <p>If the evaluation criteria cannot be objectively defined
+strictly on the basis of acceptable/unacceptable, and a clear
+<b>
+              <i>“standard of proof”</i>
+            </b> be
+determined for each, the procurement is not a candidate for the
+LPTA process.</p>
+          <p>
+            <b>NOTE:</b> If some, but not all, evaluation criteria
+fit the LPTA requirements a <b>
+              <i>combination
+approach</i>
+            </b> may be a consideration.</p>
+          <p>
+            <b>Caution –</b> If the customer/requiring
+activity is concerned about improving performance, LPTA is
+<u>not</u> an appropriate source selection approach.</p>
+        </conbody>
+      </concept>

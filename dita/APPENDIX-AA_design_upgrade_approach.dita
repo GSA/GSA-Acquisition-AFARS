@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_design_upgrade_approach">
+   <title>
+      <ph props="autonumber">Design </ph>Upgrade Approach</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror’s proposal shall describe the
+Government’s ability to analyze, assess, and support the
+execution of component level updates/enhancements, conduct
+regression testing, perform cybersecurity test, and integrate
+baseline changes (for resolving major to minor fixes) that preserve
+supportability, functionality, and key requirements in a cost
+effective manner.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the Government has the ability to
+analyze, assess, and support the execution of component level
+updates/enhancements, regression testing, perform cybersecurity
+test, as well as integrate baseline changes (for resolving major to
+minor fixes) that preserves supportability, functionality, and key
+requirements in a cost effective manner.</p>
+   </conbody>
+</concept>

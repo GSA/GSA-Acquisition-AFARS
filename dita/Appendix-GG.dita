@@ -4,13 +4,13 @@
 <dita>
    <topic id="AFARS_Appendix-GG">
       <title class="- topic/title " outputclass="1 heading Ctr">
-         <ph class="- topic/ph " props="autonumber">APPENDIX - GG</ph> Table Of Contents</title>
+         <ph class="- topic/ph " props="autonumber">Appendix - GG</ph> Table Of Contents</title>
       <body>
          <p>
             <i>(Revised 01 October 2024)</i>
          </p>
          <ul otherprops="TOC">
-            <li rev="Revised October 1, 2024">
+            <li>
                <p>
                   <xref outputclass="fm:TOC"
                         href="Appendix-GG_Apendix-GG.dita#AFARS_Appendix-GG_Apendix-GG">Appendix GG</xref>

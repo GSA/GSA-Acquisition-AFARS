@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_c-7">
+        <title>
+      <ph props="autonumber">C-7</ph> Rating Methodologies</title>
+        <conbody>
+          <p id="s7_rating"/>
+          <p>
+            <b>Rating Methodologies.</b> Tradeoff and LPTA each
+have a unique rating methodology as summarized below.</p>
+          <table>
+            <tgroup cols="2">
+              <colspec colname="col1" colnum="1" colwidth="1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1*"/>
+              <tbody>
+                <row>
+                  <entry nameend="col2" namest="col1">
+                    <b>COMPARING HOW OFFERORS ARE RATED FOR EACH
+APPROACH</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>TRADEOFF</b>
+                  </entry>
+                  <entry>
+                    <b>LPTA</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Technical Performance</b>
+                  </entry>
+                  <entry>
+                    <b>Technical Performance</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>Subjective evaluation in accordance with DoD Source Selection
+Procedures and the Army Source Selection Supplement</p>
+                    <p>Allows the government to:</p>
+                    <p>a) consider award to other than the lowest-priced offeror,
+or;</p>
+                    <p>b) other than the highest technically rated offeror</p>
+                  </entry>
+                  <entry>
+                    <p>Objective evaluation of minimum requirements in accordance with
+DoD Source Selection Procedures and the Army Source Selection
+Supplement</p>
+                    <p>Evaluated as acceptable or unacceptable</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Past Performance</b>
+                  </entry>
+                  <entry>
+                    <b>Past Performance</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>Confidence Assessment</p>
+                    <p>Comparative analysis permitted</p>
+                  </entry>
+                  <entry>
+                    <p>Acceptable or Unacceptable</p>
+                    <p>No comparative analysis permitted</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Small Business Participation</b>
+                  </entry>
+                  <entry>
+                    <b>Small Business Participation</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>Factor or Subfactor</entry>
+                  <entry>
+                    <p>Exempt from evaluation (DFARS 215.304(c)(i)).</p>
+                    <p>However, if desired as an evaluation factor, it should be
+considered one of the technical factors/subfactors and evaluated
+accordingly</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Price</b>
+                  </entry>
+                  <entry>
+                    <b>Price</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>Not rated adjectively</p>
+                    <p>Evaluated in accordance with the Source Selection Plan and
+Sections L and M (or equivalent sections) of the RFP</p>
+                  </entry>
+                  <entry>
+                    <p>Not rated adjectively</p>
+                    <p>Of the acceptable proposals, lowest evaluated price wins</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Tradeoffs</b>
+                  </entry>
+                  <entry>
+                    <b>Tradeoffs</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>In accordance with the Source Selection Plan and Sections L and
+M (or equivalent sections) of the RFP</entry>
+                  <entry>
+                    <p>Tradeoff not permitted</p>
+                    <p>No additional credit for exceeding standards</p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </conbody>
+      </concept>

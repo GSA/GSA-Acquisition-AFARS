@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_c-11">
+   <title>
+      <ph props="autonumber">C-11</ph> Flow Chart For Selection of Best Value Methodology</title>
+   <conbody>
+      <p> 
+         <image href="Graphics/image3.jpeg" placement="inline"/> 
+      </p>
+   </conbody>
+</concept>

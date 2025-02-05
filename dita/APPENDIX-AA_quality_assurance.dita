@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_quality_assurance">
+   <title>
+      <ph props="autonumber">Quality</ph> Assurance</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror shall identify how it will give the Government the
+ability to identify and replicate the verification processes
+ensuring the Quality Assurance of the Sustained Configuration
+Item.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the Government will be provided the
+ability to identify and replicate the verification processes
+ensuring the Quality Assurance of the Sustained Configuration
+Items.</p>
+   </conbody>
+</concept>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_a-2">
+        <title>
+      <ph props="autonumber">A-2</ph> Requirements</title>
+        <conbody>
+          <p>Figure A-1 below provides a comprehensive side-by-side
+comparison of the requirements for preaward and postaward
+debriefings.</p>
+          <table>
+            <tgroup cols="3">
+              <colspec colname="col1" colnum="1" colwidth="0.5*"/>
+              <colspec colname="col2" colnum="2" colwidth="1.2*"/>
+              <colspec colname="col3" colnum="3" colwidth="1.4*"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>
+                    <p>
+                        <b>PREAWARD DEBRIEFING</b>
+                    </p>
+                    <p>
+                        <b>FAR 15.505</b>
+                    </p>
+                  </entry>
+                  <entry>
+                    <p>
+                        <b>POSTAWARD DEBRIEFING</b>
+                    </p>
+                    <p>
+                        <b>FAR 15.506</b>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Who is Entitled to a Debriefing?</b>
+                  </entry>
+                  <entry>Offerors excluded from the competitive range or otherwise
+excluded from the competition before award.</entry>
+                  <entry>
+                    <p>Any unsuccessful Offeror who has not had a preaward
+debriefing.</p>
+                    <p>
+                        <b>
+                           <i>A successful offeror may also be provided a
+debriefing.</i>
+                        </b>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>When Must the Government Conduct a
+Debriefing?</b>
+                  </entry>
+                  <entry>As soon as practicable after receipt of a timely, written
+request. However, the PCO may refuse the request for a preaward
+debriefing if it is not in the best interest of the government to
+conduct a preaward debriefing. (1) (2)</entry>
+                  <entry>Within five days, to the maximum extent practicable, after
+receipt of a timely, written request for a debriefing. (3)</entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>What is a Timely Request?</b>
+                  </entry>
+                  <entry>A request received by the contracting activity within 3 calendar
+days after the offeror received notice of exclusion from the
+competition. (4)</entry>
+                  <entry>A request received by the contracting activity within 3 calendar
+days after the offeror received notice of contract award. (4)</entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>What Can <u>Not</u> Be Disclosed?</b>
+                  </entry>
+                  <entry>
+                    <p> Number of offerors</p>
+                    <p> Identity of other offerors</p>
+                    <p> Content of other offerors ‘proposals</p>
+                    <p> Ranking of other offerors</p>
+                    <p> Evaluation of other offerors</p>
+                    <p> Point-by-point comparisons of a debriefed
+offeror’s proposal with other proposals</p>
+                    <p>Information prohibited from disclosure by FAR 24.202 or
+information exempt from release under the FOIA (5)</p>
+                  </entry>
+                  <entry>
+                    <p> Point-by-point comparisons of a debriefed
+offeror’s proposal with other proposals. (The ratings of a
+debriefed offeror and the awardee may be disclosed to the subfactor
+level without violating this principle.)</p>
+                    <p> Information prohibited from disclosure by FAR 24.202,
+or information exempt from release under the FOIA. (5)</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry nameend="col3" namest="col2">
+                    <b>Legal counsel must be consulted if there is
+<i>
+                           <u>any</u>
+                        </i> question regarding the releasability of
+information</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>What Should Be Discussed?</b>
+                  </entry>
+                  <entry>
+                    <p> The agency’s evaluation of significant elements
+in the offeror’s proposal (6);</p>
+                    <p> A summary of the rationale for eliminating the offeror
+from the competition;</p>
+                    <p> Reasonable responses to relevant questions about
+whether source selection procedures contained in the RFP,
+applicable regulations, and other applicable authorities were
+followed in the process of eliminating the Offeror from the
+competition.</p>
+                  </entry>
+                  <entry>
+                    <p> The government’s evaluation of the significant
+weaknesses, weaknesses, or deficiencies in the offeror’s
+proposal, if applicable.</p>
+                    <p> The overall evaluated cost/price (include unit prices
+only if releasable under FOIA, and DO NOT disclose the IGE);
+technical rating, if applicable, of the successful offeror and the
+debriefed offeror; and past performance information on the
+debriefed offeror;</p>
+                    <p> The overall ranking of all offerors, when any ranking
+was developed by the agency during the source selection;</p>
+                    <p> A summary of the rationale for award;</p>
+                    <p> For acquisitions of commercial items, the make and
+model of the item to be delivered by the successful offeror;
+and</p>
+                    <p> Reasonable responses to relevant questions about
+whether source selection procedures contained in the RFP,
+applicable regulations, and other applicable authorities were
+followed.</p>
+                    <p> Other information, as appropriate.</p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <p>
+            <i>Figure A-1: Comparison of Preaward and Postaward
+Debriefings</i>
+          </p>
+          <p>
+            <b>Notes to Figure A-1:</b>
+          </p>
+          <p>(1) The offeror may request the debriefing be delayed until
+after contract award. When delayed, the debriefing shall include
+all the information provided in a postaward debriefing.</p>
+          <p>(2) In the event either the government or offeror delays the
+debriefing, the PCO must provide the debriefing within the
+timeframe established for postaward debriefings.</p>
+          <p>(3) If an offeror submits an untimely request for debriefing,
+the PCO may nonetheless conduct a debriefing if feasible. In such
+case, inform the offeror the request is untimely.
+<b>NOTE:</b> If new information is provided during an
+untimely debriefing, it may form the basis of a timely protest.
+Therefore, obtain legal advice prior to providing an untimely
+debriefing</p>
+          <p>(4) Do not count the day the offeror received the notice; start
+with the next day. Consider sending the notice by mail with return
+receipt requested or by electronic means (facsimile transmission or
+e-mail) with immediate acknowledgment requested so that you can
+easily establish the date the offeror received it.</p>
+          <p>(5) Includes such things as trade secrets; privileged or
+confidential information, e.g., manufacturing processes and
+techniques, commercial and financial information, and cost data;
+and the names of individuals providing past performance
+information. It does not include information otherwise available
+without restriction to the government or public.</p>
+          <p>(6) If the element was significant enough to eliminate the
+offeror from the competitive range, it is significant for
+debriefing purposes. Include both positive and negative aspects of
+the offeror’s proposal to help improve future proposals.</p>
+          <p>
+            <b>
+              <u>Other Information to Ensure a Meaningful
+Debriefing</u>
+            </b>
+          </p>
+          <p>In a postaward debriefing, disclose the evaluation ratings of
+the debriefed offeror and awardee to the subfactor level of
+evaluation; and all significant weaknesses, weaknesses, strengths,
+and deficiencies (if any) of the debriefed offeror’s
+proposal.</p>
+          <p>Disclose the debriefed offeror’s total evaluated prices
+and the awardee’s total evaluated cost/price (include unit
+prices only if releasable under FOIA, but DO NOT disclose the
+IGE).</p>
+          <p>Disclose a summary of the rationale for the contract award
+decision. The rationale is contained in the SSA’s SSDD.
+Evaluation information concerning the other unsuccessful offerors
+and information not releasable under FOIA must be redacted prior to
+release of an SSDD, ensuring no information listed in FAR 15.506(e)
+is released.</p>
+          <p>For award of a contract in excess of $10 million and not in
+excess of $100 million with a small business or nontraditional
+defense contractor, the debrief must include an option for the
+small business or nontraditional defense contractor to request a
+redacted copy of the SSDD <i>(Reference DFARS Subpart
+215.506(d)(i))</i>.</p>
+          <p>For all other awards below $100M, consider furnishing the
+debriefed offerors with a <b>
+              <i>redacted</i>
+            </b> copy
+of the SSDD.</p>
+          <p>For award of a contract exceeding $100M, a redacted copy of the
+SSDD is required to be furnished to offerors <i>(Reference DFARS
+Subpart 215.506(d)(ii)).</i>
+          </p>
+          <p>Clearly indicate when the debriefing has been concluded. Formal
+conclusion of the debriefing begins the protest window.</p>
+        </conbody>
+      </concept>

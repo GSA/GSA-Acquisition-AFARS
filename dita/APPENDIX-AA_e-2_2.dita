@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_e-2_2">
+          <title>
+      <ph props="autonumber">E-2.2</ph> Develop a Source Selection Plan (SSP)</title>
+          <conbody>
+            <p>When developing the SSP, consider the evaluation elements
+contained within the IP Strategy Checklist.</p>
+          </conbody>
+        </concept>

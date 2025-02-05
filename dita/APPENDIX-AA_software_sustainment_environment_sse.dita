@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_software_sustainment_environment_sse">
+   <title>
+      <ph props="autonumber">Software</ph> Sustainment Environment (SSE)</title>
+   <conbody>
+      <p>Please review Software Modernization information at Army
+Directive 2024-02 (Enabling Modern Software Development and
+Acquisition Practices)</p>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p id="Int_qFYxFEbX">The proposal shall specify the required technical data,
+software, and software documentation (identified within the
+Contract Data Requirements Lists (CDRLs)), and any additional
+required deliverables necessary to establish a Software Sustainment
+Environment (SSE). The SSE is the set of automated tools, firmware,
+devices, hardware, and documentation necessary to perform the
+software support effort. The automated tools may include but are
+not limited to: compilers; assemblers;
+linkers; loaders; operating system; debuggers; simulators;
+emulators; test tools; documentation tools; and database management
+systems. The required hardware and software components and
+configuration items (i.e., hardware for development environment,
+source code, binaries/libraries, build scripts, configuration
+management databases and defect tracking toolkits, loading/imaging
+support, etc.) for SSE shall be proposed. The proposal shall
+describe those capabilities required for the SSE that are
+commercially available as well as non-commercial or modified
+commercial items.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the offeror will provide the range, roles and
+responsibilities afforded the Government to analyze, assess, and
+support executing code updates/enhancement, regression test,
+perform cybersecurity test, as well as integrate baseline changes
+(i.e., for resolving major to minor fixes).</p>
+   </conbody>
+</concept>

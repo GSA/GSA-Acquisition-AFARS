@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_hardware_sustainment_activities">
+   <title>
+      <ph props="autonumber">Hardware</ph> Sustainment Activities</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror’s proposal shall address the range, roles, and
+responsibilities afforded the Government to analyze, assess,
+support LRUs and SRUs, level updates/enhancements, regression test,
+perform cyber security test, as well as integrate baseline changes
+(i.e., for resolving major to minor fixes).</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to the Government is provided the range, roles, and
+responsibilities to analyze, assess, support LRUs and SRUs, level
+updates/enhancements, regression test, perform cybersecurity test,
+as well as integrate baseline changes (i.e. for resolving major to
+minor fixes).</p>
+   </conbody>
+</concept>

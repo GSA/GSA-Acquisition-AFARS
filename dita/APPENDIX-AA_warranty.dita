@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_warranty">
+   <title>
+      <ph props="autonumber">Warranty</ph>
+   </title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror shall provide a copy of the proposed
+warranty<b>.</b> &lt;Incorporate specific warranty
+coverage required for respective acquisition. Include but not
+limited to duration from date of manufacture, receipt at location,
+etc. The associated cost/price shall be incorporated in the
+Cost/Price Section/Volume (Priced CLIN).&gt; The warranty shall at
+a minimum address the following elements by topic, and any
+additional element(s) shall be included without changing the order
+or numbering of the following elements: <b>&lt;</b>For
+information regarding warranty, refer to the following resources:
+DoD Warranty Guide 2020; FAR 46.703; DFARS 246.708; PGI 246.710-70;
+and AR 700-13&gt;. </p>
+      <p> Scope</p>
+      <p> Definitions</p>
+      <p> Individual Warranty Coverage</p>
+      <p> Systemic/Performance Warranty Coverage</p>
+      <p> Commercial Warranties</p>
+      <p> Warranty Procedures/Remedies</p>
+      <p> Other Rights and Remedies</p>
+      <p> Warranty Administration</p>
+      <p> Warranty Status Reporting</p>
+      <p> Exclusions</p>
+      <p> Presumption of Failure Defect</p>
+      <p> Contractor Obligations</p>
+      <p> No Evidence of Failure (NEOF)/Re-Test OK (RTOK)
+Reductions</p>
+      <p> Disputes</p>
+      <p> The terms of the “Warranty” shall not cause
+a conflict or otherwise diminish the Government’s rights in
+any other clause, provision or term of the solicitation or any
+resultant contract.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal’s terms,
+conditions, and coverage of the offeror’s proposed warranty
+and any associated risks. &lt;may need to add
+narrative applicable to respective requirement&gt;</p>
+      <p>The offeror's proposed warranty will be evaluated for compliance
+with solicitation requirements and the overall effectiveness in
+providing adequate coverage. The evaluation will consider, but is
+not limited to, the following elements:</p>
+      <p>a. Scope: Clear and comprehensive coverage addressing the
+intended use and potential risks.</p>
+      <p>b. Definitions: Clearly defined terms and conditions to avoid
+ambiguity.</p>
+      <p>c. Individual Warranty Coverage: Specific coverage for
+individual components or items.</p>
+      <p>d. Systemic/Performance Warranty Coverage: Coverage for the
+overall system or performance.</p>
+      <p>e. Commercial Warranties: Compliance with commercial warranty
+practices, if applicable.</p>
+      <p>f. Warranty Procedures/Remedies: Clearly defined procedures for
+reporting and addressing warranty issues.</p>
+      <p>g. Other Rights and Remedies: Identification of any additional
+rights and remedies provided beyond the warranty.</p>
+      <p>h. Warranty Administration: Efficient and effective
+administration of the warranty.</p>
+      <p>i. Warranty Status Reporting: Timely and accurate reporting of
+warranty status.</p>
+      <p>j. Exclusions: Clearly outlined exclusions from warranty
+coverage.</p>
+      <p>k. Presumption of Failure Defect: Addressing the presumption of
+failure defect and related procedures.</p>
+      <p>l. Contractor Obligations: Clearly defined obligations of the
+contractor regarding the warranty.</p>
+      <p>m. No Evidence of Failure (NEOF)/Re-Test OK (RTOK) Reductions:
+Procedures for NEOF/RTOK reductions, if applicable.</p>
+      <p>n. Disputes: Clear and unambiguous procedures for handling
+disputes related to the warranty.</p>
+   </conbody>
+</concept>

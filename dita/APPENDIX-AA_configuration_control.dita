@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_configuration_control">
+   <title>
+      <ph props="autonumber">Configuration Control</ph>
+   </title>
+   <conbody>
+      <p>&lt;Consult AR 700-127, Integrated Product Support, and DA PAM
+700-127, Integrated Product Support Procedures &gt;</p>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror’s proposal shall describe the configuration
+control board processes that enable the Government to identify,
+adjudicate, prioritize, and resolve issues/discrepancy reports and
+major critical defects related to procured software, hardware,
+firmware, and/or a combination thereof, as detailed in requirements
+and technical documentation in a timely manner &lt;replace with
+more specific language as needed&gt; and ultimately achieves a
+product that impacts acceptable mission functionality. &lt;If
+applicable, address requirements for maintenance of the Technical
+Data Package (TDP) and Engineering Change Proposals (ECPs).&gt;</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the offeror will ensure the Government’s ability to
+identify, adjudicate, and prioritize issues/discrepancy reports for
+resolution in a timely fashion. This includes scope for shared
+roles and responsibilities in support of the test/certification and
+deployment release process/capability.</p>
+   </conbody>
+</concept>

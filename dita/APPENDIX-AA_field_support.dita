@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_field_support">
+   <title>
+      <ph props="autonumber">Field</ph> Support</title>
+   <conbody>
+      <p>
+              <u>Section L</u>
+            </p>
+      <p>The offeror’s proposal shall specify how the offeror will
+provide the Government with field level support. The offeror shall
+identify the hardware and software tools required to execute field
+level maintenance of Shop Replaceable Units (SRUs). The proposal
+shall identify considerations for these field level support
+activities to include roles and responsibilities allocated to
+offeror and government organizations.</p>
+      <p>
+              <u>Section M</u>
+            </p>
+      <p>The Government will evaluate the proposal for how and the extent
+to which the proposed field level support will be provided,
+including common overarching hardware and software transition,
+quality assurance, training, and design.</p>
+   </conbody>
+</concept>

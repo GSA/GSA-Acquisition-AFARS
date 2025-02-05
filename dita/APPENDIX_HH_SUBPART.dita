@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<topic id="AFARS_APPENDIX_HH_SUBPART">
-    <title> 
-      <ph props="autonumber">APPENDIX HH SUBPART</ph> - CLINS</title>
-    <body>
-        <p/>
-    </body>
-</topic>
+<topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_Appendix_HH_SUBPART" class="- topic/topic "><title class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">Appendix HH SUBPART</ph> - CLINS</title><body class="- topic/body "><p class="- topic/p "/></body></topic>

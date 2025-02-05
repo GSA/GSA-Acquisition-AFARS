@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_c-12">
+        <title>
+      <ph props="autonumber">C-12</ph> LPTA – Sample Evaluator Write-Up</title>
+        <conbody>
+          <p>
+            <b>Describe the Evaluation Process in the Source Selection
+Plan – Then Fully Document the Evaluation in Accordance With
+the SSP</b>
+          </p>
+          <p>Use a checklist or evaluation form such as the one below:</p>
+          <table>
+            <tgroup cols="6">
+              <colspec colname="col1" colnum="1" colwidth="1.1*"/>
+              <colspec colname="col2" colnum="2" colwidth="1.1*"/>
+              <colspec colname="col3" colnum="3" colwidth="1.1*"/>
+              <colspec colname="col4" colnum="4" colwidth="0.3*"/>
+              <colspec colname="col5" colnum="5" colwidth="0*"/>
+              <colspec colname="col6" colnum="6" colwidth="2.4*"/>
+              <tbody>
+                <row>
+                  <entry morerows="1">
+                    <p>
+                        <b>FACTOR 3:</b>
+                    </p>
+                    <p>
+                        <b>Usability</b>
+                    </p>
+                  </entry>
+                  <entry morerows="1">
+                    <b>SUBFACTOR 3.2: Setup and Breakdown</b>
+                  </entry>
+                  <entry nameend="col6" namest="col3">
+                    <b>OFFEROR:</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry nameend="col3" namest="col2">
+                    <b>RFP No:</b>
+                  </entry>
+                  <entry nameend="col6" namest="col5"/>
+                </row>
+                <row>
+                  <entry nameend="col2" namest="col1">
+                    <b>Instruction to Offeror</b>
+                  </entry>
+                  <entry nameend="col6" namest="col3">
+                    <b>Evaluation Criteria</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry nameend="col2" namest="col1">The offeror shall setup its radar system for test to the point
+of data recording. After completion of the test, the Offeror shall
+breakdown its system and return the system to its pre-setup
+state.</entry>
+                  <entry nameend="col6" namest="col3">
+                    <p>The government will evaluate the offeror’s radar system
+setup and breakdown.</p>
+                    <p>
+To receive an acceptable rating, the Offeror must demonstrate all
+of the below items:</p>
+                    <p>
+a. The system must be transportable by a two person carry.</p>
+                    <p>
+b. The system must be setup, broken down and operated by one
+person.</p>
+                    <p>
+c. The offeror must set up its radar system within a time not to
+exceed one hour using one person and break down its radar system
+within a time not to exceed one hour using one person.</p>
+                    <p>
+d. Cable connectors connect and disconnect using no more than one
+turn, or other quick-disconnect system.</p>
+                    <p>
+e. When the radar system antenna is mounted on the tripod, the
+range of motion must be +90 degrees to -10 degrees in elevation
+(horizontal is 0 degrees) and 360 degrees azimuth, without antenna
+removal.</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <p>
+                        <b>
+                           <i>Acceptable</i>
+                        </b>
+                    </p>
+                    <p>
+                        <b>Standard of Proof</b>
+                    </p>
+                  </entry>
+                  <entry nameend="col6" namest="col2">
+                    <p>* The system is transportable by a two person carry; and is
+setup, broken down and operated by one person.</p>
+                    <p>
+* The offeror sets up its radar system within a time not to exceed
+one (1) hour using one person, and breaks down its radar system
+within a time not to exceed one (1) hour using one person.</p>
+                    <p>
+* Cable connectors are quick to connect and disconnect using no
+more than one turn, or other quick-disconnect system.</p>
+                    <p>
+* When the radar system antenna is mounted on the tripod, the range
+of motion is +90 degrees to -10 degrees in elevation (horizontal is
+0 degrees) and 360 degrees azimuth, without antenna removal.</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>
+                        <i>Unacceptable</i>
+                    </b>
+                  </entry>
+                  <entry nameend="col6" namest="col2">Not clearly meeting the requirements required to be
+acceptable.</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry nameend="col6" namest="col2"/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>
+                    <b>Acceptable</b>
+                  </entry>
+                  <entry>
+                    <b>Unacceptable</b>
+                  </entry>
+                  <entry nameend="col6" namest="col4"/>
+                </row>
+                <row>
+                  <entry>
+                    <b>SETUP/ BREAKDOWN</b>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry nameend="col6" namest="col4"/>
+                </row>
+                <row>
+                  <entry>
+                    <b>NARRATIVE:</b>
+                  </entry>
+                  <entry/>
+                  <entry nameend="col4" namest="col3"/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry nameend="col3" namest="col1">
+                    <b>TEAM MEMBER:</b>
+                  </entry>
+                  <entry nameend="col6" namest="col4">
+                    <b>DATE:</b>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <p>
+            <b>Evaluation Criteria: The Government will evaluate the
+offeror’s radar system setup and breakdown.</b>
+          </p>
+          <p>
+            <b>
+              <i>To receive an acceptable rating, the offeror must
+demonstrate <u>all</u> of the below items:</i>
+            </b>
+          </p>
+          <p>
+a. The system must be transportable by a two person carry.</p>
+          <p>
+b. The system must be setup, broken down and operated by one
+person.</p>
+          <p>
+c. The Offeror must set up its radar system within a time not to
+exceed one hour using one person and break down its radar system
+within a time not to exceed one hour using one person.</p>
+          <p>
+d. Cable connectors connect and disconnect using no more than one
+turn, or other quick-disconnect system.</p>
+          <p>
+e. When the radar system antenna is mounted on the tripod, the
+range of motion must be +90 degrees to -10 degrees in elevation
+(horizontal is 0 degrees) and 360 degrees azimuth, without antenna
+removal. </p>
+          <p>Evaluation narrative write-up below provides an example of both
+‘Acceptable” and “Unacceptable” proposal
+responses:</p>
+          <p>
+            <b>Standard of Proof</b>
+          </p>
+          <p>
+            <b>Narrative:</b>
+          </p>
+          <p>
+            <b>Acceptable</b>: The offeror proposed a system that
+can be transported by two people (page 12); can be setup, broken
+down, and operated by one person (page 13); and can be assembled
+and disassembled in less than one hour (45 minutes) (page 14). The
+offeror’s approach uses cable connectors that connect and
+disconnect using only one turn and the range of motion of the radar
+system antenna is +90 degrees to -10 degrees in elevation and 360
+degrees azimuth (page 22).</p>
+          <p>
+            <b>Unacceptable</b>: The offeror proposed a system
+that can be transported by two people (page 12); can be setup,
+broken down, and operated by one person (page 13);
+<b>
+              <i>however, the system cannot be assembled and
+disassembled in less than one hour (90 minutes, as stated in the
+offeror’s proposal in Volume 1, page 16)</i>. <i>Based on
+the evaluation criteria, this is unacceptable and results in the
+entire factor being unacceptable.</i>
+            </b> The offeror’s
+approach uses cable connectors that connect and disconnect using
+only one turn and the range of motion of the radar system antenna
+is +90 degrees to -10 degrees in elevation and 360 degrees azimuth
+(page 22).</p>
+          <table>
+            <tgroup cols="6">
+              <colspec colname="col1" colnum="1" colwidth="1.6*"/>
+              <colspec colname="col2" colnum="2" colwidth="0.8*"/>
+              <colspec colname="col3" colnum="3" colwidth="0.6*"/>
+              <colspec colname="col4" colnum="4" colwidth="0.9*"/>
+              <colspec colname="col5" colnum="5" colwidth="0.9*"/>
+              <colspec colname="col6" colnum="6" colwidth="1.3*"/>
+              <tbody>
+                <row>
+                  <entry nameend="col6" namest="col1">
+                    <p>
+                        <b>ATTACHMENT C-1</b>
+                    </p>
+                    <p>
+                        <b>TECHNICAL INFORMATION QUESTIONNAIRE/EVALUATION
+MATRIX</b>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry nameend="col6" namest="col1">
+                    <p>
+                        <b>OFFEROR
+NAME:_________________________________________</b>
+                    </p>
+                    <p>
+                        <b>RFP
+NUMBER:____________________________________________</b>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>Factors</b>
+                  </entry>
+                  <entry>
+                    <b>RFP Requirement Reference</b>
+                  </entry>
+                  <entry>
+                    <b>Proposal Reference</b>
+                  </entry>
+                  <entry>
+                    <b>Standard of Proof</b>
+                  </entry>
+                  <entry>
+                    <p>
+                        <b>Acceptable/</b>
+                    </p>
+                    <p>
+                        <b>Unacceptable</b>
+                    </p>
+                  </entry>
+                  <entry>
+                    <b>Evaluators Comments</b>
+                  </entry>
+                </row>
+                <row>
+                  <entry>
+                    <b>1.0 TECHNICAL EXECUTION</b>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1.1. Key Personnel Professional Qualifications</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1.2 Technical Certifications</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1.3 Onsite Courseware Acceptance</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1.4 Onsite Training Course</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>1.5 Electronic Classroom Upgrade</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <b>2.0 PROGRAM MANAGEMENT</b>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2.1 Integrated Master Schedule (IMS)</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2.2 Computer-Based Training Development Schedule/Plan</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>2.3 Electronic Classroom Upgrade Schedule / Plan</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <b>3.0 ON-SITE PERSONNEL AND CERTIFICATIONS</b>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>3.1 Manning Chart Provided</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>3.2 Labor categories to perform courseware and electronic
+classroom requirements. Minimum labor categories include
+Instructional Systems Specialists, Graphic Artists, Programmers,
+Computer Specialists and/or Engineers and Subject Matter
+Experts..</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <b>4.0 SECURITY</b>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>4.1 Classified Information Security Requirements</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>
+                    <b>5.0 PAST PERFORMANCE</b>
+                  </entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </conbody>
+      </concept>

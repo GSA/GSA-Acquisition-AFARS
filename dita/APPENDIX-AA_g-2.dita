@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<concept id="AFARS_Appendix-AA_g-2">
+        <title>
+      <ph props="autonumber">G-2</ph> Applicability to Best Value Acquisitions</title>
+        <conbody>
+          <p>Online RAs are legal as long as the identity of the bidders is
+not disclosed. Online RA tools may be used as a pricing tool for
+LPTAs or tradeoff acquisitions. For example, an RA tool can be used
+as a pricing tool for a tradeoff acquisition after the completion
+of technical discussion. You may conduct a reverse auction to
+establish the offerors’ final prices, provide these prices,
+along with the rest of the evaluation results, to the SSA for
+his/her use in selecting the proposal that represents the best
+value.</p>
+          <p>Potential benefits are reduced acquisition cycle time and
+increased competition that in due course drive prices down as the
+offerors have visibility of the other prices being proposed.
+Additionally, the online RA process is inclusive, transparent, and
+immediately advantageous to both government and industry.</p>
+          <p>FAR Subpart 4.5 supports the use of electronic commerce whenever
+practical or cost-effective. Online RAs should be utilized when it
+is anticipated that this method will deliver more value than the
+use of other available procurement methods. Additionally, RAs are
+more advantageous to the government in reducing acquisition cycle
+time when the requirements are best suited for an RA
+environment.</p>
+        </conbody>
+      </concept>

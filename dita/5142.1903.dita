@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-         id="AFARS_5142.1903"
-         xml:lang="en-US"
-         ditaarch:DITAArchVersion="1.3">
-   <title outputclass="Heading 4">
-      <ph props="autonumber">5142.190-3</ph> Reporting.</title>
-   <conbody>
-      <p outputclass="Normal">Each contracting or contract administrative office shall submit the Status Report on Specified Contract Audit Reports (RCS DD-IG (SA)1580), as required by DoDI 7640.2 to reach the addressee at <ph rev="Revised October 1, 2024">AFARS </ph>5101.290(b)(2)(ii)(A), not later than 30 November and 31 May. Obtain the program and instructions from the addressee at <ph rev="Revised October 1, 2024">AFARS </ph>5101.290(b)(2)(ii)(A). Negative reports are required.</p>
-   </conbody>
-</concept>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5142.1903" xml:lang="en-US" class="- topic/topic concept/concept "><title outputclass="Heading 4" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5142.190-3</ph> Reporting.</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p " rev="Revised March 14, 2025">(a) For unclassified audits, contracting or contract administrative offices shall ensure that all records in the contract audit follow up system have updated remarks prior to the 31 March and 30 September Department of Defense Inspector General data pull.</p><p outputclass="List1" rev="Revised March 14, 2025" class="- topic/p ">(b) For classified audits, contracting or contract administrative offices shall submit the Status Report on Specified Contract Audit Reports (RCS DD-IG (SA)1580), as required by DoDI 7640.2 to reach the addressee at <xref href="5101.290.dita" class="- topic/xref " outputclass="fm:ParaNumOnly">5101.290</xref>(b)(2)(ii)(A), not later than 15 March and 15 September of each year. Obtain the program and instructions from the addressee at <xref href="5101.290.dita" class="- topic/xref " outputclass="fm:ParaNumOnly">5101.290</xref>(b)(2)(ii)(A). Negative reports are required.</p></conbody></concept>

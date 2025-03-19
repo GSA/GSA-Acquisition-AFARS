@@ -6,8 +6,10 @@
       <title class="- topic/title " outputclass="1 Heading">
          <ph class="- topic/ph " props="autonumber">Part 5139</ph> - Acquisition of Information Technology</title>
       <body>
-         <p>
-            <i>(Revised 01 October 2024)</i>
+         <p class="- topic/p ">
+            <ph rev="Revised March 17, 2025" class="- topic/ph ">
+               <i class="+ topic/ph hi-d/i ">(Revised 17 March 2025)</i>
+            </ph>
          </p>
          <ul otherprops="TOC">
             <li>
@@ -15,12 +17,12 @@
                   <xref outputclass="fm:TOC" href="Subpart_5139.1.dita#AFARS_Subpart_5139.1">Subpart 5139.1 - General</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised October 1, 2024">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5139.101.dita#AFARS_5139.101">5139.101 Policy.</xref>
                      </p>
                      <ul otherprops="TOC">
-                        <li rev="Revised October 1, 2024">
+                        <li rev="Revised March 17, 2025">
                            <p>
                               <xref outputclass="fm:TOC" href="5139.10190.dita#AFARS_5139.10190">5139.101-90 Policy.</xref>
                            </p>
@@ -34,7 +36,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5139.74.dita#AFARS_Subpart_5139.74">Subpart 5139.74 - Telecommunications Services</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised October 1, 2024">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="5139.7402.dita#AFARS_5139.7402">5139.7402 Policy.</xref>
                      </p>
@@ -46,7 +48,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_5139.76.dita#AFARS_Subpart_5139.76">Subpart 5139.76 - Cloud Computing</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="Revised October 1, 2024">
+                  <li rev="Revised March 17, 2025">
                      <p>
                         <xref outputclass="fm:TOC" href="5139.7602.dita#AFARS_5139.7602">5139.7602 Policy and Responsibilities.</xref>
                      </p>

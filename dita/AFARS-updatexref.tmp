@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map title="AFARS" outputclass="dod">
+<map title="AFARS" outputclass="dod" rev="Revised March 17, 2025">
    <title outputclass="Title">AFARS</title>
    <topicref navtitle="Volume VII - Parts 5101 to 5153"
              href="Volume_I.dita"
@@ -1656,10 +1656,6 @@
       
    
    
-      
-         
-         
-         
       
    
 </map>

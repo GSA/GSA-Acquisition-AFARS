@@ -1,4 +1,754 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="AFARS_Appendix-AA" class="- topic/topic "><title class="- topic/title " outputclass="1 heading Ctr"> <ph class="- topic/ph " props="autonumber">Appendix - AA</ph> ARMY SOURCE SELECTION SUPPLEMENT </title><body class="- topic/body "><p class="- topic/p "> <i class="+ topic/ph hi-d/i ">(Revised 31 December 2024)</i> </p><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_chapter_1.dita#AFARS_Appendix-AA_chapter_1" class="- topic/xref ">CHAPTER 1 PURPOSE, ROLES, AND RESPONSIBILITIES</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_1_1.dita#AFARS_Appendix-AA_1_1" class="- topic/xref ">1.1 Purpose</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_1_2.dita#AFARS_Appendix-AA_1_2" class="- topic/xref ">1.2 Applicability and Waivers</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_1_3.dita#AFARS_Appendix-AA_1_3" class="- topic/xref ">1.3 Best Value Continuum</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_1_4.dita#AFARS_Appendix-AA_1_4" class="- topic/xref ">1.4 Source Selection Team Roles &amp; Responsibilities</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_chapter_2.dita#AFARS_Appendix-AA_chapter_2" class="- topic/xref ">CHAPTER 2 PRESOLICITATION ACTIVITIES</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_2_1.dita#AFARS_Appendix-AA_2_1" class="- topic/xref ">2.1 Conduct Acquisition Planning</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_2_2.dita#AFARS_Appendix-AA_2_2" class="- topic/xref ">2.2 Develop a Source Selection Plan</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_2_3.dita#AFARS_Appendix-AA_2_3" class="- topic/xref ">2.3 Develop the Request for Proposals</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_2_4.dita#AFARS_Appendix-AA_2_4" class="- topic/xref ">2.4 Release the Request for Proposals – (No Supplemental Army Guidance)</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_chapter_3.dita#AFARS_Appendix-AA_chapter_3" class="- topic/xref ">CHAPTER 3 EVALUATION AND DECISION PROCESS</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_1.dita#AFARS_Appendix-AA_3_1" class="- topic/xref ">3.1 Evaluation Activities</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_2.dita#AFARS_Appendix-AA_3_2" class="- topic/xref ">3.2 Documentation of Initial Evaluation Results</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_3.dita#AFARS_Appendix-AA_3_3" class="- topic/xref ">3.3 Award Without Discussions</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_4.dita#AFARS_Appendix-AA_3_4" class="- topic/xref ">3.4 Competitive Range Decision Document – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_5.dita#AFARS_Appendix-AA_3_5" class="- topic/xref ">3.5 Discussion Process</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_6.dita#AFARS_Appendix-AA_3_6" class="- topic/xref ">3.6 Final Proposal Revisions – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_7.dita#AFARS_Appendix-AA_3_7" class="- topic/xref ">3.7 Documentation of Final Evaluation Results</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_8.dita#AFARS_Appendix-AA_3_8" class="- topic/xref ">3.8 Conduct and Document the Comparative Analysis</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_9.dita#AFARS_Appendix-AA_3_9" class="- topic/xref ">3.9 Best-Value Decision – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_10.dita#AFARS_Appendix-AA_3_10" class="- topic/xref ">3.10 Source Selection Decision Document</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_11.dita#AFARS_Appendix-AA_3_11" class="- topic/xref ">3.11 Debriefings – See Appendix A</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_3_12.dita#AFARS_Appendix-AA_3_12" class="- topic/xref ">3.12 Integrating Proposal into the Contract</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_chapter_4.dita#AFARS_Appendix-AA_chapter_4" class="- topic/xref ">CHAPTER 4 DOCUMENTATION REQUIREMENTS</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_4_1.dita#AFARS_Appendix-AA_4_1" class="- topic/xref ">4.1 Minimum Requirements</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_4_2.dita#AFARS_Appendix-AA_4_2" class="- topic/xref ">4.2 Electronic Source Selection</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_chapter_5.dita#AFARS_Appendix-AA_chapter_5" class="- topic/xref ">CHAPTER 5 DEFINITIONS</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_a.dita#AFARS_Appendix-AA_appendix_a" class="- topic/xref ">APPENDIX A Debriefing Guide</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-1.dita#AFARS_Appendix-AA_a-1" class="- topic/xref ">A-1 Purpose of Debriefing</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-2.dita#AFARS_Appendix-AA_a-2" class="- topic/xref ">A-2 Requirements</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-3.dita#AFARS_Appendix-AA_a-3" class="- topic/xref ">A-3 Notification of Debriefing</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-4.dita#AFARS_Appendix-AA_a-4" class="- topic/xref ">A-4 Debriefing Location</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-5.dita#AFARS_Appendix-AA_a-5" class="- topic/xref ">A-5 Debriefing Attendees</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-6.dita#AFARS_Appendix-AA_a-6" class="- topic/xref ">A-6 Preparing for the Debriefing</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-7.dita#AFARS_Appendix-AA_a-7" class="- topic/xref ">A-7 Outline for the Debriefing – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-8.dita#AFARS_Appendix-AA_a-8" class="- topic/xref ">A-8 Conducting the Debriefing</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_a-9.dita#AFARS_Appendix-AA_a-9" class="- topic/xref ">A-9 Sample Offeror Questions – (No Supplemental Army Guidance)</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_b.dita#AFARS_Appendix-AA_appendix_b" class="- topic/xref ">APPENDIX B Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price Tradeoff</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_b-1.dita#AFARS_Appendix-AA_b-1" class="- topic/xref ">B-1 Subjective Tradeoff</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_b-2.dita#AFARS_Appendix-AA_b-2" class="- topic/xref ">B-2 Value Adjusted Total Evaluated Price Tradeoff</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_c.dita#AFARS_Appendix-AA_appendix_c" class="- topic/xref ">APPENDIX C Lowest Priced Technically Acceptable Source Selection Process</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-1.dita#AFARS_Appendix-AA_c-1" class="- topic/xref ">C-1 Purpose</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-2.dita#AFARS_Appendix-AA_c-2" class="- topic/xref ">C-2 References</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-3.dita#AFARS_Appendix-AA_c-3" class="- topic/xref ">C-3 Purpose</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-4.dita#AFARS_Appendix-AA_c-4" class="- topic/xref ">C-4 What is Risk?</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-5.dita#AFARS_Appendix-AA_c-5" class="- topic/xref ">C-5 Quick Comparison of Best Value Basics</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-6.dita#AFARS_Appendix-AA_c-6" class="- topic/xref ">C-6 Comparing Key Characteristics</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-7.dita#AFARS_Appendix-AA_c-7" class="- topic/xref ">C-7 Rating Methodologies</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-8.dita#AFARS_Appendix-AA_c-8" class="- topic/xref ">C-8 Common Concerns for Each Methodology</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-9.dita#AFARS_Appendix-AA_c-9" class="- topic/xref ">C-9 Tips and Best Practices for Using LPTA</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-10.dita#AFARS_Appendix-AA_c-10" class="- topic/xref ">C-10 LPTA Requirement and Standard of Proof Samples</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-11.dita#AFARS_Appendix-AA_c-11" class="- topic/xref ">C-11 Flow Chart For Selection of Best Value Methodology</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_c-12.dita#AFARS_Appendix-AA_c-12" class="- topic/xref ">C-12 LPTA – Sample Evaluator Write-Up</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_d.dita#AFARS_Appendix-AA_appendix_d" class="- topic/xref ">APPENDIX D Streamlining Source Selection</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-1.dita#AFARS_Appendix-AA_d-1" class="- topic/xref ">D-1 General Streamlining Tactics – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-2.dita#AFARS_Appendix-AA_d-2" class="- topic/xref ">D-2 Preparation for Proposal Evaluation and Source Selection – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-3.dita#AFARS_Appendix-AA_d-3" class="- topic/xref ">D-3 Source Selection Management Plan – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-4.dita#AFARS_Appendix-AA_d-4" class="- topic/xref ">D-4 Tiered or Gated Approaches – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-5.dita#AFARS_Appendix-AA_d-5" class="- topic/xref ">D-5 Oral Presentations</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-6.dita#AFARS_Appendix-AA_d-6" class="- topic/xref ">D-6 Using Demonstration in Source Selection – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-7.dita#AFARS_Appendix-AA_d-7" class="- topic/xref ">D-7 Highest Technically Rated Offeror (HRTO) Approach – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-8.dita#AFARS_Appendix-AA_d-8" class="- topic/xref ">D-8 Performance Price Tradeoff – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_d-9.dita#AFARS_Appendix-AA_d-9" class="- topic/xref ">D-9 Useful Websites and Training</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_e.dita#AFARS_Appendix-AA_appendix_e" class="- topic/xref ">APPENDIX E Intellectual Property, Data Deliverables, and Associated License Rights</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_1.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_1" class="- topic/xref ">CHAPTER 1 PURPOSE, ROLES, AND RESPONSIBILITIES</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-1_1.dita#AFARS_Appendix-AA_e-1_1" class="- topic/xref ">E-1.1 Purpose</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-1_2.dita#AFARS_Appendix-AA_e-1_2" class="- topic/xref ">E-1.2 Applicability and Waivers – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-1_3.dita#AFARS_Appendix-AA_e-1_3" class="- topic/xref ">E-1.3 Best Value Continuum</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-1_4.dita#AFARS_Appendix-AA_e-1_4" class="- topic/xref ">E-1.4 Source Selection Team Roles and Responsibilities</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_2.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_2" class="- topic/xref ">CHAPTER 2 PRESOLICITATION ACTIVITIES</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-2_1.dita#AFARS_Appendix-AA_e-2_1" class="- topic/xref ">E-2.1 Conduct Acquisition Planning</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-2_2.dita#AFARS_Appendix-AA_e-2_2" class="- topic/xref ">E-2.2 Develop a Source Selection Plan (SSP)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-2_3.dita#AFARS_Appendix-AA_e-2_3" class="- topic/xref ">E-2.3 Develop the Request for Proposals (RFP)</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_3.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_3" class="- topic/xref ">CHAPTER 3 EVALUATION AND DECISION PROCESS</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_1.dita#AFARS_Appendix-AA_e-3_1" class="- topic/xref ">E-3.1 Evaluation Activities</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_2.dita#AFARS_Appendix-AA_e-3_2" class="- topic/xref ">E-3.2 Documentation of Initial Evaluation Results – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_3.dita#AFARS_Appendix-AA_e-3_3" class="- topic/xref ">E-3.3 Award Without Discussions – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_4.dita#AFARS_Appendix-AA_e-3_4" class="- topic/xref ">E-3.4 Competitive Range Decision – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_5.dita#AFARS_Appendix-AA_e-3_5" class="- topic/xref ">E-3.5 Discussion Process – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_6.dita#AFARS_Appendix-AA_e-3_6" class="- topic/xref ">E-3.6 Final Proposal Revisions – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_7.dita#AFARS_Appendix-AA_e-3_7" class="- topic/xref ">E-3.7 Documentation of Final Evaluation Results – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_8.dita#AFARS_Appendix-AA_e-3_8" class="- topic/xref ">E-3.8 Conduct and Document the Comparative Analysis – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_9.dita#AFARS_Appendix-AA_e-3_9" class="- topic/xref ">E-3.9 Best-Value Decision – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_10.dita#AFARS_Appendix-AA_e-3_10" class="- topic/xref ">E-3.10 Source Selection Decision Document – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_11.dita#AFARS_Appendix-AA_e-3_11" class="- topic/xref ">E-3.11 Debriefings – See Appendix A of the AS3</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-3_12.dita#AFARS_Appendix-AA_e-3_12" class="- topic/xref ">E-3.12 Integrating Proposal into the Contract – (No Supplemental Army Guidance)</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_4.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_4" class="- topic/xref ">CHAPTER 4 DOCUMENTATION REQUIREMENTS</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-4_1.dita#AFARS_Appendix-AA_e-4_1" class="- topic/xref ">E-4.1 Minimum Requirements – (No Supplemental Army Guidance)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_e-4_2.dita#AFARS_Appendix-AA_e-4_2" class="- topic/xref ">E-4.2 Electronic Source Selection – (No Supplemental Army Guidance)</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_5.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_5" class="- topic/xref ">CHAPTER 5 DEFINITIONS</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_6.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_6" class="- topic/xref ">CHAPTER 6 Laws, Regulations, and Policies</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_7.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_7" class="- topic/xref ">CHAPTER 7 References</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_8.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_8" class="- topic/xref ">CHAPTER 8 License Rights</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_Chapter-5_Appendix-E_chapter_9.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_9" class="- topic/xref ">CHAPTER 9 Templates – Sections L &amp; M</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_technical_volume_intellectual_property,_data_deliverables,_and_associated_license_rights.dita#AFARS_Appendix-AA_technical_volume_intellectual_property_data_deliverables_and_associated_license_rights" class="- topic/xref ">Technical Volume: Intellectual Property, Data Deliverables, and Associated License Rights</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_cdrls.dita#AFARS_Appendix-AA_cdrls" class="- topic/xref ">CDRLs</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_configuration_control.dita#AFARS_Appendix-AA_configuration_control" class="- topic/xref ">Configuration Control</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_configuration_management.dita#AFARS_Appendix-AA_configuration_management" class="- topic/xref ">Configuration Management</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_cost_drivers.dita#AFARS_Appendix-AA_cost_drivers" class="- topic/xref ">Cost Drivers</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_design_upgrade_approach.dita#AFARS_Appendix-AA_design_upgrade_approach" class="- topic/xref ">Design Upgrade Approach</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_diminishing_manufacturing_source_and_material_shortage_dmsms.dita#AFARS_Appendix-AA_diminishing_manufacturing_source_and_material_shortage_dmsms" class="- topic/xref ">Diminishing Manufacturing Source and Material Shortage (DMSMS)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_field_support.dita#AFARS_Appendix-AA_field_support" class="- topic/xref ">Field Support</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_hardware_sustainment_activities.dita#AFARS_Appendix-AA_hardware_sustainment_activities" class="- topic/xref ">Hardware Sustainment Activities</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_license_rights_lr.dita#AFARS_Appendix-AA_license_rights_lr" class="- topic/xref ">License Rights (LR)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_logistics_support.dita#AFARS_Appendix-AA_logistics_support" class="- topic/xref ">Logistics Support</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_maintenance_support_concept.dita#AFARS_Appendix-AA_maintenance_support_concept" class="- topic/xref ">Maintenance Support Concept</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_modular_open_systems_approach_mosa_10_u_s_code_4401.dita#AFARS_Appendix-AA_modular_open_systems_approach_mosa_10_u_s_code_4401" class="- topic/xref ">Modular Open Systems Approach (MOSA) (10 U.S. Code § 4401)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_operation,_maintenance,_training,_and_installation.dita#AFARS_Appendix-AA_operation_maintenance_training_and_installation" class="- topic/xref ">Operation, Maintenance, Training, and Installation</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_operator_and_maintainer_training.dita#AFARS_Appendix-AA_operator_and_maintainer_training" class="- topic/xref ">Operator and Maintainer Training</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_organic_field_level_support_provisioning.dita#AFARS_Appendix-AA_organic_field_level_support_provisioning" class="- topic/xref ">Organic Field Level Support Provisioning</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_product_supportsustainment_strategy.dita#AFARS_Appendix-AA_product_supportsustainment_strategy" class="- topic/xref ">Product Support/Sustainment Strategy</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_quality_assurance.dita#AFARS_Appendix-AA_quality_assurance" class="- topic/xref ">Quality Assurance</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_risk_management.dita#AFARS_Appendix-AA_risk_management" class="- topic/xref ">Risk Management</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_software_sustainment_environment_sse.dita#AFARS_Appendix-AA_software_sustainment_environment_sse" class="- topic/xref ">Software Sustainment Environment (SSE)</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_subcontractor_proposal.dita#AFARS_Appendix-AA_subcontractor_proposal" class="- topic/xref ">Subcontractor Proposal</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_test_and_validation.dita#AFARS_Appendix-AA_test_and_validation" class="- topic/xref ">Test and Validation</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_test,_troubleshooting,_and_repair.dita#AFARS_Appendix-AA_test_troubleshooting_and_repair" class="- topic/xref ">Test, Troubleshooting, and Repair</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_transition_strategy_plan.dita#AFARS_Appendix-AA_transition_strategy_plan" class="- topic/xref ">Transition Strategy Plan</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_warranty.dita#AFARS_Appendix-AA_warranty" class="- topic/xref ">Warranty</xref> </p> </li></ul> </li></ul> </li><li rev="" class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_f.dita#AFARS_Appendix-AA_appendix_f" class="- topic/xref ">APPENDIX F Small Business Participation Commitment Document</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_g.dita#AFARS_Appendix-AA_appendix_g" class="- topic/xref ">APPENDIX G Online Reverse Auctions</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_g-1.dita#AFARS_Appendix-AA_g-1" class="- topic/xref ">G-1 Definition</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_g-2.dita#AFARS_Appendix-AA_g-2" class="- topic/xref ">G-2 Applicability to Best Value Acquisitions</xref> </p> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_g-3.dita#AFARS_Appendix-AA_g-3" class="- topic/xref ">G-3 Process</xref> </p> </li></ul> </li><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_appendix_h.dita#AFARS_Appendix-AA_appendix_h" class="- topic/xref ">APPENDIX H Templates / Samples</xref> </p> <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "> <p class="- topic/p "> <xref outputclass="fm:TOC" href="Appendix-AA_h-1.dita#AFARS_Appendix-AA_h-1" class="- topic/xref ">H-1 Content Location</xref> </p> </li></ul> </li></ul> </li></ul></body></topic></dita>
+<dita>
+   <topic id="AFARS_Appendix-AA">
+      <title class="- topic/title " outputclass="1 heading Ctr">
+         <ph class="- topic/ph " props="autonumber">Appendix - AA</ph> ARMY SOURCE SELECTION SUPPLEMENT </title>
+      <body>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">(Revised 31 December 2024)</i>
+         </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-AA_chapter_1.dita#AFARS_Appendix-AA_chapter_1">CHAPTER 1 PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_1_1.dita#AFARS_Appendix-AA_1_1">1.1 Purpose</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_1_2.dita#AFARS_Appendix-AA_1_2">1.2 Applicability and Waivers</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_1_3.dita#AFARS_Appendix-AA_1_3">1.3 Best Value Continuum</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_1_4.dita#AFARS_Appendix-AA_1_4">1.4 Source Selection Team Roles &amp; Responsibilities</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-AA_chapter_2.dita#AFARS_Appendix-AA_chapter_2">CHAPTER 2 PRESOLICITATION ACTIVITIES</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_2_1.dita#AFARS_Appendix-AA_2_1">2.1 Conduct Acquisition Planning</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_2_2.dita#AFARS_Appendix-AA_2_2">2.2 Develop a Source Selection Plan</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_2_3.dita#AFARS_Appendix-AA_2_3">2.3 Develop the Request for Proposals</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_2_4.dita#AFARS_Appendix-AA_2_4">2.4 Release the Request for Proposals – (No Supplemental Army Guidance)</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-AA_chapter_3.dita#AFARS_Appendix-AA_chapter_3">CHAPTER 3 EVALUATION AND DECISION PROCESS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_1.dita#AFARS_Appendix-AA_3_1">3.1 Evaluation Activities</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_2.dita#AFARS_Appendix-AA_3_2">3.2 Documentation of Initial Evaluation Results</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_3.dita#AFARS_Appendix-AA_3_3">3.3 Award Without Discussions</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_4.dita#AFARS_Appendix-AA_3_4">3.4 Competitive Range Decision Document – (No Supplemental Army Guidance)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_5.dita#AFARS_Appendix-AA_3_5">3.5 Discussion Process</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_6.dita#AFARS_Appendix-AA_3_6">3.6 Final Proposal Revisions – (No Supplemental Army Guidance)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_7.dita#AFARS_Appendix-AA_3_7">3.7 Documentation of Final Evaluation Results</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_8.dita#AFARS_Appendix-AA_3_8">3.8 Conduct and Document the Comparative Analysis</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_3_9.dita#AFARS_Appendix-AA_3_9">3.9 Best-Value Decision – (No Supplemental Army Guidance)</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_3_10.dita#AFARS_Appendix-AA_3_10">3.10 Source Selection Decision Document</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_3_11.dita#AFARS_Appendix-AA_3_11">3.11 Debriefings – See Appendix A</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_3_12.dita#AFARS_Appendix-AA_3_12">3.12 Integrating Proposal into the Contract</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-AA_chapter_4.dita#AFARS_Appendix-AA_chapter_4">CHAPTER 4 DOCUMENTATION REQUIREMENTS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_4_1.dita#AFARS_Appendix-AA_4_1">4.1 Minimum Requirements</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="Appendix-AA_4_2.dita#AFARS_Appendix-AA_4_2">4.2 Electronic Source Selection</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Appendix-AA_chapter_5.dita#AFARS_Appendix-AA_chapter_5">CHAPTER 5 DEFINITIONS</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_a.dita#AFARS_Appendix-AA_appendix_a">Appendix A Debriefing Guide</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-1.dita#AFARS_Appendix-AA_a-1">A-1 Purpose of Debriefing</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-2.dita#AFARS_Appendix-AA_a-2">A-2 Requirements</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-3.dita#AFARS_Appendix-AA_a-3">A-3 Notification of Debriefing</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-4.dita#AFARS_Appendix-AA_a-4">A-4 Debriefing Location</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-5.dita#AFARS_Appendix-AA_a-5">A-5 Debriefing Attendees</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-6.dita#AFARS_Appendix-AA_a-6">A-6 Preparing for the Debriefing</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-7.dita#AFARS_Appendix-AA_a-7">A-7 Outline for the Debriefing – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-8.dita#AFARS_Appendix-AA_a-8">A-8 Conducting the Debriefing</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_a-9.dita#AFARS_Appendix-AA_a-9">A-9 Sample Offeror Questions – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_b.dita#AFARS_Appendix-AA_appendix_b">Appendix B Tradeoff Source Selection Process: Subjective Tradeoff and Value Adjusted Total Evaluated Price Tradeoff</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_b-1.dita#AFARS_Appendix-AA_b-1">B-1 Subjective Tradeoff</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_b-2.dita#AFARS_Appendix-AA_b-2">B-2 Value Adjusted Total Evaluated Price Tradeoff</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_c.dita#AFARS_Appendix-AA_appendix_c">Appendix C Lowest Priced Technically Acceptable Source Selection Process</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-1.dita#AFARS_Appendix-AA_c-1">C-1 Purpose</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-2.dita#AFARS_Appendix-AA_c-2">C-2 References</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-3.dita#AFARS_Appendix-AA_c-3">C-3 Purpose</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-4.dita#AFARS_Appendix-AA_c-4">C-4 What is Risk?</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-5.dita#AFARS_Appendix-AA_c-5">C-5 Quick Comparison of Best Value Basics</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-6.dita#AFARS_Appendix-AA_c-6">C-6 Comparing Key Characteristics</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-7.dita#AFARS_Appendix-AA_c-7">C-7 Rating Methodologies</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-8.dita#AFARS_Appendix-AA_c-8">C-8 Common Concerns for Each Methodology</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_c-9.dita#AFARS_Appendix-AA_c-9">C-9 Tips and Best Practices for Using LPTA</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_c-10.dita#AFARS_Appendix-AA_c-10">C-10 LPTA Requirement and Standard of Proof Samples</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_c-11.dita#AFARS_Appendix-AA_c-11">C-11 Flow Chart For Selection of Best Value Methodology</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_c-12.dita#AFARS_Appendix-AA_c-12">C-12 LPTA – Sample Evaluator Write-Up</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_d.dita#AFARS_Appendix-AA_appendix_d">Appendix D Streamlining Source Selection</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-1.dita#AFARS_Appendix-AA_d-1">D-1 General Streamlining Tactics – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-2.dita#AFARS_Appendix-AA_d-2">D-2 Preparation for Proposal Evaluation and Source Selection – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-3.dita#AFARS_Appendix-AA_d-3">D-3 Source Selection Management Plan – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-4.dita#AFARS_Appendix-AA_d-4">D-4 Tiered or Gated Approaches – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-5.dita#AFARS_Appendix-AA_d-5">D-5 Oral Presentations</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-6.dita#AFARS_Appendix-AA_d-6">D-6 Using Demonstration in Source Selection – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-7.dita#AFARS_Appendix-AA_d-7">D-7 Highest Technically Rated Offeror (HRTO) Approach – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-8.dita#AFARS_Appendix-AA_d-8">D-8 Performance Price Tradeoff – (No Supplemental Army Guidance)</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_d-9.dita#AFARS_Appendix-AA_d-9">D-9 Useful Websites and Training</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_e.dita#AFARS_Appendix-AA_appendix_e">Appendix E Intellectual Property, Data Deliverables, and Associated License Rights</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_1.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_1">CHAPTER 1 PURPOSE, ROLES, AND RESPONSIBILITIES</xref>
+                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-1_1.dita#AFARS_Appendix-AA_e-1_1">E-1.1 Purpose</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-1_2.dita#AFARS_Appendix-AA_e-1_2">E-1.2 Applicability and Waivers – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-1_3.dita#AFARS_Appendix-AA_e-1_3">E-1.3 Best Value Continuum</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-1_4.dita#AFARS_Appendix-AA_e-1_4">E-1.4 Source Selection Team Roles and Responsibilities</xref>
+                                 </p>
+                              </li>
+                           </ul>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_2.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_2">CHAPTER 2 PRESOLICITATION ACTIVITIES</xref>
+                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-2_1.dita#AFARS_Appendix-AA_e-2_1">E-2.1 Conduct Acquisition Planning</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-2_2.dita#AFARS_Appendix-AA_e-2_2">E-2.2 Develop a Source Selection Plan (SSP)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-2_3.dita#AFARS_Appendix-AA_e-2_3">E-2.3 Develop the Request for Proposals (RFP)</xref>
+                                 </p>
+                              </li>
+                           </ul>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_3.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_3">CHAPTER 3 EVALUATION AND DECISION PROCESS</xref>
+                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_1.dita#AFARS_Appendix-AA_e-3_1">E-3.1 Evaluation Activities</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_2.dita#AFARS_Appendix-AA_e-3_2">E-3.2 Documentation of Initial Evaluation Results – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_3.dita#AFARS_Appendix-AA_e-3_3">E-3.3 Award Without Discussions – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_4.dita#AFARS_Appendix-AA_e-3_4">E-3.4 Competitive Range Decision – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_5.dita#AFARS_Appendix-AA_e-3_5">E-3.5 Discussion Process – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_6.dita#AFARS_Appendix-AA_e-3_6">E-3.6 Final Proposal Revisions – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_7.dita#AFARS_Appendix-AA_e-3_7">E-3.7 Documentation of Final Evaluation Results – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_8.dita#AFARS_Appendix-AA_e-3_8">E-3.8 Conduct and Document the Comparative Analysis – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_9.dita#AFARS_Appendix-AA_e-3_9">E-3.9 Best-Value Decision – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_10.dita#AFARS_Appendix-AA_e-3_10">E-3.10 Source Selection Decision Document – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_11.dita#AFARS_Appendix-AA_e-3_11">E-3.11 Debriefings – See Appendix A of the AS3</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-3_12.dita#AFARS_Appendix-AA_e-3_12">E-3.12 Integrating Proposal into the Contract – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                           </ul>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_4.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_4">CHAPTER 4 DOCUMENTATION REQUIREMENTS</xref>
+                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-4_1.dita#AFARS_Appendix-AA_e-4_1">E-4.1 Minimum Requirements – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_e-4_2.dita#AFARS_Appendix-AA_e-4_2">E-4.2 Electronic Source Selection – (No Supplemental Army Guidance)</xref>
+                                 </p>
+                              </li>
+                           </ul>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_5.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_5">CHAPTER 5 DEFINITIONS</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_6.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_6">CHAPTER 6 Laws, Regulations, and Policies</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_7.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_7">CHAPTER 7 References</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_8.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_8">CHAPTER 8 License Rights</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC"
+                                    href="Appendix-AA_Chapter-5_Appendix-E_chapter_9.dita#AFARS_Appendix-AA_Chapter-5_Appendix-E_chapter_9">CHAPTER 9 Templates – Sections L &amp; M</xref>
+                           </p>
+                           <ul otherprops="TOC">
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_technical_volume_intellectual_property,_data_deliverables,_and_associated_license_rights.dita#AFARS_Appendix-AA_technical_volume_intellectual_property_data_deliverables_and_associated_license_rights">Technical Volume: Intellectual Property, Data Deliverables, and Associated License Rights</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_cdrls.dita#AFARS_Appendix-AA_cdrls">CDRLs</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_configuration_control.dita#AFARS_Appendix-AA_configuration_control">Configuration Control</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_configuration_management.dita#AFARS_Appendix-AA_configuration_management">Configuration Management</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_cost_drivers.dita#AFARS_Appendix-AA_cost_drivers">Cost Drivers</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_design_upgrade_approach.dita#AFARS_Appendix-AA_design_upgrade_approach">Design Upgrade Approach</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_diminishing_manufacturing_source_and_material_shortage_dmsms.dita#AFARS_Appendix-AA_diminishing_manufacturing_source_and_material_shortage_dmsms">Diminishing Manufacturing Source and Material Shortage (DMSMS)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_field_support.dita#AFARS_Appendix-AA_field_support">Field Support</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_hardware_sustainment_activities.dita#AFARS_Appendix-AA_hardware_sustainment_activities">Hardware Sustainment Activities</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_license_rights_lr.dita#AFARS_Appendix-AA_license_rights_lr">License Rights (LR)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_logistics_support.dita#AFARS_Appendix-AA_logistics_support">Logistics Support</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_maintenance_support_concept.dita#AFARS_Appendix-AA_maintenance_support_concept">Maintenance Support Concept</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_modular_open_systems_approach_mosa_10_u_s_code_4401.dita#AFARS_Appendix-AA_modular_open_systems_approach_mosa_10_u_s_code_4401">Modular Open Systems Approach (MOSA) (10 U.S. Code § 4401)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_operation,_maintenance,_training,_and_installation.dita#AFARS_Appendix-AA_operation_maintenance_training_and_installation">Operation, Maintenance, Training, and Installation</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_operator_and_maintainer_training.dita#AFARS_Appendix-AA_operator_and_maintainer_training">Operator and Maintainer Training</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_organic_field_level_support_provisioning.dita#AFARS_Appendix-AA_organic_field_level_support_provisioning">Organic Field Level Support Provisioning</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_product_supportsustainment_strategy.dita#AFARS_Appendix-AA_product_supportsustainment_strategy">Product Support/Sustainment Strategy</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_quality_assurance.dita#AFARS_Appendix-AA_quality_assurance">Quality Assurance</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_risk_management.dita#AFARS_Appendix-AA_risk_management">Risk Management</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_software_sustainment_environment_sse.dita#AFARS_Appendix-AA_software_sustainment_environment_sse">Software Sustainment Environment (SSE)</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_subcontractor_proposal.dita#AFARS_Appendix-AA_subcontractor_proposal">Subcontractor Proposal</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_test_and_validation.dita#AFARS_Appendix-AA_test_and_validation">Test and Validation</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_test,_troubleshooting,_and_repair.dita#AFARS_Appendix-AA_test_troubleshooting_and_repair">Test, Troubleshooting, and Repair</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_transition_strategy_plan.dita#AFARS_Appendix-AA_transition_strategy_plan">Transition Strategy Plan</xref>
+                                 </p>
+                              </li>
+                              <li>
+                                 <p>
+                                    <xref outputclass="fm:TOC"
+                                          href="Appendix-AA_warranty.dita#AFARS_Appendix-AA_warranty">Warranty</xref>
+                                 </p>
+                              </li>
+                           </ul>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="">
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_f.dita#AFARS_Appendix-AA_appendix_f">Appendix F Small Business Participation Commitment Document</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_g.dita#AFARS_Appendix-AA_appendix_g">Appendix G Online Reverse Auctions</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_g-1.dita#AFARS_Appendix-AA_g-1">G-1 Definition</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_g-2.dita#AFARS_Appendix-AA_g-2">G-2 Applicability to Best Value Acquisitions</xref>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_g-3.dita#AFARS_Appendix-AA_g-3">G-3 Process</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Appendix-AA_appendix_h.dita#AFARS_Appendix-AA_appendix_h">Appendix H Templates / Samples</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="Appendix-AA_h-1.dita#AFARS_Appendix-AA_h-1">H-1 Content Location</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

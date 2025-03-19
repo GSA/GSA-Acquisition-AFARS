@@ -42,186 +42,186 @@
             <thead class="- topic/thead ">
                <row class="- topic/row ">
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Type</p>
+                     <p class="- topic/p ">Type</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Control Type</p>
+                     <p class="- topic/p ">Control Type</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Primary Responsibility for Control Assessment</p>
+                     <p class="- topic/p ">Primary Responsibility for Control Assessment</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Method of Assessment</p>
+                     <p class="- topic/p ">Method of Assessment</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Frequency of Control Assessment</p>
+                     <p class="- topic/p ">Frequency of Control Assessment</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Assessment Instructions</p>
+                     <p class="- topic/p ">Assessment Instructions</p>
                   </entry>
                </row>
             </thead>
             <tbody class="- topic/tbody ">
                <row class="- topic/row ">
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">1</p>
+                     <p class="- topic/p ">1</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Internal Controls (Other than Key Controls</p>
+                     <p class="- topic/p ">Internal Controls (Other than Key Controls</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Contracting Activity (CA) Management</p>
+                     <p class="- topic/p ">Contracting Activity (CA) Management</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Business clearance, legal review, local policy and compliance reviews and self- assessments</p>
+                     <p class="- topic/p ">Business clearance, legal review, local policy and compliance reviews and self- assessments</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Action-by-Action IAW CA</p>
+                     <p class="- topic/p ">Action-by-Action IAW CA</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">CA</p>
+                     <p class="- topic/p ">CA</p>
                   </entry>
                </row>
                <row class="- topic/row ">
                   <entry morerows="5" class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">2</p>
+                     <p class="- topic/p ">2</p>
                   </entry>
                   <entry morerows="5" class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Key Internal Controls</p>
+                     <p class="- topic/p ">Key Internal Controls</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">HCAs, SCOs</p>
+                     <p class="- topic/p ">HCAs, SCOs</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Internal Control Question Set</p>
-                     <p rev="Revised October 1, 2024" class="- topic/p "> *Contingency Contracting Toolkit (as applicable)</p>
+                     <p class="- topic/p ">Internal Control Question Set</p>
+                     <p class="- topic/p "> *Contingency Contracting Toolkit (as applicable)</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">At least once every three years (36 months)</p>
+                     <p class="- topic/p ">At least once every three years (36 months)</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">AFARS Appendix CC</p>
-                  </entry>
-               </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">HCA</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">SCO Toolkit</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Annually</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">AFARS Appendix CC</p>
+                     <p class="- topic/p ">AFARS Appendix CC</p>
                   </entry>
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
+                     <p class="- topic/p ">HCA</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">GPC Toolkit</p>
+                     <p class="- topic/p ">SCO Toolkit</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
+                     <p class="- topic/p ">Annually</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">AFARS Appendix EE</p>
-                  </entry>
-               </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">OSBP Toolkit</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per Army OSBP</p>
+                     <p class="- topic/p ">AFARS Appendix CC</p>
                   </entry>
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">OT Question Set</p>
+                     <p class="- topic/p ">GPC Toolkit</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per ODASA(P)</p>
-                  </entry>
-               </row>
-               <row class="- topic/row ">
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Assistance Awards </p>
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Question Set</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per applicable policy</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Per ODASA(P)</p>
+                     <p class="- topic/p ">AFARS Appendix EE</p>
                   </entry>
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">3</p>
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Key Internal Controls</p>
+                     <p class="- topic/p ">OSBP Toolkit</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">ODASA(P)</p>
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Internal Control Question Set</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">As required/requested</p>
-                  </entry>
-                  <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">AFARS Appendix CC</p>
+                     <p class="- topic/p ">Per Army OSBP</p>
                   </entry>
                </row>
                <row class="- topic/row ">
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">4</p>
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Strategic Controls</p>
+                     <p class="- topic/p ">OT Question Set</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">ODASA(P)</p>
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Strategic Controls Toolkit</p>
+                     <p class="- topic/p ">Per ODASA(P)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Per applicable policy</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">Annually</p>
+                     <p class="- topic/p ">Assistance Awards </p>
+                     <p class="- topic/p ">Question Set</p>
                   </entry>
                   <entry class="- topic/entry ">
-                     <p rev="Revised October 1, 2024" class="- topic/p ">AFARS Appendix CC</p>
+                     <p class="- topic/p ">Per applicable policy</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Per ODASA(P)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">3</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Key Internal Controls</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">ODASA(P)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Internal Control Question Set</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">As required/requested</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">AFARS Appendix CC</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">4</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Strategic Controls</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">ODASA(P)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Strategic Controls Toolkit</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Annually</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">AFARS Appendix CC</p>
                   </entry>
                </row>
             </tbody>
          </tgroup>
       </table>
       <p class="- topic/p ">
-         <ph rev="Revised October 1, 2024" class="- topic/ph ">*Contingency Contracting Toolkit </ph>
+         *Contingency Contracting Toolkit 
       </p>
       <p class="- topic/p ">
-         <ph rev="Revised October 1, 2024" class="- topic/ph ">In conjunction with any PMR performed with continency contracting efforts/missions, the HCA shall utilize the Contingency Contracting Toolkit, located on the PMR SharePoint, to assess the key internal controls of their contingency contracting operations. </ph>
+         In conjunction with any PMR performed with continency contracting efforts/missions, the HCA shall utilize the Contingency Contracting Toolkit, located on the PMR SharePoint, to assess the key internal controls of their contingency contracting operations. 
       </p>
    </conbody>
 </concept>

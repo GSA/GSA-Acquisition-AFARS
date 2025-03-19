@@ -27,7 +27,7 @@
          <i class="+ topic/ph hi-d/i ">(4)</i>  Add “S-90” to subdivisions; and</p>
       <p outputclass="List6" class="- topic/p ">
          <i class="+ topic/ph hi-d/i ">(5)</i>  When the text exceeds one paragraph, number subdivisions without skipping a unit in the FAR 1.105-2(b)(2) prescribed numbering sequence.</p>
-      <p outputclass="List4" class="- topic/p ">(D) Examples of AFARS implemental and supplemental numbering are in Tables <ph rev="Revised October 1, 2024" class="- topic/ph ">510</ph>1-2 and <ph rev="Revised October 1, 2024" class="- topic/ph ">510</ph>1-3 respectively:</p>
+      <p outputclass="List4" class="- topic/p ">(D) Examples of AFARS implemental and supplemental numbering are in Tables 5101-2 and 5101-3 respectively:</p>
       <table frame="all" rowsep="1" colsep="1" class="- topic/table ">
          <tgroup cols="3" colsep="1" class="- topic/tgroup ">
             <colspec colname="col1"
@@ -48,7 +48,7 @@
                          nameend="col3"
                          valign="middle"
                          class="- topic/entry ">
-                     <p class="- topic/p ">TABLE <ph rev="Revised October 1, 2024" class="- topic/ph ">510</ph>1-2, AFARS IMPLEMENTAL NUMBERING</p>
+                     <p class="- topic/p ">TABLE 5101-2, AFARS IMPLEMENTAL NUMBERING</p>
                   </entry>
                </row>
                <row rowsep="1" class="- topic/row ">
@@ -161,7 +161,7 @@
                          nameend="col3"
                          valign="middle"
                          class="- topic/entry ">
-                     <p class="- topic/p ">TABLE <ph rev="Revised October 1, 2024" class="- topic/ph ">510</ph>1-3, AFARS IMPLEMENTAL AND SUPPLEMENTAL NUMBERING</p>
+                     <p class="- topic/p ">TABLE 5101-3, AFARS IMPLEMENTAL AND SUPPLEMENTAL NUMBERING</p>
                   </entry>
                </row>
                <row rowsep="1" class="- topic/row ">
@@ -247,8 +247,8 @@
       <p class="- topic/p ">*Assumes one AFARS paragraph implementing one FAR or DFARS paragraph.</p>
       <p outputclass="List3" class="- topic/p ">(iii)  Contracting activities will contact SAAL-PP to obtain numbers for acquisition instruction or guidebook text and clauses.</p>
       <p outputclass="List4" class="- topic/p ">(A)  Chapter 51 reserves subsection numbers 90-99 for AFARS supplementary material with no FAR or DFARS counterpart.</p>
-      <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  Headquarters, Department of the Army (HQDA) reserves numbers 100-199 for the Army Commands, the Army Service Component Commands, and the Direct Reporting Units with a <ph rev="Revised October 1, 2024">HCA</ph> for unique implementing material with no counterpart in higher-level regulations.</p>
+      <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">1</i>)  Headquarters, Department of the Army (HQDA) reserves numbers 100-199 for the Army Commands, the Army Service Component Commands, and the Direct Reporting Units with a HCA for unique implementing material with no counterpart in higher-level regulations.</p>
       <p outputclass="List6" class="- topic/p ">(<i class="+ topic/ph hi-d/i ">2</i>)  HQDA reserves numbers 200 and above for Army Materiel Command and major subordinate command unique implementing material with no counterpart in higher-level regulations.</p>
-      <p outputclass="List4" class="- topic/p ">(B) Chapter 51 reserves numbers 9000 and above for supplementary clauses approved for use Army-wide, in specific commands, subordinate commands or contracting offices. (See <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>5152.101.)</p>
+      <p outputclass="List4" class="- topic/p ">(B) Chapter 51 reserves numbers 9000 and above for supplementary clauses approved for use Army-wide, in specific commands, subordinate commands or contracting offices. (See AFARS 5152.101.)</p>
    </conbody>
 </concept>

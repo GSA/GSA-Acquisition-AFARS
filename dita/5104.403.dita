@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5104.403" xml:lang="en-US" class="- topic/topic concept/concept "><title outputclass="Heading 3" class="- topic/title "> 
-      <ph props="autonumber" class="- topic/ph ">5104.403</ph> Responsibilities of contracting officers.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">(1) In accordance with DFARS PGI 204.403(1), the Contracting officer will include a DoD Form DD 254, DoD Contract Security Classification Specification in solicitations as appropriate and obtain the security manager’s signature (see Army Regulation 380-49, 4-4a, Department of the Army Industrial Security Program) as the certifying official on the form.<ph rev="Revised March 10, 2025" class="- topic/ph "> </ph></p><p class="- topic/p "/></conbody></concept>
+<concept id="AFARS_5104.403"
+         xml:lang="en-US"
+         class="- topic/topic concept/concept ">
+   <title outputclass="Heading 3" class="- topic/title "> 
+      <ph props="autonumber" class="- topic/ph ">5104.403</ph> Responsibilities of contracting officers.</title>
+   <conbody class="- topic/body  concept/conbody ">
+      <p class="- topic/p ">(1) In accordance with DFARS PGI 204.403(1), the Contracting officer will include a DoD Form DD 254, DoD Contract Security Classification Specification in solicitations as appropriate and obtain the security manager’s signature (see Army Regulation 380-49, 4-4a, Department of the Army Industrial Security Program) as the certifying official on the form.<ph rev="Revised March 10, 2025" class="- topic/ph "> </ph>
+      </p>
+      <p class="- topic/p "/>
+   </conbody>
+</concept>

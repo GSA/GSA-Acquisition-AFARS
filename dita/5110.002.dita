@@ -7,13 +7,13 @@
    <title outputclass="Heading 2" class="- topic/title ">
       <ph props="autonumber" class="- topic/ph ">5110.002</ph> Procedures.</title>
    <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(b) All members of the acquisition team will participate in market research and apply their functional tools and expertise. Program managers or representatives of the requiring activity will typically lead the market research effort. A statement that the solicitation will be synopsized and that all proposals received will be evaluated is not a substitute for performing adequate market research and in itself does not support and justify procurement under other than full and open conditions. Specific requirements pertaining to market research in support of other than full and open competition are included in <ph rev="Revised October 1, 2024" class="- topic/ph ">AFARS </ph>
+      <p outputclass="List1" class="- topic/p ">(b) All members of the acquisition team will participate in market research and apply their functional tools and expertise. Program managers or representatives of the requiring activity will typically lead the market research effort. A statement that the solicitation will be synopsized and that all proposals received will be evaluated is not a substitute for performing adequate market research and in itself does not support and justify procurement under other than full and open conditions. Specific requirements pertaining to market research in support of other than full and open competition are included in AFARS 
          <xref outputclass="fm:ParaNumOnly"
                href="5153.3035.dita#AFARS_5153.3035"
                base="AFARS-5153.303-5"
                xtrc="5153.303-5"
                class="- topic/xref ">5153.303-5</xref>, paragraph 8.</p>
-      <p class="- topic/p " rev="Revised October 1, 2024">Contracting officers are reminded to consider the use of pre-existing contracts to fulfill requirements for supplies or services, before awarding new contracts. Contracting officers should ensure the results of the market research justify the basis for the decision to initiate a new standalone contract when a preexisting contract is available, and that the decision is documented in the written acquisition plan in accordance with FAR 7.10; DFARS 207.1; and AFARS <xref outputclass="fm:Subpart"
+      <p class="- topic/p ">Contracting officers are reminded to consider the use of pre-existing contracts to fulfill requirements for supplies or services, before awarding new contracts. Contracting officers should ensure the results of the market research justify the basis for the decision to initiate a new standalone contract when a preexisting contract is available, and that the decision is documented in the written acquisition plan in accordance with FAR 7.10; DFARS 207.1; and AFARS <xref outputclass="fm:Subpart"
                href="Subpart_5107.1.dita#AFARS_Subpart_5107.1"
                base="AFARS-5107.1"
                xtrc="5107.1"
@@ -21,23 +21,23 @@
                outputclass="fm:ParaNumOnly"
                class="- topic/xref "/>. </p>
       <p class="- topic/p ">
-         <ph rev="Revised October 1, 2024" class="- topic/ph ">M</ph>arket research and planning guidance is available at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5110.aspx"
+         Market research and planning guidance is available at <xref href="https://spcs3.kc.army.mil/asaalt/procurement/PGI/PGI_5110.aspx"
                format="html"
                scope="external"
                class="- topic/xref ">AFARS PGI 5110.002(b)-2</xref>. </p>
       <p outputclass="List1" class="- topic/p ">(e) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) shall document the results of market research in a manner appropriate to the size and complexity of the acquisition as stated at FAR <xref scope="external"
                format="html"
                href="https://www.acquisition.gov/far/10.002"
-               class="- topic/xref ">10.002</xref>(e). See <ph rev="Revised October 1, 2024">
+               class="- topic/xref ">10.002</xref>(e). See 
             <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
-                  format="html"
-                  scope="external">Appendix GG</xref>
-         </ph> for further delegation.</p>
-      <p outputclass="List3" class="- topic/p "> (i) In addition to using the <ph rev="Revised October 1, 2024" class="- topic/ph ">DoD</ph> “Market Research Report Guide for Improving the Tradecraft in Services Acquisition (<ph rev="Revised October 1, 2024" class="- topic/ph ">March 2017</ph>)”, for service acquisitions, the format and processes should also be adapted for use in documenting market research for supplies. The <ph rev="Revised October 1, 2024" class="- topic/ph ">Services Acquisition</ph> 
-         <ph rev="Revised October 1, 2024" class="- topic/ph ">Market Research Report Template should be developed using the DAU</ph> tool at <xref href="https://www.dau.edu/tools/t/Services-Acquisition-Market-Research-Report"
+               format="html"
+               scope="external">Appendix GG</xref>
+          for further delegation.</p>
+      <p outputclass="List3" class="- topic/p "> (i) In addition to using the DoD “Market Research Report Guide for Improving the Tradecraft in Services Acquisition (March 2017)”, for service acquisitions, the format and processes should also be adapted for use in documenting market research for supplies. The Services Acquisition 
+         Market Research Report Template should be developed using the DAU tool at <xref href="https://www.dau.edu/tools/t/Services-Acquisition-Market-Research-Report"
                format="html"
                scope="external"
                class="- topic/xref ">https://www.dau.edu/tools/t/Services-Acquisition-Market-Research-Report</xref> 
-         <ph rev="Revised October 1, 2024" class="- topic/ph ">when acquiring supplies</ph>. </p>
+         when acquiring supplies. </p>
    </conbody>
 </concept>

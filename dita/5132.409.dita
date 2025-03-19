@@ -2,9 +2,7 @@
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <concept id="AFARS_5132.409" class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2 Ctr"
-          class="- topic/title "
-          rev="Revised October 1, 2024"> 
+   <title outputclass="Heading 2 Ctr" class="- topic/title "> 
       <ph props="autonumber" class="- topic/ph ">5132.409</ph> Interest.</title>
    <conbody class="- topic/body  concept/conbody "/>
 </concept>

@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_5133.1902"
-         xml:lang="en-US"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 3" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5133.190-2</ph> Quarterly bid protest analysis report.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a) AMC, USACE and the Contract Litigation &amp; Intellectual Property Division (KLIP), U.S. Army Legal Services Agency must prepare a quarterly bid protest analysis report for GAO protests using the format in AFARS 5153.303-7 (double space between item numbers) and send with the bid protest action reports to the addressee in AFARS 5101.290(b)(2)(ii)(B) not later than 30 calendar days following the end of the quarter. The analysis will include the number of protests in which a flexible alternative procedure was used, in accordance with 4 C.F.R. 21.10, and will also include an assessment of the causes of the most frequently recurring issues and recommendations for appropriate corrective action. Reconcile the numbers submitted with the most current data available from the GAO.</p>
-      <p outputclass="List1" class="- topic/p ">(b) The ODASA(P) will prepare a consolidated quarterly report not later than 45 calendar days following the end of each quarter.</p>
-   </conbody>
-</concept>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.1902" xml:lang="en-US" class="- topic/topic concept/concept "><title outputclass="Heading 3" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5133.190-2</ph> Quarterly bid protest analysis report.</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a) AMC, USACE and the Contract and Fiscal Law Division, U.S. Army Legal Services Agency must prepare a quarterly bid protest analysis report for GAO protests using the format in AFARS <xref outputclass="fm:ParaNumOnly" href="5153.3037.dita#AFARS_5153.3037" base="AFARS-5153.303-7" xtrc="5153.303-7" class="- topic/xref ">5153.303-7</xref> (double space between item numbers) and send with the bid protest action reports to the addressee in AFARS <xref outputclass="fm:ParaNumOnly" href="5101.290.dita#AFARS_5101.290" base="AFARS-5101.290" xtrc="5101.290" class="- topic/xref ">5101.290</xref>(b)(2)(ii)(B) not later than 30 calendar days following the end of the quarter. The analysis will include the number of protests in which a flexible alternative procedure was used, in accordance with 4 C.F.R. 21.10, and will also include an assessment of the causes of the most frequently recurring issues and recommendations for appropriate corrective action. Reconcile the numbers submitted with the most current data available from the GAO.</p><p outputclass="List1" class="- topic/p ">(b) The ODASA(P) will prepare a consolidated quarterly report not later than 45 calendar days following the end of each quarter.</p></conbody></concept>

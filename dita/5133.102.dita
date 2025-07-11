@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<concept id="AFARS_5133.102"
-         xml:lang="en-US"
-         class="- topic/topic concept/concept ">
-   <title outputclass="Heading 2" class="- topic/title ">
-      <ph props="autonumber" class="- topic/ph ">5133.102</ph> General.</title>
-   <conbody class="- topic/body  concept/conbody ">
-      <p outputclass="List1" class="- topic/p ">(a)(1) See AFARS 5104.802(f)(i)(2) for the requirement to notify DASA(P).</p>
-      <p outputclass="List2" class="- topic/p ">(2)  Contracting officers and their legal counsel are encouraged to use the Government Accountability Office’s (GAO’s) flexible alternative procedures, including alternative dispute resolution, when appropriate in defending a GAO protest.</p>
-      <p outputclass="List1" class="- topic/p ">(b)(i) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may make agency head determinations regarding actions described in FAR 33.102(b)(1) through (b)(3). See 
-            <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true"
-               format="html"
-               scope="external"
-               class="- topic/xref ">Appendix GG</xref>
-          for further delegation. </p>
-      <p outputclass="List3" class="- topic/p ">(ii) Actions taken must be consistent with 10 U.S.C. 3308(b), 31 U.S.C. 3554, and FAR part 33.</p>
-      <p outputclass="List3" class="- topic/p ">(iii)  For award of costs, Contracting officers must attempt to reach an agreement on the amounts the Government will pay to a protester or an interested party.  If the Contracting officer and the protester or interested party do not reach agreement, persons exercising authority as cited in paragraph (b)(i) of this section may make the agency determination on the amount the Government will pay, at the request of the protester or an interested party.</p>
-      <p outputclass="List3" class="- topic/p ">(iv)  Officials must consult legal counsel in exercising this authority.</p>
-   </conbody>
-</concept>
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="AFARS_5133.102" xml:lang="en-US" class="- topic/topic concept/concept "><title outputclass="Heading 2" class="- topic/title ">
+      <ph props="autonumber" class="- topic/ph ">5133.102</ph> General.</title><conbody class="- topic/body  concept/conbody "><p outputclass="List1" class="- topic/p ">(a)(1) See <xref outputclass="fm:ParaNumOnly" href="5104.802.dita#AFARS_5104.802" base="AFARS-5104.802" xtrc="5104.802" class="- topic/xref ">5104.802</xref>(f)(i)(2) for the requirement to notify DASA(P).(2) Contracting officers and their legal counsel are encouraged to use the Government Accountability Office’s (GAO’s) flexible alternative procedures, including alternative dispute resolution, when appropriate in defending a GAO protest.</p><p outputclass="List1" class="- topic/p ">(b)(i) The Assistant Secretary of the Army (Acquisition, Logistics and Technology) may make agency head determinations regarding actions described in FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/33.102" class="- topic/xref ">33.102</xref>(b)(1) through (b)(3). See <xref href="https://armyeitaas.sharepoint-mil.us/:x:/r/sites/ASA-ALT-PAM-PP/_layouts/15/Doc.aspx?sourcedoc=%7BF79B63A9-3ED0-4830-89D1-F162968200C4%7D&amp;file=AFARSGG.xlsx&amp;action=default&amp;mobileredirect=true" format="html" scope="external" class="- topic/xref ">Appendix GG</xref> for further delegation. </p><p outputclass="List3" class="- topic/p ">(ii) Actions taken must be consistent with 10 U.S.C. 3308(b), 31 U.S.C. 3554, and FAR part 33.</p><p outputclass="List3" class="- topic/p ">(iii) For award of costs, Contracting officers must attempt to reach an agreement on the amounts the Government will pay to a protester or an interested party. If the Contracting officer and the protester or interested party do not reach agreement, persons exercising authority as cited in paragraph (b)(i) of this section may make the agency determination on the amount the Government will pay, at the request of the protester or an interested party.</p><p outputclass="List3" class="- topic/p ">(iv) Officials must consult legal counsel in exercising this authority.</p></conbody></concept>
